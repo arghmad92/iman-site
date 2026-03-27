@@ -16,7 +16,10 @@
       "Bash(curl -sL \"https://raw.githubusercontent.com/imaannnr/kronibola-app/main/logo.png\" -o \"/Users/nuruliman/KroniBola/public/logo.png\")",
       "Bash(curl -sL \"https://raw.githubusercontent.com/imaannnr/kronibola-app/main/pay.jpg\" -o \"/Users/nuruliman/KroniBola/public/pay.jpg\")",
       "Bash(\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --headless --disable-gpu --print-to-pdf=\"/Users/nuruliman/Project Claude/namecard.pdf\" --no-margins --print-background \"file:///Users/nuruliman/Project%20Claude/namecard.html\" 2>&1)",
-      "Bash(curl -sI \"https://imanabdulrahim.com/oauth?provider=github\")"
+      "Bash(curl -sI \"https://imanabdulrahim.com/oauth?provider=github\")",
+      "Bash(node scrape.mjs)",
+      "Bash(curl -sL \"https://www.imanabdulrahim.com/2018/11/5-cafes-in-korea-that-i-visited.html\")",
+      "Bash(curl:*)"
     ]
   }
 }
