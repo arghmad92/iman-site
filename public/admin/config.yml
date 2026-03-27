@@ -1,0 +1,111 @@
+# ─── Decap CMS Configuration ───────────────────────────────────────────────
+#
+# LOCAL DEVELOPMENT:
+#   Run `npx decap-server` in a separate terminal, then set:
+#   local_backend: true
+#
+# PRODUCTION (Cloudflare Pages + GitHub):
+#   1. Create a GitHub OAuth App at https://github.com/settings/developers
+#      - Homepage URL: https://your-site.pages.dev
+#      - Callback URL: https://your-site.pages.dev/oauth/callback
+#   2. Add secrets in Cloudflare Pages → Settings → Environment variables:
+#      - GITHUB_CLIENT_ID
+#      - GITHUB_CLIENT_SECRET
+#   3. Update `repo` below with your GitHub username/repo
+#   4. Remove `local_backend: true`
+# ────────────────────────────────────────────────────────────────────────────
+
+local_backend: true   # ← remove this line for production
+
+backend:
+  name: github
+  repo: your-username/your-repo   # ← update this
+  branch: main
+  base_url: https://your-site.pages.dev  # ← update with your Cloudflare Pages URL
+  auth_endpoint: /oauth
+
+media_folder: public/images
+public_folder: /images
+
+# ─── Collections ────────────────────────────────────────────────────────────
+collections:
+  - name: blog
+    label: Blog Posts
+    label_singular: Post
+    folder: src/content/blog
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    preview_path: "posts/{{slug}}"
+    sortable_fields: ["date", "title", "category"]
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
+      - label: Skincare
+        field: category
+        pattern: Skincare
+      - label: Motherhood
+        field: category
+        pattern: Motherhood
+      - label: Parenting
+        field: category
+        pattern: Parenting
+      - label: Beauty
+        field: category
+        pattern: Beauty
+      - label: Lifestyle
+        field: category
+        pattern: Lifestyle
+
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        hint: "The full post title"
+
+      - label: Publish Date
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD"
+        date_format: "DD MMMM YYYY"
+        time_format: false
+        default: ""
+
+      - label: Category
+        name: category
+        widget: select
+        options:
+          - Skincare
+          - Beauty
+          - Motherhood
+          - Parenting
+          - Lifestyle
+
+      - label: Short Excerpt
+        name: excerpt
+        widget: text
+        hint: "A one or two sentence summary shown on the post card."
+
+      - label: Featured Image
+        name: image
+        widget: image
+        required: false
+        hint: "Paste a URL or upload an image."
+
+      - label: Read Time
+        name: readTime
+        widget: string
+        default: "3 min read"
+        hint: "e.g. 4 min read"
+
+      - label: Save as Draft
+        name: draft
+        widget: boolean
+        default: false
+        hint: "Toggle on to save without publishing."
+
+      - label: Body
+        name: body
+        widget: markdown
+        hint: "Write your post here. Supports Markdown and images."

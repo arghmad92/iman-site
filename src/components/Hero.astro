@@ -1,0 +1,209 @@
+---
+---
+
+<section id="home" class="hero">
+  <div class="hero-inner">
+    <div class="hero-badge">Beauty · Parenting · Lifestyle</div>
+    <h1 class="hero-name">
+      Iman<br />
+      <em>Abdul Rahim</em>
+    </h1>
+    <p class="hero-tagline">
+      Hello, welcome! I'm a content creator from Malaysia sharing honest stories
+      about beauty, skincare, motherhood, and the everyday moments in between.
+    </p>
+    <div class="hero-actions">
+      <a href="#posts" class="btn-primary">Read My Posts</a>
+      <a href="#about" class="btn-ghost">About Me</a>
+    </div>
+    <div class="hero-scroll">
+      <span>scroll</span>
+      <svg width="16" height="24" viewBox="0 0 16 24" fill="none">
+        <rect x="1" y="1" width="14" height="22" rx="7" stroke="currentColor" stroke-width="1.5"/>
+        <circle cx="8" cy="7" r="2" fill="currentColor">
+          <animate attributeName="cy" values="7;15;7" dur="2s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+      </svg>
+    </div>
+  </div>
+  <div class="hero-deco">
+    <div class="deco-circle deco-1"></div>
+    <div class="deco-circle deco-2"></div>
+    <div class="deco-circle deco-3"></div>
+    <div class="deco-pill deco-4"></div>
+  </div>
+</section>
+
+<style>
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    padding: 6rem 2rem 4rem;
+  }
+
+  .hero-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+  }
+
+  .hero-badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+    background: var(--blush);
+    padding: 0.4rem 1rem;
+    border-radius: 100px;
+    margin-bottom: 1.8rem;
+  }
+
+  .hero-name {
+    font-size: clamp(4rem, 10vw, 7.5rem);
+    line-height: 1.0;
+    color: var(--text-primary);
+    letter-spacing: -0.02em;
+    margin-bottom: 1.8rem;
+  }
+
+  .hero-name em {
+    font-style: italic;
+    color: var(--rose-gold);
+    font-weight: 300;
+  }
+
+  .hero-tagline {
+    max-width: 520px;
+    font-size: 1.05rem;
+    color: var(--text-secondary);
+    line-height: 1.8;
+    margin-bottom: 2.5rem;
+    font-weight: 300;
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--text-primary);
+    color: var(--cream);
+    padding: 0.85rem 2rem;
+    border-radius: 100px;
+    font-size: 0.85rem;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    transition: background 0.25s, transform 0.2s;
+  }
+
+  .btn-primary:hover {
+    background: var(--rose-gold);
+    color: var(--text-primary);
+    transform: translateY(-2px);
+  }
+
+  .btn-ghost {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.85rem 2rem;
+    border-radius: 100px;
+    border: 1.5px solid var(--border);
+    font-size: 0.85rem;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+    transition: border-color 0.25s, color 0.25s, transform 0.2s;
+  }
+
+  .btn-ghost:hover {
+    border-color: var(--rose-gold);
+    color: var(--text-primary);
+    transform: translateY(-2px);
+  }
+
+  .hero-scroll {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-top: 4rem;
+    color: var(--text-muted);
+    font-size: 0.72rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  }
+
+  /* Decorative background shapes */
+  .hero-deco {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+
+  .deco-circle {
+    position: absolute;
+    border-radius: 50%;
+  }
+
+  .deco-1 {
+    width: 420px;
+    height: 420px;
+    background: radial-gradient(circle, var(--blush) 0%, transparent 70%);
+    top: -80px;
+    right: -100px;
+    opacity: 0.6;
+  }
+
+  .deco-2 {
+    width: 280px;
+    height: 280px;
+    background: radial-gradient(circle, var(--petal) 0%, transparent 70%);
+    bottom: 60px;
+    right: 200px;
+    opacity: 0.5;
+  }
+
+  .deco-3 {
+    width: 180px;
+    height: 180px;
+    background: radial-gradient(circle, var(--blush) 0%, transparent 70%);
+    top: 40%;
+    left: -60px;
+    opacity: 0.5;
+  }
+
+  .deco-pill {
+    position: absolute;
+    width: 160px;
+    height: 60px;
+    border-radius: 100px;
+    background: var(--petal);
+    opacity: 0.4;
+    bottom: 120px;
+    right: 80px;
+    transform: rotate(-15deg);
+  }
+
+  @media (max-width: 680px) {
+    .hero-name {
+      font-size: clamp(3rem, 16vw, 5rem);
+    }
+
+    .deco-1 {
+      width: 260px;
+      height: 260px;
+      right: -80px;
+    }
+  }
+</style>

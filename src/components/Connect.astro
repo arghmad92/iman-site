@@ -1,0 +1,231 @@
+---
+const socials = [
+  {
+    name: 'Instagram',
+    handle: '@imanabdulrahim',
+    href: 'https://www.instagram.com/imanabdulrahim',
+    color: 'blush',
+    icon: `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="5"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>`,
+    desc: 'Daily beauty & life snippets',
+  },
+  {
+    name: 'Facebook',
+    handle: 'imanabdulrahimblog',
+    href: 'https://www.facebook.com/imanabdulrahimblog',
+    color: 'petal',
+    icon: `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>`,
+    desc: 'Join the community page',
+  },
+  {
+    name: 'Twitter / X',
+    handle: '@imanabdulrahim',
+    href: 'https://twitter.com/imanabdulrahim',
+    color: 'rose',
+    icon: `<svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>`,
+    desc: 'Thoughts & quick updates',
+  },
+  {
+    name: 'TikTok',
+    handle: '@imanabdulrahim_',
+    href: 'https://www.tiktok.com/@imanabdulrahim_',
+    color: 'petal',
+    icon: `<svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1v-3.5a6.37 6.37 0 0 0-.79-.05A6.34 6.34 0 0 0 3.15 15a6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.34-6.34V8.72a8.19 8.19 0 0 0 4.76 1.52V6.79a4.84 4.84 0 0 1-1-.1z"/></svg>`,
+    desc: 'Short-form beauty & lifestyle content',
+  },
+  {
+    name: 'Email',
+    handle: 'iman.abdrahim@yahoo.com',
+    href: 'mailto:iman.abdrahim@yahoo.com',
+    color: 'gold',
+    icon: `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="2,4 12,13 22,4"/></svg>`,
+    desc: 'Collabs & business enquiries',
+  },
+];
+
+const colorMap: Record<string, string> = {
+  blush: 'var(--blush)',
+  petal: 'var(--petal)',
+  rose: 'var(--rose)',
+  gold: 'var(--gold-light)',
+};
+---
+
+<section id="connect" class="connect">
+  <div class="connect-inner">
+    <div class="connect-text">
+      <p class="section-label">Connect</p>
+      <h2 class="connect-heading">Let's stay<br /><em>in touch.</em></h2>
+      <p class="connect-sub">
+        Whether you have a question, want to collaborate, or just want to say hi —
+        I'd love to hear from you. Find me across these platforms.
+      </p>
+    </div>
+    <div class="socials-grid">
+      {socials.map((s) => (
+        <a
+          href={s.href}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="social-card"
+          style={`--social-color: ${colorMap[s.color]}`}
+        >
+          <div class="social-icon" set:html={s.icon} />
+          <div class="social-info">
+            <span class="social-name">{s.name}</span>
+            <span class="social-handle">{s.handle}</span>
+            <span class="social-desc">{s.desc}</span>
+          </div>
+          <span class="social-arrow">↗</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .connect {
+    padding: 6rem 2rem;
+    background: var(--cream);
+  }
+
+  .connect-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1.6fr;
+    gap: 5rem;
+    align-items: start;
+  }
+
+  .section-label {
+    font-size: 0.72rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--rose-gold);
+    margin-bottom: 1rem;
+    font-weight: 500;
+  }
+
+  .connect-heading {
+    font-size: clamp(2rem, 4vw, 2.8rem);
+    color: var(--text-primary);
+    margin-bottom: 1.2rem;
+  }
+
+  .connect-heading em {
+    font-style: italic;
+    color: var(--rose-gold);
+  }
+
+  .connect-sub {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    line-height: 1.85;
+    font-weight: 300;
+  }
+
+  .socials-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+
+  .social-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    padding: 1.4rem 1.2rem;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s;
+  }
+
+  .social-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--social-color);
+    opacity: 0;
+    transition: opacity 0.25s;
+  }
+
+  .social-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 32px rgba(0, 0, 0, 0.06);
+    border-color: transparent;
+  }
+
+  .social-card:hover::before {
+    opacity: 0.25;
+  }
+
+  .social-icon {
+    position: relative;
+    z-index: 1;
+    color: var(--text-secondary);
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+
+  .social-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    position: relative;
+    z-index: 1;
+    flex-grow: 1;
+  }
+
+  .social-name {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-primary);
+    letter-spacing: 0.02em;
+  }
+
+  .social-handle {
+    font-size: 0.78rem;
+    color: var(--text-secondary);
+    font-style: italic;
+  }
+
+  .social-desc {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    letter-spacing: 0.03em;
+    margin-top: 0.3rem;
+  }
+
+  .social-arrow {
+    position: relative;
+    z-index: 1;
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    transition: transform 0.2s, color 0.2s;
+    align-self: flex-start;
+  }
+
+  .social-card:hover .social-arrow {
+    transform: translate(2px, -2px);
+    color: var(--text-primary);
+  }
+
+  @media (max-width: 860px) {
+    .connect-inner {
+      grid-template-columns: 1fr;
+      gap: 3rem;
+    }
+  }
+
+  @media (max-width: 500px) {
+    .socials-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,362 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { allPosts, categories, categoryCounts } from '../../data/archive';
+
+const counts = categoryCounts();
+const total = allPosts.length;
+
+function formatDate(d: string) {
+  return new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
+const categoryColorMap: Record<string, string> = {
+  Skincare: 'var(--blush)',
+  Beauty: 'var(--gold-light)',
+  Motherhood: 'var(--petal)',
+  Parenting: 'var(--petal)',
+  Lifestyle: 'var(--blush)',
+};
+---
+
+<Layout title="All Posts — Iman Abdul Rahim" description="Browse all blog posts by Iman Abdul Rahim">
+  <header class="site-header">
+    <nav>
+      <a href="/" class="logo">
+        <span class="logo-text">iman</span>
+        <span class="logo-dot">·</span>
+        <span class="logo-sub">blog</span>
+      </a>
+      <a href="/" class="back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+        Home
+      </a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="page-hero">
+      <div class="hero-inner">
+        <p class="section-label">Archive</p>
+        <h1 class="page-title">All Posts</h1>
+        <p class="page-sub">{total} posts from 2017 to present — beauty, skincare, motherhood & lifestyle.</p>
+      </div>
+      <div class="deco-a"></div>
+      <div class="deco-b"></div>
+    </div>
+
+    <div class="posts-page">
+      <!-- Category filter tabs -->
+      <div class="filter-bar">
+        <button class="tab active" data-cat="all">
+          All <span class="tab-count">{total}</span>
+        </button>
+        {categories.map((c) => (
+          <button class="tab" data-cat={c}>
+            {c} <span class="tab-count">{counts[c]}</span>
+          </button>
+        ))}
+      </div>
+
+      <!-- Search -->
+      <div class="search-wrap">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="searchInput" type="text" placeholder="Search posts…" autocomplete="off" />
+      </div>
+
+      <!-- Post list -->
+      <div class="posts-list" id="postsList">
+        {allPosts.map((post) => (
+          <a
+            href={post.isLocal ? post.url : post.url}
+            target={post.isLocal ? '_self' : '_blank'}
+            rel={post.isLocal ? '' : 'noopener noreferrer'}
+            class="post-row"
+            data-cat={post.category}
+            data-title={post.title.toLowerCase()}
+          >
+            <div class="row-left">
+              <span
+                class="row-cat"
+                style={`background: ${categoryColorMap[post.category] ?? 'var(--blush)'}`}
+              >{post.category}</span>
+              <span class="row-title">{post.title}</span>
+              {!post.isLocal && (
+                <svg class="ext-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+              )}
+            </div>
+            <span class="row-date">{formatDate(post.date)}</span>
+          </a>
+        ))}
+      </div>
+
+      <p class="no-results" id="noResults" style="display:none">No posts found. Try a different search or category.</p>
+    </div>
+  </main>
+
+  <footer class="post-footer">
+    <p>&copy; {new Date().getFullYear()} Iman Abdul Rahim &mdash; <a href="/">Back to home</a></p>
+  </footer>
+</Layout>
+
+<script>
+  const tabs = document.querySelectorAll<HTMLButtonElement>('.tab');
+  const rows = document.querySelectorAll<HTMLAnchorElement>('.post-row');
+  const searchInput = document.getElementById('searchInput') as HTMLInputElement;
+  const noResults = document.getElementById('noResults') as HTMLElement;
+
+  // Support ?cat=Skincare URL param from categories page
+  const urlCat = new URLSearchParams(window.location.search).get('cat') ?? 'all';
+  let activeCat = urlCat;
+  let searchQuery = '';
+
+  // Activate the correct tab on load
+  tabs.forEach((tab) => {
+    if (tab.dataset.cat === activeCat) tab.classList.add('active');
+    else tab.classList.remove('active');
+  });
+
+  function applyFilter() {
+    let visible = 0;
+    rows.forEach((row) => {
+      const matchCat = activeCat === 'all' || row.dataset.cat === activeCat;
+      const matchSearch = !searchQuery || (row.dataset.title ?? '').includes(searchQuery);
+      const show = matchCat && matchSearch;
+      row.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+    noResults.style.display = visible === 0 ? '' : 'none';
+  }
+
+  tabs.forEach((tab) => {
+    tab.addEventListener('click', () => {
+      tabs.forEach((t) => t.classList.remove('active'));
+      tab.classList.add('active');
+      activeCat = tab.dataset.cat ?? 'all';
+      applyFilter();
+    });
+  });
+
+  searchInput.addEventListener('input', () => {
+    searchQuery = searchInput.value.toLowerCase().trim();
+    applyFilter();
+  });
+</script>
+
+<style>
+  .site-header {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+    background: rgba(254, 240, 243, 0.9);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .site-header nav {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1.1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .logo { display: flex; align-items: baseline; gap: 2px; font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; text-decoration: none; }
+  .logo-text { color: var(--text-primary); font-style: italic; font-weight: 500; }
+  .logo-dot { color: var(--rose-gold); font-size: 1.6rem; line-height: 1; margin: 0 1px; }
+  .logo-sub { color: var(--text-muted); font-weight: 300; font-size: 1rem; letter-spacing: 0.08em; font-family: 'DM Sans', sans-serif; }
+
+  .back-link { display: flex; align-items: center; gap: 0.4rem; font-size: 0.82rem; color: var(--text-secondary); text-decoration: none; transition: color 0.2s; }
+  .back-link:hover { color: var(--text-primary); }
+
+  /* Hero */
+  .page-hero {
+    padding: 8rem 2rem 4rem;
+    background: var(--cream);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-inner { max-width: 1100px; margin: 0 auto; position: relative; z-index: 1; }
+
+  .section-label {
+    font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase;
+    color: var(--rose-gold); margin-bottom: 0.8rem; font-weight: 500;
+  }
+
+  .page-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2.5rem, 6vw, 4rem);
+    color: var(--text-primary);
+    margin-bottom: 0.8rem;
+  }
+
+  .page-sub { font-size: 0.95rem; color: var(--text-secondary); font-weight: 300; }
+
+  .deco-a { position: absolute; width: 280px; height: 280px; border-radius: 50%; background: radial-gradient(circle, var(--blush), transparent 70%); top: -40px; right: -60px; opacity: 0.5; }
+  .deco-b { position: absolute; width: 180px; height: 180px; border-radius: 50%; background: radial-gradient(circle, var(--petal), transparent 70%); bottom: 0; right: 240px; opacity: 0.4; }
+
+  /* Main content */
+  .posts-page {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2.5rem 2rem 4rem;
+  }
+
+  /* Filter tabs */
+  .filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .tab {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 1.1rem;
+    border-radius: 100px;
+    border: 1.5px solid var(--border);
+    background: var(--white);
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  .tab:hover { border-color: var(--rose); color: var(--text-primary); }
+
+  .tab.active {
+    background: var(--text-primary);
+    border-color: var(--text-primary);
+    color: var(--cream);
+  }
+
+  .tab-count {
+    font-size: 0.7rem;
+    opacity: 0.7;
+  }
+
+  /* Search */
+  .search-wrap {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 0.7rem 1rem;
+    margin-bottom: 1.5rem;
+    color: var(--text-muted);
+  }
+
+  .search-wrap:focus-within {
+    border-color: var(--rose);
+  }
+
+  #searchInput {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    color: var(--text-primary);
+    background: transparent;
+    font-weight: 300;
+  }
+
+  #searchInput::placeholder { color: var(--text-muted); }
+
+  /* Post rows */
+  .posts-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .post-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.95rem 1rem;
+    border-bottom: 1px solid var(--border);
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.15s;
+    border-radius: 8px;
+  }
+
+  .post-row:hover {
+    background: var(--petal);
+  }
+
+  .row-left {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    min-width: 0;
+  }
+
+  .row-cat {
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: var(--text-primary);
+    padding: 0.2rem 0.6rem;
+    border-radius: 100px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .row-title {
+    font-size: 0.92rem;
+    color: var(--text-primary);
+    font-weight: 300;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .ext-icon {
+    color: var(--text-muted);
+    flex-shrink: 0;
+  }
+
+  .row-date {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .no-results {
+    text-align: center;
+    padding: 3rem;
+    color: var(--text-muted);
+    font-style: italic;
+    font-size: 0.95rem;
+  }
+
+  .post-footer {
+    text-align: center;
+    padding: 2rem;
+    background: var(--text-primary);
+    font-size: 0.82rem;
+    color: rgba(255,255,255,0.4);
+    font-weight: 300;
+  }
+
+  .post-footer a { color: var(--rose); }
+  .post-footer a:hover { color: var(--blush); }
+
+  @media (max-width: 680px) {
+    .row-date { display: none; }
+    .row-title { font-size: 0.85rem; }
+  }
+</style>

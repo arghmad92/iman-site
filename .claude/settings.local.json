@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:imanabdulrahim.com)",
+      "WebFetch(domain:www.imanabdulrahim.com)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(rm:*)",
+      "Bash(curl -s \"http://www.imanabdulrahim.com/sitemap.xml\")",
+      "Bash(curl -s https://www.imanabdulrahim.com/sitemap.xml)",
+      "Bash(python3:*)",
+      "Bash(gh auth:*)"
+    ]
+  }
+}

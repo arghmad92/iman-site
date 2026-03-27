@@ -1,0 +1,225 @@
+---
+---
+
+<section id="about" class="about">
+  <div class="about-inner">
+    <div class="about-visual">
+      <div class="avatar-wrap">
+        <div class="avatar-bg"></div>
+        <div class="avatar-initials">IA</div>
+      </div>
+      <div class="about-stat-grid">
+        <div class="stat-card">
+          <span class="stat-num">195<span class="stat-plus">+</span></span>
+          <span class="stat-label">Posts in 2017</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-num">2015</span>
+          <span class="stat-label">Blogging since</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-num">3</span>
+          <span class="stat-label">Content pillars</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="about-content">
+      <p class="section-label">About Me</p>
+      <h2 class="about-heading">A storyteller at heart,<br /><em>a mother by grace.</em></h2>
+      <p class="about-text">
+        Hi there! I'm Iman, a beauty and parenting content creator based in Malaysia.
+        This little corner of the internet is where I share everything I genuinely love —
+        from the skincare routines that transformed my skin, to the honest, unfiltered
+        journey through pregnancy and new motherhood.
+      </p>
+      <p class="about-text">
+        Whether you're searching for a reliable sunscreen recommendation, tips on reducing
+        acne scars, or simply want to feel less alone during the beautiful chaos of raising
+        a little one — you can find it all here.
+      </p>
+      <div class="about-tags">
+        <span class="tag">Skincare</span>
+        <span class="tag">Makeup</span>
+        <span class="tag">Pregnancy</span>
+        <span class="tag">New Motherhood</span>
+        <span class="tag">Baby Care</span>
+        <span class="tag">Lifestyle</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .about {
+    padding: 6rem 2rem;
+    background: var(--white);
+  }
+
+  .about-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    gap: 5rem;
+    align-items: center;
+  }
+
+  /* Visual / Avatar side */
+  .about-visual {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+  }
+
+  .avatar-wrap {
+    position: relative;
+    width: 220px;
+    height: 220px;
+  }
+
+  .avatar-bg {
+    position: absolute;
+    inset: 0;
+    border-radius: 60% 40% 55% 45% / 50% 55% 45% 50%;
+    background: linear-gradient(135deg, var(--blush), var(--petal));
+    animation: morph 8s ease-in-out infinite;
+  }
+
+  @keyframes morph {
+    0%, 100% { border-radius: 60% 40% 55% 45% / 50% 55% 45% 50%; }
+    33% { border-radius: 45% 55% 40% 60% / 55% 45% 60% 40%; }
+    66% { border-radius: 55% 45% 60% 40% / 40% 60% 45% 55%; }
+  }
+
+  .avatar-initials {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 3.5rem;
+    font-style: italic;
+    color: var(--text-primary);
+    letter-spacing: 0.02em;
+  }
+
+  .about-stat-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    width: 100%;
+  }
+
+  .stat-card {
+    background: var(--cream);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 1.2rem 0.8rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+
+  .stat-card:hover {
+    border-color: var(--rose-gold);
+    transform: translateY(-3px);
+  }
+
+  .stat-num {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: var(--text-primary);
+    line-height: 1;
+  }
+
+  .stat-plus {
+    font-size: 1.2rem;
+    color: var(--rose-gold);
+  }
+
+  .stat-label {
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+  }
+
+  /* Content side */
+  .section-label {
+    font-size: 0.72rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--rose-gold);
+    margin-bottom: 1rem;
+    font-weight: 500;
+  }
+
+  .about-heading {
+    font-size: clamp(2rem, 4vw, 2.8rem);
+    color: var(--text-primary);
+    margin-bottom: 1.5rem;
+  }
+
+  .about-heading em {
+    font-style: italic;
+    color: var(--rose-gold);
+  }
+
+  .about-text {
+    font-size: 0.97rem;
+    color: var(--text-secondary);
+    line-height: 1.85;
+    margin-bottom: 1rem;
+    font-weight: 300;
+  }
+
+  .about-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+  }
+
+  .tag {
+    font-size: 0.75rem;
+    letter-spacing: 0.06em;
+    color: var(--text-secondary);
+    background: var(--cream);
+    border: 1px solid var(--border);
+    padding: 0.35rem 0.9rem;
+    border-radius: 100px;
+    transition: background 0.2s, border-color 0.2s, color 0.2s;
+  }
+
+  .tag:hover {
+    background: var(--blush);
+    border-color: var(--blush);
+    color: var(--text-primary);
+  }
+
+  @media (max-width: 800px) {
+    .about-inner {
+      grid-template-columns: 1fr;
+      gap: 3rem;
+    }
+
+    .about-visual {
+      order: -1;
+    }
+
+    .avatar-wrap {
+      width: 180px;
+      height: 180px;
+    }
+
+    .avatar-initials {
+      font-size: 3rem;
+    }
+  }
+</style>
