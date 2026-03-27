@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="600" viewBox="0 0 1050 600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fef0f3"/>
+      <stop offset="40%" stop-color="#fde8ec"/>
+      <stop offset="100%" stop-color="#fad4dc"/>
+    </linearGradient>
+    <linearGradient id="stripGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c9848c"/>
+      <stop offset="33%" stop-color="#f0dbc8"/>
+      <stop offset="66%" stop-color="#fad4dc"/>
+      <stop offset="100%" stop-color="#c9848c"/>
+    </linearGradient>
+    <radialGradient id="blob1" cx="0.85" cy="0.1" r="0.35">
+      <stop offset="0%" stop-color="#c9848c" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#c9848c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="0.1" cy="0.9" r="0.3">
+      <stop offset="0%" stop-color="#fad4dc" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#fad4dc" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1050" height="600" rx="24" fill="url(#bgGrad)"/>
+  <rect width="1050" height="600" rx="24" fill="url(#blob1)"/>
+  <rect width="1050" height="600" rx="24" fill="url(#blob2)"/>
+
+  <!-- Bottom accent strip -->
+  <rect x="0" y="594" width="1050" height="6" fill="url(#stripGrad)"/>
+
+  <!-- Logo: iman · blog -->
+  <text x="75" y="100" font-family="Cormorant Garamond, Georgia, serif" font-size="48" font-style="italic" font-weight="500" fill="#4a2830">iman</text>
+  <text x="199" y="98" font-family="Cormorant Garamond, Georgia, serif" font-size="55" fill="#c9848c">·</text>
+  <text x="218" y="100" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="30" font-weight="300" fill="#c4979e" letter-spacing="2">blog</text>
+
+  <!-- Accent line -->
+  <rect x="75" y="118" width="50" height="3" rx="1.5" fill="#c9848c"/>
+
+  <!-- Name -->
+  <text x="75" y="300" font-family="Cormorant Garamond, Georgia, serif" font-size="64" font-weight="500" fill="#4a2830">Iman Abdul Rahim</text>
+
+  <!-- Title -->
+  <text x="75" y="342" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#c9848c" letter-spacing="3">BEAUTY · PARENTING · LIFESTYLE BLOGGER</text>
+
+  <!-- Contact Row -->
+
+  <!-- Globe icon + website -->
+  <g transform="translate(75, 484)">
+    <circle cx="9" cy="9" r="8" fill="none" stroke="#c9848c" stroke-width="1.5"/>
+    <line x1="1" y1="9" x2="17" y2="9" stroke="#c9848c" stroke-width="1.2"/>
+    <path d="M9 1c1.5 2 2.5 5 2.5 8s-1 6-2.5 8c-1.5-2-2.5-5-2.5-8s1-6 2.5-8z" fill="none" stroke="#c9848c" stroke-width="1.2"/>
+  </g>
+  <text x="100" y="498" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="20" fill="#9e6b74" font-weight="400">imanabdulrahim.com</text>
+
+  <!-- Email icon + email -->
+  <g transform="translate(370, 485)">
+    <rect x="0" y="2" width="18" height="13" rx="2" fill="none" stroke="#c9848c" stroke-width="1.5"/>
+    <polyline points="0,2 9,10 18,2" fill="none" stroke="#c9848c" stroke-width="1.3"/>
+  </g>
+  <text x="396" y="498" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="20" fill="#9e6b74" font-weight="400">iman.abdrahim@yahoo.com</text>
+
+  <!-- Instagram icon + handle -->
+  <g transform="translate(720, 484)">
+    <rect x="0" y="0" width="18" height="18" rx="5" fill="none" stroke="#c9848c" stroke-width="1.5"/>
+    <circle cx="9" cy="9" r="4.5" fill="none" stroke="#c9848c" stroke-width="1.5"/>
+    <circle cx="14.5" cy="3.5" r="1.2" fill="#c9848c"/>
+  </g>
+  <text x="746" y="498" font-family="DM Sans, Helvetica, Arial, sans-serif" font-size="20" fill="#9e6b74" font-weight="400">@imanabdulrahim</text>
+</svg>

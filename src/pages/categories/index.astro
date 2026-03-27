@@ -1,9 +1,12 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { categories, categoryCounts, allPosts } from '../../data/archive';
+import { getCollection } from 'astro:content';
+import { mergeWithCollection, categories, categoriesFromPosts } from '../../data/archive';
 import type { Category } from '../../data/archive';
 
-const counts = categoryCounts();
+const blogPosts = await getCollection('blog', ({ data }) => !data.draft);
+const allPosts = mergeWithCollection(blogPosts);
+const counts = categoriesFromPosts(allPosts);
 
 const categoryMeta: Record<Category, { desc: string; color: string; icon: string }> = {
   Skincare: {

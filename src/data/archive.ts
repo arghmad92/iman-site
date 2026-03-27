@@ -18,14 +18,8 @@ function cat(title: string): Category {
   return 'Skincare';
 }
 
-// Local posts (have full pages at /posts/[slug]/)
-const localPosts: ArchivePost[] = [
-  { title: 'Skincare During Pregnant / Breastfeeding - What I Use and Avoid', date: '2023-12-22', url: '/posts/skincare-during-pregnant-breastfeeding/', category: 'Skincare', isLocal: true, localSlug: 'skincare-during-pregnant-breastfeeding' },
-  { title: 'Cadangan Milk Collector', date: '2023-12-12', url: '/posts/cadangan-milk-collector/', category: 'Motherhood', isLocal: true, localSlug: 'cadangan-milk-collector' },
-  { title: 'Cadangan Pregnancy Pillow Yang Selesa', date: '2023-12-12', url: '/posts/cadangan-pregnancy-pillow/', category: 'Motherhood', isLocal: true, localSlug: 'cadangan-pregnancy-pillow' },
-  { title: 'Minyak Telon Yang Sesuai Untuk Baby / Newborn', date: '2023-12-11', url: '/posts/minyak-telon-baby/', category: 'Motherhood', isLocal: true, localSlug: 'minyak-telon-baby' },
-  { title: 'Barang Yang Ramai Orang Menyesal Tak Beli As A First Time Mum', date: '2023-12-10', url: '/posts/barang-first-time-mum/', category: 'Motherhood', isLocal: true, localSlug: 'barang-first-time-mum' },
-];
+// Local posts are now dynamically loaded from content collection
+// Use getLocalPosts() in .astro files to merge them with archive posts
 
 const rawPosts = [
   // 2022
@@ -343,20 +337,31 @@ const archivePosts: ArchivePost[] = (rawPosts as unknown as [string, string, str
   ([title, date, url]) => ({ title, date, url, category: cat(title) })
 );
 
-export const allPosts: ArchivePost[] = [
-  ...localPosts,
-  ...archivePosts,
-].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+export const archiveOnlyPosts: ArchivePost[] = archivePosts
+  .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
 export const categories: Category[] = ['Skincare', 'Beauty', 'Motherhood', 'Parenting', 'Lifestyle'];
 
-export function postsByCategory(category: Category): ArchivePost[] {
-  return allPosts.filter((p) => p.category === category);
+// Merge content collection posts with archive posts (call from .astro files)
+export function mergeWithCollection(collectionPosts: { slug: string; data: { title: string; date: string; category: string } }[]): ArchivePost[] {
+  const localPosts: ArchivePost[] = collectionPosts.map((p) => ({
+    title: p.data.title,
+    date: p.data.date,
+    url: `/posts/${p.slug}/`,
+    category: p.data.category as Category,
+    isLocal: true,
+    localSlug: p.slug,
+  }));
+
+  return [
+    ...localPosts,
+    ...archivePosts,
+  ].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
-export function categoryCounts(): Record<Category, number> {
+export function categoriesFromPosts(posts: ArchivePost[]): Record<Category, number> {
   return categories.reduce((acc, c) => {
-    acc[c] = allPosts.filter((p) => p.category === c).length;
+    acc[c] = posts.filter((p) => p.category === c).length;
     return acc;
   }, {} as Record<Category, number>);
 }

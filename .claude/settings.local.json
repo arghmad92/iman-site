@@ -9,7 +9,14 @@
       "Bash(curl -s \"http://www.imanabdulrahim.com/sitemap.xml\")",
       "Bash(curl -s https://www.imanabdulrahim.com/sitemap.xml)",
       "Bash(python3:*)",
-      "Bash(gh auth:*)"
+      "Bash(gh auth:*)",
+      "WebFetch(domain:kronibola.streamlit.app)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/imaannnr/kronibola-app/main/logo.png\" -o \"/Users/nuruliman/KroniBola/logo.png\")",
+      "Read(//Users/nuruliman/KroniBola/**)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/imaannnr/kronibola-app/main/logo.png\" -o \"/Users/nuruliman/KroniBola/public/logo.png\")",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/imaannnr/kronibola-app/main/pay.jpg\" -o \"/Users/nuruliman/KroniBola/public/pay.jpg\")",
+      "Bash(\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --headless --disable-gpu --print-to-pdf=\"/Users/nuruliman/Project Claude/namecard.pdf\" --no-margins --print-background \"file:///Users/nuruliman/Project%20Claude/namecard.html\" 2>&1)",
+      "Bash(curl -sI \"https://imanabdulrahim.com/oauth?provider=github\")"
     ]
   }
 }
