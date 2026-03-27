@@ -15,13 +15,11 @@
 #   4. Remove `local_backend: true`
 # ────────────────────────────────────────────────────────────────────────────
 
-local_backend: true   # ← remove this line for production
-
 backend:
   name: github
-  repo: your-username/your-repo   # ← update this
+  repo: arghmad92/iman-site
   branch: main
-  base_url: https://your-site.pages.dev  # ← update with your Cloudflare Pages URL
+  base_url: https://imanabdulrahim.com
   auth_endpoint: /oauth
 
 media_folder: public/images
