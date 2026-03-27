@@ -220,8 +220,16 @@ import Layout from '../layouts/Layout.astro';
     border-bottom: 1px solid var(--border);
   }
 
-  [data-theme="dark"] .site-header {
-    background: rgba(26, 15, 17, 0.92);
+  :global([data-theme="dark"]) .site-header {
+    background: rgba(26, 15, 17, 0.95);
+  }
+
+  :global([data-theme="dark"]) .logo-text {
+    color: #f0dce0;
+  }
+
+  :global([data-theme="dark"]) .logo-sub {
+    color: #8a5a63;
   }
 
   .site-header nav {
