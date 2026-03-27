@@ -12,7 +12,6 @@ I was so excited to get the chance to review this Althea Petal Velvet Powder. Be
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvUkMu6peE0JIZDPwFklneGkdnuR2iSD0As3Hdk6Avd-o_Hqrn-7fLWB7WyJ1By0ZcJz2OIGnBPv0yZjk1pAXvXx1fD2Ndp9Fnkiz7I4SPgPMkLdUqai4EBjiL4tBLIOxSAryNVl1hM0/s1600/Photo+11-08-2017%252C+2+25+16+PM.jpg)
 
@@ -36,7 +35,6 @@ Availability online: Althea website
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_m5dOROOBkkrHUUwOIBth3ycwgS7Tdr5GrDoIXU8DXqhsJ1Nkr3WNcUxzqC696X5F2jI2NYEuTn5U6rmQbM7KnoDAL-2D1CzxOWfnXDv2YOM3y-nbdmkxV7xV0Zuc809eZpQqyWGEnDQ/s1600/Photo+11-08-2017%252C+2+26+31+PM.jpg)
 
@@ -44,7 +42,6 @@ Althea Petal Velvet Powder
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgGaabt_B7tw6ShLrRTeLlpl9fwj828rs0HFKTWoKTiRrt2Qxs1LRTZ6ujS99wr3XW48eB7RCgCsXEKA-A4_EFH3fIJksIfY3_lx7x3PJsrlzdoxc_YZg8djbV743q6N7JC8rKI1zDp1I/s1600/Photo+11-08-2017%252C+2+25+33+PM.jpg)
 
@@ -58,7 +55,6 @@ Althea's very own product range is here, and we're starting off strong with the 
   
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZeLVsIsazHMoJpCEpyw0y8nRkqik7MpyFbDpbjtMj3fezzQyR9LnV5KP1CyQchTju15PqTKqGnw1eCY2Twqd5XvZYtGVEcQtzxgWKBE-Hbfitoc0gJkduBAAamwcmGmtDsma8vQEXRM/s1600/Photo+11-08-2017%252C+2+25+56+PM.jpg)
 
@@ -85,7 +81,6 @@ Very mild floral scent, which I'm not really bothered pun.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiumMCRm3o4yW40-2aMjX1Mt5aw2DQ7nwFDN-872xAPP3nEahZM9y9V4ckoEKcYfCRh_2OWrqcD0hD56tym-WkArOyta2arKSd9OnVW7feTZfpBf0k23mb1FftsMfi9jpOTX1VKs6PF42E/s1600/Photo+11-08-2017%252C+2+27+02+PM.jpg)
 
@@ -93,7 +88,6 @@ Althea Petal Velvet Powder
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEa3hD5nQ0EluqNi-Ag6KN-4oqZCZx21QP8VOEwanbfvCEGkuok4046KD-FzC9op7OIwtx-yy01l8MznsqaoBg_sfBRk5FKXTwFmYutW4xp3Wi6uk6QGu6fE2XO8n6D6IxpGXNFAJxhw/s1600/Photo+11-08-2017%252C+2+27+25+PM.jpg)
 
@@ -101,7 +95,6 @@ Althea Petal Velvet Powder
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_T6NFXtqtInDRz1Pr2HxaA4NuFLkWAdPkqe1Tv_to2qlOHz20pdlCd9jQDckQlB-D5QRQc2G1iilDAmMFJ9IMMNdYDP3jDAfTdrcCJZ8yts1sfagbmrOFYAlkkeDLmEJ0Juwenpms10/s1600/Photo+11-08-2017%252C+2+27+34+PM.jpg)
 
@@ -130,7 +123,6 @@ Thanks Althea for sending me this Althea Petal Velvet Powder! I really love it.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIzEkRL00MYpiK-3zpR3chpVmVJkxQFacYdnKPb22AhUjXVviMh3pkEmN7EK7MhazucHilQwKJbOHFbpXp3K_Awewu9kWt3s6DsnhBdLGHr6dO_SAKjbnXEQKGDEdglWhza-5GB81W_2I/s1600/Photo+11-08-2017%252C+2+28+00+PM.jpg)
 

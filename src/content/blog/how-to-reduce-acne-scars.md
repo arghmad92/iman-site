@@ -12,7 +12,6 @@ Macam mana nak kurangkan parut jerawat dengan skincare?
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYC2_4NI60w6F9XzW7YUQFdvp6qnFZzSPFH9gbU-mBIbK8hDX7jnOf_Es8f-E58RK3Hx8zkG-eGX7poozupGUhiqfoEdQijQEDLe_4K3EvJetqI0wWKK92bczCQgjhrcn1NfsQk09SjS3M/s1600/Photo+26-07-2018%252C+1+18+07+PM+%25281%2529.jpg)
 
@@ -93,7 +92,6 @@ Untuk PIE yang warna merah merah tu, elok cari product yang ada soothing propert
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj95uVLPww_zerbFXVfE1P_ybihxUrE28VdImYIFf6IZnR8dTIKc2kIxuOPnbBy710TrLgy-Hm0Krokl7rLcpT8ejvNvOHdIm9q_OHsUvIa7Mh_0lhDx8Ps75Q4P7TMSuSA7tGzpuNYewOH/s1600/Photo+26-07-2018%252C+5+40+19+PM.jpg)
 
@@ -101,7 +99,6 @@ Untuk PIE yang warna merah merah tu, elok cari product yang ada soothing propert
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipP7AFVj5JPi0MeoNLqK1T8h4hIr8VYqX2uSsFOmFTLAzqZEiLJ62qeVgUp1CAVceoeE-pCK59tSX27Sl_fxurFxXK0Zuh3E2OpthWT5c7tcGAM3Ta9rAIZeVV0U1gXwnfLkvnc4j3jhT0/s1600/Photo+26-07-2018%252C+5+40+25+PM.jpg)
 

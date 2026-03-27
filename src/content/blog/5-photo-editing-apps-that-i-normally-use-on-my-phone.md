@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLEFS-By09GpF_XFbHTwEJS5rukDuKYaoNlvznODeInv4RJm2Go-ENwg5yzhDsnwoATT3OwtTE__5P8ftMmNPNeikjhgHbtMVILnnMwJfm1aMXEdSNG4EI43yEy0Psy_UOUfBoHt70kwRw/s1600/IMG_1228.jpg)
 
@@ -31,7 +30,6 @@ Apps ni wajib ada semenjak I kenal apa itu edit gambar and guna sampai sekarang.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFJtoJv0clV8EkjBUuV7wdjJ_J3qC3GBsYqJJiC5VZ_o0ERK_QSJGxfG5iIBtV2tmEAzIIWK_s3Y2j7VMjB-6u3uAKmibRfbHqbygKhx6t3Llqxi9stLMxpaxMlWrvPQFdu0PwsPv2ikOZ/s1600/IMG_1220.PNG)[!
 
@@ -49,7 +47,6 @@ I selalu guna untuk collage kan gambar, atau insert icon untuk buat highlight in
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuJwTy2c8b_Fu0WnTEqYGFdyeaZ3TJ1IINLmHUon14321D3iZ9hQoZSbGnHO4iDPLofoaWZwy1xOCdWg6e7DaCw6u6Kpki8mGXWgV79z3H4VLz-irXtRsEVfXnnMVaokqbHTV9W-fvTQgo/s1600/IMG_1222.PNG)[!
 
@@ -71,7 +68,6 @@ Ada macam macam template untuk instagram post, instagram story etc. Semua ada. I
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNoxcT42EIOk5DHbGxOQzygHedg3_JhHz8-7tCFhTkePkUNTsw565vQSH7330cMidOM2xv7jqXb4QFvqBk-4d9dicEBgbpzxRO5cFPM-fO_tWYEg_fNyuaiDEjU5wh2pzRn7RwQh-MxzrE/s1600/IMG_1225.PNG)
 
@@ -87,7 +83,6 @@ Untuk edit instgram story. Ada yang free, ada yang kena bayar.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG_DzZG4D8iobKeyVI3yPFiZHaAjyhtkV-7zKzg6m3GqaBo4LsR_ZRn5fq-t-ZGEPReaKBAVkUO6Qi_BR17BZwZeSC3jIrPakg0X9BO0GwehimkmXpjO7qj0gZEl5nSfkISJJzCQcbY2GB/s1600/IMG_1226.PNG)
 
@@ -103,7 +98,6 @@ I guna untuk tambah wordings dalam gambar kalau perlu. Yang ni kalau I edit paka
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGXtKLJx8mK11_f3Y0xWo5hUiZz1FQOSiPZ7GYs0igrHFrutO9fU8S_Ke1LryDKbpW6knQAWag6ujzopILeCD4E28xhUyL9OMhhqhB_CnGBM8Y4126CeEY5oZPdeAchUqUJxV0vd9PKoXK/s1600/IMG_1227.PNG)
 

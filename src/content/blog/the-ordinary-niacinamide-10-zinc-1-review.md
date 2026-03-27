@@ -12,7 +12,6 @@ I've been using this niacinamide serum for 6 weeks ++ and here is the review! (
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrtT2yRxEXEMSUJehpY9raunSH0Gjo53-DWw0aveVa7kTmfq1PKYWaBqQv45h2IY3n_l1FTprNQCUzCIjev8v2jTU2I0w2Gyb7pdP8r_YbIx1XWIqYX_6b0I8A0w77zz3dN_ckMXLWoP4/s1600/Photo+24-11-2017%252C+9+36+59+AM.jpg)
 
@@ -38,12 +37,10 @@ Size: 30 mL
 Price: Depends on the seller, the cheapest I jumpa is RM39 (preorder - need to wait 3-4weeks baru sampai)  
 Where to get? I normally ordered form igshops, just search the hashtag #theordinarymalaysia  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjftrveHSIZTVW5RtLV6e2GCu63JIJUCqHIIx3xK_eodynB4-sLOwVL1wty6ebSM1IeR5Lh15n60v4ODD9_ITcOIqrhBwUk2dAw45zZG-DU7C5cqgz_7TyYdVYyfs5y1RNX0veOnqAIOj0/s1600/Photo+24-11-2017%252C+9+36+41+AM.jpg)  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuRtcYz5Y4VsbbCytTGoPH4Yo75LwKMQEhNuFbgd8ygYjF-sOXFnDSYdlKJUaiC17TzsEoi3yzXkvJ_t_rkl-8VwTveEN5eZB25_6jWOunJ3UkY00obRn0ppEjq-06lpZCBwaz-tij9wg/s1600/Photo+24-11-2017%252C+9+37+54+AM.jpg)
 
@@ -96,7 +93,6 @@ I'll just drop dekat tangan and apply dengan jari macam biasa. Jangan apply bany
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXLYDM9S5lgp5lRq0Q7L5fBP_V_lNuCCQooVaWXTwmU4uw3xjMvPZ8ImDJbX8MvMVoHxYMo5VDtrlEZOnvYqWf79J5pMuHeAH0BaRfru_-uAB9WJxXp6SReVLsCP-bW4WXqjbPKde-8K0/s1600/Screen+Shot+2017-11-24+at+10.29.42+AM.png)
 
@@ -110,7 +106,6 @@ See, nampak tak putih putih tu, kalau apply banyak sangat.
 
 It is in a 30 mL transparent streamlined packaging with a large dropper bottle. Looks like glass, tapi sebenarnya plastic je I think. Jatuh banyak kali pun tak pernah pecah lagi. (Yes, I pesen selalu terjatuhkan barang tapi alhamdulillah masih selamat)  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1MwNE1FN6Ec_fNyPqj_jBpFXpkoRQMOP0ruUj6qcKF4Ml9EWY47RLqPomwK9gGaLRj2qCHwVQsY3RwZVQBFImwQI8kymPBpIAhaJvkohAcyju76XFsNnZVsLbT07-J45yp_3IQoZ6tk/s1600/Photo+24-11-2017%252C+9+38+23+AM.jpg)  
   
@@ -119,7 +114,6 @@ It is in a 30 mL transparent streamlined packaging with a large dropper bottle. 
 
 It's colourless, and the texture is quite thick, slightly melekit macam gel. Bila pakai, dia melekit sikit tapi absorbs quite fast so okay lah. Jangan apply banyak sangat, sebab it will pill up with other skincare  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4DGACJngFg1CSOqgAWlPcfIK8ggu4ydX684IWCGtkyYJdYr1tZbq9pUmVM8nVTZoRBEt0W_4QZvezeFLz1COUVslyv9X6dDyceg4pUAvkY7zLRsLu5zi-UkFc7YNSvZfQY_LNgbHE_hs/s1600/Photo+24-11-2017%252C+9+38+55+AM.jpg)  
   
@@ -212,7 +206,6 @@ I also read somewhere, niacinamide is also worth trying kalau nak kurangkan dark
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDEkf60hwM1QE5K7WpSmm7iGCLwUKtSn3rjE2t_C2QdAbgkBLePMFLsci4UsVOUMkGU4mmL_6eEtNWwtvohk4IR-E7pEKXAdTCfr-j7dF-TLa3fK1tSeVJbq_UKn3TWIE36Ci52odxl3I/s1600/Photo+24-11-2017%252C+9+38+03+AM.jpg)
 
@@ -222,7 +215,6 @@ I've used it more than half, rasanya tahan kot lagi sebulan ni. Hopefully.
 
 The only thing I don't like about this serum is that dia macam ada product terkumpul dekat tepi botol ni. Kena selalu bersihkan and I rasa macam membazir product pulak laaaaa.  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-dwb-NAvSYAJrKlwfieqCc4dtqucr0M5YiDgnkHgr15CpTRZwQoDRtLRo3rUyAO6ZYatPDWcej3aqDi-TRlPCdU0mXhGXR40Pglz5Z2P47BuOvIezigywVufe0Lpo5KoMjmrNP5QioyM/s1600/Photo+24-11-2017%252C+9+43+12+AM.jpg)  
 

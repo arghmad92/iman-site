@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgouzvKDukVEvZorI5L5Cv-jqSXnkvir32HdwFCDikGPXoHlImC9CuvVBJcchYuB2KRELEuMCpxDrtEIm1w_UgsJs-1bGl0Wmle5LVJ79GrVrDJfrLjQK1rFh7u4s5TGr38ymMpe-yBIlBX/s1600/419C66C0-060F-40C8-819B-FECEC61A4266.JPG)
 
@@ -45,7 +44,6 @@ Hyaluronic acid - A humectant that attracts moisture to the skin to keep it supp
   
 
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUPwnV64Fz0reAl40R42Xs0Y0UkewGQzkOKIg7pF6r15-wN51zqHt75C3-TVJm0vp6kTyPoD5iwxup_FEEGvm4L7vg9erBm9WEuA70q7K51604lFi-PAGmiS07bxhwQ13DiyhlYEe11-kG/s1600/DB125152-A732-4EEF-8A15-0A4FB3876CA2.JPG)
 
@@ -59,7 +57,6 @@ Masa I beli tu, dia ada sekali dengan cotton pads dia tapi I malas guna. I tuang
 
 **Packaging**
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnDhbuTzSEb_HCKsOUoFrKpkhTlshW2ufvbyhqnijdcATzdwz4_9kAW3iYCNK-SOyGVfTs3UaoQ3dk1171DdkjpXk7G6-yXp-uvZTD8UYmfy_4_yGq9PCipWDJYd3GbDqDUuO78fT4XauM/s1600/BDC92D81-BA9D-4484-82A5-2AC4802B6613.JPG)
 
@@ -79,7 +76,6 @@ Very light, just like water
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF-EXlasSsvL34wPEntzYhHLfEAlA0tXXnNojcASI-2tanHy8HbOziGVgHqRVxSOx6d-9k7W-hw8JpzmNmKOlxiek1pmSR-HJpmXCbuRQVPpbbDgme3i5nYF8PTfIDWZ8mb3dR4teeZA3H/s1600/4F9E2598-B992-468A-A9A8-B0A739786A32.JPG)
 
@@ -100,7 +96,6 @@ The ingredients list is short, with 14 ingredients. There are no alcohol, no fra
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQKtaneTwg5HEvY-g7FAc1PP6ebfngReQIpl74cLG15B0lC7b_R1QaIQALkxDEBcw3YUb5Wb2bK0xsEYySUzwtVEo6s0BTs8QhZ0a9KntWHp3LkdMpIVDhOSyXGxVXutj4RAvI5wsMiTbi/s1600/E0EFCC7B-EF4A-4D20-B922-5EDC7347C3A2.JPG)
 

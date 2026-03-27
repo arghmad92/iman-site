@@ -12,7 +12,6 @@ As a first time mum, I was so excited to pack for the arrival of my newborn baby
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEhMOR1kZUufP_Cp-EgtIuvGv7GCib_x6CKDlI5ZlW_pURVYc82fSAJhrJ2UK3oOoDQ0aQgLUOOp9UQItxHB4gYaBVwn3oQVimfY99QGIJQ1oEorWqIwzgaEsHoxF83wUCZR0hFc1RpG4/s1600/IMG_3660.JPG)
 
@@ -29,7 +28,6 @@ For the baby:
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiReBrqeShMWWmODkk2VSrquVMQG4LG0fRW42JT_D1W5ffHZpxg9nPzO0J4dqIIMBn6dj0LnxhC_tNGEPpDhueTQgi5bKTSVNomeFqiuEa4np2zv4UKzWHe7pJpTtVFtujGc9tbhErn7i8/s1600/Screen+Shot+2017-08-22+at+10.37.46+AM.png)
 
@@ -68,7 +66,6 @@ For me, yang wajib cuma lah baju sepasang untuk balik & blanket.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheYsLt9ydgaV8lME9vRuBV_8IsklSOu0qb0zzO7L5PqhXMacVeE4eL_ho_OBaWtziO2jmVJ33N0L_-MpDYZdAyp19CdzUCe3OMzF_ufiYP9l9rp_F9FkRYYm6X7SKOTX9MiXQinUJrZ2M/s1600/IMG_3661.JPG)
 
@@ -80,7 +77,6 @@ For me, I start packing masa minggu ke 32, dah siap dah bag ni, just ready je. M
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCzDEm5uuJOJNNL3W51MsuS_XWRWwK3Fb2ud6upF26T76KfLJfOkCUCqDbVfNcgj268EcJ9KiqFKrSaqw5Sy20m8dFDRFIlMyZ8ekDr5uFlnGqrkj5GX5uDWsaNbDO4i-GZ5kueFOHPpk/s1600/IMG_3663.JPG)
 

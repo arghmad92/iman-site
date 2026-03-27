@@ -12,7 +12,6 @@ I bought this a long long time ago, tapi baru sekarang rasa nak review
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwLHubyNPD85Vietizsnf_i2ao4zqMLmacWT2QF-hN5FZn0h0tEcUsWSS1K-30ZFgFe1_ALI2rR7COmgLSsVy91egTd2H9qvz9QRkKqiCXt00ATA-Lcw3n4JZJ6At1QComUwpKXK3SFss/s1600/Photo+29-09-2017%252C+6+06+15+PM.jpg)
 
@@ -43,7 +42,6 @@ This cleansing multi-action foaming clay cleans, scrubs, tones, and absorbs oil 
 Water/Aqua/Eau, Bentonite, Sodium C14-16 Olefin Sulfonate, Titanium Dioxide, Pumice, Propylene Glycol, Vinegar (Apple Cider), Kaolin, Xanthan Gum, Magnesium Aluminum Silicate, Cocamidopropyl Betaine, Disodium Edta, Citric Acid, Diazolidinyl Urea, Methylchloroisothiazolinone, Methylisothiazolinone, Fragrance/Parfum, Hexyl Cinnam-Aldehyde, Yellow 6 (Ci 15985), Red 40 (Ci 16035)  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4QRw1kokoQ61snPXD8ihDEgf8KsArUeFM5uMgIQdXMlxXOnDKDJGqC0gIgTv-g2moPXKWiVMMCER-T_5vUoahkTEsYMg7nK7zO09Q7GUJYNHVIcH2bPKzaPTvDujXHfl3sQtJzmT9qvY/s1600/Photo+29-09-2017%252C+6+06+31+PM.jpg)
 
@@ -66,7 +64,6 @@ I like the smell. Smells like apple cider vinegar. Wangi macam apple!
   
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinkhz4bUebv4N-9GGohgm2zjJqCU8xInzY0G4pg491KcMQwiv4ySC2Jv1KLddduryFGc4Q-00mSW6CDt-HYzAmdkngrHgaUyVJYe8Hy5vZicenIuglrdvY37AoyhsqsA6NXl7M9vfbsv0/s1600/Photo+29-09-2017%252C+6+07+25+PM.jpg)
 

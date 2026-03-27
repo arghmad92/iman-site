@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbXjTzYy5tr9ys4zA5AZltTrGZnkI58NrvHy48H8Q2aN0kI9JhskB4sZpd-uAGu1X9qSa-o4SbW8Hou9qqNIHEjgCqsUwLeKaEAl5K8QmrhyphenhyphenAbqNDCub09pV_mZcaC6kn6-Sy4LKcolaQn/s1600/CD5F190A-AEEE-4F4E-89B9-0EFCE3C31551.JPG)
 
@@ -75,7 +74,6 @@ Most of them are greasy, melekit, heavy, and akan ada whitecast (muka jadi kelab
 
 **Mineral / physical sunscreens that I've tried:**
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbXjTzYy5tr9ys4zA5AZltTrGZnkI58NrvHy48H8Q2aN0kI9JhskB4sZpd-uAGu1X9qSa-o4SbW8Hou9qqNIHEjgCqsUwLeKaEAl5K8QmrhyphenhyphenAbqNDCub09pV_mZcaC6kn6-Sy4LKcolaQn/s1600/CD5F190A-AEEE-4F4E-89B9-0EFCE3C31551.JPG)
 

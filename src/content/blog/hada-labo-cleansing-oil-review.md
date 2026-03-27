@@ -60,7 +60,6 @@ Availability: Guardian, Watsons
   
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7XIJjUOpbBQkHoTM592LFNBY0Elr-Wz0nvYF_vKzQLZo7f0sMY5GKPjswyLUS2F7qAD6X5N7YJWLZNm9I9UslasS-wB63eIGLLoRTl-PDl-rj6CE-6LWeE15r4TpFgZpBmibGhmaym0/s1600/Photo+Jul+26%252C+14+24+11.jpg)
 
@@ -90,7 +89,6 @@ Hado Labo Cleansing Oil
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaIh6s6LXoh-suNek4wQSO7Z35wp_K-_ppt-7XaC8wAsBfRWMJiVa9lDQGj2DRgzit-fDhXY5ZtEa3ccEl2lc4-6ePHxeRCjrv6Q5jneHUx4gxXHH2xFaRHriQ0izDB0JQVG2r9tZ1Cfo/s1600/Photo+Jul+26%252C+14+24+20.jpg)
 
@@ -112,7 +110,6 @@ It's colourless, like the normal oil. Consistency like oil, quite thick.
 
 The product claim that it is fragrance-free, hence tak ada bau langsung tapi tak bau chemical yang kuat, just like normal oil kot. This product has no scent at all.  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizyXp1ShWEVGkSBDiIEL7CxfmOBeCj3QlQIkEbhypkGZLK6_CDkVglfv69pgA0ZIwXtoXEgeR62FFIBP3A-Ft1pNeTr3FTkvp-AlZ3uP9JbIbFJ4K9L71OaaWxml1yceDtMO2STZn6zC8/s1600/Photo+Jul+26%252C+14+24+00.jpg)  
   
@@ -128,7 +125,6 @@ Make sure tangan kering and muka kering tau, maksudnya tak perlu basahkan dengan
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpM0B57FfMH92HSp-cnxy2GGu6fTqKfZ9bOr5cZmT4h9vJ1m8CP_ZZo6AP4hzP6cEk3lzOfibrZuhVoPGCW139Gun0TKQpHHDq34fNd6fg9BLONaKJjww5emocmjmvlHMRYYJU3s433ho/s1600/Photo+Jul+26%252C+14+16+35.jpg)
 
@@ -136,7 +132,6 @@ Ni contoh I letak concealer, eyeliner, water proof eyeliner, Colourpop UML & NYX
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjeSeB2UMQcdke0Gu5VwXEYDhDjShhzgrNC87iZIVQXUozh0YpLkWTsMo2ysVhqWXVevzeFCMaqx7v7SGYEFlEWXTkkkPUeETs0ENwdk5TNsXNWEn5fRt25HwCyVXoys00RKBn72ezwmk/s1600/Screen+Shot+2017-07-26+at+4.00.56+PM.png)
 
@@ -146,7 +141,6 @@ I tried using one pump, massage it, tapi tak cukup, so I use the second pump. Go
 
 Hasil dia:
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbjca6VOGDhge9zDc_lYn3XPpgSKYbde4kCKNjTNyEJbyBQ9CVbS_i60Yv1axN1HigX_p0vtNZJrUzqnTz8auQ0Y2k76FEj_ND3DhIWq6uECkRel-X2bhK3_pIpJUHOURGLwsCMg9icd4/s1600/Photo+Jul+26%252C+14+19+28.jpg)
 

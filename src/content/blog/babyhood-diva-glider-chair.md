@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGSI8Ji7h4LxvxucmDxn7BQ-stvhmhtQ90UNof8bJjrtViCc9qj2q9EXKsVTD1FU2ltgSihFyr2xr22KwTPMoSiBU7V4q7x6169WzHmvKaBE8311rKVATp1emfTw2tCKhY_0JHC7WbZ-ti/s4032/52535C28-45CF-419C-8997-D57F47B88646-FA718BC6-F751-4FA4-A3BE-76520FAA830B.JPG)
 
@@ -32,7 +31,6 @@ So I survey survey lah rocking chair yang best! Rupanya Babyhood ada chair nama 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGSI8Ji7h4LxvxucmDxn7BQ-stvhmhtQ90UNof8bJjrtViCc9qj2q9EXKsVTD1FU2ltgSihFyr2xr22KwTPMoSiBU7V4q7x6169WzHmvKaBE8311rKVATp1emfTw2tCKhY_0JHC7WbZ-ti/s4032/52535C28-45CF-419C-8997-D57F47B88646-FA718BC6-F751-4FA4-A3BE-76520FAA830B.JPG)
 
@@ -50,7 +48,6 @@ Nak buat breast feeding chair pun boleh sebab dia selesa. Tak ada lah sakit saki
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz_qz_CH1-ZeHOUeHb86RYGlNBdzGBxmFbY8DYWPBgcPjy4umBF5K0bV1A7SovzzkTN-TNCHBu55R-5v_QfWNzWHQmhlmqlPsNTIJFR-kMElqbOzl0IrMHcDjetuwQ7G_v7PIljhpgoNxf/s4032/1679A5CA-A2FA-4362-9D1B-ADFC0C863036-C8ECDA03-B154-4DFF-BB8E-8CF8B5820E8D.JPG)
 
@@ -64,7 +61,6 @@ And semua yang duduk kat sini, cakap kerusi ni magic. Sebab bukan baby je terlel
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-6_l7YBrajm5WbGhZ77A8Uk_LoQr1oB6JGfgRglIJxoAb-R5ESgBqDSsNJdBE2isWn-8TebYS7HPTwN90u4rsxIAdx5iFglraaOPPYmN-3fpLd0i9srps00VUv8KnHktHx0XxMbwUcTn/s2011/IMG_7718.jpg)
 
@@ -78,7 +74,6 @@ Dia ada matching gliding ottoman ni. Ottoman ni macam tempat letak kaki ni.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1zOCXgqnrCBGUhKzKpJ3kUiPYcPLCFDETLZukcdw9T4BdSBnWrfUpLJp4w2Tt8sljfWW07x974h8MuEYvmMuW3G-xUDk4CtvHolrnXXGqv7feo31A7yJZAcE45XK53kKqIUnJXtt3FAeF/s4032/4FF0F292-B228-42E0-B244-E1E74FFB2DB8-3D66AC1D-5593-4FD4-9DDB-E19EB2D039EE.JPG)
 
@@ -92,7 +87,6 @@ Next, kerusi dia selesa.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibQ_LZdIQGej4n9WDffeF97flWRBVlbvP17rrODyrN0vaBxD68j2h4svZoPEpzrrxdCVyXrT9QGRhmfvAQrSx5v2nL-F2LonNmRF1vc3wqj4SqQhF3I5KMqEZB8HQlzR5J4zRj_d3ypZ6_/s4032/5286FEB4-8372-450F-82E6-71B33960C968-16A71E8A-BDFC-4BFB-8353-3CCE296955E2.JPG)
 
@@ -106,7 +100,6 @@ Lepastu, kerusi ni dia boleh recline. Bagi kebelakang sikit untuk lagi selesa. N
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3U6WqaFom2yyIcqhi3wwgzOIrCBC8bR3ZtSlxpo2spX2Ddv8Ylwn-ernLCV6GFVqHan7r5alJc6G4Y3kWb6m4fuRbnwxHxvCgEl-ZRk8ge-0PBtZ2ZbE8ehs-JxJBoagQo58_gG7EjqwZ/s4032/9C90EB74-5391-4557-8ED6-E736EF7DBC61-F0DBBBB5-6CC8-4BC4-9394-D437B6836433.JPG)
 
@@ -120,7 +113,6 @@ And jangan risau, dia boleh pusing 360 degree tau.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCFaY45lgvUHJTQD0-c1W2SVKqarnWgBKBs6_WN5org_UBUfH5GaLq8_gMJnCBW1xkOOu41K_AKtES8Jlw8aPXCiogi7ftCDiAqbi3ldK3XN2bCqBql-OC62dbL_8zn8jKB5Td4NtLeumy/s4032/F38F93F1-84A8-453B-9151-2C6E48DC1081-90DA3BB9-1EB7-4224-9749-D191D9B13126.JPG)
 

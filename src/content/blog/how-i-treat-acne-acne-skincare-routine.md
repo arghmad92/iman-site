@@ -12,7 +12,6 @@ Disclaimer: I'm not a professional, this is just a guideline. Please do your own
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpbOMrW3viBsxqqrHjnejVtPXVgImp2_MM0uSr-argD9IMxG-PqPyND4zwhSV0kBy1haZFjBnIPQXxy9QjH4-T5uJF62__3YHNcZ4p0dV4F30Xtlod6fRzsk1S0Ur8eekxtnwH0oZcbnM/s1600/Photo+16-10-2017%252C+11+52+46+AM.jpg)
 
@@ -27,7 +26,6 @@ I tried this routine on my husband's skin. He has oily skin, not to oily since b
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ733P8E6ysECs7dXaouFbTWTYLe0MM_T8xcMxT0mSGvY7V_oyj6C30Rs1j4GNj8vSIpV4yRL4YF7h38BqanHfLSd6xQC8iVgx3pam8T-fj3zc3M_sCyWzEUnWexJXug8-I5bRtJZNk9w/s1600/Screen+Shot+2017-10-16+at+1.47.12+PM.png)
 
@@ -41,7 +39,6 @@ Ni gambar during acne and sebulan selepas I tempek kan segala macam benda. Tak a
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTlH3NvDkYNqSHtVKPPphZpmFmX4vZUKoP_KFXi4l4tVF7x5TdQ36ZHoKznJOfET7lUdlxCAwR_iboP7-Qlch_kXarum_Vpl3fUe46zwI5WDz-3zPgmeNULOkcCqHLJfqbu3H_dVggEbw/s1600/Photo+16-10-2017%252C+11+53+09+AM.jpg)
 
@@ -75,7 +72,6 @@ You can also use Cetaphil or Simple Gel Cleanser (depends on your skin, do patch
 
 **Others (extra tapi best kalau ada)  :**
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-R-eIexwfMTNCMIUymFHopgc3xG_NPKWD_prExkJlLu0aGCuvjTMqLhMjXi4j81HSQKPRkfuKacDIcLuq-XY8kpseCDw_A-iAkG1-IDScfeZh4qw6UEo6MQVx6r9R-F63yqUN_iBBA0Q/s1600/Photo+16-10-2017%252C+11+53+37+AM.jpg)
 
@@ -85,7 +81,6 @@ You can also use Cetaphil or Simple Gel Cleanser (depends on your skin, do patch
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJun_qGHZhYK94w0F41b8LHJOhta870QvTiT6moQ9GmXRUxIllbS8_0cY7xdhA3XNItYtskEcnRvQshwSrg5cAXOhEDpCbQL2JwhAPvd2Zr2jp93ATGvREZln0jBp3Ez__RTe1GtbcmQ/s1600/Photo+16-10-2017%252C+11+54+12+AM.jpg)
 
@@ -103,7 +98,6 @@ Paula's Choice 2% BHA Liquid
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBaxNH9E2vUCelMrjwvpVRoMomlmwGU59Nj3S8pAsw_qEu4HNjcGGBLkgX0BXMDGIlCF39qbNkc5zE8y36FhJRtIbHdmHHhUyOboJuMCy3cz42JiG_m1jMYyfZjhnF3UlVbd0OTfAqWOs/s1600/Photo+16-10-2017%252C+11+54+44+AM.jpg)
 
@@ -117,7 +111,6 @@ Oxy 10
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglq_-ckQyv6Qr56vfCdDUbcVv0ta68fCZA_NgU8xMUfsXmuXbE2rwwMrhorJ0FTtG23zRxkwGVX7h8TT8Mx_oVaWwhuTatLUbymHxYYUCKmaFWy-cdwo4VWs9EE0ZlAyXNV-KszXABxjM/s1600/Photo+16-10-2017%252C+11+54+26+AM.jpg)
 
@@ -129,7 +122,6 @@ Innisfree Super Volcanic Pore Clay Mask
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHt0ZLPTIkpnpPaynZGL-xUnZg-kaelZeQ-Hir33Mschq5fK3HWZuHXw3l5aAGoqR4M3T5DxXHq_-y6CAFAV4YGdTxTDRMCohPKA3FgoeqoBTcf6Bu7QcxiF8vC2ZuoKT-n5P1WDtnuk/s1600/Photo+16-10-2017%252C+11+55+09+AM.jpg)
 
@@ -145,7 +137,6 @@ Brand lain pun ada jugak dekat Watsons and Guardian
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGpZy31kRBaRZ1-1f8Ho6PW6_5-pMUMW9pvMXGPvq-lV8zYVF0TEP30NsBI1prRuLOZf3US_vd3XA30jE_vr6w1SyVR0o2HsKsSOonEirKa_9DFLEwZ6msuETd6bNjgeBLuX2OgQjubOw/s1600/Photo+16-10-2017%252C+11+53+54+AM.jpg)
 
@@ -157,7 +148,6 @@ Brand lain pun ada jugak dekat Watsons and Guardian
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJuiov0lLhQ4pmoQDgiQWbaxj_EBlgVgE_bCcZZMkv-q0ZSQI1_VhTXYXlxI45gItNrsluu5TrORER350XYcBVDzSk6McOsHBr7gLRWgLXRyIF_7kMRO3gqfyxAjnFHHn5awfVBy1VFBk/s1600/Photo+16-10-2017%252C+11+55+28+AM.jpg)SEP Green Tea Soothing Mask
 

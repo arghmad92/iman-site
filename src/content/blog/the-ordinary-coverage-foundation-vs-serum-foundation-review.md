@@ -12,7 +12,6 @@ Ever since I know about this The Ordinary brand, I feel like trying EVERYTHING f
   
 Here is my review.  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5G0IXe3lTl3EpLWEXdepPchJmk5hqnOm3iD-yn66PU55EnxylLYmfn7Z5txXQt6HsPVyumt9J6AQDojeqlZQcTX13JAfL3Zw0ZfHOqKb5kd5nE5cM6kPG_LViimbftKQdU7Wcwq0gHq9Y/s1600/Photo+21-12-2017%252C+9+06+36+PM.jpg)  
   
@@ -35,7 +34,6 @@ Availability: Any igshop, just search #theordinarymalaysia
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZhYCBy5jDpIutlPqCSAV9KthNJhpocy3-INRrhxtoaXfZzalQ6RepVT75OlAmeGGZn355hFe6eg-UcoGf2kRlhiodNE3TSTqVfLQLVBCzUYmqZob2tmpSvckKfTZMHriG0r_9TAtRdmsO/s1600/Photo+21-12-2017%252C+9+07+27+PM.jpg)
 
@@ -67,7 +65,6 @@ So basically, the main difference is the coverage. Coverage Foundation offers m
 Shake before use. Dispense a small amount into the palm or the back of your hand. Smooth on and blend throughout the face, ideally outward from the midpoint of the face.  
   
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAkFkXbkzvsy_KwORuHI3eT-mEtwF44-bkhcDFM7eP0TlUzbLhtJb-nOQN6cTDxkig2xnh2rRRRqzNCjHGll3V6jezfAzf79ERpJLrrMhVchb_NHuX2w8LUqe4LZ39ihnkgNbVhNewth9/s1600/Photo+21-12-2017%252C+9+07+43+PM.jpg)  
   
@@ -83,7 +80,6 @@ It has a thin texture which is quite runny. When applied, it looks like skin and
 The Ordinary Coverage Foundation  
 The texture is creamy but it is not thick.  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi665Yt1oQdLnGfB6vqjgYs3Y38G-wnxvwq63wz6TMcUqT1UWMU5Jfb9ImGoibVKc5cbvcserUHKOcSvPAPM98SiAxe21ZADRU_WGweFkdvkpOM-XIm2ExJdNZkJ9PX8IRqYIWhzSGgegab/s1600/Screen+Shot+2017-12-22+at+9.10.35+AM.png)  
   
@@ -104,7 +100,6 @@ Medium coverage but is buildable. Looks natural, not cakey at all. This one is a
   
 As I have mentioned, the texture is quite thin and the coverage is sheer to medium. My dark-circles and redness is still showing through. It did cover enough of my acne and light blemishes, but I still need my concealer to conceal my dark circles.  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPRl_8VId5g58myRwQ094ActmGrwXr3AsdY_fH5mSOGQliF8y7LUtSFpp-MZbsR95xmoAgW8fgwApZbHw9_7IaGjfmKod73K3VQEo1Um_oSarQlboP5Lo9Byxat1YBVe7GBudTe_O5C_N5/s1600/Photo+21-12-2017%252C+9+11+06+PM.jpg)  
   
@@ -121,7 +116,6 @@ As I have mentioned before, I have dry skin. I am a bit risau kalau pakai this f
   
 So the first time I tried, I malas prep properly. So, it settle into my fine lines and crease under my eyes. Oh no. I don't like it. After 5-6 hours memang area hidung dah bercapuk, I just can't. It is also a bit drying for my skin. My dark-circles and redness is still showing through. It did cover my acne and blemishes quite good, but I still need my concealer to conceal my dark circles.  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUkeAsADFUffFyP-7EKPJqPjFOZyW_OnpeYiI_5a4rZnp8hUiNI5oCmlGfXMbljyixZdiKarnsmT8wrHMp_GGAzBAJptXvIx9g4vvPRw0AKJIadYtaJ9TqyZ1VQGZ8keQe0CgP8DuNNFRA/s1600/Photo+21-12-2017%252C+9+11+22+PM.jpg)  
   
@@ -131,7 +125,6 @@ And again, it doesnt irritate my skin, tak breakout, and I feel comfortable. If 
   
 My shade is 1.1N. Both in 1.1N. Just check dekat website findation.com and compare with your current foundation shade. I compare dekat situ je and shade memang sesuai dengan kulit.  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLef1qDYVymMjTYfKi1sGKBKpxGJJ3cqHpvu5YTR3M67V1abVuDpQaRBdyIG8qTWYPnUJzxU1XjfE82rqV_Tg3s6q_YHaktL9aryQEjWipxD_8q-os57gpns89g242juFUsiCcJoTaw5T7/s1600/Photo+21-12-2017%252C+9+08+36+PM.jpg)  
 

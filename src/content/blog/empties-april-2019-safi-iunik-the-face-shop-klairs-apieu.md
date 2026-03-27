@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmIDLFM8nJ0wZtLSXTmg6BWBeNrJQXbb4r5l9STn3inLDAWL-LDZoi4xBEGqH01ou_xQ1p49asn-agYwU-0Jw7C9vExPY1y8rj5URezxYWFBZ6LgS4ZkuWiBt_yXTCWHMRkdjp4mBi0iry/s1600/6D8C9F78-C3F1-4967-8CE6-BDDA267ED752.JPG)
 
@@ -23,7 +22,6 @@ Ni semua yang dah habis bulan ni. Selalu tau skincare I suka habis sekali gus wa
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSf-UQb6k_jDBYA4f34M1LoY709Px11d7h4CT6gyXrWBNLJI7Jx6syKfr1KyFrUAz5zvGZA2zYvxJobHdBVfw6jKgADtxUaLTvYJSF1PLi1-X74UJ_7pZQx_kHbwQYoGT9mZT8du18DTFh/s1600/FFAC4FFA-D629-4846-AB48-DB77DEE7DFA9.jpg)
 
@@ -43,7 +41,6 @@ It is quite hard to find a chemical exfoliator dekat drugstore and I am so happy
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5D5RGaV0dxh0-J2L9U5TK-QBS6upxeLYlXhX6TzC9UcoTyGHTw2eTatfG7YmcYyYJCST5xrImp5HdA7REEqhjrl5fuYZ1ro940EnE58os2OIFH1oapQBaTzw1TvF5UAHGy_lZVhMMK8_c/s1600/3E354F45-0B94-4D1E-9698-128A4CC1D674.JPG)
 
@@ -83,7 +80,6 @@ Review: [https://www.imanabdulrahim.com/2018/10/klairs-soft-airy-uv-essence-rev
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizO6OjfRY5Ov0pIWA9VB35j1psm8J0BvEUw4AlLN2u2FA5a5ACCxc6dxJogJpuSDUy4l3dZK29Ez_MpqXWwf-J3qaIw5-mHnCw0xO6bSRQVoL5bSBUu3GP4jSj4CpfQV4rcQJ8Pzy9G6q7/s1600/B678B691-9D59-4ECD-9F11-36C24494A9DE.JPG)
 

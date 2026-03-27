@@ -12,7 +12,6 @@ The main reason why I bought this cleansing balm is because of the packaging....
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikSxI9Wwc3-D06GuJoeY05TpFr0ySTvIEkGzdeePEfMT-pyKrJwGNiKBgvbIKlY40CwzzC42xbR0XB6bk_20BMsrT3IQf0nBt0o8mqUq99ctH8K3D7rfZx0u-LgnPRELODmPR9-6he42I/s1600/Photo+08-09-2017%252C+8+55+25+AM.jpg)
 
@@ -49,7 +48,6 @@ Availability: Hermo
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6IdMGRKvbgnfEPgAKHR9idPdue5bGD730npyh0CV7OH_zK5N8z8m4xt7GwRchihIhRsOupOxW37FXnIasgaQ_3cv2f2Xu7s9srUYUP-ZGsOA64Sia_r9IdnIsXc_eAECV8eUm1qHpdi4/s1600/Photo+08-09-2017%252C+8+55+48+AM.jpg)
 
@@ -81,7 +79,6 @@ ETHYLHEXYL PALMITATE, CETYL ETHYLHEXANOATE, PEG-20 GLYCERYL TRIISOSTEARATE, POLY
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguYaW6_HK7_eel4nOtr9jEuJlVtaN0X_Vv1CZo0LotCzq_SOMCJhiAeI8Ke09N0aNmI1oKbK9-cGU627TcW3B7r-fpmqc8ksryXneQZzbwtCwA_cvUkcy2rGM-I6i63kibzmxItDT2l4Y/s1600/Photo+08-09-2017%252C+8+56+27+AM.jpg)
 
@@ -106,7 +103,6 @@ It has an aromatic smell, I don't know how to describe but I love the smell, ada
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZTK4h_RyYVZtNHjvHkuOCAqaNTVTzfcIHhmsGcojPMF8vCGRwxniMolqcSl7Gkhlh0tGAZrJdgnrqw_Xrb6BcYlf8SZ18UDLbNs6p3RTWCpsDBdFTz125Z6R7TXE3LhU5L3gqQdYUfVU/s1600/Photo+08-09-2017%252C+8+56+10+AM.jpg)
 
@@ -130,7 +126,6 @@ Done.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgho2vfjbSLYQxqj1aNXEvEikTI3Jgl_qsUl7nivQGjX6Xgv5n1xR2Uxzs7ZRSmyfx5cs49_R5OL0geiL3XNQlyS4MEg9TcYzdx5Xoc-ZMxAtkQipFoNlI2yK1rn735cVDXrkTJw81lpkY/s1600/Photo+08-09-2017%252C+9+00+26+AM.jpg)
 
@@ -140,7 +135,6 @@ Heimish All Clean Balm Review
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib-5YSeeVthf6td4sMTuIlQionaDL-22jNcguFg5331ijaDRznjjuJtyaedcRrjuZYukouVSAAiLlw3Q-tiB5BZbjHBFxd-ZnGbMy0grilRzZ2Iomw88N6FIrNzVd2xUOsZweNv5huw9s/s1600/Photo+08-09-2017%252C+9+01+38+AM.jpg)
 
@@ -150,7 +144,6 @@ Heimish All Clean Balm Review
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXFoo5ol07ryqFiWP1OdyAK7kYTbi5JJSExA0mp8HqYwiY5bdYlLvKuTfm-7b-SatQ7EFM49Xfk0ATTcQDapxRsGMwYn6Pujo_mgIzeU_-oC9Ha4HGxgMk6-1uqXth2lEHYDariMJewQk/s1600/Photo+08-09-2017%252C+9+02+31+AM.jpg)
 

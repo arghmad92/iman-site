@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi10y4lMsRfCpayjIBWhqT0wS96waLB7pOL7Ps2RllwnNvO5Y3t6otjXr59W8ooWIjCEtmvYIiR2GvMvYXRVyL3YrPDPs8M7Keh-73ZPBrv9ajk4hqxP6-jSyHyWXQHGJgL85zEHRQSNoUB/s1600/Photo+31-07-2018%252C+9+51+01+PM+%25281%2529.jpg)
 
@@ -33,7 +32,6 @@ So kali ni, Maysaa dah almost 18 months. Kitorang ambil flight pagi pukul 6.50 A
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQt-nBbojE79Q4cROWF4Cyrv8WA5K860if2-VjiOJNlaud0_Idt-rNwTcr8ktuwfIcB-Dca0nfaHsUgxY854RNEl72aqNmr4q3QvwlV9CWPXsaEV7Lll2DsuL6_vCXa2PF1sb3Zpa5dbj2/s1600/Photo+28-07-2018%252C+5+22+30+AM+%25281%2529.jpg)
 
@@ -49,7 +47,6 @@ Untuk flight balik pula, kitorang ambil pukul 9.40PM and obviously bukan masa ti
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUMvb5Y3b4xV1-1TzM7nViTaCB5oVHjQ82BS_MpqH2dXgCUUqPNmhiWLNFeE_tBr36ipuIrvLU86ww7ZSdMVz7AlEPX4kHYSz6Pr7LYtgfOaoxkxXsMU-CesmqgbQpighnJb2tKMATMG6/s1600/Photo+05-08-2018%252C+10+28+34+AM+%25281%2529.jpg)
 
@@ -59,7 +56,6 @@ Naik bas daripada boarding gate ke flight sebab flight jauh. Dalam bas tu sejukk
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi10y4lMsRfCpayjIBWhqT0wS96waLB7pOL7Ps2RllwnNvO5Y3t6otjXr59W8ooWIjCEtmvYIiR2GvMvYXRVyL3YrPDPs8M7Keh-73ZPBrv9ajk4hqxP6-jSyHyWXQHGJgL85zEHRQSNoUB/s1600/Photo+31-07-2018%252C+9+51+01+PM+%25281%2529.jpg)
 
@@ -79,7 +75,6 @@ Tu tak termasuk Maysaa taknak kena strap dekat seatbelt, menggelupur nak lepaska
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiryc-W9-nJSfsxe3nrtYF6eS9MZnypu5izapOhSr0JPKApDiIcKWrRXClkvzLEBfpLU6nSBfc8g4hoYAfO8lEsKQxOoWIQnTZOd4js6hZUgbR1LP3FHrarPxG78vhtES99EQvS56sufObz/s1600/Photo+05-08-2018%252C+10+28+34+AM.jpg)
 

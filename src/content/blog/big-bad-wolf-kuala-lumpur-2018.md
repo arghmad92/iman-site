@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXrRxjTMwhZwV-Ynhwb_0__pHBxly2HtNn17ZlE3LNE_GFx08s19rkjYeXqVAqmO0rWg36n-pX7yEo4YZ5_-6Rv1Pv9xr1EqgXHCTL8UwxWS1w23G3JvO7pJ4fjRZ4Oo4vko4Frwlvqp1Z/s1600/9992F278-9120-4CA2-B22C-1EA66EE2F17F.JPG)
 
@@ -33,7 +32,6 @@ Location: MIECC, The Mines
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8IeqPyBDDJR8R8eLYW8epNslUSrzUozZ64iQj3a0tD1-bnL3y34l_OPgUPMNbqRui4N97zh9yGkX5eHlYpt5YMd7Mm-xPVVQtCJ7-KZ54JbtS9VvjNg9EoZ0WT1C7mENO0PBAFLQDAAnO/s1600/IMG_1494.HEIC)
 
@@ -50,13 +48,11 @@ Big Bad Wolf ni sebenarnya the biggest and most affordable book sale. Ada a few 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOfD-XyEodSmtGYuH1ePw_FYL-wjJ40sQejKgazCrLsgORqZYfjaqWgGyx3tVYX13VKGG-8ykfvM6XCL9dI_Fff58BZ2Aw7jPhu8Wpr3NN2pXK8rJMF0PlGHk8eTYFJEs3wOQGtJBFYAZ5/s1600/IMG_1500.HEIC)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZLomVnfkCtjZLFd3eKdymg0KAG3AHcyCIayoQiY_YCHSUgvjZItwBlGUomar1rngpzrPihf-Z30xrW4HyuLoBztGXySI7E7lLpxkNATPzKWkrj9FPxDZFU9PrgfwvgiNn3jrqd5ZYkmyq/s1600/IMG_1503.HEIC)
 
@@ -66,18 +62,15 @@ I punya aim bahagian Children je. Board books untuk Maysaa. Kalau beli buku untu
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV8E466TTBgBuxUxdnVE3Q5DIUYrb8Y52pW0X4-Cf4T_lc-T7Vtc60_lTbRhgvkmjC9KZwF5Be18ZeGcHUxMjd4CQ6VUb_82DegBnLsMTrnf2Yx66E5j4Je2h6yee0UprjFfbInzVhtIcH/s1600/IMG_1504.HEIC)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiljFKLEMHK1aOdr6uVEWBsqEhcT2DFIJFDIyY-zHsdFVQZXlHAA8hCklQ2JDe5-1CjvOQ6Dt_I-tFntcOcPx1xQjDDQUoJtwoLdF9wlb67pW71L-t8BPkI1gtrzlZ_UvEPAZkUh9TvNujP/s1600/IMG_1506.HEIC)
 
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR-oD1M-EARL-5TSckiu7OrWUnyY6lU-_WE6SGi9oQy2mG6VPG9_mAbEWTxw8UkptBRIry_z2AbyCI6bZonij92HH69zcnWukyGRihtHo1Fp2F378G59IY5azjqjq73IfzIGoyUtT8Ciko/s1600/7EDB1848-0FD0-43E1-99B8-750FE89D2853.JPG)  
 
@@ -85,13 +78,11 @@ Ciksu Maysaa beli buku untuk SPM. Ada banyak buku latihan SPM, harga RM2.50 pun 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-5f0S3fiDiQBG1clXL-qkI2RT7O1wBY43B8IEcGBobnNDNR78iK6xxVOqRis2mIqaxNafH2U4LMugTFR2ozQelv69Zr9_jf47SwgZIZPvpGMVNX1A4q4zTMl594SU7y-aSQTJfXUIdhsv/s1600/IMG_1599.JPG)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmjqAt2IeBDAN8DZsbcrOFk7WAi8KaDQVd6zyo8OaU1EKKfZKZ8CkLwStNB8vO-8JXe9V0SFyVR7m0xheHg66GfVxKyL2eiWEOA1R3jKTaamdXi2_PQ7fji6qURutqtpjtetzX64-H25Hs/s1600/EDE7244B-0891-4EB8-AFF3-534998CCD9E7+2.JPG)
 
@@ -103,7 +94,6 @@ For me, I cari yang real pictures, tapi sekarang yang cartoon pun Maysaa dah ken
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgEdQIWtI-J1dwdfHMOzRgyqbJUEJcsy4vTGBk0hlHTx_5dr896UeM1u_TyUoju3-tYB9yf-HUuPTMcgzfkcJgsarP2QxB6jjp2a8mpmc-JIJUsnBjpe59wD0tOGmQ9wJyGJlT-ArUS8Yh/s1600/7E469F18-B85C-4C66-9638-8CAE28C1FC9A.jpg)
 
@@ -121,7 +111,6 @@ Mostly I focus on animals, shapes, numbers and colours. 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9cIvm0MzgrPEya2CutrR0Oz_4sCm78vex8IENrt6NgJGRtkMhIlfDC9sT261Enbgd08MMlBNf6ZLG5L6aqZ4Q8DujfuN87iPsVSVhcUFwNQ-7gtWcM3jfS80CD-zHZx27N1HoAnSKVvtp/s1600/IMG_1628.PNG)
 

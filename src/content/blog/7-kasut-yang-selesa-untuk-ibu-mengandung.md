@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM9Z2uNbchIw4YEQBo5yiALrS-oFknC5oWjKrLFOzQPSzMv2OZcRoD7h1t79iVSoedVEQ07qy9qydZ008gFr3Fp4RQi5dsVAy6qHNd2sUPZNs0pFpS103OgIHOgHBTBORM3urt2qloynUG/s1080/kasut+selesa+mengandung.png)
 
@@ -46,7 +45,6 @@ Antara benda yang paling penting bila pregnant ni mestilah, kasut yang select un
 
 **Kasut yang selesa untuk ibu mengandung:**
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM6wQKEDFcraUGLjspJKDGM0XWJvnEswyVMrndG_rc3NtDIj3Dp0EnaEZYlS62F6jfKQ4gc1j1IT4At3XZAxFEWu6b3vmC5wRUNz1f_DBUEG2lediPyjFnBZEEli1AP06KK3_lx_Wsl78K/s1448/Screenshot+2021-08-24+at+2.10.10+AM.png)
 
@@ -62,7 +60,6 @@ Boleh tengok banyak lagi kasut Skechers di[sini](https://shp.ee/q4spubb)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDuUtRUZzkv1WDqV21waLmtT0fxm9yHwdJJ2lxIvlaBXlMeEZNU2iFJWlAghSjH6mmAgMaUpsW6NcVXjJ2z-QvLwe8ObiOEiKmNaG-1EpXLiK3YJpgXtSipiTw0N3vIG9-vlPq9dO2XO48/s856/Screenshot+2021-08-24+at+2.16.06+AM.png)
 
@@ -82,7 +79,6 @@ Untuk tengok lagi banyak kasut BATA, boleh tengok di[sini](https://shp.ee/scszzt
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_I1mptxdLcUZR7EYCHhbe-_XJwg0mmI0P5q8VzscjZI1ki9nLL1Uh-9VBsAdUrWF_EJusqRNISAHnauP3m8EZtXB3G0lzZjW6z0F9AMxeLqAeKLSPyjN24hEj_9KaV_wnzxAgaSdNVuqV/s1420/Screenshot+2021-08-24+at+2.20.17+AM.png)
 
@@ -102,7 +98,6 @@ Design kasut dekat Scholl ni tak banyak option sangat tapi boleh try tengok [Sc
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLSQNPMMlLUsjRBQduz2JJVOy7rXmowu0PNWAchRYL50A85wIZFtcnLnyVMfhswDHVhFR3mAAD5eHOxellVIP0mJLKnymjyp7A5nMRZQpQhM44k-auBSbiwrxe8mO_9lfOM5V7KSdxALxW/s1676/Screenshot+2021-08-24+at+2.22.55+AM.png)
 
@@ -124,7 +119,6 @@ Banyak lagi design kasut cantik cantik dekat [Clarks Official Store](https://sh
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJC57jQwsVRe5WgBGXLLXmn2u68wUH-z6bz43XNZzRmV-8FmgGa6pDBr8_ty5xABnl0nOOi_tSPeUwpPnWmaFENUQC7JEUZ8FOfApSaPU_NYBlhvI77JDz2jzYPkbRzMuw4WrAN5ZkBjTR/s922/Screenshot+2021-08-24+at+2.25.59+AM.png)
 
@@ -150,7 +144,6 @@ Kalau nak selipar yang selesa, boleh tengok [BIRKENSTOCK Gizeh Birko-Flor Paten
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnYQXvvlsLdptsEB6oRR0PNy5IbtKJRHFf7wiw-tN0TAtNw7C_BbgkOmvuo-tizr5TA3plyx4bs0wzsBbJ6BzuAM7pPArNgOKdRm4-f1pzNr4grQbIcJtucbRDL94iEcv4R9ZFClBB7L8/s1270/Screenshot+2021-08-24+at+2.28.03+AM.png)
 
@@ -170,7 +163,6 @@ Fitflop pun ada banyak design sandal yang menarik. Bukan untuk mengandung je, ka
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNAvlUlPEq9cvVWDZUh6sHwKo9DT9Q_YhnE6DLMr6AsisAiMJBW6F2UDQQj2Afq2fjfpepvvchmD8KYI2ym5s7ZhsfTZr8a_5AY9qXQFv4xS52EwgNQXnUBVWIWHBQ1ej29Ru9_Ztw05UH/s886/Screenshot+2021-08-24+at+2.31.11+AM.png)
 

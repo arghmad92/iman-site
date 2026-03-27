@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwa8exK4A3U-6FfhYZxwpxBHVe1dsdz975BMxzNV2i7Gca6ZGj6aAXaSsBidMxCvgsYwpRECtDebcLexgUVW6-fIeNXMb4eSl8yAx-745Cl-V38tBTDnBSNMnnpQvTmGu50KST4Zcpukw/s1600/3A22B5C7-BE74-4565-AB9E-C01E635CEAA0.JPG)
 
@@ -38,7 +37,6 @@ Titanium Dioxide
 **Packaging**  
 It comes in a 50ml white bottle with a screwable cap.  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcpiV6_N8X-HhLBRcsrUQHVTfvhigEW89PTr5w9wWX4RTjTpdAP6q0GRk1zquezvj9OmbRxWCI4X1EV30NOG-LNUIbFTOdAdcbtgzrfaA-7lZzjDZkpOCV-MqLP3P3c0l3mWsL0TCZZK1v/s1600/100A9C72-4E46-4310-8D76-440D4BEC7EEF.JPG)  
   
@@ -54,7 +52,6 @@ Slight chemical scent, macam bau ubat pun ada jugak.
 **Texture**  
 It has a white milky cream texture  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKMQRFrkQ7zCYRo0fPYY6EFSu1soac25C-6SPURjMQsO8PX_EfsF1zL2qjcoh5enT6SHlXUmFKPIzgCGFmWIc_9mBjIxNUObmmp7vymqJ3ZEQymA0VosaipWX7vfo9DFbgAjpjOXyulTkS/s1600/228A6134-3C39-45E3-9C94-E65F3C1F2970.JPG)  
   

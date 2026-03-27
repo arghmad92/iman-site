@@ -12,7 +12,6 @@ I know, as a first time parent, you feel like buying everything. Me too. I feel 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZpnRd9s25v0NWGokGDqJ8HTcB9eAPtlIuaqHNNLdf6E3UnapnRoSU1KMBUo069DM0FnpkEFWDm6mlnsZn6jO2z9IthgyH0zcvkq1Yd1A3RS0Rj1jtI1ovPDrUFAcTIfMHtRZ83c1xYpyk/s1600/Photo+16-01-2018%252C+1+58+42+PM.jpg)
 
@@ -35,7 +34,6 @@ I bought from IKEA, Lattsam Baby Bath, RM22.90. 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm8SduBudNZLzxuhkBseXNfEi4xVubHLmV0s5OUB7LFFuoI3mVyxPlsKKv301H2dyxrh17sy_nOXtMEC7cbGgT5yZyXGeMUt_v2aRMIKKakTzo8S1cgFLQZvERdGECOe2pkvOtwpr2Wlh2/s1600/Screen+Shot+2018-01-17+at+9.45.47+AM.png)
 
@@ -53,7 +51,6 @@ Second most important thing for me, is a **carrier**. Mine is Ergobaby.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZpnRd9s25v0NWGokGDqJ8HTcB9eAPtlIuaqHNNLdf6E3UnapnRoSU1KMBUo069DM0FnpkEFWDm6mlnsZn6jO2z9IthgyH0zcvkq1Yd1A3RS0Rj1jtI1ovPDrUFAcTIfMHtRZ83c1xYpyk/s1600/Photo+16-01-2018%252C+1+58+42+PM.jpg)
 
@@ -61,7 +58,6 @@ This Ergobaby carrier. I bawak Maysaa merata rata. Jalan dalam mall, makan, lepa
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA6MQQfUlrUPJpdw1x2os3XD52xiwHbBSfXqrJOJQsw6YR5odbD61dloUneh-fZsFY-UsLSfTBlNK7i7b_ub7YJ6bNNvr7O9tOQY9IXGMZr5IHUoDsir8tY_fvBU5u2XW6R_1wWamgxkhp/s1600/Photo+16-01-2018%252C+1+59+24+PM.jpg)
 
@@ -69,13 +65,11 @@ Cuma makan tu susah sikit lah, takut tertumpah atas kepala hahaha. Time ni Maysa
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg17nyKFHNRGio87DOQ3YoZHhaV3ozDD21c9QbmPj4tyuN3ZJItTKqtqRkISCfzIOLYJRs-3l_dz6ON71PZbFbExw_yCb-l0_md41_V06YYqM0UvQ6o-boenJp-3bOXep5k6JnbW0_P_aNx/s1600/Photo+16-01-2018%252C+1+58+57+PM.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV3_-h8lqtllYYyhQFSfirVZcCjWhSmQIM6ZCFGrhV2cqW2r5QZStG-bg3fS_E4K_reMctjtaaPa4HRdSpvx2v2GXW59cGGVkY4vCGY5xsCN0gVFn54yT7QTgizGlffrGWlqKgf5dngN1u/s1600/Photo+16-01-2018%252C+1+59+10+PM.jpg)
 
@@ -104,7 +98,6 @@ The third one is, **carseat**. I didn't bought this at first masa pregnant, seba
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSHKNoX0TGdcEInJeyWT-rjr3Wr6vshdCZVFMF_je7wvHp7PHWe7aVk46RPsVv1FxiDScLSpG0i0liyEYGCub0V5yWexsuEpTW6L3jI3n7ErrOEG3IEmvtKSjCpJE80MBkVtm_e6A2y42/s1600/Photo+16-01-2018%252C+1+59+56+PM.jpg)
 
@@ -112,7 +105,6 @@ Maysaa 1 month ++
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9Hqbl3MsOv-f556aqrIGDXbes6jDvMaEDqnUSvsxE47txMq7-pXhLynKJ7e6kTUk5U9WpK1xEcb2ZQkMHQINr55mfIMa0iS6MlD7cScUTbEwYck6x1zG7tKrFbLEjylVkcU96ICHb0nW7/s1600/Photo+16-01-2018%252C+2+00+23+PM.jpg)
 
@@ -132,7 +124,6 @@ Next, is the **baby bouncer**. I bought this from a friend. Sebab saja nak try, 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ5p-oI3FIqmGyXssAWsI2v2iq2lFsyJVhWbu-8mO4E6rNzgSBvQSjy3zxIaSJpsavGYY-TP_isOEgZQKAxJjtNJgx2ogCMgsXqrReECa4UBqu2RAuEQY0eQooxbF1scfRBfhNQueRFvwK/s1600/Photo+16-01-2018%252C+1+59+40+PM.jpg)
 
@@ -140,7 +131,6 @@ Turns out, Maysaa suka. I bought this masa Maysaa 1 month, bila dah start mereng
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUHq3j-hd-bKfpgyqZ6n9zOPgDmpDiU4rE0qNu2bZGoL_dhdqqplNMDn1YYUzFXsK-fK59CH9ODkdhLdk-ZagdXa-S5vS_RrHFlA1K9d21nfNocqForJf160PU9l6pQM08TE6dXYffx8lG/s1600/Photo+16-01-2018%252C+1+59+50+PM.jpg)
 
@@ -148,7 +138,6 @@ Daddy pun tolong buaikan Maysaa sambil tengok bola.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEganzaJNwxAAnnIByNT4G7pvhS-P2P_XDc2CzKIOnAjl907RVfaANpaM1Mlz2r_EAnY-C_QSgWcNuvQmd7aq9vtUvM8Kxk_s_5M0qZfLiPhZJWlFgtqmEskRUW8_HsLf-8WYkQCSPVl-UqK/s1600/Photo+16-01-2018%252C+2+01+35+PM.jpg)
 
@@ -197,7 +186,6 @@ Hehehehehe. Well, I bought em when I was pregnant, tapi sebenarnya.... Tak guna 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibTlOlP5Mf8tRl0mHf16V18AlGmFfR_-weUEuDJC98SI-4Uhn5yJJ0TvYVDGcy8rJSFstSjaUYQVboYne_P3ti9w4GzwYgvsnHS0we9935PLqh77XHWQyhZYxxZa7EJX9vIhRLtwaz9wem/s1600/Photo+16-01-2018%252C+1+59+33+PM.jpg)
 
@@ -218,7 +206,6 @@ Firstly, **baby chair**. Of course, tunggu dah pandai duduk or nak makan, baru l
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAQU0sZAT3oCDcCr-lciqUI-gEOyUtTgE0sACcukhREiZZLoUZq4b6HcKPgK51Effh1ldrMejuKe1_4fnNSG4M4BlFTF6pdRz9h5ZD0cS68asN-YrQdoPAb1mylDM8Ai244zAGZ9_fyNpZ/s1600/Photo+16-01-2018%252C+1+58+15+PM.jpg)
 
@@ -230,13 +217,11 @@ The recent purchase, a **stroller.** Yep, Maysaa 10 months ++ baru beli strolle
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHRXTJaNrsxMUD5Cf-IfW3xT4UJfBXA6l3Wdy7RMJ1PzXi96yy54a5erQfdnZ-UJhhSwFN70cetK721_HL70G73oUtfJpMUBArnduqmCQZjpNRAD5SK3hHt0dcbpgdp64QiQF0jKIlT_QS/s1600/Photo+16-01-2018%252C+1+57+06+PM.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGxBxSaFbQ2TkT83EoYJerUKM4IIE8bAeyYe-9hCPKEfAvwLaEzEo2yuu3MdDBhdFJppcvryRAL1l_-tLL4LtbzfguJ7dJo7pZEVFjnR4kJCtb9ZHxYns3lCMSxVGF9MUVBXxBQ03GFQn_/s1600/Photo+16-01-2018%252C+1+57+18+PM.jpg)
 

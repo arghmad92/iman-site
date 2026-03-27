@@ -12,7 +12,6 @@ This is also one of my wishlist, Cerave Moisturizing Cream since it has A LOT of
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNSxWqYZgKVAP-epu767JFKYv6M_cbUa_Jx_jI3FTSOfZEjNKRh-vHlUhghaigWxzPCPHWJ5iRq7IJ5XbdPAEN866wyhAADZv88GPHOLXE_DFlBujuuf71tltt9XZE6_AuaA5c8anRE4mn/s1600/Photo+12-06-2018%252C+12+52+07+PM.jpg)
 
@@ -24,7 +23,6 @@ This is also one of my wishlist, Cerave Moisturizing Cream since it has A LOT of
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhENh6s9LTlRqf5IzDV7uqLWuPrWGQSzN1hwlx9442zxG36IrrvESiHEJAJ38z9duLs43ahlECw75hmjMurzsKtepzI5wkxdbD9pEJBZdr92s6Rt4TqgievuEMGcKRJxAp4wQBCT2kUW0iB/s1600/Photo+12-06-2018%252C+12+52+10+PM.jpg)
 
@@ -36,7 +34,6 @@ Developed with dermatologists, CeraVe Moisturizing Cream effectively moisturizes
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeRuhwvwK-OtUXtA7KW_qwJuHDN9FOO0_KjU7vrMVLdgsCzg-mLdTtVWrk93nmglrMg2s3gIJAhj8IH0I5pX6NeWBzwKm9cELZJdZ69ISmIEAJI5ZyBrDa78v6e1ipAtzwkbT3sha0cmur/s1600/Photo+12-06-2018%252C+12+52+14+PM.jpg)
 
@@ -52,7 +49,6 @@ Kalau ragu ragu about paraben, you can read it here: [Paraben okay ke tak?](htt
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqbIQIQ6zYET4GySmW5X_JTB-4db6mYKZHAkCRMKFm43NhyqxTUUZBViUvdFe10KnnW6OK9nms-XqJmQeabES9I4bIU3i3v3jX04L819s-I_gyaLavpj4XInYRj0yalEUUFxAkUcu9sWqS/s1600/Photo+12-06-2018%252C+12+52+22+PM.jpg)
 
@@ -64,13 +60,11 @@ Kalau ragu ragu about paraben, you can read it here: [Paraben okay ke tak?](htt
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjj69PBwJ7kze9o24Cp7Uz1oLNXJnPnfMTPEr78hz6yokfkIvdiIqBlkwCeoefo_IS3-oBtP3OdiqncGhr2iZqR6EpPkxFRecX8wr7dKqX97lUqMcd56x1A7bfTkN-0EKKVKGQwwEUfKPU/s1600/Photo+12-06-2018%252C+12+52+33+PM.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6WEjwbq8C0LjRAn1kFSsGYflt60qyIqxBbmLJbrY7mCn-SpoY3O8XOjNmFxdBJ_8PXnOHC2vRw2vGqwo4pq9TkqO1hjAVeRhJuz4SfPLTTGes2AbrqTTxd0tUFx6iMni0e_ON7F0gMTXP/s1600/Photo+12-06-2018%252C+12+52+40+PM.jpg)
 

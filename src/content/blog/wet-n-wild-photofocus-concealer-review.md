@@ -12,7 +12,6 @@ Another concealer review. Yes, I am into concealers, so do expect more reviews o
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIJxirZCekBNM3nDqYP67kXegB2HBPzhKCxp-IFbHDSIO1U3g2a-xbYzxiEuizUWAGpDxCpO8N2r_nMFwpg2KIDXYVb5nYlh6k20Z_PlwxnAggp0bhLqKZo1-nzqqY87x6DbXIWe1ZH0c/s1600/Photo+05-09-2017%252C+6+10+35+PM.jpg)
 
@@ -42,18 +41,15 @@ Let your natural beauty shine with our selfie-tested creamy and luminous conceal
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjElJYWDiz_ME-YjrZsT5mf7vq842OLorJWOMBZx7ufCEJbdCDP1KicyIEHcdOfJ8UaF4_HdCMqWVY7H29ZmDsZSMW0BA1_JV7at82aQRWBBF9VqSrKck_n4hhZgcZJUUia2PJ1ExVLSqw/s1600/Photo+05-09-2017%252C+6+10+48+PM.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBIZfXkLsK5Po7mAqmUQEpbVZAEVOcNZ3u2pmlbjuy9zJv8K2_JyWYbNSEhZzgPEW3T1_XZWj0m4wmneoFXLOvUDyQ6yGeoH-jrqO9DEF5-Er2ryYGgvpGTPX67IvxnyurGHzwJOGAqk/s1600/Photo+05-09-2017%252C+6+11+06+PM.jpg)
 
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAU226Xq6e-ekaIuxxeBuW78EvKeF1Dyv4QA72x4lzcDT1izWt5BbiiIUEAqxSn_zXe9DPKvrfNuWSM8E9vHPxezRateFsRDpVgZF89LX9yBxE5G5Wm4sKfLUUX_KH9Lp0C3UbzJjUNCk/s1600/Photo+05-09-2017%252C+10+36+09+PM.jpg)  
   
@@ -71,13 +67,11 @@ I love the packaging, in a transparent glass tube with a doe-foot applicator. T
   
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0R7gjUnRYLqjqOWKs547GW6Qyk5UMqprsXwJJahUfER5zCH_qeEb347pMgjjR_1idBI_IlRfpseZt-r7AjRhfHhbyRWAlLXoc1wqIjrqxi40bvYlc42ggvKUsnKpaDo6eATJl8ul-0fo/s1600/Photo+05-09-2017%252C+6+11+32+PM.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkNpRAGboplX-YBTFuLUSTm_EJDtmczDHskKxbNdCC87hBiZyNKZAuGGPoAPwWSbT9JQrjMhVG-7N3oeOUr-eguUInyeLFdKh9YSnYbs1huuLgnIr6VaX9XMT-C28QCNh-6Y0UpYcP83g/s1600/Photo+05-09-2017%252C+6+11+54+PM.jpg)
 
@@ -102,7 +96,6 @@ I love the packaging, in a transparent glass tube with a doe-foot applicator. T
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNAEDdN9ipWhyphenhyphenKUDExYCzK3bq7VIgHUzt3Awd3ZoWO5T2DSf2X3j4VEYxpGTta_zPom7i71ZGrRUxYgKFB28u9T49CrQKaOKUW0rC2avx9IByrMSQn16HnTr7sEazY_C_LlItGLy_xRA/s1600/Photo+05-09-2017%252C+10+36+10+PM.jpg)
 

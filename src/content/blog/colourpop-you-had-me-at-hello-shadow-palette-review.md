@@ -12,7 +12,6 @@ Another eyeshadow palette review. Colourpop You Had Me At Hello!
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYRKUQWJlLSKwRpN1P7s0gINgHB6CEue2-Ct4lYT-w1OgjvGioifPMhG9WJ1WMttcNcA4zUB_kH5f1YhjNSVvztvTxWAOeoJ9FktP6w9fCJjVc3WXbaDuvKLqe0BTHhoKvjJZiY4CwllxN/s1600/Photo+05-02-2018%252C+1+50+31+PM.jpg)
 
@@ -33,7 +32,6 @@ There are 12 shades all together, 6 mattes and 6 shimmering shades. This palette
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyHvx64PWyeLAQVddj4nMG8VmmZlPqIa1H5eMZj8tJNy1RZcII0SXw86K6mzgx71NVu6yONyT2KQ-HVP-B_xlV6TupV7r0bLCAb6y_8P9OEvkn1CVzmPbpfi7TSaUGJYdZ0NHgEQaGd4NC/s1600/Photo+05-02-2018%252C+1+50+36+PM.jpg)
 
@@ -44,7 +42,6 @@ There are 12 shades all together, 6 mattes and 6 shimmering shades. This palette
   
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbOZEAq3PMH5DEytyPAiwxsKCdhrVBjeSmobveS33wRl_dgpAz5PfzPKotJI7AczhmSgt5h-a8CY-AIbjShyphenhyphenfGUcyNEwtPPRT_T6DPux8ohWfKNsCO3VGpuNjqUZoS5t_vc-_sUOWW5gpK/s1600/Photo+05-02-2018%252C+1+52+02+PM.jpg)
 
@@ -54,7 +51,6 @@ There are 12 shades all together, 6 mattes and 6 shimmering shades. This palette
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicIdfeBkZpblujBETo2w7LL9sRLxRcNSC-XrHAgbNrTVGXl9pAGXBgukr5NXFECvCaNg1wVYO5EvcFR3TmHx7sMk-HNQxKmY95KyJCxXZ7vJnuArvYjoaDdhuakUuqw9WS4SsRBFVNx-xm/s1600/Photo+05-02-2018%252C+1+52+38+PM.jpg)
 
@@ -64,7 +60,6 @@ There are 12 shades all together, 6 mattes and 6 shimmering shades. This palette
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSnOwk9HG1VEJkHT_eBgsnEEyVoCMUNxrxu4KMTWuMBI_DKRO1BcRtQhNHCygosEM0Bns7d-FguBtd9O-UZlE-BgEV5_crvdUY6_nuXOJLQQC3Q7I46ipU2PWsX3CldmkGPTGvUWMrnKHh/s1600/Photo+05-02-2018%252C+1+53+15+PM.jpg)
 

@@ -12,7 +12,6 @@ I don't remember whether I pernah buat review mascara ke tak. But anyways, this 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkxLajMfa7FvGJ5fT0DHY0ixfp2NA-OVlF91YIu9-EH3zubOWVv6yIC68iJ4Zyzx3a9jfF6wdYH1PexmgkJx440oyjlEE3uoMRu-mCcWvvRewQCzd11YOun4FEsmKRpLNzoOw4lz6UL9Qj/s1600/Photo+22-05-2018%252C+1+04+14+AM.jpg)
 
@@ -26,7 +25,6 @@ Essence is forever my fav mascara brand! It's cheap and it works perfectly. I bo
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg35bfTgK8cbF5dUy8Q3sciRNTSqdupQSWEb3FFykfcIM61aqjwrFV9H0IZqc47yTevf8czGCYvqu1hIizqBYMl3u1WwXghI_gbZ0xd-l8nWat5LjLCmEcuwDDLC0uwJEymXVwpUtMIv4lE/s1600/Photo+22-05-2018%252C+1+04+36+AM.jpg)
 
@@ -46,7 +44,6 @@ Rate: 3.5/5 - It's a good mascara and very affordable, cuma susah nak bersihkan 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivlT7Oyd2uV5J0x9fSCAPjjeVMpOlHl8WTJhcWLyqsmVMpuuGnKti3Mmv7kPrvvNVoB0eXEEwxp7zngcd10QwyL1rwLvYDoCU5mVFxX05nYloLmxu5SrGf81NjwpWRDeB6qUACM6mv-kAd/s1600/Photo+22-05-2018%252C+1+04+59+AM.jpg)
 

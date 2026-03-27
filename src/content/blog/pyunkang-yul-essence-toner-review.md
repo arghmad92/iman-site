@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFseWc8mL2sPBo6xTNQYbXAKft9D9cb3ixzvQAgFPxK8cjJ_ZAs4tRDFRW8RB0e6UfG3A-Nvrp7BpqGCse6055jh4AClmf6EeQFqIVsIzuNjoeBvSOAUhjKikpOfDCybpcvBO-GVHDhPHb/s1600/40559214-4077-45AD-9ADC-B3166F2BB8A9.jpg)
 
@@ -40,7 +39,6 @@ Excellent absorption and intense hydration
 **Why I bought this toner?**  
 I have this long wish list of hydrating toner with no alcohol and fragrance that I wanted to try. It has a lot of great reviews and of course, I need to try this!  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWGW2KMH7nvfOqWeZQsYXKbVeLe1aMuCoEdu4kn7fa7S1sr-KpvLeRyyppqBZ-9NROJl_ithNx2IyROfE1BQQfwXNEY8RiTY7dFBqpZ1jQHuTx_fANWK4gOm3j23LIDWQEdxQG0-UBwM3r/s1600/790FBA57-A33B-48C9-85D7-EF74760D9F97.jpg)
 
@@ -62,7 +60,6 @@ There are only 7 ingredients! However, it contains silicone and some skin might 
   
 
 **Packaging**  
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIHh1Mez35u8fgP8bISUSebsG79dmyiH62N1YcL2JJKEnfcVFGO5IcufxNr-zHHiak6FYhoEVNTyhN6eAiWpZAtk_yGRsE4qXedc78xweYuzcA6BJDavEgc4D12MfPUWAAInZr5WGTlADh/s1600/85A3BFB9-8B9A-4970-8BCE-33C21D8725B9.jpg)
 
@@ -72,7 +69,6 @@ It comes in a 100 ml dark blue transparent plastic bottle with a white flap plas
 **  
 Texture**
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbV7ueNEbXmONRGgqaUPEKAp7fEhcjXsGPeep-eCe1D95Au_7vyxv8HLMEPkHRRUtmuOREJ6SaDi2whpowpQCwBmL67ebUDpgWuIBP9F9mOFc7In6lxpgxk3naz6pVpnBcAs-WmB93Amvy/s1600/6707BB35-8552-4523-99CE-0A5C26412574.jpg)
 

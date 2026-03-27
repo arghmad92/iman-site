@@ -14,7 +14,6 @@ I am going to share all the facial masks that I've tried, what is the function o
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjARiclj4XrhMMYQAnY6UGSXdZrfLkrm9QFsRzXwprv-45InsTSCQ500KRzuF7AlLwnLW9QoTCXHb7Qk_NXXSptHK15A4_VV72tSW8fFf7PiKWbB7U-KRxN20BDLrwtD_YoizCamXbLuN4/s1600/Screen+Shot+2017-09-07+at+11.25.58+AM.png)
 
@@ -39,7 +38,6 @@ My most favourite mask. Setiap mask ni dia ada ingredients and benefit sendiri, 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIfGP99FDQjEeamokVRMovv_o4hL02pJiol5OEbGbNU2Cc8_Nfwrx6U1M3YrsZ4luRIzJu4u_CrQJJpRH1_HYzol3FXyK9QB-djxvBNSDtoPIPVSvGosYYxhI69jpcHZcw2YGnddGTak/s1600/Photo+07-09-2017%252C+11+17+44+AM.jpg)
 
@@ -89,7 +87,6 @@ The only sleeping mask that I've tried is from Laneige. Sebenarnya function slee
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ9XHueDQxsfAJ-jcmfp2UDINEGWoPhxaIZ06RoUtee4EBGkJb8SNXhIw4HRC2_-LqmsiagUsBljbE3sB6sX23OOqWo9P9WWWQmSqJKPW_0mAM4eMklVbGlqInnp8gJWrhl6CjTKXGqe4/s1600/Photo+07-09-2017%252C+11+17+51+AM.jpg)
 
@@ -125,7 +122,6 @@ Mask jenis ni biasanya letak dekat muka, lepastu scrub sikit and bilas. I rarely
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_YxoRtGMYc-i_xXzL-8L0COVwR6x0h8ifM9BeRlU1aEL0GBNdO9kfRka9KvTjeSyhCwhq8oSNUyCPr2K66F7_CTrKiWt-Txs1k4IdO9Uy8LNLLgB0JScc4Y0qPRqhJ2bDyuR0F3uVV4E/s1600/Photo+07-09-2017%252C+11+18+37+AM.jpg)
 
@@ -163,7 +159,6 @@ Untuk bersihkan muka, kurangkan minyak, tarik segala kotoran, buang sel kulit ma
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPUGHonyk2O7McwXM1kMQwxjOFCQ8H0aUG6LpENsEqsSS3fD8lV4OwaRUgWj1kWNEpwSR8qfLbnuGr25kDybBv-h8ATKhGeboiXlegV37oOnsTGcfuVnJyTmqJkELd1kmedHdPbANkXF0/s1600/Photo+07-09-2017%252C+11+18+04+AM.jpg)
 
@@ -205,7 +200,6 @@ Mud mask ni sebenarnya function lebih kurang je daripada clay mask, tapi less dr
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisBcqwkBotXnIXF2JD-sVUbg433OEZvdDOEbr_AzmVXEHsguQHIDMolQjPcQPiSyi-E78v0S88AFjRsnbrWNC9oNofhA3VakN8JaKPLHWPUYy_X3ju1capjwIwRHxRjgksRWNpV5RXB1o/s1600/Photo+07-09-2017%252C+11+18+30+AM.jpg)
 

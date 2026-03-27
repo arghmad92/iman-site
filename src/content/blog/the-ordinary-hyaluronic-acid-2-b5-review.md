@@ -12,7 +12,6 @@ Been using this for a few months and dah nak habis dah. Baru nak buat review hah
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9v31G1wHXZlNV_ehu3WEKpdLEV13Dtd0atkdjqrSbJMRuFkeK5YgoLHXsCQOlinBuqOPUfrkNDgZRcvATWoy0QUUcMLvapcnPpu7sggS_LaXGgOq_oBFoEA3VMVae22qqtMrGBTAO3zO/s1600/Photo+25-02-2018%252C+11+49+35+PM.jpg)
 
@@ -47,7 +46,6 @@ This product is mainly for hydration. The ingredients:
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCYoqpRohN7ZBd-ZOsl6eDK47pSLf5GxT8K5YmNZ9QIBX2yqYXRWtWqPtP2ltBBtHfAa-02pWfhBp2KV3QmRvczhZ6EHX0TBgi0CWAZRwm5pFWyEzruPDe2YREsYl4M0Amld-6zCd6bWY4/s1600/Photo+25-02-2018%252C+11+49+48+PM.jpg)
 
@@ -61,7 +59,6 @@ You can get this easily from instagram, just search the hashtag #theordinarymala
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDMUHmFXPHjHYh_YuphHTHz681zPMmITvg5wPl3jEe2pZKpnFIt-tVUUu7YhRwqZyBEOy95s4X659VpYzHIZw4IuvB_9Vlw3DU47Ue-B7FrCYIs-O4cCqDcrRr_ucbBgVQx8eIPdnDNZUL/s1600/Photo+25-02-2018%252C+11+49+56+PM.jpg)
 
@@ -82,7 +79,6 @@ It has this clear thick texture which doesn't absorbs that quick tapi okay lah s
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0yrHNmi9YvJMNRHXRQrrQ92yCazLpktsB7kPNMQUK3nXd9PyzPKDWdXYGvGmtMey52LZu9EKeBzvB57nu4kU9plHGkzNQXrEPcrro5jdDK3PDYK9uFdNUfJ4F27GvSyJWsK-eqopsn5y/s1600/Photo+25-02-2018%252C+11+50+41+PM.jpg)
 
@@ -107,7 +103,6 @@ I normally use this serum, mix with niacinamide. Review here: [The Ordinary Nia
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTQafZZhEOrIr9xkbrfFo0_KA3RPbKaKP890dRVVnuiI5vCaXy030kyuxELufDm-n7CVCRv8dykUWannUmM2NJsiKXHNBoWJ0CUiqbpb2TJ15Ev4cfrZPN173slH3QHGTNQD584mwEvOo8/s1600/Photo+25-02-2018%252C+11+51+23+PM.jpg)
 

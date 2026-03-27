@@ -16,7 +16,6 @@ So anyways, I will still do a mini review on this palette 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8iCF2sZqbkaW1V3PvNOtkBf27VlTzY9ZMkDvSYqfXIolFA5DXpT7Ta7zfGlmemAI1HZ4fwJYIgheq39KpNz7pRZvYf9PsvgLdieaVjB9HQpJiuP9Ngq0VI0nfBB1GBfntcLqQEgrsAf8Y/s1600/Photo+22-01-2018%252C+11+00+46+AM.jpg)
 
@@ -31,7 +30,6 @@ So anyways, I will still do a mini review on this palette 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4_2LcvXfuAeZPo9U9uLehbCj4XJzQq381C-ZTxTGJQEQX61YC4Z-kuWxTFeyjvg8eUrsmziMLmH0SNmRUgSupgIEC7EG0TXstunVpA6CwTPKGIPTPnLXINHkmqOU3ovlxg-tMnxEjDwoB/s1600/Photo+22-01-2018%252C+11+00+39+AM.jpg)
 
@@ -43,7 +41,6 @@ Surprisingly, this is my first eyeshadow palette from Colourpop since I have oth
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiHf2LGjxy5DTE-BzNCCzF0tcTkScvkO-X4sDUsZ2B-CetxpzrNdLiTWT_uTzMR_2c0nuO8Bi5Ke-2lpC3SKVxjvSQomOuji0woP14X7YHokANNIPXT3qCotYs_lKLu8urI7Di0DYaoViR/s1600/Photo+22-01-2018%252C+11+03+16+AM.jpg)
 
@@ -53,7 +50,6 @@ There are 12 shades in this palette, 4 mattes and 8 shimmering/metallic eyeshado
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBP8yOfNldfdhV15v2TgsynhaoBej2DQAmBp1H8q7AIkFt2FRpQhD5_VJtUhHlQiz6xRIcnS-cZu7nCqz1vviEf0l8s3XvHWFn8RbAi9H0SsRMZjxjZZCY7FjXlf8hyLGqht7IQCypDJ2o/s1600/Photo+22-01-2018%252C+11+03+22+AM.jpg)
 
@@ -67,7 +63,6 @@ The shades that I used the most are Ladylike, which is a metallic light gold whi
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5yylHUakvx7ews2DPd8nLB0b1lMFEZCUfvFFm2nPbIGIpp7Cra1Uia_KCqg-DvP0aHZlV1hXzCjOKHBKd5EdZuMkx1UfH0771JbNempbAd1QzX8M-SSqf3hGO7TXYwgBUh4fzw7_pJgQP/s1600/Screen+Shot+2018-01-22+at+11.48.12+AM.png)
 
@@ -96,7 +91,6 @@ For the matte shades, Dear is a bit too bright for me. It's a pink-coral kind of
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3S7aYQOkZpj0E96bboiw2RUS3HcAf-tPI3wBPnBy5oqUnoVBpNl3Sz5PweHFqW3MH2xkhxhDprXT9Z_6ZxCIu6DNmDvnqkhsCCxetzDUy-dSofjC0OPNXaczuSIYvN_wN111xGYo8PKl7/s1600/Screen+Shot+2018-01-22+at+11.46.20+AM.png)
 

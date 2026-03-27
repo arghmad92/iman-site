@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFVXegDjofJvNFGAH_gfyVvYJI1oNYHtYX75bdUKMPJVBYYgAQJuE760pY1T3zHzA5NiE22XtpHist-VlE24k5XhPbZFneDQ78HkuZ62VOIzEyGsO3ZF-uAUb_y-oVJn9k-Q03v2M7pn0/s1600/Screen+Shot+2017-08-03+at+12.17.58+PM.png)
 
@@ -49,7 +48,6 @@ One of the famous low ph cleanser, mestilah Cosrx Low pH Good Morning Cleanser. 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ofiw8ehHI0X-nO9i5otnQg0wZ-movRyLtPMGY8LV6LCZ2_3hnN5hciyk0qAa3GWSBVOwcT7LW_w2efcwuW6WXGhaLZlsANXusSPzjyLA1OTd6S9KVvVQFa1iBQLM7c7jdUOqoWdq4gw/s1600/Photo+Jun+21%252C+19+48+30.jpg)
 
@@ -59,7 +57,6 @@ The other one, Simple Facial Wash Gel pun pH 5.5, so sangat sesuai untuk kulit. 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHX1t6aCIRj9Veoat3vYZeqinrVYcYcFAFMIWelX2OvOABAotQvE8lVwOOduBbN2sqBvcgTWoY_paYTSaPyybVQKW613W70WUejvzisRuW44G3QJpCrfw4GGUZO7fQ0Lncn6Uw0J7Coa4/s1600/Photo+Jun+11%252C+13+43+06.jpg)
 

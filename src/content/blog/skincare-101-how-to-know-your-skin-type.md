@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdb4RVodlrkbhv8u6ogwwtr9H6KOKudyh-3_cFvxCmudO1iggRLzpyEiYdeMms-ZU_aBh2n2RQro-fGus-njrCiI-3SKzz_sbDTeg55ZnjJujqylsvt3cX7cyuAnNLWiiutu2M8PlflTM/s1600/Screen+Shot+2017-09-25+at+10.07.34+AM.png)
 
@@ -63,7 +62,6 @@ Tak rasa apa apa, rasa biasa je - **Normal skin** (So lucky!)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJGArgP-EGOz3AwEnceAI9QzAnaCDBfDJLo8fhXTDni7qMISszvNmVet5ggtaJFB18Xwhu4AECA6VfZfti5FcVxfMmT4fWqphA8tEY0H6Rszf5Oal5pciVAQiaM4rpsNsid5Jm6ahWIPY/s1600/Screen+Shot+2017-09-25+at+10.27.59+AM.png)
 

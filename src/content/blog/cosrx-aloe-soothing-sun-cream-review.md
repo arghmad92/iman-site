@@ -11,7 +11,6 @@ draft: false
 Cosrx Aloe Soothing Sun Cream is currently my favourite sunscreen! So I'm going to share with you guys the review.  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDtt1oy5NyVY8QaJWd15a05BIcAP4_0EniANWEYOYUyOlB0OWBiw42bb9LQvE9Oe7A0TBRvWwlaKYVfyxODsCyuBv12ODlETWhpLFgUHU_0fo9VQcDCf1CaZQkA6JoJG3lnhQv4F6EODw/s1600/Screen+Shot+2017-08-21+at+8.29.26+PM.png)
 
@@ -39,7 +38,6 @@ Availability: Hermo
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLDSk1fMNWKYwVNRE6oq3UmgLUiLqdToiHMiIvRuPt7Wiw6K8C9Zweb3dwJvci3SDGHYVq1RqOf6ZOMK51zxWEvqM1M6ogwq2WWv2I9Z8Oj9C-zn3vZ58xL818WxpBN_LzrEiwS4A-hFA/s1600/Photo+21-08-2017%252C+8+07+04+PM.jpg)
 
@@ -60,7 +58,6 @@ The last step for skincare. Maksudnya lepas cleanser, toner, moisturizer, baru l
 
 The product comes in a 50 ml plastic squeezable tube with a black cap. Senang nak picit and guna tapi tak nampak dia banyak mana. Nanti tahu tahu je, dah habis...  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7y0kO7B7PZMbFazvOKlOWPJXLnnp9EcQi1SC6ySbX2JZ-9zv6wbLYmpEsJPw8fTF6lo9277ivDvo2J6xShE0rART3YE-f1HXeDKf4EA39qn9haVtVHUufVTX4xw9sKhbJSYuz2vna4mg/s1600/Photo+21-08-2017%252C+8+09+54+PM.jpg)
 
@@ -78,19 +75,16 @@ There is fragrance in the ingredient, however, the smell is like a normal sunscr
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmcPsS37Xdv5ZrQURmjDQZ1mknME25W9UbupLSjnDUFBbBYB_6sOG3K77UGjRvZFWMUp47pu5CKLYdJmFHaJen9Uk9tlreaWLIB6GbV49hwL7bSs43EEqYelSf-Sc4xZ7IL1MH1H-13c/s1600/Photo+21-08-2017%252C+8+07+25+PM.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZmDQk2HAZrgOoBCteRWILpQVPS5agqaGEzeafbXvqbJ4VH5HRdWs16cGytKGBLZIqNXs1SNfY5J2RVlfjOnzPEVpzA1zBOP-kUdVRRxxw207N8rUdbyLnxDsJ8i2ZEMJz43acdtqg7Gw/s1600/Photo+21-08-2017%252C+8+07+35+PM.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZj9kYxKW41EN-aY2VqXnybyhFrNgaRMcebH7CzxqNHTAVlzHnjtve_Xc_TBmSbW5sMPQW0zq1thI9mB8OCwtxkiUuCpA59A_-VklPF1XaXhM4-JRs0oho7EmNy1GSlkCRV_opS7-0AQA/s1600/Screen+Shot+2017-08-21+at+8.33.58+PM.png)
 

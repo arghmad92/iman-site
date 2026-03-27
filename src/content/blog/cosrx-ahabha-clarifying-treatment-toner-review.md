@@ -12,7 +12,6 @@ draft: false
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0E3wYcBedv3ckKU8pztBMdyKWFFf_lHo52PQ3REtf96DkOwjZMADDK291CzPfZRQmot8NXlzhzcJSL22fxGs8qlT0qp_CAoQsXktzYDHch00BsTlMNDXBS0gBQPWXQxiLietW4WNVfs/s1600/Photo+20-10-2017%252C+2+35+38+PM.jpg)  
   
@@ -34,7 +33,6 @@ Size: 150mL
 Price: RM45-50  
 Where to get? Hermo, Shopee (wakobeauty)  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbbKo7X8UjswkjGk9NPBSNqHnZ7I7XS4Ac5DryyC8MkhWnfqEKAGCQidCwkXUVfwiVFoZ5abtavh4_y-Jmrzx0ahoUEgdL5E1MIVFXXtRf6guhJcJUHA6ZH80dssGSY5UzrWEOxqbg8M0/s1600/Photo+20-10-2017%252C+2+35+47+PM.jpg)  
   
@@ -65,7 +63,6 @@ Kalau ikut direction dia, use after facial wash every morning and evening. Apply
 
 In a 150mL transparent plastic bottle with a black nozzle. Boleh nampak la isi dalam dia and kalau jatuh, tak pecah.  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxKtyYKmqyMigsC9d5Wa834PQ-usXvFzFBVyFmncIocFk-VSREXA20I3mhn4q9HcdVC3_C7FCabP7BicngxcikgAyISGuzqRqs_hmxNnIxu-47l0m1912sZXt4SmMQD6vS-intfNqxqXQ/s1600/Photo+20-10-2017%252C+2+36+10+PM.jpg)  
   

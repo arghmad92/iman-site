@@ -16,7 +16,6 @@ So here is how I clean my makeup brushes!
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5u7Oprvt0Cv-7yklTm5mUNJDPO7_XpWP1WiaOFA8ofsFDLzUd7smUizl9DiNokWXUXg62C4dac33bnYp1EB6sa5jfzMwWhFaR5I-2K_3iIBquhnwqpWWnNoIt-QjgmBZV2fyJFXN27P8/s1600/Photo+Jul+10%252C+18+06+34.jpg)
 
@@ -57,7 +56,6 @@ First of all, 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimvulYiIHNbGFq2FtQtEgmf0eHPJVwNpKMNKSzqCwn9Yj4coaWfj5QwQOkcscwu2bCBmdZWNvlbgOm5CRSNiRDRbIQrPiidR_9T712eWZ1COKqC-pUGlh4cA7c8YKyFyKueOifPeu_h9k/s1600/Photo+Jul+10%252C+18+07+41.jpg)
 
@@ -69,7 +67,6 @@ Nak guna baby shampoo pun boleh, no problem.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQjgm7yjmBJ3frXUfWMLTM1fOGzBV2m156MLkP2DQi5KPrgzTP8cNR25WEZFn1CtwN5WhMM3DRfcBWZndVgw_zxFwGagdi4OviViF83NUQ-ynJRl3x58_T56F2ueCgUINdiRtEJ3q998/s1600/Photo+Jul+10%252C+18+08+09.jpg)
 
@@ -81,7 +78,6 @@ Make sure air tak kena dekat batang or bahagian besi tu sebab nanti brush senang
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhIBnAlr_vw-TJLRgJP8O2iigE0SVVapjBqBoJCSsD1t9AzVqAVRNV_DmLsiBgH8XbnkKHaFDIp0SAxak7zwZqa8oleGt5NopyxyKOft713Xa4At_68Dewemgfruvu5Z7I_Doy06mp2gw/s1600/Photo+Jul+10%252C+18+09+11.jpg)
 
@@ -93,7 +89,6 @@ Sepatutnya scrub and lalukan bawah air, bagi dia bilas bersih. Tapi ni for gamba
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxgiQx8zenwwxsU_NZH8UDhubAvQRzGRZP6BTLairaLzb0W9xanUpxvBWJZ8fRHxNnNkdyHyshc1rP8RFO07WgiCaQwPSeHiZwIpxVbSWtn7uahnlhMUPowWHiBfwUkkwb9Ajzj4n_DjE/s1600/Photo+Jul+10%252C+18+15+57.jpg)
 
@@ -107,7 +102,6 @@ Sepatutnya scrub and lalukan bawah air, bagi dia bilas bersih. Tapi ni for gamba
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR91b-iPq8Bu6ATR-XZXUhPnbJrdC1GbbXzvV52u6WS4cd2F48I6U915u9AWcTMlloe5Sv25fEXPTtGmR-1wrs_ByBsiawwLtlWjSXX4q0R7NxpEOTYL1YjURO0aaenqc0axUmJwllvoA/s1600/Photo+Jul+10%252C+18+21+19.jpg)
 
@@ -139,7 +133,6 @@ Brush kotor sebelum basuh :
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj260GBQiNEpf4zkenzz9DajL3S585_WhMwIv10PRTGg2ToJM9bzraWFtc1ySofMmYxap3xtMAhw8uhFPRhzmSlPQzPnfp6xztZE4CMHNfVX51x2hrbyzaksIL6HAkRIEeU3HZ9GRS9QTk/s1600/Photo+Jul+10%252C+18+16+32.jpg)
 
@@ -149,7 +142,6 @@ Brush dah bersih! :
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdtSoqc7us5fCtPjRMQyJLlOgOHUwmB5jFeiRJXNCcQFK-y13boLC6uHvhnDIoxEBkNupttzc_qx7yNP96x8j0DtJyyUT-JGuw5m0fzFHbaIxC7j599BlWNOWk_YOsExCI9vLl2mWN7s/s1600/Photo+Jul+10%252C+18+35+31.jpg)
 

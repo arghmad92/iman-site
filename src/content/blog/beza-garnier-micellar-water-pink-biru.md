@@ -16,7 +16,6 @@ Read: [\[REVIEW & COMPARISON\] GARNIER, MAYBELLINE & SEPHORA MICELLAR WATER](ht
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAzf-oOvxgNmTz864rCZnlqh9ZEZr3VOYutM9Aa2D4deveNltqB9fnqSlkCnKWoFnePg1A0jotQBcLRx-3Re8T0o0eQnoTzvDm6Ewywh-8iJ4n8eDKbXbvyr7jcMGveIJTXe9U3ZFNWvw/s1600/Photo+15-08-2017%252C+4+27+01+PM.jpg)
 
@@ -55,13 +54,11 @@ Tapi bila I tengok list ingredient dua dua product ni, I ada perasan something.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR791nsZFvrdidl2jxlNLabz-bOTF_6hgiBGdkUG7Bfx3kR2gE9RXnMdAvb5RlIgSWD8fKMgQUHwRugIH7CxQJVwZitF3eOTP4aXUwzwCM0hoYxK-Kl37xaXoL87wy94ZSMvXY0yD4Axc/s1600/Photo+15-08-2017%252C+4+27+03+PM.jpg)
 
 Garnier Micellar Water Pink
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8f3HSZUYne2nuz4kQisShGGFhtMdqi7aWNMicwm2qSG-Odpn-1B_twcA-Jd3SKtaoZEO-1U6gpMqZyHJU0cFpTkt67QSyjC-8O9JpJMcXIm_DIOYDy5gpoC-JF8eBMk-EVSHHWuDVFHY/s1600/Screen+Shot+2017-08-15+at+4.43.41+PM.png)
 

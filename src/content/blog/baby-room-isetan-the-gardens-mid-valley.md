@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgftiNyfOikSdP5hDgDblmnyI9eT-m6-GVi11guUfhhiOQqhHkDW7kLiQEH2NfpJcZ9-JbWVo4vtJzXd7UO0y45q5Sjk-a36Fp1XBCNvOLV3d28CSpfpr0XOtf1Dr4hAOpbYdW1JDJybo0/s1600/Screen+Shot+2017-07-11+at+10.50.13+AM.png)
 
@@ -22,7 +21,6 @@ Since I'm a direct bf mummy, I just discovered all the baby / nursery rooms at t
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggPUU5zP3T8PE3H5q-qLSKrOWa2UBaktTn3Q1296I-f5vrawcoPeQKEKg_eF8Vw1aV0xCl3OmQ2hyphenhyphenZA27we_nYyUXV0EfSz4HC298U0Z9jFon1rdIh06GsZxggalh-av907JV44BM-wms/s1600/Photo+Jun+17%252C+18+46+25.jpg)
 
@@ -38,13 +36,11 @@ The room itself is so pretty, ada tiga tempat nak breastfeed, ada kerusi panjang
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhREGX9EqLJu5i2Ej0B8F-tJwrGz1OK1ObcQUk2uLjFfDRDoL_S1eMbc-CiTjpBBDgCPOGm4XyronE34l8isbC72Le21d1h19HfAEh8aStzk6En6dSPpaGksXLctCUJ7D8c6aFI9VEIr8A/s1600/Photo+Jun+17%252C+18+45+30.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdWDDryjG_8G1Y_IQQB1-EGAD1Aa0__JFWTNA0amEfp58aYg69ooP1jyW_gqiX0iwnv5tppJgpLru5YawqTU6pSIaSxfAjevd_nIFSC0rZHbJUofyKYf5edKaTdf6r2lZc7-MuhxRiHQo/s1600/Photo+Jun+17%252C+18+24+24.jpg)
 
@@ -52,7 +48,6 @@ Tempat salin diapers ada tiga, with tong sampah provided.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmANceswC8ZGUgQkDXYBsf8m6eroT83JSNelY4Nye1WH2WgCW8KQVQieYunj0PI4fxjH0lmA2RYLPl0i7lkAFyya6rtrB1J_4hGNLULIXoO8pqkUKAxqdlGzwwbZ6EeOtMmnOOrZ0z5PQ/s1600/Photo+Jun+17%252C+18+24+27.jpg)
 
@@ -60,7 +55,6 @@ Ada microwave and sinki.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtlJd79s3c0jNyOxd9aSgkQUYzLFPHzzGvC-6XE3FR-G5PbJY0lyD4MMLGQxT0wiDQV1j59_dFI25e8et_t0T-n1FXzVPw3CT4hRzzhskFmvNichkaiUZAWX9MvrC3Z5ThGOLhyRKf6Eg/s1600/Photo+Jun+17%252C+18+45+23.jpg)
 
@@ -68,7 +62,6 @@ Hot water dispenser.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGNwfBf8t-oyWD7RhJdk5j6oCm7bpE4Xi3FWh7NyOV7mgbDbMOvM-Ysw432mLeZMWhyphenhyphenVno54Rt_aiA3rcWs3SYCxZhp8c9PBD3fmV2rXKagzHv552vVsXQXnUZHJieTFiogjz37zfOqcE/s1600/Photo+Jun+17%252C+18+24+30.jpg)
 
@@ -76,7 +69,6 @@ Kerusi untuk duduk, tunggu, teman isteri sambil letak barang barang shopping hah
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSihXefwxmAG6QAOs0ijRFBUyz8G3kqbtwkO1yIwfe6k8bHi3gTBPj4iLUs9l6-rs6P1OkRyZenBuca6ipuhX5fn5qJX3jGtrcF9ELqgwAiE6RnRZsQPfTo43lyiNx8oVhnWcQbH5I_pc/s1600/Photo+Jun+17%252C+18+24+35.jpg)
 
@@ -100,7 +92,6 @@ I also saja pi jenguk yang The Gardens punya baby room, same level, Level 2, seb
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2foiOcsGwjbnwMZeMkXJGE9OQ1GSjBXl9MBxtotkAHgy9ga-ao4ERaFmSHp31xl5TPkQXYJHVuJ83qdTqETOG1Poq3A1s229mW4tFlZ7VaSuTvC3ed9hA1GGlPdGvReeHHrd3-VeYy_M/s1600/Photo+Jun+17%252C+18+48+15.jpg)
 
@@ -108,7 +99,6 @@ Ada private space with sofa (takde hand rest so mesti lenguh kalau breastfeeding
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrmm6YFBvp4eN3XqjsAW25Obl4Fa8Mju48JjWeF48JFtdmUlK-DDzs2v9ly8GClJ3DNyzj6a_TxZEhfaauYlhOEkBG5ddvY_Vd35lOxJd1PS0lwpdHGrTu1P1H5iT5QCzwTo6PoOPcl3E/s1600/Photo+Jun+17%252C+18+48+21.jpg)
 

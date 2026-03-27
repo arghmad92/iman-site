@@ -12,7 +12,6 @@ Today, I am going to share the frequently asked questions about sheet masks.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZiJ_C2z_lUUTvzDao13pYpxDt5kTaHiRwcxJRqMblvvqqO6_HYOPgjhcnesvMEFNcYboxKbsNLSOXNq3jTCJApLpYIQ6ZjUwuv7A-CxdWJ93vyMEkwBVmQehpBxajnQ5yXKrdgLE30m7/s1600/Screen+Shot+2018-01-05+at+2.02.09+PM.png)
 
@@ -39,7 +38,6 @@ Like this:
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl8EVc5-GXmrTieBKCK6ICvPwoXvo2DsJaIQpZ8Ao_jLY2eWtWU7WcSdVCvnmxEQ-78dS1VEFp0zL9WP7wSva3ywr8oXNt83Sgo0MZAKBE-nLKilD26VCpF9ymNCBhfLqUUmYebFttNm95/s1600/sheet-mask.jpg)
 

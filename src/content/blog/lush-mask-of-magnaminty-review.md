@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZYJhgztcFi57d3Kvgu8WPQy4Vy87vz9sdd89Ok9LEgmILpQmkV_wOpMCXp_V4M07AGYWlWj_-S0QRwnN6ztsx03usmKyq1KwmceZPCjtTfAKykp5uKiP5TlSfR_t8WRb_1XSN0Sjsk58H/s1600/B2673CCB-2638-46AD-A434-9251FCE06CAD.jpg)
 
@@ -21,7 +20,6 @@ LUSH Mask Of Magnaminty Review
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAFS3lkAkjjawBxiMbjK6NVLkycTB96FdDDVGnIszg-TLOKNbPZRnXMNEdsEQROtnkXhBSt0uSZN8AKUbNFp_BSkbSpjImBhvJQfUvLyzM4tixvEYFuHVsFkk6ibiqp3vW5DW9QVf1Mgp-/s1600/E17F3B8A-A1D9-4511-8677-E18921DBE9BB.jpg)
 
@@ -29,7 +27,6 @@ LUSH Mask Of Magnaminty Review
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUsXPnvkjxFiDz8w9xeblNYWh1ob_a_ugCKXOgmcemdstEFOPjaX5sRIMb5FNSWSTtV_-rn4KrYIAtk6JbjrgmyAsuSfAucrz4Ga6mpPukRrPAD38_-arF3qGpB2ZNbRJl4ghzMpCBS_HP/s1600/F712EDF6-1D6F-4493-9629-193E1AAB7B25.jpg)
 
@@ -59,7 +56,6 @@ This tingly, minty face and body mask was formulated to be intensely cleansing b
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkPUGvvcovn_zLUhAwYVFFuNFEAdpAJAQ8ThKRSOeatB2eJGZo2tId6D8RlSgy975oEa4I20ruNbHOfuj2eM184T4URm66o0U5ep4bftgx0sQBe9oRhGHIyBuiRUGngzWhXiUZKhRltv3d/s1600/862C2187-19EA-41A2-80A2-D0747659AA75.jpg)
 
@@ -81,7 +77,6 @@ It comes in 125g black plastic jar with a screwable lid. I like LUSH black desig
 
 **Texture**
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXO9IY1XmwNswy0_FsM5T7Cth1RcuTlAioYnNfNexYyzEmDwTEoHBbcJfVpEs_PgpLESKRYThp9Rv0Yum9GXyfyD0Ng4oZPvKg7W6_u9N1tMxNu59Lmfj114jSlTSvuvRDNCU1xvvPG_Vc/s1600/EF645A31-1CA4-48C1-81F9-FB7419382441.jpg)
 

@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp_gM_B7DbMcvEHwyfstGsJMi1xlgjLmH_Nze_6cs3u8hIfxHvj7VAnfD_B9HJ637kdrzcRriVsemY26GT8ezKjKx0BftAajg0ahOKvS7TESDa5yhYaZAStMIK0Zhw06fksWvRFHn8H4fv/s1289/IMG_2396.jpg)
 
@@ -40,7 +39,6 @@ Yang ni Top 5 brands yang I pernah try dah suka guna:
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5HF9GD8d9MJtsgzkfW-R5WiBTWC0IY24Dlvi8Kkk2ZlqGyb1SE6_leqzp8MdAh7vsK-i68AAXeHlXGYdwlsv5CudFLcWQGaEJpvFSuVplZZLQ39xckjAgD64Tva7kKp7CCHfY0J8JMGn6/s1406/Screenshot+2021-09-08+at+3.24.12+PM.png)
 
@@ -60,7 +58,6 @@ Towel ni lembut, tak nipis tapi takdelah tebal sangat, dia just nice je, size pu
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBoQqRGoSNLJg944oCSC9yacejSHxLEimxq80EMMGIvYQdr7UC-J3E5Eg4TgL92Fq6N1w4eqU6BEyi8O5Nlduij7ElFbLELqT-5ZLFHnMsVBl1lH5Y_wDxbeZTQVCD34nqm17DbW1twzi2/s2048/Screenshot+2021-09-08+at+3.28.24+PM.png)
 
@@ -80,7 +77,6 @@ Towel ni lagi tebal daripada Jean Perry, lembut, penyerapan bagus, size sama, ce
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4MtCnDukc8Z9wQrN07Cnw2k2VzI66BhIwkrD893h7X6uexbnl0Bm866nFJETdyQZxakDRpcZ5MfZtdlos__vUC4ECxZnzNdU8CBCMRGInjm7TRLYTtvSw8JH8g1jzkfLsrLMALqIrxH8/s2048/Screenshot+2021-09-08+at+3.38.48+PM.png)
 
@@ -96,7 +92,6 @@ Material sedap, tebal just nice dan menyerap elok.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN7VVhgOE8WsmenvTduQ1BWDXJSlsYz7gNwmbut9fNXr0gjknHxFcpMjLbG7CyIga_6myu0NVlVjpcXCcBJesUBoxUHNBmpYqdXecsqSEcCKcdu3CXS6nYzGdzEVvDF47ouUkCXlpwRo-9/s1088/Screenshot+2021-09-08+at+3.42.09+PM.png)
 
@@ -114,7 +109,6 @@ IKEA towel ni memang dah lama guna. Tebal just nice, menyerap dan warna pun cant
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0ydtMJMLTX_swkO6BG1Dg9j0jHW58TOpqrNl3fssSQhHmSyDd7d2XvxCt9eXL8Jl43X7K9GEiBH-xSz2nkO_S7TWxhNOIW5GuDWrIAduo8rRxY2w4oHaW8IlnorWnmPdk2uxb3WEoG0nB/s2048/Screenshot+2021-09-08+at+3.34.22+PM.png)
 

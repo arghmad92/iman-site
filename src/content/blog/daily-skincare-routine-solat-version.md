@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtXtyhgJb1EQBHZU4-FaA9f0t_MlUhyDZRiQFd1f58hrAa4LRMIYSnz_aNR1G7fXWfLZymKkC1wOJT3oIuCeSDVrXXRdtBKhzzYiiO6EjBYHpLGY1AVUcR8DSE3NlExJCoRRsZWqNkGYw/s1600/Screen+Shot+2017-08-11+at+10.38.58+AM.png)
 
@@ -31,7 +30,6 @@ This is the rough idea:
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7lpLSERW5Sbe6pj0nunWkORgglZNDkeXER0HExm9F80yOqR6mEmgXU6ODVxAFAV4o9AjrqVgiM2HVPCKlHmPmTPUdSG6zWcj3bar679po7oeGpVeRM2dDHo8-qVEm1asPPPD_JvmDpEg/s1600/Screen+Shot+2017-08-03+at+6.10.25+PM.png)
 
@@ -64,7 +62,6 @@ Remove all the makeups & sunblock pakai micellar cleansing water je. Ambil wudhu
 (Update 2019)  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii7P2gh0ul3pGAoguK0vwVoeuPzYNW-EnmLUQVAn5dAsoXMq4TKRkST126bHrrx55vAn1E9-ThU8CWF1v426p9A5322c4Qehrs9Q9Kgxvb8_9-UGpNVje0s75uTqCtIATdJzE3VhiVvzx9/s1600/Screenshot+2019-01-02+at+6.30.25+PM.png)
 

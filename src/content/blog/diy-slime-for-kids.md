@@ -12,7 +12,6 @@ Hi! I am going to share how to make your own slime at home!
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxfZT7yoePvP6bmasOZPiDN7zoBZbZY6JrRKq1rPmB2fPaBQtSfbY1WikWbvBNVuqVrdWmM85mSz91X9Cl2y9uXaLyUxF-3H4fedkKUQKJ6mYqNOUvuflsuQRmKXiDVgHVMaCDjTn3Ig/s1600/lHpbAVYN.jpg)
 
@@ -41,7 +40,6 @@ Dulu masa kecik kecik, my mum used to make us DIY plasticine. Tapi I tak sempat 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR1YdEiruZ9v2UHtC9FdY8CONVjrwCQou9JF2c0u8w0KtgOXh4FORElbWw3t4twR2SF3wprHujk_NMelNVv4xyEC9UYEapezW7QgVzuOaOp5QTGnLvyXe8SUz0wJTayVx6QxwFwmmIZ_8/s1600/Screen+Shot+2017-10-08+at+6.43.22+PM.png)
 
@@ -59,7 +57,6 @@ First of all, tuang glue! I made three portions sebab nak buat 3 warna, pink blu
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrdMFJA-ay-fFcpwSr__S9KFgmIeBQNvKv9E-DLZvN1MOMpdKHg4Jq9Ajx6L4g_amVPZY12PSRS7tnGVTGqG4cJ8MjDSHKtcfRVFdIeA4HFwYXkAykhystnew7xUwIRl-Cw8sM9HT38LY/s1600/4KZS0on8.jpg)
 
@@ -68,7 +65,6 @@ First of all, tuang glue! I made three portions sebab nak buat 3 warna, pink blu
 Then, add the baking soda. Almost 1tbs for each portion. Mix it together.
 
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhG9xRe5r2v1dPQDjT9cswnDZuVPP4JqT5xqW2ljdhkt0yawurFiKhrxS-Ct4u6tZM0ZZ91NUTXyGinWJuGaV5ddOUbzkKHZczO-tLdXur570J5IBRpZH1HB0NAPyXJu2vLqxonsSZurU/s1600/Mqz2Ix_h.jpg)  
   
@@ -77,7 +73,6 @@ Titiskan pewarna.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeq3cy7NvqPyErBpFTPdv4Y67W8aILDSaud1jcY6kfn9aJWguAjb1Vvu0Kt7I6g_Ki259sTBa6tU-316x-4dmIOaTTsuOl71X0l6GhFKvrY2KyY1cN9xcfZvnpRDT3RSgZBZ4kKiHZoCU/s1600/F7A8k_gh.jpg)
 
@@ -87,7 +82,6 @@ Masukkan contact lens solution. Uli uli sampai dia tak melekit. Kalau dia meleki
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3K7pTYv9f6-m74Odi9F3B1cIV2H3Ji1B4uHcJE86wCnFOE8x3qbYJpoe8FhyphenhyphenOZ2DbDxxvJcdz6BgFvA3Oq3va4Cju8J9upjzKipeP1vK611V279El-A2myJWNd0r6_8Rbpkqt-1cWw8/s1600/el6vSHDi.jpg)  
   
@@ -104,7 +98,6 @@ Masukkan contact lens solution. Uli uli sampai dia tak melekit. Kalau dia meleki
 The result, beautiful pastel slime!
 
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxfZT7yoePvP6bmasOZPiDN7zoBZbZY6JrRKq1rPmB2fPaBQtSfbY1WikWbvBNVuqVrdWmM85mSz91X9Cl2y9uXaLyUxF-3H4fedkKUQKJ6mYqNOUvuflsuQRmKXiDVgHVMaCDjTn3Ig/s1600/lHpbAVYN.jpg)  
 
@@ -115,7 +108,6 @@ The result, beautiful pastel slime!
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoN_vM8DTA62nqJ7Nuicjo9TSXHxhmNSL_pVLecb5IDj1L8FAVc7NX7gtBC1uprLJYaHaNQvfTbVgI-qj2PWUKSd8_2WYs1sPT1jGDBLYx2YMkWaqvgrgYZ0egTHV4Nb89ecuGea6U5AA/s1600/RoLi4YrB.jpg)  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHyGQvnVci1HwuxX-nWiXh78A83HKsNvNn5RAAROT0rd00dzZz5h9s2PKUnC794kM91qhPxqtB9IEX8Zc5zapXeDrc35d87Me8vqcPtGWnRSYPX_qn4018rzY8Ohl_o58qTxjms3GYm-Y/s1600/HR7F5IpQ.jpg)
 

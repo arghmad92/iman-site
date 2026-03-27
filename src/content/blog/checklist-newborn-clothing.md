@@ -11,7 +11,6 @@ draft: false
 This is my clothing list that I bought for my newborn baby. Tak ikut pun list yang orang bagi sebab pepandai lah adjust sendiri ikut environment sendiri kan.  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpvSJeirLMG29LNe0iospvqrHme4B6h7AA050rqT1H82SSfkQV5IKbxbEBMq9TYqyWN1ms01znW5uRTbvf5Zc7ODZHZQgpnugs9UQFHryAHXHOasR3sK2ewaE6e5vSHCjhYNIqxnQ3xO8/s1600/Screen+Shot+2017-08-15+at+10.06.36+AM.png)
 
@@ -43,7 +42,6 @@ This is my clothing list that I bought for my newborn baby. Tak ikut pun list ya
 **5\. Muslin swaddle** \-- macam kain lampin tapi bercorak, untuk bedungkan baby. I bought 1 set from Lazada tapi kecik, kejap je pakai. Tapi bedung pun tak sampai sebulan sebab asyik berjaya melepaskan diri je haha. Read here: [LAZADA MALAYSIA HAUL (BABY'S STUFF)](http://imanabdulrahim.blogspot.my/2016/12/lazada-haul-babys-stuff.html) + Washcloth sekali, untuk lap muntah baby.  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix_-NRg-29S2i25uep541zRqfK2XRH3jyCHdV0HzMsC7GWUGwqsvubjW1m_OntL7ZPrSAlEqxYuiLGCKmTB7N_uSqMN_dxSxbTKnlIEZ-C2x4uQjhSlgl5rkTPkm0-CZ-NQT9TpBmF6zU/s1600/Screen+Shot+2017-08-15+at+10.16.48+AM.png)
 
@@ -103,7 +101,6 @@ Read here: [LAZADA MALAYSIA BIG BABY FAIR 2017: RESTOCK NAPPY!](http://imanabdu
   
 As for Maysaa, banyak kutip her cousin's, Nuhaa punya baju. Banyak baju pinjam je hehe thankyou :P  
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUrGq_iTlO4hnRqxqt_F8maBVobzmLkziGIJfa-ce5gVzw4OYOySCEUN2vltXVAAg6MCk0yPmzrhFAFXi7hPGKrGf-i1dQdY1EfSGdYVmEAhGHbmGhpuWb4dg_QstZypFciV750ysLghY/s1600/Screen+Shot+2017-08-15+at+10.15.00+AM.png)
 

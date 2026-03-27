@@ -12,7 +12,6 @@ Wet N Wild is one of my favourite brand for affordable makeups. So today, I am g
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPq9DC4TPKhi3uzSQTtFTCZAoMf8oHX1ZmYijOE7daHGuNT7wHTE7q8HE3KwPr7QtEAG_kRMDNzik0toapTLsSW9KdGaE2UQYI13bETEVIBVtXovXxufY7gH5SOKVr2-IScahb4ZDzsr4/s1600/Photo+28-08-2017%252C+11+37+49+PM.jpg)
 
@@ -38,7 +37,6 @@ Availability: SASA
   
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihIamqK7f9rA7EBU5eL1ULZclhfb-IhcrHnztfTMf_uftwUDTOVUfG5V2PlMhGS41MEHov4a3UCnbZIBL7UWrDbvcx4i6M24PiZbAuewuTe5DzN8CbvzwLHmKq8yLUZ3SaaWmrCUOtYpc/s1600/Photo+28-08-2017%252C+11+37+52+PM.jpg)
 
@@ -64,7 +62,6 @@ There are few ingredients that MAY cause acne/breakout for people that is prone 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_WTLkW9w7WNPfoRnwZJpu8vLFYYrWH6jC_QKEBmoslGTCCCFC0VYrxbAjHC-hmP8veFifXLPi0-IezmW1WiWMOfbSCrq9HMBFEzT54EtKMZgvOpcXBgHV-zSPSSV0S_GH7zb9pK028h0/s1600/Screen+Shot+2017-08-29+at+1.33.42+AM.png)
 
@@ -91,7 +88,6 @@ It has a powdery texture, not too chalky sampai berdebu tu. Quite buttery, tapi 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_0HKhSLh44_SaTlyM8pN-NEl8rswerKZvQdJPmvdcwX6S1CGCvcZb2-xesdAkyvD71TTuIgiHlVpvInoXa-9iBzj_mMQFrg0WI0uPEx0af_rlLb_oqoGbbL7-M6U34UDwrcWAGZiAW4Q/s1600/Screen+Shot+2017-08-29+at+9.35.30+AM.png)
 

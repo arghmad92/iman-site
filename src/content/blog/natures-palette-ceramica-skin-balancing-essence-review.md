@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpaK-aT3yuG701VFq_dzJ5DOie4BHexUVee3hOUYL1uaWLiQjSJsbmy0jygfVEea3LG0Yunccdng1votRnf1AXRf14eZ8i6yaI3kJx_CM0btyAPsAJC5Y8kfpu-EU24r38bPCEKA4Vf8l/s2048/IMG_0723.JPG)
 
@@ -54,7 +53,6 @@ Price: RM79.90. You can get it here: [CeraMica Skin Balancing Essence](https://
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIpxC89vj19S_B-ICnL68TcbTd70fZ7a7hEsLl12EXgFjeNaZks9DwSYnw-_uYrRJh6ZGTfKgko8ZzsizDI9KKxoRoXOrRuo13kaeiRahZUULAPokb24m-jKWsVCJiPuR29p_LmlUK9chY/s2048/phonto+4.PNG)
 
@@ -65,7 +63,6 @@ Aqua, Glycerin, Sodium Hyaluronate, Galactomyces Ferment Filtrate, Niacinamide, 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsNa6q8juo9c-BbvcFQ5AgMeXKDCebfnce60NR_EiuDuYtvIzZemt1UXbzOFgQ-uDB_wj3V5mayFonbecmwtZsDw5Uq35FNfacriPYBZT2LX7LSjK0cpQduojzFk_yoxjxrZngHXKJphTG/s2048/phonto+5.PNG)
 
@@ -78,7 +75,6 @@ Aqua, Glycerin, Sodium Hyaluronate, Galactomyces Ferment Filtrate, Niacinamide, 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh8mygW1jx1U2stterz8naAntwQLiDLkeUPKC12Zh_PzIPpmvCNRKjtglByHnIRYUuBEZ6wQX3r7wgzgeDQWtNDn38dlWDQHtcfPeA1h09J9V8EGJyexYpdJFiCmzkJKO4WdsHtjvKeos/s1538/Screenshot+2020-08-18+at+9.31.11+PM.png)
 
@@ -97,7 +93,6 @@ It comes in a 50ml bottle with a rotating cap and airless pump. Tak payah ada pe
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2sWpQ0ox080u5Pg6ZXvYHu_ttJhatfxgsmLngh93vT1NWoSTJK9fLd9gMnvYMvj8R7KZtKrLFe7SR-iWKA8O4Isnbb7nQvhZJ0GXU_OMFTcf_uo2u6rxu8V4Oq0CBc8nP5HOvM7-PcxDy/s2048/phonto+6.PNG)
 
@@ -109,7 +104,6 @@ Lightweight colourless gel texture. Tak heavy, and absorbs so well into the skin
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3lnhWusa8zsrUVRYpBgqsXA5yF1UNgijZJTFuBrOynEEeQIEzqnin05OAsGQvtS4HzFMY072o_b4j2SSw30R0qW-Lq6cNOSbjIVbES4lNxDg_CuT0NWyDBHlKOqomW-QkAtMQsHJiexEh/s2048/0805ED7C-7DE0-4CE9-B77D-18EDABAC35EF-9F7E72CC-012B-4244-B74B-F0F39F4567B9.JPG)
 
@@ -163,7 +157,6 @@ You can get this product here: [CeraMica Skin Balancing Essence](https://www.th
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFsvDG1JFeWCBaKPfra9wkALFAdEr4VTOx27cQdXuzaMv0S0O-ABcFgz5qlUQ1ASvOetuL8fAs7in9bHuzL7T7tpyzFkSag8caDaLa9_6cSRj5WluJELavW5WQaA5LYV6g8pHgz24EP48_/s1586/Screenshot+2020-08-18+at+9.14.53+PM.png)
 

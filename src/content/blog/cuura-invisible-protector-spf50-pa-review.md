@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfxTA_rjIxbfMqyHGpWUDH8_6rwAzZmClVNiQoWMdAfF0YiOtHju3a_SaKia6GZe9BudipgTlY2Htpjo1zaiwgXzC0k57wfdxn8boFT77whBsisRi_-zImi8JG7Nr8J0lvwsr4YS-kDTrw/s1600/37559AAC-B708-4A49-9C76-3EFCCEA6F939.jpg)
 
@@ -23,13 +22,11 @@ This is a local product. In case kalau korang tanya kan. I've tried Cuura sunscr
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5x4dtSsg1dEGIiKZ6YX5SMuXmlb_E2RX7IUzreXcbfnjvZix17dG9FAGMlBSXIT6Rr7QVJhAEXzbs7JQ359G00ccneJwohfe8BM-IU8IaH7i3-8gTIW-qmedlZuudKQvYYCbZztWTODXe/s1600/IMG_3827.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4QwF-bprAqgv151Hnoyp7y3Tg6qQSVmGq3pm8IZR06ZWsMLyZMQTYU5rIPFzSIrY1SP92aElXQ7gC1CB3czBfqL_7BtBj8b1e3B-C5iLouIcAMHTLzwIa0sMO93gUMu_mcrc4r3KGJEvB/s1600/IMG_3828.jpg)
 
@@ -39,7 +36,6 @@ The only problem with the old packaging is the pump, bila dah nak dekat habis tu
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv39830MggwsipJCeCepp7OQ9Wx21xqUAPrzLSoOCZJXr_u3fuuI3d5t_EHRaFXIJ_FINvUCjlh3TZo7N14pcIP7FpzKebyaeV2VcCW6tNEeCTdzBXWV-qaSMsHmIktSrxd9p76Ed17eXN/s1600/9E0087BD-35E9-4415-9A0E-1967E17F50CE.jpg)
 
@@ -65,13 +61,11 @@ Aqua, Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoymethane, Octocrylene, Ph
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuo7bFxGuJKbUTCWwiAPiGwzbIAsktHsSXSKzzLILQd-ePtDE_Uk1S1FSRfXN-h6adir6lwtKdnZpzaWQMJcVUMHDliGxcUpXkZWiNoE9oTLJknto3mULSi_r8zsVFEEy4LpcK6tNUCLCp/s1600/DA2EC7FD-F02A-4F67-8013-DB8B812D0611.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMYVaE2DcZcve22Emmiu8jKwuR0JidQSgHjo5thuxo8INaBkJCHkdJ3EftLS9BzCefGC_vUdeoMuO0m6KpkHRRZQbKZLHJfeUPLB6jdrTKcLUiLxuEDZWeKuBcC_hnP6oJZvUe0YpdJLl6/s1600/91AAFFA9-C90B-4AF4-A9EE-F92DCEC5BDCF.jpg)
 
@@ -91,7 +85,6 @@ Titanium Dioxide
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5VYw5Pv5itS884qnCX26IBBaP-Wg24GBTm6aiNFx9-9uG-f5Yi9PAyRed6Y-DogvuGUOE7mCUcexVhgAIPgsoSkEMIPoFSicp_ZwWuV4LY-Lib5dHj2HnqcYshYIat2xL0s_yf8W6sQl4/s1600/54C0EFFE-20E0-4314-9EB1-BAF54C2D6AB5.jpg)
 
@@ -107,7 +100,6 @@ No noticeable scent that I noticed.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaWg9pKVTdRRKyXH9Zxu667g6FtX8Lt4pCCoRzPdK8ZP6-Arncz1-k9EPxB5FhGdhIyl88tD6gZQi3QMrl56G5eAppV_Z16npmkahNbxWdhuP_ZnL0VfnQM5zf3wx6SyR0Vw0DEs6R3kD9/s1600/3D1B77D5-A673-42BB-9B70-7E9D20887AAA.jpg)  
   

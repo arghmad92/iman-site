@@ -12,7 +12,6 @@ I already did a thread on twitter a few months ago about this topic. "How to cho
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Jl68yyt9kSYBnFo1shN8XKPt8XzfHmLZuOAZxMyWEAF0nBNlkWdXxyoDLn8dBF7gSeEGLg7twsggtMFWqyH9OlGKOIxRvIBBf81LiI1Scf_4b892HPm-c61vBHxAgUPDmwK7wuF0_cIi/s1600/O8aSlEn2.jpg)
 
@@ -25,7 +24,6 @@ I already did a thread on twitter a few months ago about this topic. "How to cho
 
 **1\. Kena rasa selesa**
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivu6kf-oPfHO1H3awE6SzXncrSVvmZqEFwEUtPWFwFByH_HrwyBPKooG2ITDERfleLy5FhQs73X7rxzTZzulFAx704iMWlgOwvubFkgCNlha1ILRI9GDew2UUTaOsKUeOQyqZhhOyTcb-b/s1600/Screen+Shot+2018-07-03+at+3.25.23+PM.png)
 

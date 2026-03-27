@@ -12,7 +12,6 @@ Today I am going to share about my husband's skincare routine (which he doesn't 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_pEdERBUUVeKSCeVqC-5n-b1Fi4xpC9Ej9R41vTkixmH-bLpsOk4rRFYS6ZIrrdU0ny-R7nVJIsj4lMcYeE7JNpQulW1ljsOCunrd3KSa7jbfTxi8ugL15zxYLd1F-Tph0DpsH3gLFsDA/s1600/Photo+04-01-2018%252C+9+45+52+AM.jpg)
 
@@ -70,7 +69,6 @@ For treatment, since the main concerns are acne and acne scars, I focus on acne 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi13xVjHNkDeEUCA4IbrCq05o4QIuQo2YwVyscmkdyRvMnx2NYdIa903v11g7xaK2M2dChyphenhyphen10aemMAd4ZIEbGhMOGlWdE7pcQyYOgob1RrzKbOOSxFSc2NwJCNh4ObbQLxPg-v91M1cQIPf/s1600/Photo+16-10-2017%252C+11+52+46+AM.jpg)
 
@@ -102,7 +100,6 @@ So anyways, moving on to the morning routine.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc2KZjJ-ReBnrtaU8E-3SrIHaGH-8dtBfFxTe85aezJHeiw_ZRyQqC33MzCgc3ibXdlsrpbJFDqg4EE5aycx3z53hDzIcrVMrMPScq0Aa-C86UayR1f3sOssZ56P_lE696I25h3W3l7FV8/s1600/Photo+04-01-2018%252C+9+43+48+AM.jpg)
 
@@ -154,7 +151,6 @@ Cara untuk guna dalam your skincare routine?
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVCxACV9VPRt-CKU14BeV4CYTcdiYN7Z7WGL6FgxAE6Kji8q1obgBHcNbQx0KY8iF4_z3OjqLQ7BYb_OHrh-0NhAZn4pmU6UrUf-gpSOLgnsiTfUMFV0rfdcR2sPLUDstxk-JZC22ZD-nY/s1600/Photo+04-01-2018%252C+9+44+42+AM.jpg)
 
@@ -178,7 +174,6 @@ First of all, for your night routine, is to double cleanse.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6F7DcXsw0vzgF6Sg2_LQLZW39dGhT694-I-k_4EYOeH3yEdq6wKWNgshtu9kwEu2VWTSmoizXHemRiBIRbp1aIP9APNYlyAREiYtZupEyH14KgHWUyQgHYz0hjUicu13zXAaATFlfqvy4/s1600/Photo+04-01-2018%252C+9+45+05+AM.jpg)
 
@@ -196,7 +191,6 @@ Lepastu kalau rajin, I'll apply some sleeping masks, etc etc. Tengok mood and se
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSAhQUf1KRaQNIwxNmBqVBiIhgO4JTyp527huA12enEF59wJMZqJ93VlyRiL43tY5iAe3qCaMHJciVURsqqPRxaYZSKqeZhCtLEeuYfXbkN3r-sJfIDCGPQ-z9ThQ2puPLfGKC-_UxyzdS/s1600/Photo+04-01-2018%252C+9+45+21+AM.jpg)
 

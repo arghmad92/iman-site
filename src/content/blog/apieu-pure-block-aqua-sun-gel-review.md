@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoS01XCByNC2zUmaQH7-eZYvVdzTEbAIrI1G9bBQP_fCDmRlKIOFkHKJnAJcLkbNZ874YF5TyBgnADIj_XBf-ML78LEuSYaLac0O_CL3TAkhBtpgwmx5hcmNAT_1jJ963KxD2FfagEBQCE/s1600/167393E6-BB22-4ACA-B1F7-E585F1493A57.JPG)
 
@@ -24,7 +23,6 @@ I bought this sunscreen when I went to Korea which is in 2018. Sekarang dah 2020
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqj6L6DktZLC0eUBtRoJVQoKYmeHhS-cAoASGJ9Q-xEluXDmb8k3sEubOSVlfsdeXa4u8DcBAMkeyr2YcRCAfIwPj4KiU-bbMIcyJGP-tI5jVuouT8R6T4QJEuCjaN8VezIVj8PACVMZE_/s1600/bc6b24dbcc5407a4a9339d0f61ce7212.jpeg)
 
@@ -57,7 +55,6 @@ Butyl Methoxydibenzoylmethane (Avobenzone), Octocrylene, Ethylhexyl Salicylate, 
 It comes in a 50ml light green plastic tube with screwable cap.  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPGe87U2sk8ShaOUS-J9PfY4qSkzazVf44JoYER9BiFtolnl_fIOSZ1WtXCY7WkcTjhEkUPol2yx9ruXkOtJ284XC-iDQmfbeguLwC5RHXvlivz8bn4-3kuHfuq5WOgskQ-EhSiGMmmA7/s1600/A6B6572C-3A83-4EBC-BC4D-E271E4EDBE6A.JPG)  
 
@@ -70,7 +67,6 @@ It has a citrus-ish scent, reminds me of the scent of Biore Aqua Rich.
 **Texture**  
 It has a white gel texture.  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAQdholH-_iC5SMgcr94r0Z-VmmapKW3MvC7y3b8zfrNCOMQdzWkETjAzZmRWCzfXbuZCXwjnm8mWT5PV7gbSL6lZNgZJhjcucyvsslVEiHUJM99_Lg2WhRZaE3Zhy_wcUNwCKuobU1gf_/s1600/E376A573-39BA-4974-BF31-AF172BC0C194.JPG)  
   

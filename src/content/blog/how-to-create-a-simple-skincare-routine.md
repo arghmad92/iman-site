@@ -12,7 +12,6 @@ Which one is first, cleanse or scrub? How about essence, toner, serum? Apa beza 
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR5uhssaCB27taLDiZ3M16jW9a-1hIw5PBXx0iMXz_ek-z5I8qnnHkOfU2UGvGS1jS5k3wYV2FTNhzwkSsrI0oDQM3OeYxvRE8b8ZyZ2jDuGIZDCJsIHC7yTTY-2OnZA_OdarZiXADBEI/s1600/Screen+Shot+2017-09-15+at+10.38.34+PM.png)
 
@@ -62,7 +61,6 @@ Also read: [SKINCARE BEGINNER | THE BASIC ROUTINE](http://imanabdulrahim.blogsp
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20-UO0PnmOjF9qeRvf5YyA8xOdK7FJHEvwMgx9s2LCiBnva3wmSh5aH8gm9wr6UStt3HULeziclMQwZhH3ejFTzQY_cT84hdkTm23aRz_stkdsWUxPrAuOP5Plwtu8NEdBzs9UHSWyjs/s1600/Screen+Shot+2017-09-15+at+10.53.58+PM.png)
 
@@ -82,7 +80,6 @@ Sebelum moisturizer.
 Jadilah basic skincare routine macam ni (kira basic la jugak kan haha)  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0WG71JXsvU7YExNv91SDfFtUXSAnsPrJMSrybhZCoW_V78Xgc50lLdk55fsFZaTQ2IBfy5kZCpB0Kwd_5yYDdXltUOaQKPLevlTRXJPyOaTTXZEoOqtGzPUNOojnet39v_WUCTaK5wao/s1600/Screen+Shot+2017-09-15+at+11.07.22+PM.png)
 
@@ -94,7 +91,6 @@ Sebelum moisturizer. Cari eye cream yang ikutlah masalah korang. Dark circles? (
 Jadilah not-so-basic skincare routine:  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEzF07Jsv67G7ijecYeQ1OaFPNojjNLzEDkYs79YwrEMTt2ES8AzPUKeFx8Pg2oXWW9_irJI6Ul4rB4Og0eCv585TlujOdTyntoPoSS8yYd8hCqgTHbFhGQMY57BIPAmqA2Rma3a054yk/s1600/Screen+Shot+2017-09-15+at+11.08.49+PM.png)
 
@@ -113,7 +109,6 @@ For me, scrub tu elakkan sama hari dengan clay mask, sebab takut kulit makin ker
   
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWd-1IRw6hgcgLfSJWdCCjpwB-po0gb2g0k6uLjsqFi9YmLDpf4jdSELVkEdI34ZGvFUPsXGL6v5Aa5ohlmLCxKKX4aG7MQm0coTcPadrlTT6NjMdwFmo-nU19vCLWAW13sKwB_-9HyU0/s1600/Screen+Shot+2017-09-15+at+11.21.19+PM.png)
 
@@ -138,7 +133,6 @@ Kena la tahu kenapa nak pakai semua products, okay? Jangan la taktahu kenapa nak
 Sooooo, the skincare routine akan jadi macam ni:  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX9Hd1JZaBkDhn49JHdcoccHojb7CX_gSyEESgawLDltYjp6AknqTpIYRWBegPQ7QX-VfFnIdDLziEg7yOSK8FV3vs3a_UXhhzB5kuqs1LA4jfJGZsRGcjaIfUIgx8NwcS6LzKYPPpWl0/s1600/Screen+Shot+2017-09-15+at+11.28.42+PM.png)
 

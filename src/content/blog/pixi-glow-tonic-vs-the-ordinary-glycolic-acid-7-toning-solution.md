@@ -12,7 +12,6 @@ I am going to compare Pixi Glow Tonic VS The Ordinary Glycolic Acid based on my
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqwLUupTjl4HrCOIRN5waEneTJSqx3Z5Qh_7z7AZeGPx1QaMqGxMui4C7jdOTajC3n8v0MelsVJJQjb3XdI7XpSfuCuCWVq6h7RddzMxhNSrED6WgRFb0UEK4bRWQb3FK9w000C4g48IsV/s1600/Photo+24-01-2018%252C+7+20+11+PM.jpg)
 
@@ -61,7 +60,6 @@ pH tinggi = tak nampak effect dia
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn9kR0GYNAmdWxPUIvsaJH6TsmhtByqyuEzwdiLQ-EP5uoHU3dDXXTU2cb802CdKuolS0cVYbQ0THj43KcO4fjLPGNz_8TUE_6O-gK18sZeHumuMa0cluHmoYiuj64S98ARnjww6tibJZ3/s1600/Photo+24-01-2018%252C+7+19+38+PM.jpg)
 
@@ -91,7 +89,6 @@ The Ordinary Glycolic Acid 7% Toning Solution nampak better in terms of **effect
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK-98xAkFrR_OCuWGJP4RfliAWs0bXLdfX_m7PN4e1-EEEUrHKaPh9XYtQNTlN4fj3KLTWfRDuEoFGa_uvdKNGDA0tR9OqE3I4bDHOK5EY3DHccM-WM7HBxId5SzUIDk4na2QsrsqCHZ8/s1600/Photo+24-01-2018%252C+7+20+34+PM.jpg)
 
@@ -107,7 +104,6 @@ Also read: [Pixi Glow Tonic Review](http://imanabdulrahim.blogspot.my/2017/12/p
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwEaM6_aCbclDedVIClgdUi9RuwE4H4lUWxqeEvbITpO8ROv-jy_sElq-bgfa3Fxt4zMs4xNj0tjnya_lTJEdYq5ynT-GK-0VbtJWj-PHZ8mgXv9j3yyDfB-yCrFD5mBm1_D8QH4nRQ5-b/s1600/Photo+24-01-2018%252C+7+20+40+PM.jpg)
 

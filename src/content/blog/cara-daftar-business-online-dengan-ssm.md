@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0lTdOIHWzq15MSQ2v6c7d8fSn8y3QecMY9M6iaGolXditLTWh6B6quAHQqEkLIpjeKXMbtOA29FIAnhuutyZNOTC68sIMkvWkP0HryhOQkmKjWOlZmybBK-kYgA-cfBxSRxC73AztbuvF/s1600/IMG_7412.PNG)
 
@@ -53,7 +52,6 @@ Nanti dapat email untuk aktifkan ID dekat mana mana cawangan SSM.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZjeg95trRIJy2x1iAl-A9j_o8DWnclCuwx76EG6sg0XLvAEw124fKnKnIdg5AoJ-L0gIlEiygWez_vvmof75-1eoaGe2081yRmKk_80Aoqb1NZYzlQ2BkpOEdSDxqZAlOmBDqwC1jZ5CX/s1600/Screenshot+2019-02-19+at+12.33.31+PM.png)
 
@@ -81,7 +79,6 @@ I buat payment online je. Total kena bayar **RM70.60**.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZZ5y-U6jb02y1Hg8cIovT_tDrBMNr-ExZjApD52yMHqz6Hyg2rC9k8jOBfvC3zSt42hf2HzITqootMNbjR6aUJrBCbO8GAj9Iyp2j0AImx1IEdHt9Sst0XTPqX-EIOJck75F15goRd_re/s1600/Screen+Shot+2018-05-01+at+2.48.04+PM.png)
 
@@ -93,13 +90,11 @@ Kalau tak ada masalah, kejap je dapat approval.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZPxJjRfuH-BsBbQGbEv1B-Yu3h8dfBvG_9ph9cR9y9VR7fhsZuxn0DZcQ0AdxBQ0jVGEQmfxCaM979qTA-RFgd-6G3EgvedatNqFmVjMH0ilZi4vqFamZbcIO0YpPnu7ErYsy-j8oEO3b/s1600/IMG_7405.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKfuwn0A8UK7cmWaSIONW9qkcBsOB1lqjNsfLjwUa_pWIt5S1ZtHRnJ0laFjzC5_5rrFEvaGWouDgSTWbz2e3ORovhi10ZkPJdY15k4QR7AHN-AV_fCjdb5jlUGPYvWyrR_s04yaMfFt5c/s1600/IMG_7403.jpg)
 

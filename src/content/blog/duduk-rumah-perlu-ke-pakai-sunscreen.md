@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjId-SJeUW74-Biml165HQbx_S5gCWUKARPI6wXtBkMaeOXRCRFx6akQMCxqYfolzOftKYGTXvu4Rwig2XuHbC9LQXWDnitahTEbIRhPQAYpZuS5nutq193aEZfWrGfSPWWMJ2aVcuZGMwU/s1600/IMG_1292.PNG)
 

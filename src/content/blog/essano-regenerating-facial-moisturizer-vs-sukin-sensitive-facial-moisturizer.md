@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS2phZZFRGKPxTk5WRlvB0hAFCfiGtk1PeB6H6l88JH5JnoLxpkJZ3KTfiF37YSNqQzt1OfViONpxppykuiYdOSfUgRdLwYJF1FQrM1OtmyG3dGV76l0EZo8seDLIGfgMAGaAAlEYihjuJ/s1600/C57D3231-2B3A-469D-ADB3-79F0F8DE1E51.JPG)
 
@@ -29,13 +28,11 @@ Because both have some common ingredients, both have pump packaging and both are
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU_VIEBA9CyKLXqtxQr2ZR9v7BCcQlgGl2XfSlnlUdzIKp6vN3QbQ0xyzLtFe37D-stuGKey8ddk7CIJEIleKch_8FU9BCrIgIcMrxMcXSmCComkUeW8HEGOPtTLnafDFfkpVt43vWVKVt/s1600/Screenshot+2019-06-08+at+1.17.53+AM.png)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgap1roZpWcv9ddYvk7j2wh2bKOioAm-o4Y4qpiTjn4ZoVlGWB30vkv_tc-xPzB3VCOE2Z3RoEB5I-a4T3P9BgCefQ_urCo4GQN2UQH3gXRYrXIklPNxGxdgvIt1dT5vFJMhilvAjuSo-1X/s1600/Screenshot+2019-06-08+at+1.19.14+AM.png)
 
@@ -51,19 +48,16 @@ Essano Regenerating Facial Moisturizer: RM 73.90 for 140ml
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4CONZ8I3uNkxbjth5Eua__BWar4Vng3yGSIl0EOkDW9b1Zv0EWM6jSFV9X4bTih6cvUMfTnM67CVZZlG6Hl01q9yvdkWtTR7832EE66SWsaKIug1PFF22eWTOS3ohsXb0VkXY1xgUVHwl/s1600/B8D18C96-7EA5-4A8B-A0EC-F2F78E953868.JPG)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhLvF6PEVnvaCfTwjEcjF4LUyxLBd6Gj69wuVGD5ffK5YAKSuYFwI32bQ_u2L0jRn42bvfxdV9iubuXQEzJxJDSyVMTC5MJUTPES3RuEPd1QIloWUF5mJJ6ebUsZhCTuuIxQw0BhzleF6_/s1600/A49423F0-D033-4A24-B6A5-6FAF0F8D538A.JPG)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZy8GaZBeLUQ5KgUCws5Wj1ShduwdBX3M_3dKfStiJCMDNc9HNVpACPmFw7B4Zb5D-xYKhpGbGPaGsv-iR4GiYKG8xnhfhUfj8BTTinzuvEYxwF29EXXRkjw-YgDeCuOvxhi1ZLG_jhFWv/s1600/A196E185-FCBE-402D-8860-9FA79933549F.JPG)
 
@@ -75,13 +69,11 @@ Essano is from New Zealand. It claims to moisturize, condition and regenerate th
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN9_PVI46sVRPG8NkjgTLcnGUIAz0F7dntAQp2dckRhokufwJzZK5y3GBBdYYDp-68zKCx18-wrlh0uoYzUntKrBzAIkDIfEMNDvFfc-JMRuj4ZkopBInkZwiz5qssSo6rhdbRbJ_6fHEd/s1600/9BF30B3E-21C9-448E-9EE2-E1280C64F41A.JPG)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnppYs3-x-YR6s_49ImJB4LCAqjwxbmlWHihvfu6JCdXfSdwmKbr1mltgiywr7pdVBOXKEvNOCScBBYTWqT7NB7tY7ZgMeO0BBnx83uh8kZympRZveg0WAezdlQYsP3HVVkdg0eBDTyJ0I/s1600/1A327829-2481-4A60-BD77-1C4193F1C57C.JPG)
 
@@ -97,7 +89,6 @@ Here is the full ingredients for both of the products.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKc7vlznE4J9IPI7JEG-CqHyeKOYdgn-Sigp6P13F9-5N9gPb-aNvz5_rxHNzNGgLrLqy36CetfKfs2gU17_Aot7gbgPwRP3ForjzHFKZVV4w-xrbYh-s7w_XR_EE21q207U63xvVVOEpD/s1600/01DAB67C-76E5-43F0-9A72-088B34F6CD71.JPG)
 
@@ -109,7 +100,6 @@ Here is the full ingredients for both of the products.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhowWelvMtyCeSW2vtjfYPzY9z9ay3O0dhOyqlHkZWng5gC4vSRvitPwNaslIUKys-2B_10avzf536A57E5M07lVWRKmhPpDByTPVX7Q4PZ4ZlBNw-snG1EK6110yNSnGWAC28qnFMpa2Im/s1600/IMG_9785.HEIC)
 
@@ -133,7 +123,6 @@ Water, Aloe Vera Leaf Juice, Rosehip Seed Oil, Shea Butter, Jojoba Oil, Glycerin
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi4wALDKQo8kFOiw_mCZx3wEYiXlZp9JAVF6wW40I3S9eQfSn2k8WnMa4vwndsXPDbKXFewyzJejmvNIpAhRkOAhG3-lRwpFXksJ4Bv6SXgD33C4gywD2ZMKNW7rc11KJ7oow6utJ3NfPi/s1600/207E78BD-75F5-4C43-99D0-05B1CDA05C7A.JPG)
 

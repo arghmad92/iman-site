@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvmRMjb4lDf_fBQ_-COdewVm6fBJ7ischEZErzy1qL2oNsr0_Rd89GfPTg2lnWcpBFLx0A5yL8wvKFfNIq1uOhZopBLWIZ8Fzykf0hLSBgBLrE7V67NfDI9DMqHI3RNHn8lcJ4SqfXcrU/s1600/1463654D-622F-4C65-82D9-02D8B700872B.JPG)  
 Cosrx Ultimate Moisturizing Honey Overnight Mask Review
@@ -48,7 +47,6 @@ I bought this mask during my trip to Korea. Dulu dia dalam jar so I malas nak tr
 
 Propolis Extract, Butylene Glycol, Glycerin, Betaine, 1,2-Hexanediol, PEG-60 Hydrogenated Castor Oil, Arginine, Cassia Obtusifolia Seed Extract, Dimethicone, Ethylhexylglycerin, Carbomer, Sodium Hyaluronate, BeesWax, Allantoin, Panthenol, Sodium Polyacrylate, Adenosine  
   
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijaSDDdgKVpAujFV0PFdcZDqiO1cMt_o_zW2vMRIkQIDdzZjZoIRjw1Zqy2mmVObvDvxz5ow9t4TRy0rjdkRTxm6ssIMZWMi9QhGmGP0yBfEiwGXsklVs7KvqMajnmwaaq00dICuJmJYSm/s1600/841B98BF-192C-4D6D-9CB1-EA73485D22D2.JPG)  
   
@@ -66,7 +64,6 @@ No noticeable scent
   
 
 **Packaging**  
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkRT5zqg1ggOjO7Q2VbqA7rcUOMtPtMtV1atu2QT1A4kwZHv3fcYQA3G47x8MD_izxahrIovLILS0921mIGbc4uZrBJxKWsrpgzSNgeQ3FlFAzLi6EUZVh6QOMx-g3Pw5mPiv_13sowEg9/s1600/7DBEAFD9-4047-41B6-88BE-61FF9AF62084.JPG)
 
@@ -75,7 +72,6 @@ It comes in a 60ml tube packaging with a flap cap which I really like! I don't l
   
 
 **Texture**  
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV_HaJjHNSwxiXp0Ir1RvBa_ZVynPpJ8YgWdmDsM6yBZk15NiGvcGYVSDrMXaOtuihZ7hBkTBJhJlwHW6jh0xkIo4BFaFvNuDZI-6lAbkSL87ys5pQJak-q_dWpyPCkFbV5eYcW8hyphenhyphenfaEs/s1600/C5113085-8F89-4F56-BCE6-965516497DFE.jpg)
 

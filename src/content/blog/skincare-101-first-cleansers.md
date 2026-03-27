@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Zk7Jy_sTf7dDJw7zoEaZqQ5-d5MhU6EK0NIQHN6qdbRcG9Y5q8L_ArERf715wKY8Er3fDvciryvexje3e_smrUU-sVI-mORwH1BRJXcL6LSMSLwS550CF_DVPxibpOmlY1O_zKIPN5fH/s1600/1D1BED4A-4997-4E5A-B0A3-ABE6A7B5C978.JPG)
 
@@ -33,7 +32,6 @@ First cleanser ialah cleanser / pencuci muka untuk bersihkan muka daripada makeu
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFiiY_c1Ev0SH6ai9GQqEnytAoLq0iP_7BhC6lKGq8XIY8mO2pU_0VMzaOVx192VwVXb2-aJ1ZWHROlcjaTA-XtV4n3PO7sG4nMJ7BSiQ9fetaqW2OLolLu0Co74bdKkXp2xk5ICKCKszs/s1600/IMG_1471+2.PNG)
 
@@ -53,7 +51,6 @@ My fav right now is Bioderma. I bought the small one je, sebab I rarely use mice
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgou-RhH6gj9RskjQwybYOB3Qd_igN03Vkt7ZtC4GC0ORI29f6ACsNWqgBhnDlIU-WejpFSF41lbAgyAElcenti6_m5juOyMz0rFFyZ6mRZCsPpqTa-kdaSpP320-lfjp4bEfDXNDC0TLm7/s1600/IMG_1474+2.jpg)
 
@@ -95,7 +92,6 @@ Nope. I only use this kalau pakai water resistant sunscreen or pakai makeup. Kal
 
 ### 3\. Cleansing balm 
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRRwKFV0PdGu3kM3soSvZYrDgaOB__R2trb_DyrUBvHoNhtPvOEeAfV4OKBqFTmD9wx4xaIEpR_njaEcyHce2n2U6m-Ru8LpiMhOsyI-BM71S14Id60BGfulZCTjU7xny9Uo-juH9bElw/s1600/IMG_1479+2.PNG)
 
@@ -121,7 +117,6 @@ Innisfree Melting Balm: [https://www.imanabdulrahim.com/2018/12/innisfree-melti
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5SDKCA01wFkZL97OW4xXN8c5ZA_AGOjFPsLino36qt8htntxVZVUcXIWMUHp9J6UIjZ5PsK503hgpv349Mmzu5GbFLRTu0O-cnAXXduOMCTOvBAAEOH9iLgzHjmNzKFDgpGQ-V6MB5mGa/s1600/IMG_1488+2.PNG)
 
@@ -133,7 +128,6 @@ Innisfree Melting Balm: [https://www.imanabdulrahim.com/2018/12/innisfree-melti
 
 ### 5\. Cleansing milk
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuB55thyphenhyphenVtfe7wRPDFweUiIFaDMcMDYUhA7rb1L-zXuLFppFmfZ-YPMNCLNbort4Y2RDf-tq-y8t_GPgek5ClhmUu8P8jArpFhhYQJT-QjxlvDXkdsIwva_P6rlH8nrh1rb-iP3jJJrOqg/s1600/IMG_1489.PNG)
 
@@ -143,7 +137,6 @@ Cleansing milk is really gentle and suitable for dry and sensitive skin. Just us
 
 ### 6\. Makeup remover
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9v8qa6AF4GcaefiDnzqrDbiF7HA-W8TzcHqxmiqz4uZdJ6EW6n2j6cT-eDexA5HGJpNT41dy6JAWMmLc3Xcbk23MNSMduMOB2-67z_Ziyri2-62aoOsTz_rrvjcEfE68whc0c7zEbGbgM/s1600/IMG_1707+2.jpg)
 

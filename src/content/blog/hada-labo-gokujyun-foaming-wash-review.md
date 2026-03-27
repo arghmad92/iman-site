@@ -12,7 +12,6 @@ My current cleanser, Hada Labo Gokujyun Foaming Wash.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Uxzm9Ak5c-8W2GBiUwytaY3fvtyyQkb7StM5cT6VT2y6TKUHho3iSWC2imU6-ylsEca5Q5raDmAUWePCnTGcxm2lMiFTWQPAvO2HMvkSuDLM6QLSIf7b7bGh5cpj1pDfDjgmXoB5CSE/s1600/Photo+28-11-2017%252C+8+36+40+AM.jpg)
 
@@ -105,7 +104,6 @@ Deeply hydrate for significant soft, smooth and supple skin after every wash.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimugj6sCnhIPRRoGYvXCMzhdr0BPPiYplCSEt9nFMKYQDhSELi_viaiRViVuPfJVXb4b0F8CVxkUveFR22CD0rHrR920481OiI2itbMTtgaXWYEnDWftxVoB8ZUukCGXxiBdhwyoAh_XI/s1600/Photo+28-11-2017%252C+8+36+45+AM.jpg)
 
@@ -129,7 +127,6 @@ White foamy texture. Dia macam dalam botol tu liquid, tapi bila pump, jadi foam.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJP-I4k7Dl0uNYQJptBfEeyDlbcLaVDAjFdqoonTdb3Bgcvv2eqwGV-hDg5rBp_QAM1EshnncALdXSmb6tcBQc0_wisJQK7apZAtARCUeNPgBFZkgAbaPHZXZkAWOCuzU92SN4UIe_o2o/s1600/Photo+28-11-2017%252C+8+37+19+AM.jpg)
 

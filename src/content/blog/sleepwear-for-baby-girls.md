@@ -8,7 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5LNIjWePe709n6Rg2oKDXk_8YwHnB3YftW9FB9fAXRmln4QfQyDvtg4SVUKdepIeScUxYYdd6OrwGnvqZd0OsIvyLsr-5TKVP5okJ-m5Lh7EPSgzLOxfBg_uKI6oG6vMiuF6jubU9nBge/s1080/sleepwear+girls.png)
 

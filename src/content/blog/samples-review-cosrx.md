@@ -12,7 +12,6 @@ Few samples that I received masa beli Cosrx haritu at Hermo.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilz_CewRP9p1s3oBVCONDE98A_NeugRMDlPDbFr6Rlol33ayNgxen9_C_GAi8SRDbm3LkhEcWunw79LI64JsK7yYLJIjU-RIZGWs4OHTH7K9GyOrl_XCOQMIDq06jZyUaYCEK-pUiLCVo/s1600/Photo+11-09-2017%252C+10+33+17+AM.jpg)
 
@@ -28,7 +27,6 @@ Cosrx AHA 7 Whitehead Power Liquid, Galactomyces 95 Whitening Power Essence, Adv
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWPpAY6IkN-iCYHhg7ja1btOHWdOS0ndsBgLbqrJ_7HUcxOBYItrZRsONGmLml_jRg_RzHrBGn-Z2ObLf4SVjgFVzuSk6O5Hkg8Ymvrad3m_m6XDqJq_WNLPGg0nRJOMoRW50r-m5ue_0/s1600/Photo+11-09-2017%252C+10+33+37+AM.jpg)
 
@@ -61,7 +59,6 @@ _Purchase the full size? Yes, I really want to try this out._
   
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJLv36tbvRYfNGsaFkvgwhaqpl84ziB0jsbVyZcZow2Yyxm-2DxtoEGq0Dx7RW2GE2l3aaSqasE8G-PJvfq-QyYTxYO5PTG3x5jXxk8oS-woAS19loBse8sW6gwbQBHm-vh_4hR6LBT_Y/s1600/Photo+11-09-2017%252C+10+33+44+AM.jpg)
 
@@ -86,7 +83,6 @@ _Purchase the full size? Nope._
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdHflhyphenhyphenVrXtx11gC4NnFgslmfYtPMyv90wP6WdkjxXfr_FV-S07XeR0Hr1inT2iYEqyRjP3Cy2AFzRxv-6PSzieTxaxdzazUlmAU7R3K6gEfBhZBIVkBS_qnpqzckwIEvaezozMRyJaeI/s1600/Photo+11-09-2017%252C+10+33+53+AM.jpg)
 
@@ -109,7 +105,6 @@ _Purchase the full size?Maybe. But not for me._
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9oY0tngycyIiNk6QwK2z6G8DTCLUJxBrc3oGN6OfWGT58Q1nUfGPZ4fiC2Q1C8tp6eg6i-iGiE2ERRJhH1svNZ3aHNmE_fCAZ1o61e00GrrhlTzANj3kgws9DnR9_hpOKLANEF2GhJiU/s1600/Photo+11-09-2017%252C+10+33+58+AM.jpg)
 

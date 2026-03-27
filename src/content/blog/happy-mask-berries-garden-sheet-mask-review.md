@@ -12,7 +12,6 @@ I saw these sheet mask dekat Guardian and ada offer buy 2 for RM10 if I'm not mi
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkqFNOteO5n5RnelELpWNAD-z710agaAjAUxf0ENRr47_e41nXZ1NVRftx_hVaBewtf3Esh4ileWKAhH-kqcM2rmj_ZEAnXK97hBp227Lbi3umL-HVgUtDPP6PeQTnmM3qm4ZnuJVSjoM/s1600/Photo+13-10-2017%252C+11+24+06+PM.jpg)
 
@@ -59,7 +58,6 @@ No need to rinse. Use daily for best result.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8LkE6KkZWUySgAj9FQNviZGlQ68mZvLTT19_kEBf_vK2x2KXd8V0cNpFheJUJNskYcDz8pOydltFoC2CHFKcQjjB9S0vmSq1WN8A1DTmuNXShEt4UdHnMoOjUcqzm9LrfH2hpSyTtzmw/s1600/Photo+13-10-2017%252C+11+23+05+PM.jpg)
 
@@ -76,13 +74,11 @@ No need to rinse. Use daily for best result.
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ3ltqdhioMBF2JjUQ-NIfitXAOQ_MrwwjcyHnN9_8vjHyaYI2G2pRGFl7xSe54EXb11FSfmHHPagG5SoDMrMsrfBcsijXumQ5UKzFdGVh8rhD5F7biVs-DifKZQypAWPk77H-PDaOipg/s1600/Photo+13-10-2017%252C+11+24+13+PM.jpg)
 
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH9NUGQ6nmaaLi6F4rrGb5hUQ2X8hxwkui5CPrAkBAP7WtAdosNSmCe_mwytdeqa44cXvkXh6DfZ7nNd1kznT6rRvOsMWcYTTXkQ44pk9XHxDa8JyyRnwy3nCUjjW72Ecx32hnQCGT2ik/s1600/Photo+13-10-2017%252C+11+24+31+PM.jpg)
 

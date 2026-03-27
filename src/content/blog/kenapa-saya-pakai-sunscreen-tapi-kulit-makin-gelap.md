@@ -11,7 +11,6 @@ draft: false
 Pernah tak pakai sunscreen tapi kulot jadi makin gelap? Padahal sepatutnya sunscreen kan bagus untuk elakkan kulit makin gelap?  
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVS-jpjLOOnMhMH7HFp_-3VP7zwDGPm7HBtIfDleKKBKcRb00Q1LNeKmKXZ7ca_1GDOHC4E2u-az6bnIV1btptM2DxwftY4xPjFFK6NOoGcm2A4TEWlzuBSppBqX-R0pM8XxOnJHApxth/s1600/download.jpeg)
 
@@ -25,7 +24,6 @@ Maybe ini antara sebab sebab dia:
   
   
 
-[!
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL0tdWffGxQk1FMJxA9cNoCr9kpfcn0IP_K-r9Ec49dCe5OJExgo5lyNmBl6yhKPDPsJUsfjMmNREgt6zm31RJ5i4aUuMRNsIPLK4Hi2BqnoUjLycDI_W-qWiIJQSYc6Ixb3WhTrn3_kvZ/s1600/Screen+Shot+2018-05-13+at+6.03.52+PM.png)
 
