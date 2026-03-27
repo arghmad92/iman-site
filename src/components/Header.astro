@@ -67,12 +67,16 @@ const navLinks = [
     transition: background 0.3s, border-color 0.3s;
   }
 
-  [data-theme="dark"] header {
+  :global([data-theme="dark"]) header {
     background: rgba(26, 15, 17, 0.95);
   }
 
-  [data-theme="dark"] .logo-text {
+  :global([data-theme="dark"]) .logo-text {
     color: #f0dce0;
+  }
+
+  :global([data-theme="dark"]) .logo-sub {
+    color: #8a5a63;
   }
 
   nav {
