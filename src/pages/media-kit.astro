@@ -1,12 +1,15 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-import { mergeWithCollection, categoriesFromPosts } from '../data/archive';
+import { categories } from '../data/archive';
+import type { Category } from '../data/archive';
 
 const blogPosts = await getCollection('blog', ({ data }) => !data.draft);
-const allPosts = mergeWithCollection(blogPosts);
-const counts = categoriesFromPosts(allPosts);
-const total = allPosts.length;
+const total = blogPosts.length;
+const counts = categories.reduce((acc, c) => {
+  acc[c] = blogPosts.filter((p) => p.data.category === c).length;
+  return acc;
+}, {} as Record<Category, number>);
 const yearsActive = new Date().getFullYear() - 2017;
 ---
 

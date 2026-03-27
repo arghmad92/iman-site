@@ -91,6 +91,12 @@ collections:
         required: false
         hint: "Paste a URL or upload an image."
 
+      - label: External URL
+        name: externalUrl
+        widget: string
+        required: false
+        hint: "If this post lives on another site (e.g. Blogger), paste the URL here."
+
       - label: Read Time
         name: readTime
         widget: string

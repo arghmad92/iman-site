@@ -11,7 +11,9 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { Content, headings } = await post.render();
+
+const isExternal = !!post.data.externalUrl;
+const { Content, headings } = isExternal ? { Content: null, headings: [] } : await post.render();
 
 const categoryColorMap: Record<string, string> = {
   Skincare: '#fad4dc',
@@ -53,6 +55,18 @@ function formatDate(dateStr: string) {
 }
 ---
 
+{isExternal ? (
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content={`0;url=${post.data.externalUrl}`} />
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>Redirecting to <a href={post.data.externalUrl}>{post.data.title}</a>...</p>
+  </body>
+</html>
+) : (
 <Layout
   title={`${post.data.title} — Iman Abdul Rahim`}
   description={post.data.excerpt}
@@ -209,6 +223,7 @@ function formatDate(dateStr: string) {
     <p>&copy; {new Date().getFullYear()} Iman Abdul Rahim &mdash; <a href="/">Back to home</a></p>
   </footer>
 </Layout>
+)}
 
 <script define:vars={{ slug: post.slug }}>
   // Reading progress bar

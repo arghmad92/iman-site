@@ -1,12 +1,25 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-import { mergeWithCollection, categories, categoriesFromPosts } from '../../data/archive';
+import { categories } from '../../data/archive';
+import type { Category } from '../../data/archive';
 
-const blogPosts = await getCollection('blog', ({ data }) => !data.draft);
-const allPosts = mergeWithCollection(blogPosts);
-const counts = categoriesFromPosts(allPosts);
+const blogPosts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+const allPosts = blogPosts.map((p) => ({
+  title: p.data.title,
+  date: p.data.date,
+  url: p.data.externalUrl || `/posts/${p.slug}/`,
+  category: p.data.category as Category,
+  isLocal: !p.data.externalUrl,
+}));
+
 const total = allPosts.length;
+const counts = categories.reduce((acc, c) => {
+  acc[c] = allPosts.filter((p) => p.category === c).length;
+  return acc;
+}, {} as Record<Category, number>);
 
 function formatDate(d: string) {
   return new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });

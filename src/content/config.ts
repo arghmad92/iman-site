@@ -8,6 +8,7 @@ const blog = defineCollection({
     category: z.enum(['Skincare', 'Beauty', 'Motherhood', 'Parenting', 'Lifestyle']),
     excerpt: z.string(),
     image: z.string().optional(),
+    externalUrl: z.string().optional(),
     readTime: z.string().default('3 min read'),
     draft: z.boolean().default(false),
   }),

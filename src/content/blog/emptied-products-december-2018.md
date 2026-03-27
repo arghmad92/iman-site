@@ -1,0 +1,11 @@
+---
+title: "Emptied products December 2018"
+date: "2018-12-01"
+category: Skincare
+excerpt: "Emptied products December 2018"
+externalUrl: "https://www.imanabdulrahim.com/2018/12/emptied-products-december-2018.html"
+readTime: "3 min read"
+draft: false
+---
+
+This post was originally published on [imanabdulrahim.com](https://www.imanabdulrahim.com/2018/12/emptied-products-december-2018.html).
