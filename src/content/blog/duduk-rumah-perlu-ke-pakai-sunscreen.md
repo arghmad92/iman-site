@@ -3,14 +3,14 @@ title: "Duduk rumah perlu ke pakai sunscreen?"
 date: "2018-12-01"
 category: Skincare
 excerpt: "Duduk rumah perlu ke pakai sunscreen?"
-image: "https://web.archive.org/web/20241109012900im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjId-SJeUW74-Biml165HQbx_S5gCWUKARPI6wXtBkMaeOXRCRFx6akQMCxqYfolzOftKYGTXvu4Rwig2XuHbC9LQXWDnitahTEbIRhPQAYpZuS5nutq193aEZfWrGfSPWWMJ2aVcuZGMwU/s640/IMG_1292.PNG"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjId-SJeUW74-Biml165HQbx_S5gCWUKARPI6wXtBkMaeOXRCRFx6akQMCxqYfolzOftKYGTXvu4Rwig2XuHbC9LQXWDnitahTEbIRhPQAYpZuS5nutq193aEZfWrGfSPWWMJ2aVcuZGMwU/s640/IMG_1292.PNG"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjId-SJeUW74-Biml165HQbx_S5gCWUKARPI6wXtBkMaeOXRCRFx6akQMCxqYfolzOftKYGTXvu4Rwig2XuHbC9LQXWDnitahTEbIRhPQAYpZuS5nutq193aEZfWrGfSPWWMJ2aVcuZGMwU/s1600/IMG_1292.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjId-SJeUW74-Biml165HQbx_S5gCWUKARPI6wXtBkMaeOXRCRFx6akQMCxqYfolzOftKYGTXvu4Rwig2XuHbC9LQXWDnitahTEbIRhPQAYpZuS5nutq193aEZfWrGfSPWWMJ2aVcuZGMwU/s1600/IMG_1292.PNG)
 
   
 

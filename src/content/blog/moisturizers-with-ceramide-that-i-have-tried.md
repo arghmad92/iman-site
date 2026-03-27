@@ -3,14 +3,14 @@ title: "Moisturizers with ceramide that I have tried"
 date: "2018-12-01"
 category: Skincare
 excerpt: "Moisturizers with ceramide that I have tried"
-image: "https://web.archive.org/web/20241109005857im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg80hDNuCCVv34dYTakoJ5XLZNt0kumOl5cLVkvMtnWbvz5tolmKXJeIePyahNXf6agXVzQ5eEm3qTb_1AJSkWV93TumPK38fPBP3Fi4bYnJ3P3WPZd_gvEWoNn1ZzdLX4X1ca76oVvbsxf/s640/1B668855-EF02-4D01-A734-A51962869805.JPG"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg80hDNuCCVv34dYTakoJ5XLZNt0kumOl5cLVkvMtnWbvz5tolmKXJeIePyahNXf6agXVzQ5eEm3qTb_1AJSkWV93TumPK38fPBP3Fi4bYnJ3P3WPZd_gvEWoNn1ZzdLX4X1ca76oVvbsxf/s640/1B668855-EF02-4D01-A734-A51962869805.JPG"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg80hDNuCCVv34dYTakoJ5XLZNt0kumOl5cLVkvMtnWbvz5tolmKXJeIePyahNXf6agXVzQ5eEm3qTb_1AJSkWV93TumPK38fPBP3Fi4bYnJ3P3WPZd_gvEWoNn1ZzdLX4X1ca76oVvbsxf/s1600/1B668855-EF02-4D01-A734-A51962869805.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg80hDNuCCVv34dYTakoJ5XLZNt0kumOl5cLVkvMtnWbvz5tolmKXJeIePyahNXf6agXVzQ5eEm3qTb_1AJSkWV93TumPK38fPBP3Fi4bYnJ3P3WPZd_gvEWoNn1ZzdLX4X1ca76oVvbsxf/s1600/1B668855-EF02-4D01-A734-A51962869805.JPG)
 
 Moisturizers with ceramide that I have tried
 

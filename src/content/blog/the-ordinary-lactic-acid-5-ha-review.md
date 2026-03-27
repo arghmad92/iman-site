@@ -3,7 +3,7 @@ title: "The Ordinary Lactic Acid 5% + HA Review"
 date: "2018-04-01"
 category: Skincare
 excerpt: "The Ordinary Lactic Acid 5% + HA Review"
-image: "https://web.archive.org/web/20250123102849im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqBX8ZhHUA1qmBKGg3dPT4S5GTxgukV6bQ98TrGkEHpTikRXOaHUSxgzOEHLAWiBePzMJcE3prtPlDjm7HBrdyqAX5Gc6CxREJUvJovWR7tvXHZYtqTQVYNNuIGmYVKXFLki1BKdvSo2ju/s640/Photo+13-04-2018%252C+12+33+05+AM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqBX8ZhHUA1qmBKGg3dPT4S5GTxgukV6bQ98TrGkEHpTikRXOaHUSxgzOEHLAWiBePzMJcE3prtPlDjm7HBrdyqAX5Gc6CxREJUvJovWR7tvXHZYtqTQVYNNuIGmYVKXFLki1BKdvSo2ju/s640/Photo+13-04-2018%252C+12+33+05+AM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ I dah lama gila tangguh untuk publish review about this The Ordinary Lactic Acid
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqBX8ZhHUA1qmBKGg3dPT4S5GTxgukV6bQ98TrGkEHpTikRXOaHUSxgzOEHLAWiBePzMJcE3prtPlDjm7HBrdyqAX5Gc6CxREJUvJovWR7tvXHZYtqTQVYNNuIGmYVKXFLki1BKdvSo2ju/s1600/Photo+13-04-2018%252C+12+33+05+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqBX8ZhHUA1qmBKGg3dPT4S5GTxgukV6bQ98TrGkEHpTikRXOaHUSxgzOEHLAWiBePzMJcE3prtPlDjm7HBrdyqAX5Gc6CxREJUvJovWR7tvXHZYtqTQVYNNuIGmYVKXFLki1BKdvSo2ju/s1600/Photo+13-04-2018%252C+12+33+05+AM.jpg)
 
   
 
@@ -80,13 +80,13 @@ I just drop dekat tangan dalam 3-4 drops and apply dengan jari macam biasa. Then
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrY2bpfr-QufeypmMW2N3hn41gEnlIs6fKJvg84obLNcxz1gOOs6RDQ4RpBQjtrqThysTkQqq6ue3AJ2jscK0b8s_IhwL6hdLj52isxNeAlBSMe7VFPeoBl_W3gzW0EMQvGmaioOOZ-rlk/s1600/Photo+13-04-2018%252C+12+33+15+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrY2bpfr-QufeypmMW2N3hn41gEnlIs6fKJvg84obLNcxz1gOOs6RDQ4RpBQjtrqThysTkQqq6ue3AJ2jscK0b8s_IhwL6hdLj52isxNeAlBSMe7VFPeoBl_W3gzW0EMQvGmaioOOZ-rlk/s1600/Photo+13-04-2018%252C+12+33+15+AM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglBxyP5k23TuRvPTG36Hq8A5DaFSG2h9dfOBzB-I6W2op3uj0QdHYL_d1tZP23vF_Eo5Oi9U1YOnorw8O-tRE_LtVVX8FkUE6g8_dk1WKrGN5_lgesRz4KX7C-aijrEKmpKYt1bShud4Ae/s1600/Photo+13-04-2018%252C+12+33+43+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglBxyP5k23TuRvPTG36Hq8A5DaFSG2h9dfOBzB-I6W2op3uj0QdHYL_d1tZP23vF_Eo5Oi9U1YOnorw8O-tRE_LtVVX8FkUE6g8_dk1WKrGN5_lgesRz4KX7C-aijrEKmpKYt1bShud4Ae/s1600/Photo+13-04-2018%252C+12+33+43+AM.jpg)
 
   
 
@@ -105,7 +105,7 @@ It's like a peach/ light orange colour, which is quite thick. Tapi yang baru pun
 **Ingredients**  
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYl33lYgzps21ZeGtX7iuuH6mHVhT6hHVt2wI0hqlz-oqxfA0CpsBrY-hJVdwXSF0iWvVW9ezlh4iEkol7_lwL3vcfcruKvW4i4A34XQFF7wsfKeNaqEG0S2YqumgTAqxU7I2o26w8GLI/s1600/Photo+13-04-2018%252C+12+33+25+AM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYl33lYgzps21ZeGtX7iuuH6mHVhT6hHVt2wI0hqlz-oqxfA0CpsBrY-hJVdwXSF0iWvVW9ezlh4iEkol7_lwL3vcfcruKvW4i4A34XQFF7wsfKeNaqEG0S2YqumgTAqxU7I2o26w8GLI/s1600/Photo+13-04-2018%252C+12+33+25+AM.jpg)  
   
 Ni ingredients untuk yang baru punya. I punya tu yang formula lama.  
 Aqua (Water), Lactic Acid, Glycerin, Pentylene Glycol, Propanediol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Hydroxyethylcellulose, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, Sodium Hydroxide, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol  

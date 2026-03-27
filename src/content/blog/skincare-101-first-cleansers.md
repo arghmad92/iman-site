@@ -3,14 +3,14 @@ title: "Skincare 101: First Cleansers"
 date: "2018-12-01"
 category: Skincare
 excerpt: "Skincare 101: First Cleansers"
-image: "https://web.archive.org/web/20250211042221im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Zk7Jy_sTf7dDJw7zoEaZqQ5-d5MhU6EK0NIQHN6qdbRcG9Y5q8L_ArERf715wKY8Er3fDvciryvexje3e_smrUU-sVI-mORwH1BRJXcL6LSMSLwS550CF_DVPxibpOmlY1O_zKIPN5fH/s640/1D1BED4A-4997-4E5A-B0A3-ABE6A7B5C978.JPG"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Zk7Jy_sTf7dDJw7zoEaZqQ5-d5MhU6EK0NIQHN6qdbRcG9Y5q8L_ArERf715wKY8Er3fDvciryvexje3e_smrUU-sVI-mORwH1BRJXcL6LSMSLwS550CF_DVPxibpOmlY1O_zKIPN5fH/s640/1D1BED4A-4997-4E5A-B0A3-ABE6A7B5C978.JPG"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Zk7Jy_sTf7dDJw7zoEaZqQ5-d5MhU6EK0NIQHN6qdbRcG9Y5q8L_ArERf715wKY8Er3fDvciryvexje3e_smrUU-sVI-mORwH1BRJXcL6LSMSLwS550CF_DVPxibpOmlY1O_zKIPN5fH/s1600/1D1BED4A-4997-4E5A-B0A3-ABE6A7B5C978.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Zk7Jy_sTf7dDJw7zoEaZqQ5-d5MhU6EK0NIQHN6qdbRcG9Y5q8L_ArERf715wKY8Er3fDvciryvexje3e_smrUU-sVI-mORwH1BRJXcL6LSMSLwS550CF_DVPxibpOmlY1O_zKIPN5fH/s1600/1D1BED4A-4997-4E5A-B0A3-ABE6A7B5C978.JPG)
 
 First cleansers.
 
@@ -35,7 +35,7 @@ First cleanser ialah cleanser / pencuci muka untuk bersihkan muka daripada makeu
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFiiY_c1Ev0SH6ai9GQqEnytAoLq0iP_7BhC6lKGq8XIY8mO2pU_0VMzaOVx192VwVXb2-aJ1ZWHROlcjaTA-XtV4n3PO7sG4nMJ7BSiQ9fetaqW2OLolLu0Co74bdKkXp2xk5ICKCKszs/s1600/IMG_1471+2.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFiiY_c1Ev0SH6ai9GQqEnytAoLq0iP_7BhC6lKGq8XIY8mO2pU_0VMzaOVx192VwVXb2-aJ1ZWHROlcjaTA-XtV4n3PO7sG4nMJ7BSiQ9fetaqW2OLolLu0Co74bdKkXp2xk5ICKCKszs/s1600/IMG_1471+2.PNG)
 
  Micellar water is the easiest first cleanser. Texture dia macam air, apply atas cotton pads and sapu je muka macam biasa sampai kotoran hilang. However, micellar water is only cleaning on the surface and tak sesuai kalau heavy makeup, especially pakai waterproof mascara and lipstick. Sometimes ada certain micellar water yang rasa drying.
 
@@ -55,7 +55,7 @@ My fav right now is Bioderma. I bought the small one je, sebab I rarely use mice
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgou-RhH6gj9RskjQwybYOB3Qd_igN03Vkt7ZtC4GC0ORI29f6ACsNWqgBhnDlIU-WejpFSF41lbAgyAElcenti6_m5juOyMz0rFFyZ6mRZCsPpqTa-kdaSpP320-lfjp4bEfDXNDC0TLm7/s1600/IMG_1474+2.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgou-RhH6gj9RskjQwybYOB3Qd_igN03Vkt7ZtC4GC0ORI29f6ACsNWqgBhnDlIU-WejpFSF41lbAgyAElcenti6_m5juOyMz0rFFyZ6mRZCsPpqTa-kdaSpP320-lfjp4bEfDXNDC0TLm7/s1600/IMG_1474+2.jpg)
 
  Oil cleanser biasanya digunakan untuk Korean double cleansing method. They use oil cleanser first and followed by water based cleanser (cleanser biasa yang pakai setiap hari tu). 
 
@@ -97,7 +97,7 @@ Nope. I only use this kalau pakai water resistant sunscreen or pakai makeup. Kal
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRRwKFV0PdGu3kM3soSvZYrDgaOB__R2trb_DyrUBvHoNhtPvOEeAfV4OKBqFTmD9wx4xaIEpR_njaEcyHce2n2U6m-Ru8LpiMhOsyI-BM71S14Id60BGfulZCTjU7xny9Uo-juH9bElw/s1600/IMG_1479+2.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRRwKFV0PdGu3kM3soSvZYrDgaOB__R2trb_DyrUBvHoNhtPvOEeAfV4OKBqFTmD9wx4xaIEpR_njaEcyHce2n2U6m-Ru8LpiMhOsyI-BM71S14Id60BGfulZCTjU7xny9Uo-juH9bElw/s1600/IMG_1479+2.PNG)
 
  Texture macam balm. Apply dekat kulit yang kering lepastu dia akan cairkan segala makeup yang ada. And then emulsify and bilas. Cleansing balm ni best guna kalau travel, tak perlu risau dia tumpah.
 
@@ -123,7 +123,7 @@ Innisfree Melting Balm: [https://www.imanabdulrahim.com/2018/12/innisfree-melti
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5SDKCA01wFkZL97OW4xXN8c5ZA_AGOjFPsLino36qt8htntxVZVUcXIWMUHp9J6UIjZ5PsK503hgpv349Mmzu5GbFLRTu0O-cnAXXduOMCTOvBAAEOH9iLgzHjmNzKFDgpGQ-V6MB5mGa/s1600/IMG_1488+2.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5SDKCA01wFkZL97OW4xXN8c5ZA_AGOjFPsLino36qt8htntxVZVUcXIWMUHp9J6UIjZ5PsK503hgpv349Mmzu5GbFLRTu0O-cnAXXduOMCTOvBAAEOH9iLgzHjmNzKFDgpGQ-V6MB5mGa/s1600/IMG_1488+2.PNG)
 
  Sometimes ada orang suka guna wipes bila travel. It's nice to have kalau tiba tiba ada emergency butto be honest, I don't really use wipes that much.
 
@@ -135,7 +135,7 @@ Innisfree Melting Balm: [https://www.imanabdulrahim.com/2018/12/innisfree-melti
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuB55thyphenhyphenVtfe7wRPDFweUiIFaDMcMDYUhA7rb1L-zXuLFppFmfZ-YPMNCLNbort4Y2RDf-tq-y8t_GPgek5ClhmUu8P8jArpFhhYQJT-QjxlvDXkdsIwva_P6rlH8nrh1rb-iP3jJJrOqg/s1600/IMG_1489.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuB55thyphenhyphenVtfe7wRPDFweUiIFaDMcMDYUhA7rb1L-zXuLFppFmfZ-YPMNCLNbort4Y2RDf-tq-y8t_GPgek5ClhmUu8P8jArpFhhYQJT-QjxlvDXkdsIwva_P6rlH8nrh1rb-iP3jJJrOqg/s1600/IMG_1489.PNG)
 
 Cleansing milk is really gentle and suitable for dry and sensitive skin. Just use cotton pads and bersihkan muka macam biasa. However, sama macam micellar water, it's not for heavy makeups. 
 
@@ -145,7 +145,7 @@ Cleansing milk is really gentle and suitable for dry and sensitive skin. Just us
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9v8qa6AF4GcaefiDnzqrDbiF7HA-W8TzcHqxmiqz4uZdJ6EW6n2j6cT-eDexA5HGJpNT41dy6JAWMmLc3Xcbk23MNSMduMOB2-67z_Ziyri2-62aoOsTz_rrvjcEfE68whc0c7zEbGbgM/s1600/IMG_1707+2.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9v8qa6AF4GcaefiDnzqrDbiF7HA-W8TzcHqxmiqz4uZdJ6EW6n2j6cT-eDexA5HGJpNT41dy6JAWMmLc3Xcbk23MNSMduMOB2-67z_Ziyri2-62aoOsTz_rrvjcEfE68whc0c7zEbGbgM/s1600/IMG_1707+2.jpg)
 
   
 

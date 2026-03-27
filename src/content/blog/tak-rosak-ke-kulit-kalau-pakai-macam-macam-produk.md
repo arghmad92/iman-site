@@ -3,14 +3,14 @@ title: "Tak rosak ke kulit kalau pakai macam macam produk?"
 date: "2018-12-01"
 category: Skincare
 excerpt: "Tak rosak ke kulit kalau pakai macam macam produk?"
-image: "https://web.archive.org/web/20241109012423im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvdqKEghCHTbqgPkpl7WWbyKRHDxH9NiGKAdESvAFpWbTl59GHHRx0DeVXxvyukvNYzSdbvt8wiPCViFDijxBIGtkvMpHZnZIMCbvgTiL1rT8_u4sUVkU16GWye1n8sf22M4lC51fUpWJ/s640/IMG_2404.PNG"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvdqKEghCHTbqgPkpl7WWbyKRHDxH9NiGKAdESvAFpWbTl59GHHRx0DeVXxvyukvNYzSdbvt8wiPCViFDijxBIGtkvMpHZnZIMCbvgTiL1rT8_u4sUVkU16GWye1n8sf22M4lC51fUpWJ/s640/IMG_2404.PNG"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvdqKEghCHTbqgPkpl7WWbyKRHDxH9NiGKAdESvAFpWbTl59GHHRx0DeVXxvyukvNYzSdbvt8wiPCViFDijxBIGtkvMpHZnZIMCbvgTiL1rT8_u4sUVkU16GWye1n8sf22M4lC51fUpWJ/s1600/IMG_2404.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvdqKEghCHTbqgPkpl7WWbyKRHDxH9NiGKAdESvAFpWbTl59GHHRx0DeVXxvyukvNYzSdbvt8wiPCViFDijxBIGtkvMpHZnZIMCbvgTiL1rT8_u4sUVkU16GWye1n8sf22M4lC51fUpWJ/s1600/IMG_2404.PNG)
 
 _Photo credit from pinterest._
 

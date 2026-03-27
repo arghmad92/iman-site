@@ -3,14 +3,14 @@ title: "The Inkey List moisturizer review"
 date: "2021-01-26"
 category: Skincare
 excerpt: "The Inkey List moisturizer review"
-image: "https://web.archive.org/web/20241205040115im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY8N4MLXxBFg3G3OrItxoDQH-3GWlFFOU6EkiHO4mlMZuQIpgAjK6atCguLv9yUNKRQdhpQzPWxaiETyU1z3OHQcOM2atPhy4-cmzST6blzVpKJ6IylIRn2c1BYBd2PmuRm2S5sxR17amG/w640-h640/133ACD50-D0D4-4FAA-8FEE-2085479FBCC3.jpeg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY8N4MLXxBFg3G3OrItxoDQH-3GWlFFOU6EkiHO4mlMZuQIpgAjK6atCguLv9yUNKRQdhpQzPWxaiETyU1z3OHQcOM2atPhy4-cmzST6blzVpKJ6IylIRn2c1BYBd2PmuRm2S5sxR17amG/w640-h640/133ACD50-D0D4-4FAA-8FEE-2085479FBCC3.jpeg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY8N4MLXxBFg3G3OrItxoDQH-3GWlFFOU6EkiHO4mlMZuQIpgAjK6atCguLv9yUNKRQdhpQzPWxaiETyU1z3OHQcOM2atPhy4-cmzST6blzVpKJ6IylIRn2c1BYBd2PmuRm2S5sxR17amG/s1125/133ACD50-D0D4-4FAA-8FEE-2085479FBCC3.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY8N4MLXxBFg3G3OrItxoDQH-3GWlFFOU6EkiHO4mlMZuQIpgAjK6atCguLv9yUNKRQdhpQzPWxaiETyU1z3OHQcOM2atPhy4-cmzST6blzVpKJ6IylIRn2c1BYBd2PmuRm2S5sxR17amG/s1125/133ACD50-D0D4-4FAA-8FEE-2085479FBCC3.jpeg)
 
   
 
@@ -24,7 +24,7 @@ The Inkey List moisturizer review (Vitamin B, C And E Moisturizer | Peptide Mois
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHml-_QPVCP6PseKHVCSFA9kpmMpWWEkiUuF_OWDEtb7QeOTgx33aUaNxc95MspbsLXkgmiWvVxidVQacIQpzbuCnARXFfiMzng867YEgD6GljGJJFXajmugZPFlNWdZoMhu_gphl7Jea-/s1125/B715A7D3-4A25-4198-B1FA-77B96F88739A.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHml-_QPVCP6PseKHVCSFA9kpmMpWWEkiUuF_OWDEtb7QeOTgx33aUaNxc95MspbsLXkgmiWvVxidVQacIQpzbuCnARXFfiMzng867YEgD6GljGJJFXajmugZPFlNWdZoMhu_gphl7Jea-/s1125/B715A7D3-4A25-4198-B1FA-77B96F88739A.jpeg)
 
   
 
@@ -40,7 +40,7 @@ Aqua (Water/Eau), Glycerin, Glyceryl Stearate SE, Cetearyl Alcohol, Caprylic/Cap
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Lce3_lX1et8fw8l-Ylnu0wYWmIBXFF1XObz289R4WqGu2wSttYLS-fEisnGw6B_vaZOyy_Ogy0Qy6_ClLnKqg0LC1IDvwixZh4fxVuoagIBqZ3-DmcATGlm0Wb1UJZ3GJ6ohU-Wf1FgJ/s1125/16656D3A-32A0-4DCE-A667-C90150EDF369.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Lce3_lX1et8fw8l-Ylnu0wYWmIBXFF1XObz289R4WqGu2wSttYLS-fEisnGw6B_vaZOyy_Ogy0Qy6_ClLnKqg0LC1IDvwixZh4fxVuoagIBqZ3-DmcATGlm0Wb1UJZ3GJ6ohU-Wf1FgJ/s1125/16656D3A-32A0-4DCE-A667-C90150EDF369.jpeg)
 
   
 
@@ -66,7 +66,7 @@ A nurturing yet fast-absorbing daily moisturizer with a peptide duo that helps s
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7tpEO4-qdX7tkax0Xp9Bow3Y9nPfnwDLx_4u6YxCvwknk2pGkTY7Ipk9IerKCqicZxwTBsoglx9Fe9K5JAus-taciNdNE9Etk4XlD_RZKel6XL_f5hqh_XlMrFSi2yc95LsHSUCiH1UXz/s1125/40FDAB60-2A62-4886-9F33-0F35B508EF49.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7tpEO4-qdX7tkax0Xp9Bow3Y9nPfnwDLx_4u6YxCvwknk2pGkTY7Ipk9IerKCqicZxwTBsoglx9Fe9K5JAus-taciNdNE9Etk4XlD_RZKel6XL_f5hqh_XlMrFSi2yc95LsHSUCiH1UXz/s1125/40FDAB60-2A62-4886-9F33-0F35B508EF49.jpeg)
 
   
 
@@ -78,7 +78,7 @@ Aqua (Water/Eau), Caprylic/Capric Triglyceride, Glycerin, C12-15 Alkyl Benzoate,
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxKXGztjQ4DlkOYzKLGOepWIl1Sy3R_eY7GOHHD6aCUIWaOQDrcnJndXaWOmDs4r04QRSYmS54L7g0Hv8u7_gTqot5fqERl4cI-nyDCpnaq12UrRInycHRiL4TuZ9w8bMhAZ3QT-szKbZ5/s1125/61577679-7AF3-4424-8231-B5F1663461F4.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxKXGztjQ4DlkOYzKLGOepWIl1Sy3R_eY7GOHHD6aCUIWaOQDrcnJndXaWOmDs4r04QRSYmS54L7g0Hv8u7_gTqot5fqERl4cI-nyDCpnaq12UrRInycHRiL4TuZ9w8bMhAZ3QT-szKbZ5/s1125/61577679-7AF3-4424-8231-B5F1663461F4.jpeg)
 
   
 
@@ -98,7 +98,7 @@ I love the texture, it’s really moisturizing for my dry skin. Kalau pakai mala
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2Fdtqliy23smpVtkvPYs7bp7I5wNY4x0hmI5w6pJN2yYyLziGplaarsjl4DJDG1a8u0oNaGQ99R3Nh4-xeRhjsyv3WBEUt9ZjnC1y1MtiEea-gjDOGd9H740a6HUwXR8V8cx70DL9NOv/s1125/C21F62CB-06AD-41C5-BA7D-18EB9BC00DE8.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2Fdtqliy23smpVtkvPYs7bp7I5wNY4x0hmI5w6pJN2yYyLziGplaarsjl4DJDG1a8u0oNaGQ99R3Nh4-xeRhjsyv3WBEUt9ZjnC1y1MtiEea-gjDOGd9H740a6HUwXR8V8cx70DL9NOv/s1125/C21F62CB-06AD-41C5-BA7D-18EB9BC00DE8.jpeg)
 
 What it claims?
 
@@ -114,7 +114,7 @@ Aqua (Water/ Eau), Butylene Glycol, Glycerin, Sodium Hyaluronate, Simmondsia Chi
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqevEvAirF0Z1n5iUs_YIp3OYfQgwBIKmDvIyQt4xaTexX3_MP1SPcq3v_zihrC8lNMD6OCuG5LQzJxVRvIaZVEph2xtSEb0EEFwDZGfXV_ltr1j0zW83iQh_wRCoVyDvhSr-8oB0Gsx3W/s1125/DA070665-8C71-4A79-942E-F9CA1A80392D.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqevEvAirF0Z1n5iUs_YIp3OYfQgwBIKmDvIyQt4xaTexX3_MP1SPcq3v_zihrC8lNMD6OCuG5LQzJxVRvIaZVEph2xtSEb0EEFwDZGfXV_ltr1j0zW83iQh_wRCoVyDvhSr-8oB0Gsx3W/s1125/DA070665-8C71-4A79-942E-F9CA1A80392D.jpeg)
 
   
 

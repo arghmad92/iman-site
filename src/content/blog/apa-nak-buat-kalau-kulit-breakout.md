@@ -3,7 +3,7 @@ title: "Apa nak buat kalau kulit breakout?"
 date: "2018-06-01"
 category: Skincare
 excerpt: "Apa nak buat kalau kulit breakout?"
-image: "https://web.archive.org/web/20241205034554im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8HVBsKgPMvTpaXefhLt9suByO2_rWcR688hLvI57uCn9Bh8owMlDD7jrxH88HPnOYNHnCKV2zrIUhH2_OJuavWKAeCiDUihEPiI_iGgVLd1QraVU1rE1i602c400sdLlWpDU8SV31dSrI/s640/a4t46qlP.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8HVBsKgPMvTpaXefhLt9suByO2_rWcR688hLvI57uCn9Bh8owMlDD7jrxH88HPnOYNHnCKV2zrIUhH2_OJuavWKAeCiDUihEPiI_iGgVLd1QraVU1rE1i602c400sdLlWpDU8SV31dSrI/s640/a4t46qlP.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ Apa nak buat kalau kulit breakout?
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8HVBsKgPMvTpaXefhLt9suByO2_rWcR688hLvI57uCn9Bh8owMlDD7jrxH88HPnOYNHnCKV2zrIUhH2_OJuavWKAeCiDUihEPiI_iGgVLd1QraVU1rE1i602c400sdLlWpDU8SV31dSrI/s1600/a4t46qlP.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8HVBsKgPMvTpaXefhLt9suByO2_rWcR688hLvI57uCn9Bh8owMlDD7jrxH88HPnOYNHnCKV2zrIUhH2_OJuavWKAeCiDUihEPiI_iGgVLd1QraVU1rE1i602c400sdLlWpDU8SV31dSrI/s1600/a4t46qlP.jpg)
 
   
   
@@ -68,7 +68,7 @@ Ada orang, lagi dia naik jerawat, lagi dia scrub kulit dengan harapan breakout b
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH0Gfs5zYbomnNhOpYKV9CbyH3AP8V_2wyHL4UWpNBVtWLcSEQNIP4xoYSTkoe2gI_LADo8LyipKu2PErJct7VhozjCsaP0f7vZHP6vNkaeOmZNAQYGdfWwxU6ypqfxCltUDjsVoEa2Ak7/s1600/Screen+Shot+2017-09-15+at+10.53.58+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH0Gfs5zYbomnNhOpYKV9CbyH3AP8V_2wyHL4UWpNBVtWLcSEQNIP4xoYSTkoe2gI_LADo8LyipKu2PErJct7VhozjCsaP0f7vZHP6vNkaeOmZNAQYGdfWwxU6ypqfxCltUDjsVoEa2Ak7/s1600/Screen+Shot+2017-09-15+at+10.53.58+PM.png)
 
   
 
@@ -216,7 +216,7 @@ I ada share dekat instagram about soothing ingredients. 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPtVUWrTX3vqhO4WNkwQ2lCQ270LUwow_0sH8B5g6cqMctpWcYYuDWYL7Vid4SnljdcMcErFcD1tTZYXdZoo74LPBR_psakh0t4T3JM9wUiVAVbZlY6qTIZ6VYaIKcyWIHCsNTQBsGQvp0/s1600/Screen+Shot+2018-06-24+at+6.06.00+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPtVUWrTX3vqhO4WNkwQ2lCQ270LUwow_0sH8B5g6cqMctpWcYYuDWYL7Vid4SnljdcMcErFcD1tTZYXdZoo74LPBR_psakh0t4T3JM9wUiVAVbZlY6qTIZ6VYaIKcyWIHCsNTQBsGQvp0/s1600/Screen+Shot+2018-06-24+at+6.06.00+PM.png)
 
   
 

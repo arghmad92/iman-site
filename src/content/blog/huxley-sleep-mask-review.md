@@ -3,14 +3,14 @@ title: "Huxley Sleep Mask Review"
 date: "2019-01-01"
 category: Skincare
 excerpt: "Huxley Sleep Mask Review"
-image: "https://web.archive.org/web/20250123104429im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAXPtN6bYXpjCj5rb9Wn1Schm0JgT_dGRpy5kcTyBNrT7Ja2Uorp3ksFrDcjPfIJjRHLV35fctFYKlysEJnZxIkMiESuNiwl6mK0kXhuWzUdrOC3ewbcFvp71o7UEmlXybqGbGPcVf_Nq/s640/E9901EEC-26E3-4307-8DA1-41520A083CEF.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAXPtN6bYXpjCj5rb9Wn1Schm0JgT_dGRpy5kcTyBNrT7Ja2Uorp3ksFrDcjPfIJjRHLV35fctFYKlysEJnZxIkMiESuNiwl6mK0kXhuWzUdrOC3ewbcFvp71o7UEmlXybqGbGPcVf_Nq/s640/E9901EEC-26E3-4307-8DA1-41520A083CEF.jpg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAXPtN6bYXpjCj5rb9Wn1Schm0JgT_dGRpy5kcTyBNrT7Ja2Uorp3ksFrDcjPfIJjRHLV35fctFYKlysEJnZxIkMiESuNiwl6mK0kXhuWzUdrOC3ewbcFvp71o7UEmlXybqGbGPcVf_Nq/s1600/E9901EEC-26E3-4307-8DA1-41520A083CEF.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAXPtN6bYXpjCj5rb9Wn1Schm0JgT_dGRpy5kcTyBNrT7Ja2Uorp3ksFrDcjPfIJjRHLV35fctFYKlysEJnZxIkMiESuNiwl6mK0kXhuWzUdrOC3ewbcFvp71o7UEmlXybqGbGPcVf_Nq/s1600/E9901EEC-26E3-4307-8DA1-41520A083CEF.jpg)
 
 Huxley Sleep Mask Review
 
@@ -25,7 +25,7 @@ I bought this mask long long time ago tapi sekarang baru sempat nak review.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCo5VksgcD6YcFju_ujiaYGP2Nao5aCTTGga-lMGy7MX6CMQmUZjMi6umXB3i8TgvtROTyaGgektcNKI-C0EeA33blA48aVC63ifqEbae0ZBvyCoQ4_NV-6NDGSsWGClzY2-o5t0CNb2lQ/s1600/1C7F0009-D892-4C35-8D53-280FDF6601E6.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCo5VksgcD6YcFju_ujiaYGP2Nao5aCTTGga-lMGy7MX6CMQmUZjMi6umXB3i8TgvtROTyaGgektcNKI-C0EeA33blA48aVC63ifqEbae0ZBvyCoQ4_NV-6NDGSsWGClzY2-o5t0CNb2lQ/s1600/1C7F0009-D892-4C35-8D53-280FDF6601E6.jpg)
 
   
 
@@ -59,7 +59,7 @@ It comes in transparent tube with white flap cap.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoyV2ARiF3Vj9FaGRxIGdjU19dxBWLUIa0Lxst4RsrsBaYqSt2xZM_lqbCJqOLBXveYqZwyjwG57810XC1aNX3zvKYCWrWlbIpvrR7U00by6AcdXVMi9G4kM6DR6JNq3lw9HagGCtDx2oQ/s1600/C1CDB21E-539A-4D19-9E04-B248505AF7F0.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoyV2ARiF3Vj9FaGRxIGdjU19dxBWLUIa0Lxst4RsrsBaYqSt2xZM_lqbCJqOLBXveYqZwyjwG57810XC1aNX3zvKYCWrWlbIpvrR7U00by6AcdXVMi9G4kM6DR6JNq3lw9HagGCtDx2oQ/s1600/C1CDB21E-539A-4D19-9E04-B248505AF7F0.jpg)
 
 Lightweight gel texture
 

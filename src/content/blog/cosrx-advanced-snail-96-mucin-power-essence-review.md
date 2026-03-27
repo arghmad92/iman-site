@@ -3,7 +3,7 @@ title: "COSRX Advanced Snail 96 Mucin Power Essence Review"
 date: "2018-03-01"
 category: Skincare
 excerpt: "COSRX Advanced Snail 96 Mucin Power Essence Review"
-image: "https://web.archive.org/web/20241205050934im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZYxlglLXR5Jd5YVvNpvohSwBHuwGsEBWjUMjsyGizYKuqEV9mH3NjoinJlUQgpaRowDVvdXN6dreUDB0UjXuJHACHPgTGxZFIF-1SANXRSQ0ZvmhL8G4SxRki4HIgWEB_mWR4YP1vNweC/s640/Photo+28-02-2018%252C+9+07+41+AM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZYxlglLXR5Jd5YVvNpvohSwBHuwGsEBWjUMjsyGizYKuqEV9mH3NjoinJlUQgpaRowDVvdXN6dreUDB0UjXuJHACHPgTGxZFIF-1SANXRSQ0ZvmhL8G4SxRki4HIgWEB_mWR4YP1vNweC/s640/Photo+28-02-2018%252C+9+07+41+AM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ It took me awhile to review this product walaupun dah lama beli since I don't re
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZYxlglLXR5Jd5YVvNpvohSwBHuwGsEBWjUMjsyGizYKuqEV9mH3NjoinJlUQgpaRowDVvdXN6dreUDB0UjXuJHACHPgTGxZFIF-1SANXRSQ0ZvmhL8G4SxRki4HIgWEB_mWR4YP1vNweC/s1600/Photo+28-02-2018%252C+9+07+41+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZYxlglLXR5Jd5YVvNpvohSwBHuwGsEBWjUMjsyGizYKuqEV9mH3NjoinJlUQgpaRowDVvdXN6dreUDB0UjXuJHACHPgTGxZFIF-1SANXRSQ0ZvmhL8G4SxRki4HIgWEB_mWR4YP1vNweC/s1600/Photo+28-02-2018%252C+9+07+41+AM.jpg)
 
   
   
@@ -55,7 +55,7 @@ Snail Secretion Filtrate, Betaine, Butylene Glycol,1,2-Hexanediol, Sodium Hyalur
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_C68Y3PNAIcNkAOqrnv2g8_-jDDiP0k-E_dgl6ozdEk2vpApmTSCmOKPZssPlvULzqsqj0Vs9q_Y_urnyw5sZrk-yGne5eJYqNJ_Ow5f0_SvH37UlAYtlnI9W9zsb3YCntOb2bx6FBcUH/s1600/Photo+28-02-2018%252C+9+07+52+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_C68Y3PNAIcNkAOqrnv2g8_-jDDiP0k-E_dgl6ozdEk2vpApmTSCmOKPZssPlvULzqsqj0Vs9q_Y_urnyw5sZrk-yGne5eJYqNJ_Ow5f0_SvH37UlAYtlnI9W9zsb3YCntOb2bx6FBcUH/s1600/Photo+28-02-2018%252C+9+07+52+AM.jpg)
 
   
 
@@ -65,7 +65,7 @@ This is from CosDNA:
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwW9AqlmWmvdspx12WQIXYSIRDdaZwNKqj0MlBwuwAqycHEo3YT6Q5Dc0VTk5AT4ITyBWT8bAsILKa0X6cVn8prMKRXavlLWr8kmoNPcZObxUG536il_UPK4_L-_qcBa9PCzNgBjvQn9mv/s1600/Screen+Shot+2018-03-01+at+3.11.36+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwW9AqlmWmvdspx12WQIXYSIRDdaZwNKqj0MlBwuwAqycHEo3YT6Q5Dc0VTk5AT4ITyBWT8bAsILKa0X6cVn8prMKRXavlLWr8kmoNPcZObxUG536il_UPK4_L-_qcBa9PCzNgBjvQn9mv/s1600/Screen+Shot+2018-03-01+at+3.11.36+PM.png)
 
   
 
@@ -90,7 +90,7 @@ Some good ingredients are of course lah snail tu, which is really good for sooth
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRe-hfqvcVa3EXgbyKExjDXRKgUoI66htc-gIQ6RcKoJPkGqCalLAU67z0O-5pzT8xH5HZWkLzyJHYmx3CKE2qWC2Plx1g033st9bMWDyUq1xvlsnSbb88_cZtub3hipGkDOv1ohBuKZoD/s1600/Photo+28-02-2018%252C+9+08+00+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRe-hfqvcVa3EXgbyKExjDXRKgUoI66htc-gIQ6RcKoJPkGqCalLAU67z0O-5pzT8xH5HZWkLzyJHYmx3CKE2qWC2Plx1g033st9bMWDyUq1xvlsnSbb88_cZtub3hipGkDOv1ohBuKZoD/s1600/Photo+28-02-2018%252C+9+08+00+AM.jpg)
 
   
   
@@ -101,7 +101,7 @@ It comes in a 100ml transparent plastic bottle with a black pump. Senang nak dis
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJwB9MlEhz4ss4LyKYOYp5ZIbdjorZn35U6eIuEUNso9Bt19odemZsncdSlGyInFgmnsjbUunPVNp-Gzr16X1AanCeLs0jIqSp7rYcfaZPiSsp8O9J1PoRxxG7pJRyq-EYj2OJRb2CLx-0/s1600/Photo+28-02-2018%252C+9+08+05+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJwB9MlEhz4ss4LyKYOYp5ZIbdjorZn35U6eIuEUNso9Bt19odemZsncdSlGyInFgmnsjbUunPVNp-Gzr16X1AanCeLs0jIqSp7rYcfaZPiSsp8O9J1PoRxxG7pJRyq-EYj2OJRb2CLx-0/s1600/Photo+28-02-2018%252C+9+08+05+AM.jpg)
 
   
 
@@ -111,7 +111,7 @@ The texture is quite thick, almost like serum. Tak mengalir langsung macam toner
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRjezkMK6eVKBfDK7CBWJJvBLyLxsJww3_LK2p9cj66pogMb3jgmCvfGlZGNXohF0gv49EY3ce_69ik_VQqTesIRvXd71gcXd2e1FAKQSRXnCQK9k4hFQijLKi4xEmTbcnGy9km7C41YT3/s1600/Photo+28-02-2018%252C+9+08+22+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRjezkMK6eVKBfDK7CBWJJvBLyLxsJww3_LK2p9cj66pogMb3jgmCvfGlZGNXohF0gv49EY3ce_69ik_VQqTesIRvXd71gcXd2e1FAKQSRXnCQK9k4hFQijLKi4xEmTbcnGy9km7C41YT3/s1600/Photo+28-02-2018%252C+9+08+22+AM.jpg)
 
   
 

@@ -3,7 +3,7 @@ title: "Cosrx AHA/BHA Clarifying Treatment Toner Review"
 date: "2017-10-01"
 category: Skincare
 excerpt: "Cosrx AHA/BHA Clarifying Treatment Toner Review"
-image: "https://web.archive.org/web/20250211054853im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0E3wYcBedv3ckKU8pztBMdyKWFFf_lHo52PQ3REtf96DkOwjZMADDK291CzPfZRQmot8NXlzhzcJSL22fxGs8qlT0qp_CAoQsXktzYDHch00BsTlMNDXBS0gBQPWXQxiLietW4WNVfs/s640/Photo+20-10-2017%252C+2+35+38+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0E3wYcBedv3ckKU8pztBMdyKWFFf_lHo52PQ3REtf96DkOwjZMADDK291CzPfZRQmot8NXlzhzcJSL22fxGs8qlT0qp_CAoQsXktzYDHch00BsTlMNDXBS0gBQPWXQxiLietW4WNVfs/s640/Photo+20-10-2017%252C+2+35+38+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ draft: false
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0E3wYcBedv3ckKU8pztBMdyKWFFf_lHo52PQ3REtf96DkOwjZMADDK291CzPfZRQmot8NXlzhzcJSL22fxGs8qlT0qp_CAoQsXktzYDHch00BsTlMNDXBS0gBQPWXQxiLietW4WNVfs/s1600/Photo+20-10-2017%252C+2+35+38+PM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0E3wYcBedv3ckKU8pztBMdyKWFFf_lHo52PQ3REtf96DkOwjZMADDK291CzPfZRQmot8NXlzhzcJSL22fxGs8qlT0qp_CAoQsXktzYDHch00BsTlMNDXBS0gBQPWXQxiLietW4WNVfs/s1600/Photo+20-10-2017%252C+2+35+38+PM.jpg)  
   
   
   
@@ -36,7 +36,7 @@ Where to get? Hermo, Shopee (wakobeauty)
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbbKo7X8UjswkjGk9NPBSNqHnZ7I7XS4Ac5DryyC8MkhWnfqEKAGCQidCwkXUVfwiVFoZ5abtavh4_y-Jmrzx0ahoUEgdL5E1MIVFXXtRf6guhJcJUHA6ZH80dssGSY5UzrWEOxqbg8M0/s1600/Photo+20-10-2017%252C+2+35+47+PM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbbKo7X8UjswkjGk9NPBSNqHnZ7I7XS4Ac5DryyC8MkhWnfqEKAGCQidCwkXUVfwiVFoZ5abtavh4_y-Jmrzx0ahoUEgdL5E1MIVFXXtRf6guhJcJUHA6ZH80dssGSY5UzrWEOxqbg8M0/s1600/Photo+20-10-2017%252C+2+35+47+PM.jpg)  
   
 
 **What it claims?** 
@@ -67,7 +67,7 @@ In a 150mL transparent plastic bottle with a black nozzle. Boleh nampak la isi d
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxKtyYKmqyMigsC9d5Wa834PQ-usXvFzFBVyFmncIocFk-VSREXA20I3mhn4q9HcdVC3_C7FCabP7BicngxcikgAyISGuzqRqs_hmxNnIxu-47l0m1912sZXt4SmMQD6vS-intfNqxqXQ/s1600/Photo+20-10-2017%252C+2+36+10+PM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxKtyYKmqyMigsC9d5Wa834PQ-usXvFzFBVyFmncIocFk-VSREXA20I3mhn4q9HcdVC3_C7FCabP7BicngxcikgAyISGuzqRqs_hmxNnIxu-47l0m1912sZXt4SmMQD6vS-intfNqxqXQ/s1600/Photo+20-10-2017%252C+2+36+10+PM.jpg)  
   
 
 **The colour/consistency/texture:**

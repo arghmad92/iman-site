@@ -3,7 +3,7 @@ title: "Exfoliate: AHA & BHA"
 date: "2017-09-01"
 category: Skincare
 excerpt: "Exfoliate: AHA & BHA"
-image: "https://web.archive.org/web/20250123112752im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZgOEaLyVph1iszwuH28gwcTrhzmTnzUWKuGvblZRIqT2GndUU827RwGNBkadCUaK60GAedttFQHEbwr1_b-2CPXaPv4OrOLc5l2bU7HV34WGD-U9XwEKGWRiQsWiwh0bPZCVw9OhwT1CR/s640/IMG_5584.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZgOEaLyVph1iszwuH28gwcTrhzmTnzUWKuGvblZRIqT2GndUU827RwGNBkadCUaK60GAedttFQHEbwr1_b-2CPXaPv4OrOLc5l2bU7HV34WGD-U9XwEKGWRiQsWiwh0bPZCVw9OhwT1CR/s640/IMG_5584.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ Today, I'm gonna share only the basics about exfoliation. Disclaimer, I'm not a 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZgOEaLyVph1iszwuH28gwcTrhzmTnzUWKuGvblZRIqT2GndUU827RwGNBkadCUaK60GAedttFQHEbwr1_b-2CPXaPv4OrOLc5l2bU7HV34WGD-U9XwEKGWRiQsWiwh0bPZCVw9OhwT1CR/s1600/IMG_5584.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZgOEaLyVph1iszwuH28gwcTrhzmTnzUWKuGvblZRIqT2GndUU827RwGNBkadCUaK60GAedttFQHEbwr1_b-2CPXaPv4OrOLc5l2bU7HV34WGD-U9XwEKGWRiQsWiwh0bPZCVw9OhwT1CR/s1600/IMG_5584.jpg)
 
   
 
@@ -47,7 +47,7 @@ Scrub pulak, cara untuk kita buang kulit mati tu. Kita sental sental guna scrub,
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cnA-LcVbSQiJF7r9ZuzvXhc7EOFieID7zLi3shuQ2N4TVINP-O93Z769wEscEtYxiJuvYYfajCqE3PdNIYiOoD5ul2n5AzVL0u8I0dFmoKU9VfBzjI_K2XiUwpYmYacOE9pfkZAUtkE/s1600/Screen+Shot+2017-09-28+at+7.45.26+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cnA-LcVbSQiJF7r9ZuzvXhc7EOFieID7zLi3shuQ2N4TVINP-O93Z769wEscEtYxiJuvYYfajCqE3PdNIYiOoD5ul2n5AzVL0u8I0dFmoKU9VfBzjI_K2XiUwpYmYacOE9pfkZAUtkE/s1600/Screen+Shot+2017-09-28+at+7.45.26+PM.png)
 
   
 
@@ -95,7 +95,7 @@ Selain function utama dia untuk singkirkan segala sel kulit mati, chemical exfol
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCiMgUX4mxj9580y5wQiiy0oc86_6vk5e9eOFZy01eaG8uFiBWSxHdN1t3Sb0Cjj0KvHDgsuXxvfk-pvVV25vKM4Pz10FE6D3PHHHa4GR-GTrQuYBYzO-wA0Dv_Orydc7nrnq3sQiUpY/s1600/Screen+Shot+2017-09-29+at+10.20.45+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCiMgUX4mxj9580y5wQiiy0oc86_6vk5e9eOFZy01eaG8uFiBWSxHdN1t3Sb0Cjj0KvHDgsuXxvfk-pvVV25vKM4Pz10FE6D3PHHHa4GR-GTrQuYBYzO-wA0Dv_Orydc7nrnq3sQiUpY/s1600/Screen+Shot+2017-09-29+at+10.20.45+AM.png)
 
   
 Ini beza AHA dan BHA.  
@@ -113,7 +113,7 @@ Masukkan dalam routine macam ni:
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTwYnM66C5q0vL0_GSf72i89DJajzOeF3NPA53FOJ48qWx_bu2LRWjjl8Fz9LxIsda_7_zicPE0oeV8ZwmTJQZTlqCdkp1r61Tfbp_AVDKRRcZlcOIWnvivRbjsIXvwrrKM4vd-YWFB8/s1600/Screen+Shot+2017-09-29+at+10.44.18+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTwYnM66C5q0vL0_GSf72i89DJajzOeF3NPA53FOJ48qWx_bu2LRWjjl8Fz9LxIsda_7_zicPE0oeV8ZwmTJQZTlqCdkp1r61Tfbp_AVDKRRcZlcOIWnvivRbjsIXvwrrKM4vd-YWFB8/s1600/Screen+Shot+2017-09-29+at+10.44.18+AM.png)
 
   
 I normally opt for acid toner first, supaya pH kulit rendah and terus apply AHA/BHA ni.  
@@ -150,7 +150,7 @@ Pakai from the low % first. Pastu baru slowly cari yang high % sebab takut kulit
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggTiidF2VmQVNi3ZUK-5HMy8Kn5AW39m_R7Zgi1Bs2igO10dDLYRPFNmO_YENpze06r-r3QpVW-SCmi33THzzOLNDQqtSlTjLdND-53-rGsdJDps3UacABBcRj16Z5f7BqXDC2hhyphenhyphend17wK/s1600/IMG_5574.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggTiidF2VmQVNi3ZUK-5HMy8Kn5AW39m_R7Zgi1Bs2igO10dDLYRPFNmO_YENpze06r-r3QpVW-SCmi33THzzOLNDQqtSlTjLdND-53-rGsdJDps3UacABBcRj16Z5f7BqXDC2hhyphenhyphend17wK/s1600/IMG_5574.jpg)
 
 AHA
 
@@ -158,14 +158,14 @@ AHA
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKFh8rdluw_Hech5H5OwJDtLUrUgJgHPZuOq3YCQh-e9pj0WyMg2NGXxQEFzu_RRXQhgIsXz5HT5aofKjV5qYu-Tb_8R-yI4M5-8Rk_z7X9AJHZiPO-lImNmOjfAx2vst2dA0888ZgqM0i/s1600/IMG_5573.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKFh8rdluw_Hech5H5OwJDtLUrUgJgHPZuOq3YCQh-e9pj0WyMg2NGXxQEFzu_RRXQhgIsXz5HT5aofKjV5qYu-Tb_8R-yI4M5-8Rk_z7X9AJHZiPO-lImNmOjfAx2vst2dA0888ZgqM0i/s1600/IMG_5573.jpg)
 
  BHA  
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpq2nbjn5nk0SwOApESBAVb2m9jLnAQzJiUeunq0le5TYt7WERIAmWv9-yq14gY5NIMQFsQxPDviVLmXDISMQ7wLfKGYA-goL39M8vKarAPuLiohwG2S-461_Coxo5IJSguqNCei6xHeD1/s1600/IMG_5583.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpq2nbjn5nk0SwOApESBAVb2m9jLnAQzJiUeunq0le5TYt7WERIAmWv9-yq14gY5NIMQFsQxPDviVLmXDISMQ7wLfKGYA-goL39M8vKarAPuLiohwG2S-461_Coxo5IJSguqNCei6xHeD1/s1600/IMG_5583.jpg)
 
 AHA  
   

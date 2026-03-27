@@ -3,14 +3,14 @@ title: "Skincare 101: Double cleansing method"
 date: "2017-08-01"
 category: Skincare
 excerpt: "Skincare 101: Double cleansing method"
-image: "https://web.archive.org/web/20250213092334im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZc66KxehPys2Fix1AXlekJiPFR2YkMJev0FuoD5AviksNTNgxx59CH3LVj9lZzwJ7bwNn8dmBdme4idEWxv1mHVy5e_87w2QtHU-6Z-M9Z9k0lHIBbEVCjsdHjdz5_4iYeJ4FcexYc00/s640/Screen+Shot+2017-08-03+at+10.07.38+PM.png"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZc66KxehPys2Fix1AXlekJiPFR2YkMJev0FuoD5AviksNTNgxx59CH3LVj9lZzwJ7bwNn8dmBdme4idEWxv1mHVy5e_87w2QtHU-6Z-M9Z9k0lHIBbEVCjsdHjdz5_4iYeJ4FcexYc00/s640/Screen+Shot+2017-08-03+at+10.07.38+PM.png"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZc66KxehPys2Fix1AXlekJiPFR2YkMJev0FuoD5AviksNTNgxx59CH3LVj9lZzwJ7bwNn8dmBdme4idEWxv1mHVy5e_87w2QtHU-6Z-M9Z9k0lHIBbEVCjsdHjdz5_4iYeJ4FcexYc00/s1600/Screen+Shot+2017-08-03+at+10.07.38+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZc66KxehPys2Fix1AXlekJiPFR2YkMJev0FuoD5AviksNTNgxx59CH3LVj9lZzwJ7bwNn8dmBdme4idEWxv1mHVy5e_87w2QtHU-6Z-M9Z9k0lHIBbEVCjsdHjdz5_4iYeJ4FcexYc00/s1600/Screen+Shot+2017-08-03+at+10.07.38+PM.png)
 
 Got to be honest, I'm new with this double cleansing method. But bila buat, rasa best sangat! You guys really should add this in your skin care routine!  
   
@@ -29,7 +29,7 @@ Water-based cleanser untuk cuci segala water-based impurities, contohnya peluh d
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGhYDEv6n26f5BeKeGMgq5ixvNqS2KznNhl0AtZwSspoaLiImGj1s7tGp7fpiVPgv7G2PL21lG9OdX8OUYZU3Kv2BXIL0FqoU3l5p83n53CmNEcao4Py9Z2tfHYHNXd3Zo2Hxgw_84IpU/s1600/Screen+Shot+2017-08-09+at+8.58.51+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGhYDEv6n26f5BeKeGMgq5ixvNqS2KznNhl0AtZwSspoaLiImGj1s7tGp7fpiVPgv7G2PL21lG9OdX8OUYZU3Kv2BXIL0FqoU3l5p83n53CmNEcao4Py9Z2tfHYHNXd3Zo2Hxgw_84IpU/s1600/Screen+Shot+2017-08-09+at+8.58.51+AM.png)
 
 Oil tarik oil, water tarik water.  
   
@@ -72,7 +72,7 @@ Yang paling senang, drugstore! Watsons or Guardian.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixcTGMiETbILw2ZZjH72yMNRtyF9cOVZrRblba_-h2zfU2qwOZJjo_zrCMy634_JrHgk2uhrHjO2VRBzhJ7bsCzgj3nfxzE7JNAewJ9jPGC0cKe_mmG9WMuinNfjN0Obkf46kDVg7mdU8/s1600/Screen+Shot+2017-08-09+at+9.10.54+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixcTGMiETbILw2ZZjH72yMNRtyF9cOVZrRblba_-h2zfU2qwOZJjo_zrCMy634_JrHgk2uhrHjO2VRBzhJ7bsCzgj3nfxzE7JNAewJ9jPGC0cKe_mmG9WMuinNfjN0Obkf46kDVg7mdU8/s1600/Screen+Shot+2017-08-09+at+9.10.54+AM.png)
 
   
 **Macam mana nak pilih oil cleanser yang sesuai untuk kulit masing masing?**  

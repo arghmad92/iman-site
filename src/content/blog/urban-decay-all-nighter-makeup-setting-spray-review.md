@@ -3,7 +3,7 @@ title: "Urban Decay All Nighter Makeup Setting Spray Review"
 date: "2017-08-01"
 category: Beauty
 excerpt: "Urban Decay All Nighter Makeup Setting Spray Review"
-image: "https://web.archive.org/web/20250320160024im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgxeBA4iS-sIvWmv-bxUDJNAqXX-QsApotlSIArmoD0P9zreIiM5F3GVKsw299cLIrbwnsW0AnskEG7bvh7FbxwKVEEN8kEKvdqFNAu06ph9TPvcCIhpoMcE8OO7MWIobUh6yI6IQklCs/s640/Photo+23-08-2017%252C+10+47+09+AM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgxeBA4iS-sIvWmv-bxUDJNAqXX-QsApotlSIArmoD0P9zreIiM5F3GVKsw299cLIrbwnsW0AnskEG7bvh7FbxwKVEEN8kEKvdqFNAu06ph9TPvcCIhpoMcE8OO7MWIobUh6yI6IQklCs/s640/Photo+23-08-2017%252C+10+47+09+AM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ I have been using this setting spray for a while, and dah habis dah pun. So I am
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgxeBA4iS-sIvWmv-bxUDJNAqXX-QsApotlSIArmoD0P9zreIiM5F3GVKsw299cLIrbwnsW0AnskEG7bvh7FbxwKVEEN8kEKvdqFNAu06ph9TPvcCIhpoMcE8OO7MWIobUh6yI6IQklCs/s1600/Photo+23-08-2017%252C+10+47+09+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgxeBA4iS-sIvWmv-bxUDJNAqXX-QsApotlSIArmoD0P9zreIiM5F3GVKsw299cLIrbwnsW0AnskEG7bvh7FbxwKVEEN8kEKvdqFNAu06ph9TPvcCIhpoMcE8OO7MWIobUh6yI6IQklCs/s1600/Photo+23-08-2017%252C+10+47+09+AM.jpg)
 
 Urban Decay All Nighter Makeup Setting Spray Review
 
@@ -25,7 +25,7 @@ Urban Decay All Nighter Makeup Setting Spray Review
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7AT6JE1TffcrT6h8KlFLUn4KtA8-_X7227mCjzjUtJg7INWDApLWS4VjVbvWURwbnpE_ffbGrbRFkvkUYKgE0TXupTRFinEWMqSAMPZchcUWcnZwQL80yZYxJ8ZMOGNmHBvRBPDZOacE/s1600/Photo+23-08-2017%252C+10+48+10+AM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7AT6JE1TffcrT6h8KlFLUn4KtA8-_X7227mCjzjUtJg7INWDApLWS4VjVbvWURwbnpE_ffbGrbRFkvkUYKgE0TXupTRFinEWMqSAMPZchcUWcnZwQL80yZYxJ8ZMOGNmHBvRBPDZOacE/s1600/Photo+23-08-2017%252C+10+48+10+AM.jpg)  
 
 Product Name: Urban Decay All Nighter Makeup Setting Spray
 
@@ -57,7 +57,7 @@ Setting spray untuk pakai lepas makeup, supaya makeup tak bercapuk and berdebu. 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDii8ZIcxOt6nOodN5FLpRSb5ECidr0c6HX2mABB4iVJZJAH5_31aXB4525VreBvsPbVCBulQcz0Cgt3s8cBjhiFMkSTzN4GPvbN-KEkCcYs_RVWwWFLzqDEUiBukyVWYA-Z53PPtswB4/s1600/Photo+23-08-2017%252C+10+47+55+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDii8ZIcxOt6nOodN5FLpRSb5ECidr0c6HX2mABB4iVJZJAH5_31aXB4525VreBvsPbVCBulQcz0Cgt3s8cBjhiFMkSTzN4GPvbN-KEkCcYs_RVWwWFLzqDEUiBukyVWYA-Z53PPtswB4/s1600/Photo+23-08-2017%252C+10+47+55+AM.jpg)
 
   
 
@@ -65,7 +65,7 @@ Setting spray untuk pakai lepas makeup, supaya makeup tak bercapuk and berdebu. 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyUlPA0gbkdrWs1KtH_PldVHsU2nPvoSaLdLH2e4qmRpYMGFp4hLCTL0mxBLn5-CD7vEk-yqTXARrlrII_Urav9tKIqJgEwQ5oAJlY1RDdKiBfeB5oB_Eifxmha8uQW_jL9JOKzD6pVPM/s1600/Photo+23-08-2017%252C+10+47+23+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyUlPA0gbkdrWs1KtH_PldVHsU2nPvoSaLdLH2e4qmRpYMGFp4hLCTL0mxBLn5-CD7vEk-yqTXARrlrII_Urav9tKIqJgEwQ5oAJlY1RDdKiBfeB5oB_Eifxmha8uQW_jL9JOKzD6pVPM/s1600/Photo+23-08-2017%252C+10+47+23+AM.jpg)
 
   
 
@@ -76,7 +76,7 @@ The product comes in a 30 ml white and purple plastic bottle with a spray. Dia 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIev83IaJGCMr5xr4H8dop3bZytLxOHoxcLBzRyatwLa1j9Ffq4k86VkVnsXx7ByPbngkgiizBM3LQbQTyXfDJc1qGmerIkN1f5s-kOltJfzH7v4zS7sNf312SRs5Ifuy_-QKjhJNBgiw/s1600/Photo+23-08-2017%252C+10+48+23+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIev83IaJGCMr5xr4H8dop3bZytLxOHoxcLBzRyatwLa1j9Ffq4k86VkVnsXx7ByPbngkgiizBM3LQbQTyXfDJc1qGmerIkN1f5s-kOltJfzH7v4zS7sNf312SRs5Ifuy_-QKjhJNBgiw/s1600/Photo+23-08-2017%252C+10+48+23+AM.jpg)
 
   
 
@@ -96,7 +96,7 @@ Overall, I love this product. Really good for my dry and senstive skin. And Urba
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWH_o8jrDFMDc11CzvMRda4s4OtrGou5FET09ERUEl1Tu09xfIc7DZIK4O5p2L75v7xah4OALrtbMkQD3_2MjPwTG2yMcOgtrUwqrArMGs9rK2CKW2IOKxshPXM26hHcwV7MVofcf-1YY/s1600/s1899954-main-hero.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWH_o8jrDFMDc11CzvMRda4s4OtrGou5FET09ERUEl1Tu09xfIc7DZIK4O5p2L75v7xah4OALrtbMkQD3_2MjPwTG2yMcOgtrUwqrArMGs9rK2CKW2IOKxshPXM26hHcwV7MVofcf-1YY/s1600/s1899954-main-hero.jpg)
 
 This is the new packaging.
 

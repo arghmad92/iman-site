@@ -3,14 +3,14 @@ title: "Clean Beauty Skincare Routine"
 date: "2019-07-01"
 category: Skincare
 excerpt: "Clean Beauty Skincare Routine"
-image: "https://web.archive.org/web/20250320150810im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7wUvxx6U4FFB0uwxACE3rxD2tPtRmtaZZSEVIDQKvfSnWwpJiR6cvl02vr34tvAcsZVsWKRMogDvQ-sPppM2Myd7-G8r9Sqqf5ur9aDhRNhNCNxK_7mfqIiwUb32U0z2_CrpAtShyphenhyphenhab6/s640/533132B8-B142-4B47-945D-83FB9267005B.JPG"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7wUvxx6U4FFB0uwxACE3rxD2tPtRmtaZZSEVIDQKvfSnWwpJiR6cvl02vr34tvAcsZVsWKRMogDvQ-sPppM2Myd7-G8r9Sqqf5ur9aDhRNhNCNxK_7mfqIiwUb32U0z2_CrpAtShyphenhyphenhab6/s640/533132B8-B142-4B47-945D-83FB9267005B.JPG"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7wUvxx6U4FFB0uwxACE3rxD2tPtRmtaZZSEVIDQKvfSnWwpJiR6cvl02vr34tvAcsZVsWKRMogDvQ-sPppM2Myd7-G8r9Sqqf5ur9aDhRNhNCNxK_7mfqIiwUb32U0z2_CrpAtShyphenhyphenhab6/s1600/533132B8-B142-4B47-945D-83FB9267005B.JPG)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7wUvxx6U4FFB0uwxACE3rxD2tPtRmtaZZSEVIDQKvfSnWwpJiR6cvl02vr34tvAcsZVsWKRMogDvQ-sPppM2Myd7-G8r9Sqqf5ur9aDhRNhNCNxK_7mfqIiwUb32U0z2_CrpAtShyphenhyphenhab6/s1600/533132B8-B142-4B47-945D-83FB9267005B.JPG)  
 
 Clean Beauty Skincare Routine
 
@@ -38,7 +38,7 @@ If you are still confused on what to use first, is it toner or serum, when shoul
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOpTvl48qO2zP9R98H9p1m770mSbs8D_2e6imXko79_Zt0odnyc0caa4Qi-HnwQDcMLt-_w5u7jcFihcRoxXxIuKp-GObyO15lnFbJH2MWQiBfdFvTDtQprFZKQl22wSCpn5YFg486fpAE/s1600/Screenshot+2019-07-24+at+10.53.59+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOpTvl48qO2zP9R98H9p1m770mSbs8D_2e6imXko79_Zt0odnyc0caa4Qi-HnwQDcMLt-_w5u7jcFihcRoxXxIuKp-GObyO15lnFbJH2MWQiBfdFvTDtQprFZKQl22wSCpn5YFg486fpAE/s1600/Screenshot+2019-07-24+at+10.53.59+AM.png)
 
   
 
@@ -62,13 +62,13 @@ I normally cleanse my face twice a day, during my morning routine and night rout
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0YZPuSIlFHOfXkckyegX01gToZ8RVpAsQR1-JXXJoZVPBwunb4joSKKIMsbfM6Hij_Mba5vnFv2FP1M1EaiJSTfukEvROgrW1zaByIV1nQuPBCpGeF53u1eaSztdlP6fJS7DMy5Li-hzj/s1600/3693C560-C325-49FC-9AF9-A2443DF2CE76.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0YZPuSIlFHOfXkckyegX01gToZ8RVpAsQR1-JXXJoZVPBwunb4joSKKIMsbfM6Hij_Mba5vnFv2FP1M1EaiJSTfukEvROgrW1zaByIV1nQuPBCpGeF53u1eaSztdlP6fJS7DMy5Li-hzj/s1600/3693C560-C325-49FC-9AF9-A2443DF2CE76.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJoHy2rXiJpjtA-wxZ2hF4KrOG-FOBDbVcoUyT_IY2ImhQImJRrm1GfFCQ2gs31IDawewa8epLQXdiYzeLqR0vfBM_h_a0syrNuR7QxWTxHDKdOz25kNNP-bW-6j1wdqLYmydS2vl886th/s1600/819F5DA4-7E07-4234-ABB0-D2592D1CA66C.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJoHy2rXiJpjtA-wxZ2hF4KrOG-FOBDbVcoUyT_IY2ImhQImJRrm1GfFCQ2gs31IDawewa8epLQXdiYzeLqR0vfBM_h_a0syrNuR7QxWTxHDKdOz25kNNP-bW-6j1wdqLYmydS2vl886th/s1600/819F5DA4-7E07-4234-ABB0-D2592D1CA66C.jpg)
 
   
 
@@ -98,19 +98,19 @@ There are a lot of toner out there, you just need to find a suitable toner for y
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3F-cWmA0KEPSj3hzqCMv6_VI1zbjsQNFHQKfTjy7opE24MtmGD1lf5JlmAuvEW1DggyG9FfQSUbwriTmbSXT2m0uu9agBRbQNlpOVPac7w6b7oNb6pB8ZCv-WmAm6gi9ORTXcA4Y1JX0L/s1600/8197B678-69D7-4E28-BC3C-F73B25A4C6E4.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3F-cWmA0KEPSj3hzqCMv6_VI1zbjsQNFHQKfTjy7opE24MtmGD1lf5JlmAuvEW1DggyG9FfQSUbwriTmbSXT2m0uu9agBRbQNlpOVPac7w6b7oNb6pB8ZCv-WmAm6gi9ORTXcA4Y1JX0L/s1600/8197B678-69D7-4E28-BC3C-F73B25A4C6E4.JPG)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq4vO_41zCxOiCuIbX-eFyv13OGk-qpTogFHYGRU1ZHE9DaDKLWfjV_ju1q812X6MU0D7I6qdBXH3upWCcNythr05C8f01n5XgFIFem2K3c3UMGxpJZT0beOI5HvwnDLeyO55iOka8C26s/s1600/8142572B-54FD-42B8-8BCA-06A541011596.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq4vO_41zCxOiCuIbX-eFyv13OGk-qpTogFHYGRU1ZHE9DaDKLWfjV_ju1q812X6MU0D7I6qdBXH3upWCcNythr05C8f01n5XgFIFem2K3c3UMGxpJZT0beOI5HvwnDLeyO55iOka8C26s/s1600/8142572B-54FD-42B8-8BCA-06A541011596.JPG)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbYstg9g16z4vwoe_w3KBmpTbXOThNECrJST6012xHKU_3CZZ7QD8FukyKUD0SwtAzAhyphenhyphenHMi7vbgR24Y8KfkeOF0CJJ1RSYugnAZaT_NLMu8I4wXZZzRz6O2SRIzgGMvPLU4DdKMxQkv26/s1600/378D8D05-6BEE-4971-933E-2DB69FE2AA4A.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbYstg9g16z4vwoe_w3KBmpTbXOThNECrJST6012xHKU_3CZZ7QD8FukyKUD0SwtAzAhyphenhyphenHMi7vbgR24Y8KfkeOF0CJJ1RSYugnAZaT_NLMu8I4wXZZzRz6O2SRIzgGMvPLU4DdKMxQkv26/s1600/378D8D05-6BEE-4971-933E-2DB69FE2AA4A.JPG)
 
   
 
@@ -124,7 +124,7 @@ Caution: Make sure your basic skincare routine is already strong before start us
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8N3xoOMc3TiqtAhdUtyadnJDy1czNFE9BVbAs1PK6hZKZ82LmTMBQ_lv1_k4MOE5TieGLdXaTPr-X0tDtTNbUrW4_HBOVHmHJhngGN_CScaVWs26HI_AHeNHSipyMIXcIqc7XEOztWd-V/s1600/390F1863-9F23-4004-9F2C-02BA7CBD1F59.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8N3xoOMc3TiqtAhdUtyadnJDy1czNFE9BVbAs1PK6hZKZ82LmTMBQ_lv1_k4MOE5TieGLdXaTPr-X0tDtTNbUrW4_HBOVHmHJhngGN_CScaVWs26HI_AHeNHSipyMIXcIqc7XEOztWd-V/s1600/390F1863-9F23-4004-9F2C-02BA7CBD1F59.jpg)
 
   
 
@@ -135,7 +135,7 @@ This is the old packaging. You can see the new packaging here:
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0n18MmkkA4TgPc2B4DEjagG8u4pxb_Ce8v5qLgr46ZWK9aX3fPbbbA85dfBSAu6DsfBLtVh5XYSctAlK3STb4J3p5z57XlpWJgr0GyMuabV068ZcjM8VWClJEqKlzfsiLu_R3c4xd15fT/s1600/Screenshot+2019-07-28+at+12.15.55+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0n18MmkkA4TgPc2B4DEjagG8u4pxb_Ce8v5qLgr46ZWK9aX3fPbbbA85dfBSAu6DsfBLtVh5XYSctAlK3STb4J3p5z57XlpWJgr0GyMuabV068ZcjM8VWClJEqKlzfsiLu_R3c4xd15fT/s1600/Screenshot+2019-07-28+at+12.15.55+AM.png)
 
 From wako's website
 
@@ -157,13 +157,13 @@ For this skincare routine, I'll feature Madagascar Centella Asiatica Ampoule.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKT34uAVi_FVpzAAjbSmCcKzJvSW_Nzss4qDoq1sE1lUTdQ079CDVkbmYytGeL0cdUSW5u07HfIRjFilmnnmoFqf3ksEeJIukJfU1sB3Zywl2rQ4dYZw5_2vAl0_w1StHjka4Sd6gskgHd/s1600/69A251AD-25AF-4B9F-A8EA-513FE6520A94.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKT34uAVi_FVpzAAjbSmCcKzJvSW_Nzss4qDoq1sE1lUTdQ079CDVkbmYytGeL0cdUSW5u07HfIRjFilmnnmoFqf3ksEeJIukJfU1sB3Zywl2rQ4dYZw5_2vAl0_w1StHjka4Sd6gskgHd/s1600/69A251AD-25AF-4B9F-A8EA-513FE6520A94.jpg)  
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ5EQ2YKVpihfi1Q4txy8WJk9olJQtbqpDbzCRko35wE7H_3uUoROGsoKENDX-HF7GeIdXxe0v7zvmRqFTyQIxgCwHNKe2Jw4r_Cejn1oM906VpwQoeCl1nqYrkdLB999v_MlT9DsG6Wd6/s1600/64611DC2-44AE-43C8-94AB-10D105BC1673.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ5EQ2YKVpihfi1Q4txy8WJk9olJQtbqpDbzCRko35wE7H_3uUoROGsoKENDX-HF7GeIdXxe0v7zvmRqFTyQIxgCwHNKe2Jw4r_Cejn1oM906VpwQoeCl1nqYrkdLB999v_MlT9DsG6Wd6/s1600/64611DC2-44AE-43C8-94AB-10D105BC1673.jpg)  
 
   
 
@@ -173,7 +173,7 @@ It contains 100% Centella Asiatica extract. Centella Asiatica extract is a very 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUlLgGR_cBPrgbTT9-HH11jTwEjAryVzYRALNj-UOX4wHlSE-csg6h8PinkBWgP2TB9YW7O2Tf05WZ6eA8PdlBJGQLjV9pQ_zsgiqHy9oLCeOuj3JhD9lbiyT6rRKE1t8JBjxV9MeQoJM4/s1600/720DCDDD-63E1-43FD-9A32-739874FA2B3C.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUlLgGR_cBPrgbTT9-HH11jTwEjAryVzYRALNj-UOX4wHlSE-csg6h8PinkBWgP2TB9YW7O2Tf05WZ6eA8PdlBJGQLjV9pQ_zsgiqHy9oLCeOuj3JhD9lbiyT6rRKE1t8JBjxV9MeQoJM4/s1600/720DCDDD-63E1-43FD-9A32-739874FA2B3C.jpg)  
 
   
 
@@ -195,13 +195,13 @@ Link to buy:  [SKIN1004 SKIN1004 MADAGASCAR CENTELLA AMPOULE (100ML)](http://b
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaMo48d-sJTDDb0Va1pOPXYq_Kkq9x0OadafeQYhe3tdiZsWVK4TRkt71_Lrm1K6ZrSpPCBNIresooHZOWBafuqWpLAnI_aoOQTu61_qKH12P0ednkytUhyphenhyphenGTfo7jd1S8MxHUymQRpeydY/s1600/9D508CA6-E72B-40AE-8309-EA5B5DFAED03.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaMo48d-sJTDDb0Va1pOPXYq_Kkq9x0OadafeQYhe3tdiZsWVK4TRkt71_Lrm1K6ZrSpPCBNIresooHZOWBafuqWpLAnI_aoOQTu61_qKH12P0ednkytUhyphenhyphenGTfo7jd1S8MxHUymQRpeydY/s1600/9D508CA6-E72B-40AE-8309-EA5B5DFAED03.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSLf2JI_GYi7WXl76slUexYVfF0uR4B85zjn-72LjUiygFPZBphh02d_-FJYIQDtdkLzQN1_VRpOHdZ0bt4TT3WXcAWtVtUokpBY6zZsxcTzkNeswipmUODz6wQy5P3hKoFuGMd4AThQ1v/s1600/B99659D2-178C-4D31-ABDB-D8EE2C8FB391.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSLf2JI_GYi7WXl76slUexYVfF0uR4B85zjn-72LjUiygFPZBphh02d_-FJYIQDtdkLzQN1_VRpOHdZ0bt4TT3WXcAWtVtUokpBY6zZsxcTzkNeswipmUODz6wQy5P3hKoFuGMd4AThQ1v/s1600/B99659D2-178C-4D31-ABDB-D8EE2C8FB391.JPG)
 
 I use Leaders Insolution Amino Mask (Moisture) . It is recommended for dry and dull skin. I don't really fancy sheet masks because most of them normally irritates my skin. But this one is good. It soothes my skin, making my skin feels soft, supple and hydrated. 
 
@@ -221,13 +221,13 @@ Link to buy: [LEADERS INSOLUTION AMINO MASK (1 SHEET) | MOISTURE](http://bit.ly/
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8nuuYPxxy9R3cmEKObkJn-SCfLUVO3x-rvEi5jXLvSRWF08-M196pSvzOSXS5XKVZvzBYzXXNfy7tqiNsiVurPkB0TyryQs5b4B9Uf0RiITfyKaEEWK5KGFJ2cj4ljjpTC_T0O3Wrj-P1/s1600/FE58E147-11A0-404C-A0E8-84EBEA4CB3FB.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8nuuYPxxy9R3cmEKObkJn-SCfLUVO3x-rvEi5jXLvSRWF08-M196pSvzOSXS5XKVZvzBYzXXNfy7tqiNsiVurPkB0TyryQs5b4B9Uf0RiITfyKaEEWK5KGFJ2cj4ljjpTC_T0O3Wrj-P1/s1600/FE58E147-11A0-404C-A0E8-84EBEA4CB3FB.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdqMWnzl5Tm-wVzK-NXnes4_LdrW88DkQbwRNwmiDC2_OoFL7SeLFGXTwJ0dVOmyw5uBRvaJ5DhMpjyKxKjVr6u_7ZkVmc3nedwQ-puOPWi5W_Hz_rebKIoO0ykvOvfaJ6T8wXcIAkAYJ0/s1600/54F2227C-C537-4541-8655-58A3D64324B4.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdqMWnzl5Tm-wVzK-NXnes4_LdrW88DkQbwRNwmiDC2_OoFL7SeLFGXTwJ0dVOmyw5uBRvaJ5DhMpjyKxKjVr6u_7ZkVmc3nedwQ-puOPWi5W_Hz_rebKIoO0ykvOvfaJ6T8wXcIAkAYJ0/s1600/54F2227C-C537-4541-8655-58A3D64324B4.jpg)
 
   
 

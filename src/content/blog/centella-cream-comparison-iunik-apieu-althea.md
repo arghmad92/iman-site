@@ -3,14 +3,14 @@ title: "Centella Cream Comparison: Iunik, Apieu & Althea"
 date: "2020-08-12"
 category: Skincare
 excerpt: "Centella Cream Comparison: Iunik, Apieu & Althea"
-image: "https://web.archive.org/web/20250123093541im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LcrFSTdzA0Sy-uBycvRY8WAYBIkNzKqyuePVrIpiMk6wGHhKHT7Uxi3FoDBrsHpug2KNyGRo6ndj2q1KoWCu9aUWykPyKJUnT42w0rAIDS7GFULVyQ8rIbGyK25yZNuc9MG0J7-hOiGH/s640/177AF3E4-87C5-40AD-8581-0C6DDB9C9E3B.jpeg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LcrFSTdzA0Sy-uBycvRY8WAYBIkNzKqyuePVrIpiMk6wGHhKHT7Uxi3FoDBrsHpug2KNyGRo6ndj2q1KoWCu9aUWykPyKJUnT42w0rAIDS7GFULVyQ8rIbGyK25yZNuc9MG0J7-hOiGH/s640/177AF3E4-87C5-40AD-8581-0C6DDB9C9E3B.jpeg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LcrFSTdzA0Sy-uBycvRY8WAYBIkNzKqyuePVrIpiMk6wGHhKHT7Uxi3FoDBrsHpug2KNyGRo6ndj2q1KoWCu9aUWykPyKJUnT42w0rAIDS7GFULVyQ8rIbGyK25yZNuc9MG0J7-hOiGH/s2048/177AF3E4-87C5-40AD-8581-0C6DDB9C9E3B.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LcrFSTdzA0Sy-uBycvRY8WAYBIkNzKqyuePVrIpiMk6wGHhKHT7Uxi3FoDBrsHpug2KNyGRo6ndj2q1KoWCu9aUWykPyKJUnT42w0rAIDS7GFULVyQ8rIbGyK25yZNuc9MG0J7-hOiGH/s2048/177AF3E4-87C5-40AD-8581-0C6DDB9C9E3B.jpeg)
 
   
 
@@ -38,7 +38,7 @@ All there of them are made in Korea. 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Js_Hnqs98WHegtHTUYAMmE1rwxNB7mAhwitwgduV-8MdPJBKeG1NubYbON9-wBD7mPq682Bw2GYFtoz2mZd702qwb6blfzRioLOUZ3ULSlGHRKD0YQoAApn-0zRtY_4s_lucDgqfMABx/s2048/9B49CA4C-C7F0-4BB8-AA61-95CAA6FB8E31.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Js_Hnqs98WHegtHTUYAMmE1rwxNB7mAhwitwgduV-8MdPJBKeG1NubYbON9-wBD7mPq682Bw2GYFtoz2mZd702qwb6blfzRioLOUZ3ULSlGHRKD0YQoAApn-0zRtY_4s_lucDgqfMABx/s2048/9B49CA4C-C7F0-4BB8-AA61-95CAA6FB8E31.jpeg)
 
   
 
@@ -54,7 +54,7 @@ All there of them are made in Korea. 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglg1826sCYtjoukPqX5aO5m4MiGysaBfuNEqwEd8jcfzOGl5pZ0I-9qRskVhYrMtkC0LzwIlIK8Z5zlNnIWRrMCKOOxMI6pRNZJz_bc4bprNYtZy1G2HzcJz0k2o9vapcPpaAV5wYzaK7-/s2048/0C14AB69-BC75-4F12-9191-2A2C992FFAD9.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglg1826sCYtjoukPqX5aO5m4MiGysaBfuNEqwEd8jcfzOGl5pZ0I-9qRskVhYrMtkC0LzwIlIK8Z5zlNnIWRrMCKOOxMI6pRNZJz_bc4bprNYtZy1G2HzcJz0k2o9vapcPpaAV5wYzaK7-/s2048/0C14AB69-BC75-4F12-9191-2A2C992FFAD9.jpeg)
 
   
 
@@ -102,7 +102,7 @@ All products tak ada alcohol, tak ada fragrance, tapi semua ada essential oils w
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9pvDizx8pLr3tnmQcTvUpqjOO_PtYg1qdflt_4HVcvTBdGvPrfVfKc-hB6j_jHyjUgGiiqcLMH37Ex4s6FDoFC5Khlif5TNquIXNwm4XZSrjhpXLeToisYZpj_371ikZk794egifVH1se/s2048/62BC06FE-458F-4384-A887-1B5D1B0449B1.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9pvDizx8pLr3tnmQcTvUpqjOO_PtYg1qdflt_4HVcvTBdGvPrfVfKc-hB6j_jHyjUgGiiqcLMH37Ex4s6FDoFC5Khlif5TNquIXNwm4XZSrjhpXLeToisYZpj_371ikZk794egifVH1se/s2048/62BC06FE-458F-4384-A887-1B5D1B0449B1.jpeg)
 
   
 
@@ -116,7 +116,7 @@ Both Iunik and Althea comes in a white plastic tube with a flap cap. I prefer th
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEc1u1Pe7vZkFgT7EzU-PuKYQb8dbpivNzRwLtI8eN5EXsvrq5aQdElzbWyinoEvS3HNpKCAGtruQffrgRDspKPEBHFMqXT06yiqMbS9o0tfDC294BAVQ-rb3avC-QFGKtG9LeKlneiZFG/s2048/A2B6FA8B-38C7-4BA2-A436-0723A7063C43.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEc1u1Pe7vZkFgT7EzU-PuKYQb8dbpivNzRwLtI8eN5EXsvrq5aQdElzbWyinoEvS3HNpKCAGtruQffrgRDspKPEBHFMqXT06yiqMbS9o0tfDC294BAVQ-rb3avC-QFGKtG9LeKlneiZFG/s2048/A2B6FA8B-38C7-4BA2-A436-0723A7063C43.jpeg)
 
 **TEXTURE**
 

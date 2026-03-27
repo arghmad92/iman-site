@@ -3,7 +3,7 @@ title: "Wet N Wild Rose In The Air Palette Review"
 date: "2018-05-01"
 category: Beauty
 excerpt: "Wet N Wild Rose In The Air Palette Review"
-image: "https://web.archive.org/web/20241205033102im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmsG9RDIdvjyvhMoyluUaB7WfYFKoarsIjI4FT_KmvoJjcWy7acI-x5D9RMXe2JBuAvs88sdtM7RHfa0dHo3efygV6d5VqI3bpgPur1pBKXIhJ3d5KusxP_NDUsvhehKj8rjmL14oRy9a/s640/Photo+25-05-2018%252C+10+35+54+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmsG9RDIdvjyvhMoyluUaB7WfYFKoarsIjI4FT_KmvoJjcWy7acI-x5D9RMXe2JBuAvs88sdtM7RHfa0dHo3efygV6d5VqI3bpgPur1pBKXIhJ3d5KusxP_NDUsvhehKj8rjmL14oRy9a/s640/Photo+25-05-2018%252C+10+35+54+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -18,7 +18,7 @@ I 've been waiting for them to arrive in Malaysia, and setiap hari pergi check S
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmsG9RDIdvjyvhMoyluUaB7WfYFKoarsIjI4FT_KmvoJjcWy7acI-x5D9RMXe2JBuAvs88sdtM7RHfa0dHo3efygV6d5VqI3bpgPur1pBKXIhJ3d5KusxP_NDUsvhehKj8rjmL14oRy9a/s1600/Photo+25-05-2018%252C+10+35+54+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmsG9RDIdvjyvhMoyluUaB7WfYFKoarsIjI4FT_KmvoJjcWy7acI-x5D9RMXe2JBuAvs88sdtM7RHfa0dHo3efygV6d5VqI3bpgPur1pBKXIhJ3d5KusxP_NDUsvhehKj8rjmL14oRy9a/s1600/Photo+25-05-2018%252C+10+35+54+PM.jpg)
 
   
 
@@ -33,7 +33,7 @@ I 've been waiting for them to arrive in Malaysia, and setiap hari pergi check S
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilgjFRCXuoJ38rbceeqjXgopl5MjlLgP9PUjP489SRv8uTs2XdKVHwOLyKhZNuO9x34yi8AoYjwqIzJijMgvO90WGnI3EfVOjlo4bTe4KRYHBzwyewhddO0vCcKi6OvHgf_JcwgYK9lcC8/s1600/zb_p.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilgjFRCXuoJ38rbceeqjXgopl5MjlLgP9PUjP489SRv8uTs2XdKVHwOLyKhZNuO9x34yi8AoYjwqIzJijMgvO90WGnI3EfVOjlo4bTe4KRYHBzwyewhddO0vCcKi6OvHgf_JcwgYK9lcC8/s1600/zb_p.jpg)
 
   
 
@@ -46,7 +46,7 @@ So anyways, I bought this for RM29.90 at SASA and rasanya kalau time nak raya ni
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2smCzLfZuv1ckJuCskI5mUyqDljM0eJF9JlEUT9zNDJO9WvCQvX4_wb1j69yy6gm8Glf3niAolC3JJDFU0YBD26fDmaNc04ek_bTXxgmRmn3ggZPoa3GGcTbehFlWourYA9hCDzD6KfPZ/s1600/Photo+25-05-2018%252C+10+36+04+PM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2smCzLfZuv1ckJuCskI5mUyqDljM0eJF9JlEUT9zNDJO9WvCQvX4_wb1j69yy6gm8Glf3niAolC3JJDFU0YBD26fDmaNc04ek_bTXxgmRmn3ggZPoa3GGcTbehFlWourYA9hCDzD6KfPZ/s1600/Photo+25-05-2018%252C+10+36+04+PM.jpg)  
   
 
 There are 10 shades in this palette. 8 mattes and 2 shimmers (satin/sheen finish). It's a mix of warm-berry tones. I like the orange and mauve shades!  
@@ -54,7 +54,7 @@ There are 10 shades in this palette. 8 mattes and 2 shimmers (satin/sheen finish
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMo5wYnUMrmDSMMIdyj0rnetJ7yv5UCu3ipIkVB1i93PvLBkhTe0mxCF5tzfgCA1tPvoNqwRXExuCOCCMDzZGaRhwr-Hs4SHhjdJG7XLZwIqVF9DQpnwCcCEfYKzdCRoI-GqNnsFT8mKr5/s1600/Photo+25-05-2018%252C+10+36+09+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMo5wYnUMrmDSMMIdyj0rnetJ7yv5UCu3ipIkVB1i93PvLBkhTe0mxCF5tzfgCA1tPvoNqwRXExuCOCCMDzZGaRhwr-Hs4SHhjdJG7XLZwIqVF9DQpnwCcCEfYKzdCRoI-GqNnsFT8mKr5/s1600/Photo+25-05-2018%252C+10+36+09+PM.jpg)
 
   
 The packaging is quite okay. It's small, like the size of your palm and easy for travel (Tapi risau jugak kalau pecah ni). The plastic packaging is quite sturdy and the black colour looks elegant. The lid is just a clear lid, with no mirror and no brush.  
@@ -64,13 +64,13 @@ Here are the swatches. I swatch atas tangan without any primer, so maybe warna d
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY6xkExGpyYnaSCpw_mDGoH6-0VpgYC2UY1p6Y5iZNcRYybhLcAaa99uwKQQN-hJb0fZdBCcRpVo2m77G_1Jk9MFf0AOkJ_HqrkBJjC4b1cyYGZy6iRN1Pk8lbr7j5Q6KJ5-zT40Mcyjko/s1600/Photo+25-05-2018%252C+10+44+26+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY6xkExGpyYnaSCpw_mDGoH6-0VpgYC2UY1p6Y5iZNcRYybhLcAaa99uwKQQN-hJb0fZdBCcRpVo2m77G_1Jk9MFf0AOkJ_HqrkBJjC4b1cyYGZy6iRN1Pk8lbr7j5Q6KJ5-zT40Mcyjko/s1600/Photo+25-05-2018%252C+10+44+26+PM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzvqxD1xxQyR158jnAsy33f8m25NcoN0VZh-4qqfo3_Xb6poqjZxK_5JRy_MB5J4CibWEHffadL5NPjrWTdChwBT3f5EsLpQPzg9Wje2TgZrBN4at4ApaAl_6voo9laBws0xvAntFTXRWa/s1600/Photo+25-05-2018%252C+10+45+27+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzvqxD1xxQyR158jnAsy33f8m25NcoN0VZh-4qqfo3_Xb6poqjZxK_5JRy_MB5J4CibWEHffadL5NPjrWTdChwBT3f5EsLpQPzg9Wje2TgZrBN4at4ApaAl_6voo9laBws0xvAntFTXRWa/s1600/Photo+25-05-2018%252C+10+45+27+PM.jpg)
 
   
 

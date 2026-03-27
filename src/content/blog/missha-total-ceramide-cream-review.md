@@ -3,14 +3,14 @@ title: "Missha Total Ceramide Cream Review"
 date: "2018-11-01"
 category: Skincare
 excerpt: "Missha Total Ceramide Cream Review"
-image: "https://web.archive.org/web/20241205042326im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoNMXjgjrW47uo1uEiQhte5RweTSt17S3i95e5Nw5AqlvegHd8fo1Ys4xhYvVzsSI6b_w636MUzxd9VyifMYq7rwxCRiIf7jHPgXn3mASf2Q1jT8tjGj2CpIaG6b3kYZ3Imbyngo0LG5zK/s640/7703BFD5-9642-4C83-86E2-90A89636CC4D.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoNMXjgjrW47uo1uEiQhte5RweTSt17S3i95e5Nw5AqlvegHd8fo1Ys4xhYvVzsSI6b_w636MUzxd9VyifMYq7rwxCRiIf7jHPgXn3mASf2Q1jT8tjGj2CpIaG6b3kYZ3Imbyngo0LG5zK/s640/7703BFD5-9642-4C83-86E2-90A89636CC4D.jpg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoNMXjgjrW47uo1uEiQhte5RweTSt17S3i95e5Nw5AqlvegHd8fo1Ys4xhYvVzsSI6b_w636MUzxd9VyifMYq7rwxCRiIf7jHPgXn3mASf2Q1jT8tjGj2CpIaG6b3kYZ3Imbyngo0LG5zK/s1600/7703BFD5-9642-4C83-86E2-90A89636CC4D.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoNMXjgjrW47uo1uEiQhte5RweTSt17S3i95e5Nw5AqlvegHd8fo1Ys4xhYvVzsSI6b_w636MUzxd9VyifMYq7rwxCRiIf7jHPgXn3mASf2Q1jT8tjGj2CpIaG6b3kYZ3Imbyngo0LG5zK/s1600/7703BFD5-9642-4C83-86E2-90A89636CC4D.jpg)
 
 Missha Near Skin Total Ceramide Cream Review
 
@@ -31,13 +31,13 @@ I bought this moisturizer at Korea. I don't really remember the price sebab masa
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKRKFNWGsk5rKruMTDCzNoU8J8dq3iW-qF8P9-X5hNT-Z9z26QN2O0fGlLUBo4InFbEnrRnyTMDGSi1gXZP-q9AF1giIN8eosPJHbjE1KsmRuSLR8HEtFT_p6Vgk-nQEou1zMV-AzR4ijf/s1600/4D4F5AF5-2060-43A0-A348-082B7CA1EB9F.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKRKFNWGsk5rKruMTDCzNoU8J8dq3iW-qF8P9-X5hNT-Z9z26QN2O0fGlLUBo4InFbEnrRnyTMDGSi1gXZP-q9AF1giIN8eosPJHbjE1KsmRuSLR8HEtFT_p6Vgk-nQEou1zMV-AzR4ijf/s1600/4D4F5AF5-2060-43A0-A348-082B7CA1EB9F.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglFIqqCQrhFt6MhkoXopX2Nye1jaqB8AwX24SPEsojIJ-dau49o3N8QeM7PTNsPDn6yQfEQRbx3aCc2nGjiPn_uOlL68P_2IkgdJ7xIC6vfDUBqIzuBlsWtxIIgdto4mUzFFvi0-MYnRZB/s1600/7D4E2C28-431C-42DC-A09A-B416B7D92E03.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglFIqqCQrhFt6MhkoXopX2Nye1jaqB8AwX24SPEsojIJ-dau49o3N8QeM7PTNsPDn6yQfEQRbx3aCc2nGjiPn_uOlL68P_2IkgdJ7xIC6vfDUBqIzuBlsWtxIIgdto4mUzFFvi0-MYnRZB/s1600/7D4E2C28-431C-42DC-A09A-B416B7D92E03.jpg)
 
   
 
@@ -56,7 +56,7 @@ Missha's Near Skin Total Ceramide Cream is specially formulated to repair and st
 [  
 !
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTwteODhYlKAFf-pO_RHNpBgcEtr3EHLCB1oolNTQDYh-wXG4LLRcRPcJv6x0Xk8q-YhmGbx1PEdAZT2DnFkb8movsqb4hWdasI_vzpu-R8bvjqSzK1-VDqyEYylq-GwcltXboyqTJr8ln/s1600/28C95734-0235-4ADA-BEEF-89DA08C73B6C.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTwteODhYlKAFf-pO_RHNpBgcEtr3EHLCB1oolNTQDYh-wXG4LLRcRPcJv6x0Xk8q-YhmGbx1PEdAZT2DnFkb8movsqb4hWdasI_vzpu-R8bvjqSzK1-VDqyEYylq-GwcltXboyqTJr8ln/s1600/28C95734-0235-4ADA-BEEF-89DA08C73B6C.jpg)
 
   
 
@@ -70,7 +70,7 @@ Water, Glycerin, Caprylic / Capric Triglyceride, Butylene Glycol, Hydrogenated P
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6M8E9rLtgKc7Pq9Z7ybkbaBU8Yd0bb_c0RuiUTaQJeRoOMMeo-B2VfBPrwjl2pNGyLAwm49pQLESUkEG8R0t858DKvDRkex1WFrcyD86jjMLE1FqWtIja2y1t7v6MW8lrwKGCXXZ2kThP/s1600/7E687D21-884A-47EE-A8F5-EA21034F55E3.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6M8E9rLtgKc7Pq9Z7ybkbaBU8Yd0bb_c0RuiUTaQJeRoOMMeo-B2VfBPrwjl2pNGyLAwm49pQLESUkEG8R0t858DKvDRkex1WFrcyD86jjMLE1FqWtIja2y1t7v6MW8lrwKGCXXZ2kThP/s1600/7E687D21-884A-47EE-A8F5-EA21034F55E3.jpg)
 
   
 
@@ -92,13 +92,13 @@ No noticeable scent that I notice.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitRgHPO-8mjJ2bDT7xJNInISCqNXGZx1qOVPm217WvW201ZPS66ae8anTDux1Wbbb5i7DmkSRpD3XCZA4lhFqj1t8UhJoFtJLeojTe4YiThIFap2NvpWNrladO1UoAs-rz62sGWUFACGGC/s1600/C0CD3634-6E4B-4571-B267-5B3337BEA9C8.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitRgHPO-8mjJ2bDT7xJNInISCqNXGZx1qOVPm217WvW201ZPS66ae8anTDux1Wbbb5i7DmkSRpD3XCZA4lhFqj1t8UhJoFtJLeojTe4YiThIFap2NvpWNrladO1UoAs-rz62sGWUFACGGC/s1600/C0CD3634-6E4B-4571-B267-5B3337BEA9C8.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwPA1rBq5HNO5XCjRuDEeLGjLn0-ivoVVu9XEO3vKtSajRmm2cBpPmRC9SCDvVzuslvzF0LMuX6RQteKKVFYKe2_OtmQ387-KxH1-C1yECE87u-EH1iy6jqmxPPoYu3FzQaNjnT3dByzwQ/s1600/D99B3409-FD2D-4D96-932E-EF1DA645EFDE.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwPA1rBq5HNO5XCjRuDEeLGjLn0-ivoVVu9XEO3vKtSajRmm2cBpPmRC9SCDvVzuslvzF0LMuX6RQteKKVFYKe2_OtmQ387-KxH1-C1yECE87u-EH1iy6jqmxPPoYu3FzQaNjnT3dByzwQ/s1600/D99B3409-FD2D-4D96-932E-EF1DA645EFDE.jpg)
 
   
 

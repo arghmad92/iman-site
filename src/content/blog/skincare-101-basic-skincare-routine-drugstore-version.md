@@ -3,7 +3,7 @@ title: "Skincare 101: Basic skincare routine (drugstore version)"
 date: "2018-02-01"
 category: Skincare
 excerpt: "Skincare 101: Basic skincare routine (drugstore version)"
-image: "https://web.archive.org/web/20241109002400im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIhxVbqKOi6HvWXV0tzfCzPa_iaeGJ5qCHpaUHXVk9KalTxWpV47XHp1R3M3kZrSE42l_Ly2lxN3eajgKUVkum0606tFdDxH499bDy7KI0B5T-a6LjhbDlk9CGEiKAvpiTGQCmpknxo4C/s640/Screen+Shot+2018-02-06+at+1.42.13+PM.png"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIhxVbqKOi6HvWXV0tzfCzPa_iaeGJ5qCHpaUHXVk9KalTxWpV47XHp1R3M3kZrSE42l_Ly2lxN3eajgKUVkum0606tFdDxH499bDy7KI0B5T-a6LjhbDlk9CGEiKAvpiTGQCmpknxo4C/s640/Screen+Shot+2018-02-06+at+1.42.13+PM.png"
 readTime: "3 min read"
 draft: false
 ---
@@ -18,7 +18,7 @@ I am going to share the most basic skincare routine with all the products that y
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIhxVbqKOi6HvWXV0tzfCzPa_iaeGJ5qCHpaUHXVk9KalTxWpV47XHp1R3M3kZrSE42l_Ly2lxN3eajgKUVkum0606tFdDxH499bDy7KI0B5T-a6LjhbDlk9CGEiKAvpiTGQCmpknxo4C/s1600/Screen+Shot+2018-02-06+at+1.42.13+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIhxVbqKOi6HvWXV0tzfCzPa_iaeGJ5qCHpaUHXVk9KalTxWpV47XHp1R3M3kZrSE42l_Ly2lxN3eajgKUVkum0606tFdDxH499bDy7KI0B5T-a6LjhbDlk9CGEiKAvpiTGQCmpknxo4C/s1600/Screen+Shot+2018-02-06+at+1.42.13+PM.png)
 
   
   
@@ -79,7 +79,7 @@ This is the basic skincare routine:
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoY04vl6zVicilW9LiM2KvSeY5BaxpShECao1iLqCCLy38y4VdVGaDHLKHxYS5I0ykzsDD2oquX3_EdE0otsDkw_yrdv3ofYAHBksT-2PuKoylv8l4YAKJpjlMYwFU1Uibntsz-85Ok3qz/s1600/Screen+Shot+2017-09-15+at+10.53.58+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoY04vl6zVicilW9LiM2KvSeY5BaxpShECao1iLqCCLy38y4VdVGaDHLKHxYS5I0ykzsDD2oquX3_EdE0otsDkw_yrdv3ofYAHBksT-2PuKoylv8l4YAKJpjlMYwFU1Uibntsz-85Ok3qz/s1600/Screen+Shot+2017-09-15+at+10.53.58+PM.png)
 
   
 
@@ -114,7 +114,7 @@ How to choose cleanser? [http://www.imanabdulrahim.com/2018/07/choose-cleanser.
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsSYWDsxuNfX3gAPyjCZdOlZkHTK5tIK83sIt9-1B_zkkjG0XzAKHproYiWRhTba2tcvz93jWvEmX8bN-HFACZpM2hlyyZRGdT3Ua3GFwKM0Tm2mGbyZdFd6I4PW0hHoNTufv3J2tdNEh3/s1600/Screen+Shot+2018-02-06+at+9.47.11+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsSYWDsxuNfX3gAPyjCZdOlZkHTK5tIK83sIt9-1B_zkkjG0XzAKHproYiWRhTba2tcvz93jWvEmX8bN-HFACZpM2hlyyZRGdT3Ua3GFwKM0Tm2mGbyZdFd6I4PW0hHoNTufv3J2tdNEh3/s1600/Screen+Shot+2018-02-06+at+9.47.11+AM.png)
 
   
 
@@ -133,7 +133,7 @@ Boleh baca dekat sini: 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUf_7AZu7FLWn0PGhWx5O2aUfjRVIrSJWDZaiHMSFhwuexBJYvtkFjiK9Tob280Z6FHwwjTjstgnOSuuujn44VcZxzKz4liaQ8n9z-iDbLfhHeObdSExgFueqnEwNf2U14BuOFdvQhRe1_/s1600/Screen+Shot+2018-02-06+at+9.47.27+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUf_7AZu7FLWn0PGhWx5O2aUfjRVIrSJWDZaiHMSFhwuexBJYvtkFjiK9Tob280Z6FHwwjTjstgnOSuuujn44VcZxzKz4liaQ8n9z-iDbLfhHeObdSExgFueqnEwNf2U14BuOFdvQhRe1_/s1600/Screen+Shot+2018-02-06+at+9.47.27+AM.png)
 
   
   
@@ -155,7 +155,7 @@ Also read: The double cleansing method (oil-based cleanser & water based cleanse
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEdZ8LMARi1UeqXGeraNYPtuRgCP_mBbBUUZX9yUoEju6L5cwswpKWRL6dYCH1H69hFA6AT3Y0fQnW4ripX5s-DQYuBdt4RG5UUYiy1NK63XapZPqZkKwdBrxXmj3wUtjfhNmaFZn50rmy/s1600/Screen+Shot+2018-02-06+at+1.22.36+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEdZ8LMARi1UeqXGeraNYPtuRgCP_mBbBUUZX9yUoEju6L5cwswpKWRL6dYCH1H69hFA6AT3Y0fQnW4ripX5s-DQYuBdt4RG5UUYiy1NK63XapZPqZkKwdBrxXmj3wUtjfhNmaFZn50rmy/s1600/Screen+Shot+2018-02-06+at+1.22.36+PM.png)
 
   
 
@@ -171,7 +171,7 @@ Also read: The double cleansing method (oil-based cleanser & water based cleanse
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv_C4NK3xu4_LsvcqvXGZLibu2ks1ewpfjLPRF-rRavayPmMeN4bWOny5K7zGs_6Cr5F_ZjKiKkStox4Vhlsd2fB-bNNEXcnWnmRNF5REqi7m10bxkkgxypISmKWJD8MXvg3a-5uZyKmgz/s1600/Screen+Shot+2018-02-06+at+1.23.24+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv_C4NK3xu4_LsvcqvXGZLibu2ks1ewpfjLPRF-rRavayPmMeN4bWOny5K7zGs_6Cr5F_ZjKiKkStox4Vhlsd2fB-bNNEXcnWnmRNF5REqi7m10bxkkgxypISmKWJD8MXvg3a-5uZyKmgz/s1600/Screen+Shot+2018-02-06+at+1.23.24+PM.png)
 
   
 

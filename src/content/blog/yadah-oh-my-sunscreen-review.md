@@ -3,14 +3,14 @@ title: "Yadah Oh My Sunscreen Review"
 date: "2019-06-01"
 category: Skincare
 excerpt: "Yadah Oh My Sunscreen Review"
-image: "https://web.archive.org/web/20250211050542im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaA943-i3Jt_RcSzjvRrSsKn7RYlRMWs9drHrRIzZ_AXZoNgNDT7yL6TtjviOLSDr7K-l-SatVntxDxQPnayVsfpkQ1G3Sy1Ky13k7WdVsKZD-VBajl78-i0dtOGHnx2H4pYKQvfas4kJi/s640/8B59D9D9-8313-459B-B0E1-68C9A1E50BEA.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaA943-i3Jt_RcSzjvRrSsKn7RYlRMWs9drHrRIzZ_AXZoNgNDT7yL6TtjviOLSDr7K-l-SatVntxDxQPnayVsfpkQ1G3Sy1Ky13k7WdVsKZD-VBajl78-i0dtOGHnx2H4pYKQvfas4kJi/s640/8B59D9D9-8313-459B-B0E1-68C9A1E50BEA.jpg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaA943-i3Jt_RcSzjvRrSsKn7RYlRMWs9drHrRIzZ_AXZoNgNDT7yL6TtjviOLSDr7K-l-SatVntxDxQPnayVsfpkQ1G3Sy1Ky13k7WdVsKZD-VBajl78-i0dtOGHnx2H4pYKQvfas4kJi/s1600/8B59D9D9-8313-459B-B0E1-68C9A1E50BEA.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaA943-i3Jt_RcSzjvRrSsKn7RYlRMWs9drHrRIzZ_AXZoNgNDT7yL6TtjviOLSDr7K-l-SatVntxDxQPnayVsfpkQ1G3Sy1Ky13k7WdVsKZD-VBajl78-i0dtOGHnx2H4pYKQvfas4kJi/s1600/8B59D9D9-8313-459B-B0E1-68C9A1E50BEA.jpg)
 
 Yadah Oh My Sunscreen Review
 
@@ -24,7 +24,7 @@ I only bought the 20ml to try. Kalau ikut website Watsons, the price is RM65 for
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpWpE9AUZ8cpuuXNYren18ygT3IKBD7eY9bpzxLz18c45OZM5SmuSHflC3q-DG9CKMQnO4XqdW6LLataipyVxkbLmte1s_DcmEefYlBQyjS55js7sYyOAM0XGUZcCbT9f7xOn7edhUBfFI/s1600/Screenshot+2019-06-12+at+12.16.24+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpWpE9AUZ8cpuuXNYren18ygT3IKBD7eY9bpzxLz18c45OZM5SmuSHflC3q-DG9CKMQnO4XqdW6LLataipyVxkbLmte1s_DcmEefYlBQyjS55js7sYyOAM0XGUZcCbT9f7xOn7edhUBfFI/s1600/Screenshot+2019-06-12+at+12.16.24+PM.png)
 
   
 
@@ -38,12 +38,12 @@ Light textured sun screen good for daily use that helps to protect your skin fro
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8f6Ex0kAfRuvmFmfu3l5SymrZPxhrb_rAChP9vG32tZGw4FGa8nRpaQqmOBRoLGEmBgcR_4d0WgzZAj-_xV6YE1SN9jmv6yNzWtc7xTauDCZE5xqXw5IcDz6pvCvUgAK38vyYqtKlD9tr/s1600/0D6A2EE5-DE1A-46AB-B779-0DE1C2BD635B.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8f6Ex0kAfRuvmFmfu3l5SymrZPxhrb_rAChP9vG32tZGw4FGa8nRpaQqmOBRoLGEmBgcR_4d0WgzZAj-_xV6YE1SN9jmv6yNzWtc7xTauDCZE5xqXw5IcDz6pvCvUgAK38vyYqtKlD9tr/s1600/0D6A2EE5-DE1A-46AB-B779-0DE1C2BD635B.jpg)
 
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgRFxyQiYnmROMfSsAzm-NmOLChXKRT2eZP7D7KZK1B95r66DdW-4twAdZspu9-eWtcP8udq_52oZ0XVBmn11nNrP5vLiXEKt1ZIh0QMW3SJebaUxBplrhVIemmINee3pA4STj33joRIMM/s1600/C8F5A718-029F-446B-9EBB-2484E71AC99C.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgRFxyQiYnmROMfSsAzm-NmOLChXKRT2eZP7D7KZK1B95r66DdW-4twAdZspu9-eWtcP8udq_52oZ0XVBmn11nNrP5vLiXEKt1ZIh0QMW3SJebaUxBplrhVIemmINee3pA4STj33joRIMM/s1600/C8F5A718-029F-446B-9EBB-2484E71AC99C.jpg)  
 
   
 
@@ -63,12 +63,12 @@ Butyl Methoxydibenzoylmethane (Avobenzone)
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcw_rcsO9qIPGdwooTmrMRv-OdaaeX_bRCMwE88Jb8Pqvnzyk-7QNLu3z5-ASLJyIYyHlCTlww-BtjT7SkQTClgi3xmqSeIcI2KNE291CPEs8M9jJyWl0FJFDANpvbLTZMuFYBx7jqpGYt/s1600/51EEF41B-2885-45CC-BDFD-6BE9E13B146B.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcw_rcsO9qIPGdwooTmrMRv-OdaaeX_bRCMwE88Jb8Pqvnzyk-7QNLu3z5-ASLJyIYyHlCTlww-BtjT7SkQTClgi3xmqSeIcI2KNE291CPEs8M9jJyWl0FJFDANpvbLTZMuFYBx7jqpGYt/s1600/51EEF41B-2885-45CC-BDFD-6BE9E13B146B.jpg)
 
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQubjKACAr_R65LJLJPtibecvQOc1LssSyMrHhfD1HvpAPI1q98JgAViBr50SOtdvz5mEC4bYr-om6v9FQ2S0MpgcIL8hdcQ3SEO6ZcQs2WTf27moWmMSg2t-drLouzGC55lIOqjp2j5BU/s1600/C77E6DEB-B5A6-4505-8D06-6F0DC11E8A5D.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQubjKACAr_R65LJLJPtibecvQOc1LssSyMrHhfD1HvpAPI1q98JgAViBr50SOtdvz5mEC4bYr-om6v9FQ2S0MpgcIL8hdcQ3SEO6ZcQs2WTf27moWmMSg2t-drLouzGC55lIOqjp2j5BU/s1600/C77E6DEB-B5A6-4505-8D06-6F0DC11E8A5D.jpg)  
   
 
 **Packaging**: It comes in a 20ml opaque grey tube and a black screwable cap. I like the nozzle size, not too big and not too small, just nice to dispense the product. All the details and ingredients are printed clearly on the box.
@@ -87,13 +87,13 @@ Butyl Methoxydibenzoylmethane (Avobenzone)
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQUJTbVmzuBC_H-4rvwST4vPNGCP6usdbz5xd4PzO0AsoMStbpwzZ2u1b6K6PLvl46mnA4DoyqAeol8Lqj-lAkiuCLeS0PDqf8mGEQwrjmH9JgYfJxggAWNYiaVA_S8VNvHg_DWbd5M0ow/s1600/B123CED0-8CBB-4569-A9DF-633F54145B0D.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQUJTbVmzuBC_H-4rvwST4vPNGCP6usdbz5xd4PzO0AsoMStbpwzZ2u1b6K6PLvl46mnA4DoyqAeol8Lqj-lAkiuCLeS0PDqf8mGEQwrjmH9JgYfJxggAWNYiaVA_S8VNvHg_DWbd5M0ow/s1600/B123CED0-8CBB-4569-A9DF-633F54145B0D.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqCf5NXxAJ7DSaAR1pQag2j5pDCwTIihof9HLJOoBf_oXU5Z5MFlS_AWiAcef0qll3MOz2-1oY-56kF0JkdxaYzXjsaCVBQ_Ress8pjE8xwVBVmx-A1WBqF9TkkTqa_R3aRFalEYrNqbI9/s1600/58F5BD70-0DCE-46E4-ADB6-ED65AB33B515.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqCf5NXxAJ7DSaAR1pQag2j5pDCwTIihof9HLJOoBf_oXU5Z5MFlS_AWiAcef0qll3MOz2-1oY-56kF0JkdxaYzXjsaCVBQ_Ress8pjE8xwVBVmx-A1WBqF9TkkTqa_R3aRFalEYrNqbI9/s1600/58F5BD70-0DCE-46E4-ADB6-ED65AB33B515.jpg)
 
   
 

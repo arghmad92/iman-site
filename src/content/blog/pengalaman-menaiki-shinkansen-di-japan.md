@@ -3,14 +3,14 @@ title: "Pengalaman Menaiki Shinkansen di Japan"
 date: "2019-12-01"
 category: Lifestyle
 excerpt: "Pengalaman Menaiki Shinkansen di Japan"
-image: "https://web.archive.org/web/20230320215759im_/https://1.bp.blogspot.com/-SewcFiejzSQ/Xfy-1YWYU1I/AAAAAAAAJD4/fXU0cf8l1lQfIw3tk0dVB9EwsCjMKMJUACLcBGAsYHQ/s640/E509546A-179C-4EC5-A0B3-EEF9BC64A83E.JPG"
+image: "https://1.bp.blogspot.com/-SewcFiejzSQ/Xfy-1YWYU1I/AAAAAAAAJD4/fXU0cf8l1lQfIw3tk0dVB9EwsCjMKMJUACLcBGAsYHQ/s640/E509546A-179C-4EC5-A0B3-EEF9BC64A83E.JPG"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://1.bp.blogspot.com/-SewcFiejzSQ/Xfy-1YWYU1I/AAAAAAAAJD4/fXU0cf8l1lQfIw3tk0dVB9EwsCjMKMJUACLcBGAsYHQ/s1600/E509546A-179C-4EC5-A0B3-EEF9BC64A83E.JPG)  
+![](https://1.bp.blogspot.com/-SewcFiejzSQ/Xfy-1YWYU1I/AAAAAAAAJD4/fXU0cf8l1lQfIw3tk0dVB9EwsCjMKMJUACLcBGAsYHQ/s1600/E509546A-179C-4EC5-A0B3-EEF9BC64A83E.JPG)  
 
   
 
@@ -34,7 +34,7 @@ Shinkansen ni train berkelajuan tinggi atau lebih dikenali dengan nama bullet tr
 
 [!
 
-](https://1.bp.blogspot.com/-Lk39xE0E09Y/XfzCA9LgDiI/AAAAAAAAJEo/8HE2C42RCu4zZNjy2qi06tcIQqUTz1uTgCLcBGAsYHQ/s1600/2018_04_1603.gif)  
+![](https://1.bp.blogspot.com/-Lk39xE0E09Y/XfzCA9LgDiI/AAAAAAAAJEo/8HE2C42RCu4zZNjy2qi06tcIQqUTz1uTgCLcBGAsYHQ/s1600/2018_04_1603.gif)  
 
   
 
@@ -62,7 +62,7 @@ Boleh tengok setiap train ni stop dekat station mana:
 
 [!
 
-](https://1.bp.blogspot.com/-ybDTFRE1nRY/XfzE0Dm1WII/AAAAAAAAJE0/7Qnai5ikxdUzog2p9WGJogc7DgZOfYWtACLcBGAsYHQ/s1600/2018_tokaido_01_1912.gif)
+![](https://1.bp.blogspot.com/-ybDTFRE1nRY/XfzE0Dm1WII/AAAAAAAAJE0/7Qnai5ikxdUzog2p9WGJogc7DgZOfYWtACLcBGAsYHQ/s1600/2018_tokaido_01_1912.gif)
 
 Link: [https://www.japan-guide.com/e/e2018\_tokaido.html](https://www.japan-guide.com/e/e2018_tokaido.html)
 
@@ -84,7 +84,7 @@ I dah beli siap siap tiket Shinkansen from Malaysia once dah confirm itinerary, 
 
 [!
 
-](https://1.bp.blogspot.com/-PJl2gejYt7I/XfzA3XoDMGI/AAAAAAAAJEg/gD4NE3WcTJQmyWrDroQs4ElWVqC55reyQCEwYBhgL/s1600/Screenshot%2B2019-12-20%2Bat%2B8.38.36%2BPM.png)
+![](https://1.bp.blogspot.com/-PJl2gejYt7I/XfzA3XoDMGI/AAAAAAAAJEg/gD4NE3WcTJQmyWrDroQs4ElWVqC55reyQCEwYBhgL/s1600/Screenshot%2B2019-12-20%2Bat%2B8.38.36%2BPM.png)
 
 Beli tiket Shinkansen kat sini: [KLOOK Shinkansen Bullet Train Ticket](https://www.klook.com/activity/14431-shinkansen-bullet-train-ticket-osaka?aid=11566)
 
@@ -126,7 +126,7 @@ Lepas keluar daripada Arrival Hall tu, korang akan nampak lah counter ni. Senang
 
 [!
 
-](https://1.bp.blogspot.com/-g92rCPL20S8/Xfy-1hPOegI/AAAAAAAAJD8/vIcE13czk7ww21cDBcRHkmuM-gayv0bTgCEwYBhgL/s1600/EF1669C2-19DA-4C93-A898-4BE1D238B3D5.JPG)
+![](https://1.bp.blogspot.com/-g92rCPL20S8/Xfy-1hPOegI/AAAAAAAAJD8/vIcE13czk7ww21cDBcRHkmuM-gayv0bTgCEwYBhgL/s1600/EF1669C2-19DA-4C93-A898-4BE1D238B3D5.JPG)
 
 Okay ni kaunter untuk redeem Exchange Order tu.
 
@@ -136,7 +136,7 @@ Okay ni kaunter untuk redeem Exchange Order tu.
 
 [!
 
-](https://1.bp.blogspot.com/-SewcFiejzSQ/Xfy-1YWYU1I/AAAAAAAAJD4/fXU0cf8l1lQfIw3tk0dVB9EwsCjMKMJUACLcBGAsYHQ/s1600/E509546A-179C-4EC5-A0B3-EEF9BC64A83E.JPG)
+![](https://1.bp.blogspot.com/-SewcFiejzSQ/Xfy-1YWYU1I/AAAAAAAAJD4/fXU0cf8l1lQfIw3tk0dVB9EwsCjMKMJUACLcBGAsYHQ/s1600/E509546A-179C-4EC5-A0B3-EEF9BC64A83E.JPG)
 
 Ni Exchange Order, belum tiket sebenar lagi.
 
@@ -192,7 +192,7 @@ Ok, dah naik ke platform yang betul, dah check YES INI DIA TRAIN SAYA, kena chec
 
 [!
 
-](https://1.bp.blogspot.com/-OYxjzl11aAU/Xfy-0KbQwiI/AAAAAAAAJDs/zlBl_7k-W5kG0Cu2uHA_YN-eIGYS-L0ggCEwYBhgL/s1600/66690826-19A4-4441-A59D-5E9153875004.JPG)
+![](https://1.bp.blogspot.com/-OYxjzl11aAU/Xfy-0KbQwiI/AAAAAAAAJDs/zlBl_7k-W5kG0Cu2uHA_YN-eIGYS-L0ggCEwYBhgL/s1600/66690826-19A4-4441-A59D-5E9153875004.JPG)
 
 Sis mengah.
 
@@ -200,7 +200,7 @@ Sis mengah.
 
 [!
 
-](https://1.bp.blogspot.com/-5BwiP_teYaA/Xfy_CTDMFfI/AAAAAAAAJEA/j1x9ieyxvp8j91JuCx_-QD0Bcg3JKBObgCLcBGAsYHQ/s1600/5955BCEE-EACD-499B-8F2D-E9CD51A626B6%2B2.jpg)
+![](https://1.bp.blogspot.com/-5BwiP_teYaA/Xfy_CTDMFfI/AAAAAAAAJEA/j1x9ieyxvp8j91JuCx_-QD0Bcg3JKBObgCLcBGAsYHQ/s1600/5955BCEE-EACD-499B-8F2D-E9CD51A626B6%2B2.jpg)
 
   
 
@@ -210,7 +210,7 @@ Ni keadaan dalam train. I dah tak larat nak ambil gambar kerana kepenatan haha. 
 
 [!
 
-](https://1.bp.blogspot.com/-grIYIz4J5l4/Xfy-0RimP1I/AAAAAAAAJD0/uRaxlLTgHQwoFdIz1XSDNMwz4RKIPY8xgCEwYBhgL/s1600/2767A0BB-DF33-47F1-A4F4-531BD3229C96.JPG)
+![](https://1.bp.blogspot.com/-grIYIz4J5l4/Xfy-0RimP1I/AAAAAAAAJD0/uRaxlLTgHQwoFdIz1XSDNMwz4RKIPY8xgCEwYBhgL/s1600/2767A0BB-DF33-47F1-A4F4-531BD3229C96.JPG)
 
   
 

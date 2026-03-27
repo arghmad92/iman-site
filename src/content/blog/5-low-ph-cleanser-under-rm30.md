@@ -3,7 +3,7 @@ title: "5 low pH cleanser under RM30"
 date: "2018-04-01"
 category: Skincare
 excerpt: "5 low pH cleanser under RM30"
-image: "https://web.archive.org/web/20250211045613im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ABQrboQI9DbkHby9n1RQoWIFxPZC-g7TunM11mxczOihSg47msmed6Gr0nOpHr5X-pj8uB1-x1RFSZmSghxpmut9zXzteseZxBE38qDrjuF_LXlJ6qfaYl7-EfLGsJnbyI6qBbvQhsdq/s640/Photo+08-04-2018%252C+9+16+25+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ABQrboQI9DbkHby9n1RQoWIFxPZC-g7TunM11mxczOihSg47msmed6Gr0nOpHr5X-pj8uB1-x1RFSZmSghxpmut9zXzteseZxBE38qDrjuF_LXlJ6qfaYl7-EfLGsJnbyI6qBbvQhsdq/s640/Photo+08-04-2018%252C+9+16+25+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -16,7 +16,7 @@ Sharing about some of the low pH cleansers yang I pernah try and some mini revie
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ABQrboQI9DbkHby9n1RQoWIFxPZC-g7TunM11mxczOihSg47msmed6Gr0nOpHr5X-pj8uB1-x1RFSZmSghxpmut9zXzteseZxBE38qDrjuF_LXlJ6qfaYl7-EfLGsJnbyI6qBbvQhsdq/s1600/Photo+08-04-2018%252C+9+16+25+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ABQrboQI9DbkHby9n1RQoWIFxPZC-g7TunM11mxczOihSg47msmed6Gr0nOpHr5X-pj8uB1-x1RFSZmSghxpmut9zXzteseZxBE38qDrjuF_LXlJ6qfaYl7-EfLGsJnbyI6qBbvQhsdq/s1600/Photo+08-04-2018%252C+9+16+25+PM.jpg)
 
   
 
@@ -76,7 +76,7 @@ Honestly I've tested around 20 cleansers and susah nak dapatkan yang low pH espe
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPLSf_lQ7_WaSk8iBovDtzFqXT-d0gLx_yeBoRXaZM_QW1ha1tUSXpQuP5MURQERCX8TyjturvutIkAt2B5GbJRGRs4vokm3i1JlJiyYT_SsZJ0JnQ4jFW-5CD2y5jb9JuF7FCO-2BdtK4/s1600/Photo+08-04-2018%252C+9+16+25+PM+%25281%2529.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPLSf_lQ7_WaSk8iBovDtzFqXT-d0gLx_yeBoRXaZM_QW1ha1tUSXpQuP5MURQERCX8TyjturvutIkAt2B5GbJRGRs4vokm3i1JlJiyYT_SsZJ0JnQ4jFW-5CD2y5jb9JuF7FCO-2BdtK4/s1600/Photo+08-04-2018%252C+9+16+25+PM+%25281%2529.jpg)
 
 The pH value is around pH5, tak sampai pH6. It's good enough for me, cleanse my skin, rasa bersih tapi tak rasa tight sangat. No alcohol, no SLS. Might repurchase.
 
@@ -90,7 +90,7 @@ The pH value is around pH5, tak sampai pH6. It's good enough for me, cleanse my 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ABQrboQI9DbkHby9n1RQoWIFxPZC-g7TunM11mxczOihSg47msmed6Gr0nOpHr5X-pj8uB1-x1RFSZmSghxpmut9zXzteseZxBE38qDrjuF_LXlJ6qfaYl7-EfLGsJnbyI6qBbvQhsdq/s1600/Photo+08-04-2018%252C+9+16+25+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ABQrboQI9DbkHby9n1RQoWIFxPZC-g7TunM11mxczOihSg47msmed6Gr0nOpHr5X-pj8uB1-x1RFSZmSghxpmut9zXzteseZxBE38qDrjuF_LXlJ6qfaYl7-EfLGsJnbyI6qBbvQhsdq/s1600/Photo+08-04-2018%252C+9+16+25+PM.jpg)
 
   
 
@@ -104,7 +104,7 @@ Around pH5-6. It is quite good, cuma leave a film lepas cuci. Rasa ada jelly jel
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQMDrZlbuNULREeM_3zNblXuJYi1m_AVRjBr6ZV336MKJttLaC5CxIHaHMIgR66Qqm7ffsA9dc2xgA00UJhaSS9g4BHNHfj-_-mF-QpNjLC1c2aFLpIvUP-N-RZFn6qOXQ31wrbl6B56oW/s1600/Photo+08-04-2018%252C+9+16+26+PM+%25284%2529.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQMDrZlbuNULREeM_3zNblXuJYi1m_AVRjBr6ZV336MKJttLaC5CxIHaHMIgR66Qqm7ffsA9dc2xgA00UJhaSS9g4BHNHfj-_-mF-QpNjLC1c2aFLpIvUP-N-RZFn6qOXQ31wrbl6B56oW/s1600/Photo+08-04-2018%252C+9+16+26+PM+%25284%2529.jpg)
 
   
 
@@ -126,13 +126,13 @@ Water, Sodium Laureth Sulfate, Decyl Glucoside, Cocamidopropyl Betaine, Propylen
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim7LE3KHDQTMmBEf5kYr6FEu-IY3Yhg5Ab6_KnIU7FgR6ekcm1jfH54sC0if7oKUtB8Xa5Wmif41_-1bbAgPoFQzP_EL0usxgZ3CmdX2pMeoToGNQVTi-lMhd5rVF511YQq-D828xpP680/s1600/Photo+08-04-2018%252C+9+16+26+PM+%25283%2529.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim7LE3KHDQTMmBEf5kYr6FEu-IY3Yhg5Ab6_KnIU7FgR6ekcm1jfH54sC0if7oKUtB8Xa5Wmif41_-1bbAgPoFQzP_EL0usxgZ3CmdX2pMeoToGNQVTi-lMhd5rVF511YQq-D828xpP680/s1600/Photo+08-04-2018%252C+9+16+26+PM+%25283%2529.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2EoaUyMz4psQUJA8omTCEKSgd5PzuUfQpnC5pDOP-4IQRuOm4ogCKFFITB2epUndIteS3Zfc_BSZRqGfjWRgv91bp-9p0VaefxpCOCs5yBc9Aaz8myOY5BdQuFTSHmU0vjymkx1nkIX2-/s1600/Photo+08-04-2018%252C+9+16+26+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2EoaUyMz4psQUJA8omTCEKSgd5PzuUfQpnC5pDOP-4IQRuOm4ogCKFFITB2epUndIteS3Zfc_BSZRqGfjWRgv91bp-9p0VaefxpCOCs5yBc9Aaz8myOY5BdQuFTSHmU0vjymkx1nkIX2-/s1600/Photo+08-04-2018%252C+9+16+26+PM.jpg)
 
   
 
@@ -150,13 +150,13 @@ The pH value is around 6 which is quite good. Tapi is a bit drying for me, rasa 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfBOuINA38TGi3nKg8j4EmU5r1iwTWRUUqFoIdyOeTNg5sVv1YE-wv8lZtKWV3ewu3D_IC8t0sOBlGuHsUIu86gPxwHiPBhGjZ2oDthCPkblMNS98kObj4xVSZt6S4iKcBUAWwMW6MRdIW/s1600/Photo+08-04-2018%252C+9+16+27+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfBOuINA38TGi3nKg8j4EmU5r1iwTWRUUqFoIdyOeTNg5sVv1YE-wv8lZtKWV3ewu3D_IC8t0sOBlGuHsUIu86gPxwHiPBhGjZ2oDthCPkblMNS98kObj4xVSZt6S4iKcBUAWwMW6MRdIW/s1600/Photo+08-04-2018%252C+9+16+27+PM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb-z0viOF_GogdhmswAG-KCuMW48IDsiawM9BUmDXq8CvbR_Scbq_zUPHIEZ16EauoeJ2tILLJDYPkjwcJ3-W8hBuikpJki-6-RhgCz0iHnNoRksvsP3xVU68fozYgvS3Uhwj9jOOjEH2L/s1600/Photo+08-04-2018%252C+9+16+26+PM+%25281%2529.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb-z0viOF_GogdhmswAG-KCuMW48IDsiawM9BUmDXq8CvbR_Scbq_zUPHIEZ16EauoeJ2tILLJDYPkjwcJ3-W8hBuikpJki-6-RhgCz0iHnNoRksvsP3xVU68fozYgvS3Uhwj9jOOjEH2L/s1600/Photo+08-04-2018%252C+9+16+26+PM+%25281%2529.jpg)
 
   
 
@@ -174,7 +174,7 @@ The pH value is around 6. However, it makes my skin dry lepas guna and fragrance
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSz83ROhpOAO_0zGyQQx3AUuDvZAsABdbQwF778bgG6rcuaB77-O9qQImGdYUumiKs9V-12d_2nTQ0nNydTRV7a0YfmfuHYpoECW7yPZo0IigXkAJp99w8Zj1l6Z5Sr-pPR-fFcKFp-DoV/s1600/Photo+08-04-2018%252C+9+16+26+PM+%25282%2529.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSz83ROhpOAO_0zGyQQx3AUuDvZAsABdbQwF778bgG6rcuaB77-O9qQImGdYUumiKs9V-12d_2nTQ0nNydTRV7a0YfmfuHYpoECW7yPZo0IigXkAJp99w8Zj1l6Z5Sr-pPR-fFcKFp-DoV/s1600/Photo+08-04-2018%252C+9+16+26+PM+%25282%2529.jpg)
 
   
 

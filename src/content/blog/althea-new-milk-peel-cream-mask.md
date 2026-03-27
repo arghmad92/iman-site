@@ -3,14 +3,14 @@ title: "Althea NEW Milk Peel Cream Mask"
 date: "2018-11-01"
 category: Skincare
 excerpt: "Althea NEW Milk Peel Cream Mask"
-image: "https://web.archive.org/web/20241205050247im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAoV4rTvlkp62qvsgOlnjMf0OESpYXUTjfc7b9LJIJWBx9RvCb-Soh8VbcTwTPjlC0gihTMXf54S665Y_byM7-oQwMjo3IwGmJG1TORJWWUFxuTGv593s8jFKvWe7fiwJlkhhE7GVanUF/s640/6AFA5258-FE2F-4A8A-9206-BEE949A32226.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAoV4rTvlkp62qvsgOlnjMf0OESpYXUTjfc7b9LJIJWBx9RvCb-Soh8VbcTwTPjlC0gihTMXf54S665Y_byM7-oQwMjo3IwGmJG1TORJWWUFxuTGv593s8jFKvWe7fiwJlkhhE7GVanUF/s640/6AFA5258-FE2F-4A8A-9206-BEE949A32226.jpg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAoV4rTvlkp62qvsgOlnjMf0OESpYXUTjfc7b9LJIJWBx9RvCb-Soh8VbcTwTPjlC0gihTMXf54S665Y_byM7-oQwMjo3IwGmJG1TORJWWUFxuTGv593s8jFKvWe7fiwJlkhhE7GVanUF/s1600/6AFA5258-FE2F-4A8A-9206-BEE949A32226.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAoV4rTvlkp62qvsgOlnjMf0OESpYXUTjfc7b9LJIJWBx9RvCb-Soh8VbcTwTPjlC0gihTMXf54S665Y_byM7-oQwMjo3IwGmJG1TORJWWUFxuTGv593s8jFKvWe7fiwJlkhhE7GVanUF/s1600/6AFA5258-FE2F-4A8A-9206-BEE949A32226.jpg)  
 Althea NEW Milk Peel Cream Mask  
   
   
@@ -21,7 +21,7 @@ Althea NEW Milk Peel Cream Mask
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrA_Mc7YRN6q3OtiPMO2K9vRYED42UWC1oW6A9xW3HKGxNqmcY7Qih7xdhaUZomb14peh4ZA7YWcwxUYfNuUR0utNMtccF93FtXKy0HpS-87uhFbk-WaWGLEuaq4QhXKsxYmkJ5Ru9UMFP/s1600/23A763B9-72B6-4079-85E0-38AA783D4798.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrA_Mc7YRN6q3OtiPMO2K9vRYED42UWC1oW6A9xW3HKGxNqmcY7Qih7xdhaUZomb14peh4ZA7YWcwxUYfNuUR0utNMtccF93FtXKy0HpS-87uhFbk-WaWGLEuaq4QhXKsxYmkJ5Ru9UMFP/s1600/23A763B9-72B6-4079-85E0-38AA783D4798.jpg)
 
   
 
@@ -56,13 +56,13 @@ So kalau nak masukkan dalam skincare routine, normally pakai waktu malam. Lepas 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJzLiKA_uYvsPQOPSR67VmxuQX1bjq0-qF9ZfvCeNJrlcKzID_gxuMDld9M7Xncysg5O_ouONKQdRr6dm_3oOki3GHygpG0nlJefm45M9k35S-J38cUP2k1wcpl4YUJ498jk8SnaO7SKG5/s1600/21F89E1D-5FE8-422D-BA53-7F16FBE6471E.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJzLiKA_uYvsPQOPSR67VmxuQX1bjq0-qF9ZfvCeNJrlcKzID_gxuMDld9M7Xncysg5O_ouONKQdRr6dm_3oOki3GHygpG0nlJefm45M9k35S-J38cUP2k1wcpl4YUJ498jk8SnaO7SKG5/s1600/21F89E1D-5FE8-422D-BA53-7F16FBE6471E.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz5XsAkfLt7c3IdpVFZew3l3Rzixp3mFyIIbzM7_1CUQ_tLN46fy5pIycMClqy1_wD0wR0M4OSkPmgmu7MKfagj3gguJboIC0eLuHMcJJ2u8q4Qu_7h4xA19tlXVM2oVMocWvOPDIFQBHD/s1600/0DD50123-7623-42B6-B1D7-0A97E5CDB7FB.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz5XsAkfLt7c3IdpVFZew3l3Rzixp3mFyIIbzM7_1CUQ_tLN46fy5pIycMClqy1_wD0wR0M4OSkPmgmu7MKfagj3gguJboIC0eLuHMcJJ2u8q4Qu_7h4xA19tlXVM2oVMocWvOPDIFQBHD/s1600/0DD50123-7623-42B6-B1D7-0A97E5CDB7FB.jpg)
 
   
 
@@ -74,13 +74,13 @@ It comes in a 50ml white plastic bottle with a blue pump dispenser. As usual, I 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YGF-uzwzR1Wl_pWm8s5A3cD3Kds6VwkLQ_4FO9rl1wj7R67_E8ez1VYw96_s_4Q362wRt-eFcc4NR5Keh5gs3lfiZJZup1zPzgJboJH8wRIuILJ9dimt1dEO2-QNoKiu0tDzmlwsiDO3/s1600/6F984A05-F372-4435-B9BD-3D31062FA73F.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YGF-uzwzR1Wl_pWm8s5A3cD3Kds6VwkLQ_4FO9rl1wj7R67_E8ez1VYw96_s_4Q362wRt-eFcc4NR5Keh5gs3lfiZJZup1zPzgJboJH8wRIuILJ9dimt1dEO2-QNoKiu0tDzmlwsiDO3/s1600/6F984A05-F372-4435-B9BD-3D31062FA73F.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2HcRKAn6WEoJcZW-lGz02AVCoFZCJUfiUX2SOHrt6J9P9Y75tpyNiFl4HtyGPX0eWxHAxzSEaBFt05mU2nldneDcX54yopwP1X1V5SMpt2QeApcQgIcQa-5zmulibAg_C_L1gFt3BjLdS/s1600/C0E8E4A5-4A93-40F4-A803-26C8F65D2271.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2HcRKAn6WEoJcZW-lGz02AVCoFZCJUfiUX2SOHrt6J9P9Y75tpyNiFl4HtyGPX0eWxHAxzSEaBFt05mU2nldneDcX54yopwP1X1V5SMpt2QeApcQgIcQa-5zmulibAg_C_L1gFt3BjLdS/s1600/C0E8E4A5-4A93-40F4-A803-26C8F65D2271.jpg)
 
   
 The texture is like a cream clay mask and produce bubbles a few seconds after applied. I've tried a few similar masks like this (for example b.liv Bubbly Bright Oxygenated Mask and LaF Pink Sparkling Pore Pack)  

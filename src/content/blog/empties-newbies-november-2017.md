@@ -3,7 +3,7 @@ title: "Empties & Newbies (November 2017)"
 date: "2017-11-01"
 category: Skincare
 excerpt: "Empties & Newbies (November 2017)"
-image: "https://web.archive.org/web/20250123102546im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjKeuEyzL5btggCnLhBPb5b0hFRzOejFKJe5cmRqwCPa-hG-Ho1pbZiIf34L2LF5a1E4Rsq5kp269ssnaQTUSDcy8gzl4WaB_sKMaA3Hn-2AeZj8dPI7XuWxzTf1Dd-oWnlZr77dZCRoo/s640/Photo+05-11-2017%252C+7+31+07+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjKeuEyzL5btggCnLhBPb5b0hFRzOejFKJe5cmRqwCPa-hG-Ho1pbZiIf34L2LF5a1E4Rsq5kp269ssnaQTUSDcy8gzl4WaB_sKMaA3Hn-2AeZj8dPI7XuWxzTf1Dd-oWnlZr77dZCRoo/s640/Photo+05-11-2017%252C+7+31+07+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ Empties (product yang dah habis) and apa yang I guna sebagai ganti (newbie) for 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjKeuEyzL5btggCnLhBPb5b0hFRzOejFKJe5cmRqwCPa-hG-Ho1pbZiIf34L2LF5a1E4Rsq5kp269ssnaQTUSDcy8gzl4WaB_sKMaA3Hn-2AeZj8dPI7XuWxzTf1Dd-oWnlZr77dZCRoo/s1600/Photo+05-11-2017%252C+7+31+07+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjKeuEyzL5btggCnLhBPb5b0hFRzOejFKJe5cmRqwCPa-hG-Ho1pbZiIf34L2LF5a1E4Rsq5kp269ssnaQTUSDcy8gzl4WaB_sKMaA3Hn-2AeZj8dPI7XuWxzTf1Dd-oWnlZr77dZCRoo/s1600/Photo+05-11-2017%252C+7+31+07+PM.jpg)
 
   
   
@@ -35,7 +35,7 @@ I did an entry about my skincare routine last August and a few products dah habi
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcige_dE5TVpT_wmsJ-iDVlN0SoL09U0IV6oEJtKi5LdVSRaFYFlm1gfNrmf8q1z4ool84G6RT8mRRW2Wvu8CXb4vh_PEFeOJCCR1nwxrqcKmuKRxHtaG6_SSvIo-ESJBa8f8N_4JoW4U/s1600/Screen+Shot+2017-11-05+at+8.50.00+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcige_dE5TVpT_wmsJ-iDVlN0SoL09U0IV6oEJtKi5LdVSRaFYFlm1gfNrmf8q1z4ool84G6RT8mRRW2Wvu8CXb4vh_PEFeOJCCR1nwxrqcKmuKRxHtaG6_SSvIo-ESJBa8f8N_4JoW4U/s1600/Screen+Shot+2017-11-05+at+8.50.00+PM.png)
 
   
 
@@ -69,7 +69,7 @@ Dah pakai 3 minggu ++ and so far, memang okay for my skin.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijR8kF987iGceOKBgxZy4Vk17XgD6JmY_TbEEtpTiYV1ep0ARaY3l5PNDVIpmq1Rq2EvQGNW1e3mPJNJoHbS89CiLEaf-3s-ZV3Lff5D9BuSh9FlE7t8MObUhg53MvHAyyyU7RTEllhNw/s1600/Screen+Shot+2017-11-05+at+8.52.09+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijR8kF987iGceOKBgxZy4Vk17XgD6JmY_TbEEtpTiYV1ep0ARaY3l5PNDVIpmq1Rq2EvQGNW1e3mPJNJoHbS89CiLEaf-3s-ZV3Lff5D9BuSh9FlE7t8MObUhg53MvHAyyyU7RTEllhNw/s1600/Screen+Shot+2017-11-05+at+8.52.09+PM.png)
 
   
 

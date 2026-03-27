@@ -3,14 +3,14 @@ title: "Innisfree Blueberry Rebalancing 5.5 Cleanser Review"
 date: "2018-11-01"
 category: Skincare
 excerpt: "Innisfree Blueberry Rebalancing 5.5 Cleanser Review"
-image: "https://web.archive.org/web/20241205025835im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOq4A7YhqgCrMpSHAhidjo5AHF3CGihLBcxscykhYBL7KXnBuxFbSZxoOGw4rmktivCNSLXQNyjkU6h6O4mdr5Cni3AUCSJq3rVruGSQUXQXw9PCOExFMrJ7i-6aRQUwpcHGz8viSctDW/s640/8103AFE8-58F0-4D20-A85F-7DDD83B87BF3.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOq4A7YhqgCrMpSHAhidjo5AHF3CGihLBcxscykhYBL7KXnBuxFbSZxoOGw4rmktivCNSLXQNyjkU6h6O4mdr5Cni3AUCSJq3rVruGSQUXQXw9PCOExFMrJ7i-6aRQUwpcHGz8viSctDW/s640/8103AFE8-58F0-4D20-A85F-7DDD83B87BF3.jpg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOq4A7YhqgCrMpSHAhidjo5AHF3CGihLBcxscykhYBL7KXnBuxFbSZxoOGw4rmktivCNSLXQNyjkU6h6O4mdr5Cni3AUCSJq3rVruGSQUXQXw9PCOExFMrJ7i-6aRQUwpcHGz8viSctDW/s1600/8103AFE8-58F0-4D20-A85F-7DDD83B87BF3.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOq4A7YhqgCrMpSHAhidjo5AHF3CGihLBcxscykhYBL7KXnBuxFbSZxoOGw4rmktivCNSLXQNyjkU6h6O4mdr5Cni3AUCSJq3rVruGSQUXQXw9PCOExFMrJ7i-6aRQUwpcHGz8viSctDW/s1600/8103AFE8-58F0-4D20-A85F-7DDD83B87BF3.jpg)
 
   
 
@@ -33,7 +33,7 @@ My thoughts on  Innisfree Blueberry Rebalancing 5.5 Cleanser
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgqDC7hbze1WtZJqwTuJ8IxKsVBbMB90_h5ClxHrG6BjsIN1kCN40mzaRMWzflMF5ddGIccXP1u5XZdBvCQlR8EADvdfCCjd-ARnU7UDyFKBbJ4aXBg7seSkkwynyxYVfhEZCANDUEgbvg/s1600/5706E4C0-344D-4359-B76D-C91FC3E0B653.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgqDC7hbze1WtZJqwTuJ8IxKsVBbMB90_h5ClxHrG6BjsIN1kCN40mzaRMWzflMF5ddGIccXP1u5XZdBvCQlR8EADvdfCCjd-ARnU7UDyFKBbJ4aXBg7seSkkwynyxYVfhEZCANDUEgbvg/s1600/5706E4C0-344D-4359-B76D-C91FC3E0B653.jpg)
 
   
 
@@ -59,7 +59,7 @@ Water, Sodium Cocoyl Isethionate, Glycerin, Diglycerin, Diethylhexyl Sodium Sulf
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj26srah3IAA6azCh-DDvEsOaNyHQveAZh6-PQjaKM0Gt0fXydXRFe7nHoAQd2MTgWeDiCwQBm_KPXEeEr2feBFNpgjCN8p8rh0WcKQ9EwtkpclWPehnWaXW1yXZGPJw00uIxvu7Y-Kg2NM/s1600/9FE529F1-7D2F-4DEF-BB0C-1C9574A912D5.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj26srah3IAA6azCh-DDvEsOaNyHQveAZh6-PQjaKM0Gt0fXydXRFe7nHoAQd2MTgWeDiCwQBm_KPXEeEr2feBFNpgjCN8p8rh0WcKQ9EwtkpclWPehnWaXW1yXZGPJw00uIxvu7Y-Kg2NM/s1600/9FE529F1-7D2F-4DEF-BB0C-1C9574A912D5.JPG)
 
 It's around pH5 which as similar to what it claims.
 
@@ -71,7 +71,7 @@ If you wonder why pH value is important: [http://www.imanabdulrahim.com/2017/08
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq2rOyf35hkVfjs29ksXrJ1z3-6Tj1D_k9DVCEz1GZgzQAy5DiN_iN12gSIEsEZw5_CIelsFFzZh1xQFfdrJe9jidPjTP__3ikUHNZs6O04XBBap-TPSk2npHEoZUmitd9MaaLmE87PekW/s1600/A1E6F8B9-E720-42EE-832F-E252EFF0FF80.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq2rOyf35hkVfjs29ksXrJ1z3-6Tj1D_k9DVCEz1GZgzQAy5DiN_iN12gSIEsEZw5_CIelsFFzZh1xQFfdrJe9jidPjTP__3ikUHNZs6O04XBBap-TPSk2npHEoZUmitd9MaaLmE87PekW/s1600/A1E6F8B9-E720-42EE-832F-E252EFF0FF80.jpg)
 
   
 
@@ -84,7 +84,7 @@ If you wonder why pH value is important: [http://www.imanabdulrahim.com/2017/08
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK9JX9hyphenhyphenp21Mm45ubPt3weZ2pTU7NAguWEq3W-uN-PHV9l0g_oegOsHQ3a7F0PyNzk9xnFb1M03UQJvP5xUTJTJyPCLiV9P0NkLmuph4Hb5irQ20JMRFhTEKDtOThLyieboFT0F59ITiXz/s1600/6E9A6174-5019-4D7C-8ACA-543FDEAC4DD3.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK9JX9hyphenhyphenp21Mm45ubPt3weZ2pTU7NAguWEq3W-uN-PHV9l0g_oegOsHQ3a7F0PyNzk9xnFb1M03UQJvP5xUTJTJyPCLiV9P0NkLmuph4Hb5irQ20JMRFhTEKDtOThLyieboFT0F59ITiXz/s1600/6E9A6174-5019-4D7C-8ACA-543FDEAC4DD3.jpg)
 
   
 

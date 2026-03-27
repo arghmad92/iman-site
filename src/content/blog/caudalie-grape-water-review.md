@@ -3,7 +3,7 @@ title: "Caudalie Grape Water Review"
 date: "2018-01-01"
 category: Skincare
 excerpt: "Caudalie Grape Water Review"
-image: "https://web.archive.org/web/20241003193027im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1i_O2krhfY8afGGdqTC8GnYZtu2HJKeJMMtGzw3rlEF4luupkKLz8lKL5cq2ijzFyR_0A8yhRcUaKHyGP0AywJ8AYA-ckqNFWK2rq0udwDrOZ7_ggBZVIkFu8X4adCpEpcZV1M3ZRhiU/s640/Photo+09-01-2018%252C+3+20+36+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1i_O2krhfY8afGGdqTC8GnYZtu2HJKeJMMtGzw3rlEF4luupkKLz8lKL5cq2ijzFyR_0A8yhRcUaKHyGP0AywJ8AYA-ckqNFWK2rq0udwDrOZ7_ggBZVIkFu8X4adCpEpcZV1M3ZRhiU/s640/Photo+09-01-2018%252C+3+20+36+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ For today's review, I am going to share my thoughts on the Caudalie Grape Water.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1i_O2krhfY8afGGdqTC8GnYZtu2HJKeJMMtGzw3rlEF4luupkKLz8lKL5cq2ijzFyR_0A8yhRcUaKHyGP0AywJ8AYA-ckqNFWK2rq0udwDrOZ7_ggBZVIkFu8X4adCpEpcZV1M3ZRhiU/s1600/Photo+09-01-2018%252C+3+20+36+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1i_O2krhfY8afGGdqTC8GnYZtu2HJKeJMMtGzw3rlEF4luupkKLz8lKL5cq2ijzFyR_0A8yhRcUaKHyGP0AywJ8AYA-ckqNFWK2rq0udwDrOZ7_ggBZVIkFu8X4adCpEpcZV1M3ZRhiU/s1600/Photo+09-01-2018%252C+3+20+36+PM.jpg)
 
   
 
@@ -60,7 +60,7 @@ I normally use this to damp my sponge when applying foundation/concealer. Or, to
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUyZi9xYOOd61cintFhYH_vDpno3Qq5I2BmIHfahYyaWMZTkg-cuVHCMa7GU94bENSfkSnvxz_Z4_3AzQNUza_mzHyDmF_rHs7JELouWQe02JDdeaNSw1Vo4SajAlvAM-3RNHlrAJdey3/s1600/Photo+09-01-2018%252C+3+20+49+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUyZi9xYOOd61cintFhYH_vDpno3Qq5I2BmIHfahYyaWMZTkg-cuVHCMa7GU94bENSfkSnvxz_Z4_3AzQNUza_mzHyDmF_rHs7JELouWQe02JDdeaNSw1Vo4SajAlvAM-3RNHlrAJdey3/s1600/Photo+09-01-2018%252C+3+20+49+PM.jpg)
 
   
 

@@ -3,14 +3,14 @@ title: "Perlu ke rest muka sebelum tukar product baru?"
 date: "2018-12-01"
 category: Skincare
 excerpt: "Perlu ke rest muka sebelum tukar product baru?"
-image: "https://web.archive.org/web/20241205042951im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuinghQGY1PuLZqisZkdYq_12kYG6j6WzUN_Z8fw2lTn9UzwkgI03a-wZEXcdg-wdgZiXiAHrcjVYJqU0ixx1_ggrl9ErwbrWmd968eComROoQhwj7g3DsDT4OUMxVr3KGSM5DvZq3WgA/s640/IMG_1302.PNG"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuinghQGY1PuLZqisZkdYq_12kYG6j6WzUN_Z8fw2lTn9UzwkgI03a-wZEXcdg-wdgZiXiAHrcjVYJqU0ixx1_ggrl9ErwbrWmd968eComROoQhwj7g3DsDT4OUMxVr3KGSM5DvZq3WgA/s640/IMG_1302.PNG"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuinghQGY1PuLZqisZkdYq_12kYG6j6WzUN_Z8fw2lTn9UzwkgI03a-wZEXcdg-wdgZiXiAHrcjVYJqU0ixx1_ggrl9ErwbrWmd968eComROoQhwj7g3DsDT4OUMxVr3KGSM5DvZq3WgA/s1600/IMG_1302.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuinghQGY1PuLZqisZkdYq_12kYG6j6WzUN_Z8fw2lTn9UzwkgI03a-wZEXcdg-wdgZiXiAHrcjVYJqU0ixx1_ggrl9ErwbrWmd968eComROoQhwj7g3DsDT4OUMxVr3KGSM5DvZq3WgA/s1600/IMG_1302.PNG)
 
 Perlu ke rest muka sebelum tukar product baru?
 

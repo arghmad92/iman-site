@@ -3,7 +3,7 @@ title: "Drugstore concealers - what I've tried"
 date: "2017-09-01"
 category: Beauty
 excerpt: "Drugstore concealers - what I've tried"
-image: "https://web.archive.org/web/20250123113351im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP9e7aQhituvMpNTU0hT5eGCSAiWKqOhT5muevBQ0LYYCzuS4H_Pk4Z8dSyutNtC1W7IZeoLnjkFgH3YlEe7BDBLhIfe7he0KT2ST-DU1jF9xStozG7CSWKhLYFAoeOOHdYFvni5SmuJ4/s640/Photo+15-09-2017%252C+9+22+13+AM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP9e7aQhituvMpNTU0hT5eGCSAiWKqOhT5muevBQ0LYYCzuS4H_Pk4Z8dSyutNtC1W7IZeoLnjkFgH3YlEe7BDBLhIfe7he0KT2ST-DU1jF9xStozG7CSWKhLYFAoeOOHdYFvni5SmuJ4/s640/Photo+15-09-2017%252C+9+22+13+AM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ All drugstore concealers that I have tried. My main concern is to conceal my und
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP9e7aQhituvMpNTU0hT5eGCSAiWKqOhT5muevBQ0LYYCzuS4H_Pk4Z8dSyutNtC1W7IZeoLnjkFgH3YlEe7BDBLhIfe7he0KT2ST-DU1jF9xStozG7CSWKhLYFAoeOOHdYFvni5SmuJ4/s1600/Photo+15-09-2017%252C+9+22+13+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP9e7aQhituvMpNTU0hT5eGCSAiWKqOhT5muevBQ0LYYCzuS4H_Pk4Z8dSyutNtC1W7IZeoLnjkFgH3YlEe7BDBLhIfe7he0KT2ST-DU1jF9xStozG7CSWKhLYFAoeOOHdYFvni5SmuJ4/s1600/Photo+15-09-2017%252C+9+22+13+AM.jpg)
 
 Maybelline Pure Concealer Mineral, Maybelline Fit Me Concealer, Catrice Liquid Camouflage High Coverage Concealer, Maybelline Instant Age Rewind, Wet n Wild Photofocus Concealer
 
@@ -25,7 +25,7 @@ Maybelline Pure Concealer Mineral, Maybelline Fit Me Concealer, Catrice Liquid C
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnUvdxMtlCfhf_GTvweChF-3O0JZv5P5f1FFMEY091VbcXL-WlDl16MCJLpL_4AHs2xSZVSLdikBNh3MlxyjkDcaPhulEfemK5qJ_t2oOEkH1CjXRXMbXcyXNI5BGv2ICEMENu-j3neZA/s1600/Photo+15-09-2017%252C+9+21+39+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnUvdxMtlCfhf_GTvweChF-3O0JZv5P5f1FFMEY091VbcXL-WlDl16MCJLpL_4AHs2xSZVSLdikBNh3MlxyjkDcaPhulEfemK5qJ_t2oOEkH1CjXRXMbXcyXNI5BGv2ICEMENu-j3neZA/s1600/Photo+15-09-2017%252C+9+21+39+AM.jpg)
 
   
 
@@ -43,7 +43,7 @@ Maybelline Pure Concealer Mineral, Maybelline Fit Me Concealer, Catrice Liquid C
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggJAixglgU21-tYpF4LIotKSlm1JFNC1LE1BSV44nRvDUdelBfzAovaGJKiv2oZHqNW_owMbx-BVtwRmvwPIRFvrSZltHMJoEZw8qoaAZT3sjkXk5JtvUhtpNvpWTX5MzlcoqDQrvXH9I/s1600/Screen+Shot+2017-09-17+at+10.02.42+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggJAixglgU21-tYpF4LIotKSlm1JFNC1LE1BSV44nRvDUdelBfzAovaGJKiv2oZHqNW_owMbx-BVtwRmvwPIRFvrSZltHMJoEZw8qoaAZT3sjkXk5JtvUhtpNvpWTX5MzlcoqDQrvXH9I/s1600/Screen+Shot+2017-09-17+at+10.02.42+AM.png)
 
 The swatches
 

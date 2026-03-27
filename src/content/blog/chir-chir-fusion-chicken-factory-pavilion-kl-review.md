@@ -3,7 +3,7 @@ title: "Chir Chir Fusion Chicken Factory Pavilion KL Review"
 date: "2018-02-01"
 category: Lifestyle
 excerpt: "Chir Chir Fusion Chicken Factory Pavilion KL Review"
-image: "https://web.archive.org/web/20241205031908im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlBqdX1ZteGRVrQWZoxIhdsQpQ3HgFP_Vao3R5LynDzDWHQKIyMQmtzhqxEmBeWALhrHv3aqfMxaWVlnmNOdnVb4iWqFUUnmIVNcTqlJKLtTkiMH6g_zKJTQ-_N3EaBVZLlGmYXv73P5L/s640/Photo+02-02-2018%252C+10+17+36+AM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlBqdX1ZteGRVrQWZoxIhdsQpQ3HgFP_Vao3R5LynDzDWHQKIyMQmtzhqxEmBeWALhrHv3aqfMxaWVlnmNOdnVb4iWqFUUnmIVNcTqlJKLtTkiMH6g_zKJTQ-_N3EaBVZLlGmYXv73P5L/s640/Photo+02-02-2018%252C+10+17+36+AM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ I am the biggest fan of ayam goreng. Lagi lagi korean fried chicken yang sekaran
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlBqdX1ZteGRVrQWZoxIhdsQpQ3HgFP_Vao3R5LynDzDWHQKIyMQmtzhqxEmBeWALhrHv3aqfMxaWVlnmNOdnVb4iWqFUUnmIVNcTqlJKLtTkiMH6g_zKJTQ-_N3EaBVZLlGmYXv73P5L/s1600/Photo+02-02-2018%252C+10+17+36+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlBqdX1ZteGRVrQWZoxIhdsQpQ3HgFP_Vao3R5LynDzDWHQKIyMQmtzhqxEmBeWALhrHv3aqfMxaWVlnmNOdnVb4iWqFUUnmIVNcTqlJKLtTkiMH6g_zKJTQ-_N3EaBVZLlGmYXv73P5L/s1600/Photo+02-02-2018%252C+10+17+36+AM.jpg)
 
   
 
@@ -29,7 +29,7 @@ Chir Chir (pronounced as "Chi-Re Chi-Re") is one the South Korea's largest chain
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQhojya7moOPMfpP9g12dmCesbTtQCEgZdNGfdM5kQnnZYRfTLQwRV7-ZznmF1BONaoVFsAdGDUy7Es3vqnxRNoja2miFj9HxOtdW2s48GSyHeq-BJBpiuV5IUCKvpVM5_CC-GFYqUchf-/s1600/Photo+02-02-2018%252C+9+35+21+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQhojya7moOPMfpP9g12dmCesbTtQCEgZdNGfdM5kQnnZYRfTLQwRV7-ZznmF1BONaoVFsAdGDUy7Es3vqnxRNoja2miFj9HxOtdW2s48GSyHeq-BJBpiuV5IUCKvpVM5_CC-GFYqUchf-/s1600/Photo+02-02-2018%252C+9+35+21+AM.jpg)
 
  While waiting for the food.
 
@@ -43,7 +43,7 @@ Chir Chir Malaysia baru launch menu baru, Curry Fried Chicken and Chi-Bap.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXHFJkga_zbGP0KCM0Taw8VU3zOEq4QsdM2yoTmLSviJ3YDKjtWxVzeSvIn0IL2pf76y6snR3FLnH09pc7XEPnpl56ZOVsY-Mw4EEHbS20D21Abl52vmgiAvD_hSBv1U7LijAcI_25Us-z/s1600/Photo+02-02-2018%252C+10+12+35+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXHFJkga_zbGP0KCM0Taw8VU3zOEq4QsdM2yoTmLSviJ3YDKjtWxVzeSvIn0IL2pf76y6snR3FLnH09pc7XEPnpl56ZOVsY-Mw4EEHbS20D21Abl52vmgiAvD_hSBv1U7LijAcI_25Us-z/s1600/Photo+02-02-2018%252C+10+12+35+AM.jpg)
 
   
 
@@ -61,7 +61,7 @@ Chi-Bap is inspired by Korea's Bibimbap. Normally kalau bibimbap, ada mixed rice
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUplg4Ts02l6n8Uw-NvTnXi3bQKKthDsN8tzcWgy6dS-KbNkBLeFT7SXfOSkIEQkPZGmqShci4520ZCSZOioWS0J7m9kPE2eovhWys92nHqHZa_Z1I5dJesb61ceBYift9PvHUcTXyisbf/s1600/Photo+02-02-2018%252C+10+23+27+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUplg4Ts02l6n8Uw-NvTnXi3bQKKthDsN8tzcWgy6dS-KbNkBLeFT7SXfOSkIEQkPZGmqShci4520ZCSZOioWS0J7m9kPE2eovhWys92nHqHZa_Z1I5dJesb61ceBYift9PvHUcTXyisbf/s1600/Photo+02-02-2018%252C+10+23+27+AM.jpg)
 
 This is the Rose Cheese Chiqueen.
 
@@ -69,7 +69,7 @@ This is the Rose Cheese Chiqueen.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0NYrhIiL4J_5rVzgbxgp-QAOOxZvJCidAaKZc3nppupCSW1qnj_HawJtww84bGJ1m-Dr5u6xnTQMjKC6Rzgf9iPEepy6a1FN5UdCseBIXLhmIaYfnuWuq6mp7GhQO_c8P8H_QBSV1iFr4/s1600/Photo+02-02-2018%252C+10+25+01+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0NYrhIiL4J_5rVzgbxgp-QAOOxZvJCidAaKZc3nppupCSW1qnj_HawJtww84bGJ1m-Dr5u6xnTQMjKC6Rzgf9iPEepy6a1FN5UdCseBIXLhmIaYfnuWuq6mp7GhQO_c8P8H_QBSV1iFr4/s1600/Photo+02-02-2018%252C+10+25+01+AM.jpg)
 
 OMG the cheeseeeee.
 
@@ -77,7 +77,7 @@ OMG the cheeseeeee.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCepbvMoeTXi1DHyZo42DLvIZOuVMZCwoO6AOsjHm8PvCUEgGt8yBGIQLrMd1SwaKV8rI4BGAVlJ1fq6tJWTQSMm5WzTxP8I25YpeGXmwau94Lal_Id_66yKpZQ4hVoPU2VB7Aut4WxPPK/s1600/Photo+02-02-2018%252C+10+25+31+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCepbvMoeTXi1DHyZo42DLvIZOuVMZCwoO6AOsjHm8PvCUEgGt8yBGIQLrMd1SwaKV8rI4BGAVlJ1fq6tJWTQSMm5WzTxP8I25YpeGXmwau94Lal_Id_66yKpZQ4hVoPU2VB7Aut4WxPPK/s1600/Photo+02-02-2018%252C+10+25+31+AM.jpg)
 
 This is how it looks like. It is sooooo delicious, sedap gila kalau suka cheese. Dia creamy cheese, makan pulak dengan ayam goreng yang crispy. Perfect. 
 
@@ -85,7 +85,7 @@ This is how it looks like. It is sooooo delicious, sedap gila kalau suka cheese.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRQHUsXs-vSj8e-_BIrHy1wptFekUszM5jMFu-yi37grs-TyRjUWr6y3QQAHQYfICWPHeTxspSn6D-ZZAnyevoZwRhqCBS4Ue2tNuHrIaxpvJ1ICFOTx3gVQ6QA1UhdVBy1ayASu1cYOHL/s1600/Photo+02-02-2018%252C+10+39+16+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRQHUsXs-vSj8e-_BIrHy1wptFekUszM5jMFu-yi37grs-TyRjUWr6y3QQAHQYfICWPHeTxspSn6D-ZZAnyevoZwRhqCBS4Ue2tNuHrIaxpvJ1ICFOTx3gVQ6QA1UhdVBy1ayASu1cYOHL/s1600/Photo+02-02-2018%252C+10+39+16+AM.jpg)
 
 Nampak tak cheese diaaaaa?
 
@@ -105,7 +105,7 @@ Other dishes yang ada dekat Chir Chir:
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SSP1-Rt_EJau8_tN0BEFrMVKcXigGfz4OQ9RpJVoKXv7zWMEXqLCpV7qsF62KTzpSFfjFbua8NfVwkCRBhcEvOVqgdxI0GLHqoJcNmFIV4gZvu9WKg0owYV7uY7mMRJP1TDNjRcbiVGb/s1600/Photo+02-02-2018%252C+10+19+28+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SSP1-Rt_EJau8_tN0BEFrMVKcXigGfz4OQ9RpJVoKXv7zWMEXqLCpV7qsF62KTzpSFfjFbua8NfVwkCRBhcEvOVqgdxI0GLHqoJcNmFIV4gZvu9WKg0owYV7uY7mMRJP1TDNjRcbiVGb/s1600/Photo+02-02-2018%252C+10+19+28+AM.jpg)
 
   
 
@@ -117,7 +117,7 @@ Honey Butter Chicken. Yang ni ayam goreng tak ada tulang, crispy jugak. Dia rasa
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlBqdX1ZteGRVrQWZoxIhdsQpQ3HgFP_Vao3R5LynDzDWHQKIyMQmtzhqxEmBeWALhrHv3aqfMxaWVlnmNOdnVb4iWqFUUnmIVNcTqlJKLtTkiMH6g_zKJTQ-_N3EaBVZLlGmYXv73P5L/s1600/Photo+02-02-2018%252C+10+17+36+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlBqdX1ZteGRVrQWZoxIhdsQpQ3HgFP_Vao3R5LynDzDWHQKIyMQmtzhqxEmBeWALhrHv3aqfMxaWVlnmNOdnVb4iWqFUUnmIVNcTqlJKLtTkiMH6g_zKJTQ-_N3EaBVZLlGmYXv73P5L/s1600/Photo+02-02-2018%252C+10+17+36+AM.jpg)
 
  Yang ni Nest Snow. Juicy Cajun Chicken tenders with rich cream sauce. Siap ada whipped cream and grated cheese. Yang ni lebih kepada rasa creamy, cheese dia tak rasa sangat. Kalau takut muak sangat dengan cheese, boleh try yang ni. Kalau suka cheese, try yang Rose Cheese Chiqueen.
 
@@ -125,7 +125,7 @@ Honey Butter Chicken. Yang ni ayam goreng tak ada tulang, crispy jugak. Dia rasa
 
  [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgReFGAvqGs1jUWCPPnMiYyRGRHcdjUzWO1yl1PlWHR8HmD_RTCj0eFbA2mSZYB69OWMnYui9UFk9XUIndrLfzsJ31D9FXBLrTaR1ZTUxS1wbDWnYRnBf9AT_x_IN1sIMP4MN7LTt_ANl9J/s1600/Photo+02-02-2018%252C+10+24+31+AM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgReFGAvqGs1jUWCPPnMiYyRGRHcdjUzWO1yl1PlWHR8HmD_RTCj0eFbA2mSZYB69OWMnYui9UFk9XUIndrLfzsJ31D9FXBLrTaR1ZTUxS1wbDWnYRnBf9AT_x_IN1sIMP4MN7LTt_ANl9J/s1600/Photo+02-02-2018%252C+10+24+31+AM.jpg)  
 
 Special BBQ Roasted Chicken ni pedas gila.
 
@@ -133,7 +133,7 @@ Special BBQ Roasted Chicken ni pedas gila.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgingqybCyuYfO6Ncl-w_uBrPTppIqUwmwKeeiJU9SsA2brfOdzBa5MN1S3f93lO7ah9HpaFuvcsl_TLUB4PHYDAe5DBInABbpYtbPgAa1JWSlv-FLggow9B9fFybzJi6Cn_bjNq_A80u5i/s1600/Photo+02-02-2018%252C+10+23+21+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgingqybCyuYfO6Ncl-w_uBrPTppIqUwmwKeeiJU9SsA2brfOdzBa5MN1S3f93lO7ah9HpaFuvcsl_TLUB4PHYDAe5DBInABbpYtbPgAa1JWSlv-FLggow9B9fFybzJi6Cn_bjNq_A80u5i/s1600/Photo+02-02-2018%252C+10+23+21+AM.jpg)
 
   
 
@@ -147,7 +147,7 @@ The delicious creamy cheese macaroni. Suitable for kids and adults. Portion dia 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1G1CVl2BQC5c68xFXtu8cnJqZCv84nHlUOp2HUH1NhPSyWinpOwcTQ9zouBfQNazYSRGifbHgpECjOXh4ZIbpbGa0iqssj5X6j2MCHeTmPBPRsDkd6isujfKhkC36j0Tuo4jSZr4-wP23/s1600/Photo+02-02-2018%252C+10+07+29+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1G1CVl2BQC5c68xFXtu8cnJqZCv84nHlUOp2HUH1NhPSyWinpOwcTQ9zouBfQNazYSRGifbHgpECjOXh4ZIbpbGa0iqssj5X6j2MCHeTmPBPRsDkd6isujfKhkC36j0Tuo4jSZr4-wP23/s1600/Photo+02-02-2018%252C+10+07+29+AM.jpg)
 
  As for the drinks, yang ni Pineapple Smoothie and Grapefruit Yogurt. Grapefruit yogurt tu ice-blend mix of grapefruit yogurt, grapefruit and mint leaves. Pineapple Smoothie ada mix pineapple puree, coconut, strawberry, banana and mint leaves. I prefer Pineapple Smoothie sebab rasa lagi refreshing but depends on your preference lah.  
   
@@ -159,12 +159,12 @@ The delicious creamy cheese macaroni. Suitable for kids and adults. Portion dia 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7sC5lnkJGX2XycQyBP8OsO0_EAOkWC2Rgy6in3mTDLSVgof7ASVHiP8qe04rApUuR_yR3SV5OENF-afFj-dvSAqLZmifQ0sgK1Ve3ngYT7doK83Ch2lyVVQfyFSZQMQ4OcHLMpMW_roYX/s1600/Photo+02-02-2018%252C+10+22+36+AM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7sC5lnkJGX2XycQyBP8OsO0_EAOkWC2Rgy6in3mTDLSVgof7ASVHiP8qe04rApUuR_yR3SV5OENF-afFj-dvSAqLZmifQ0sgK1Ve3ngYT7doK83Ch2lyVVQfyFSZQMQ4OcHLMpMW_roYX/s1600/Photo+02-02-2018%252C+10+22+36+AM.jpg)  
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbUHgFeyh56Jw784sZ5_irX4MQjG0js1zFQi7IByeBkIy3QvClH6MZhmhXvHuj8wNnTmo4bxGC8_kfjc3nVjvNLc9Qc0-d-C3yoSZZVq5qg0p_RXqaJqR8zSCFTLf_mca3HFud5_QuqwXq/s1600/Photo+02-02-2018%252C+10+31+46+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbUHgFeyh56Jw784sZ5_irX4MQjG0js1zFQi7IByeBkIy3QvClH6MZhmhXvHuj8wNnTmo4bxGC8_kfjc3nVjvNLc9Qc0-d-C3yoSZZVq5qg0p_RXqaJqR8zSCFTLf_mca3HFud5_QuqwXq/s1600/Photo+02-02-2018%252C+10+31+46+AM.jpg)
 
   
 

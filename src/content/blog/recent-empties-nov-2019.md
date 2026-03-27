@@ -3,14 +3,14 @@ title: "Recent empties (Nov 2019)"
 date: "2019-11-01"
 category: Skincare
 excerpt: "Recent empties (Nov 2019)"
-image: "https://web.archive.org/web/20240810013925im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg35WapIFsd3WuqNQAT9UmoGcKkhb41nVfiYxlfTSoHzLAddgAu8zboXgPYIfS9vDeWuOQ4gE1Rc8PdIpFeonyUZktxQNferfGvXFKOpSKQ8U9rwhyphenhyphen9h2kWR6MW4NNXdjCkgDu5TAO5vEYi/s640/8914BC4E-A47D-4C30-995D-AE116D2E38D5+2.JPG"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg35WapIFsd3WuqNQAT9UmoGcKkhb41nVfiYxlfTSoHzLAddgAu8zboXgPYIfS9vDeWuOQ4gE1Rc8PdIpFeonyUZktxQNferfGvXFKOpSKQ8U9rwhyphenhyphen9h2kWR6MW4NNXdjCkgDu5TAO5vEYi/s640/8914BC4E-A47D-4C30-995D-AE116D2E38D5+2.JPG"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg35WapIFsd3WuqNQAT9UmoGcKkhb41nVfiYxlfTSoHzLAddgAu8zboXgPYIfS9vDeWuOQ4gE1Rc8PdIpFeonyUZktxQNferfGvXFKOpSKQ8U9rwhyphenhyphen9h2kWR6MW4NNXdjCkgDu5TAO5vEYi/s1600/8914BC4E-A47D-4C30-995D-AE116D2E38D5+2.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg35WapIFsd3WuqNQAT9UmoGcKkhb41nVfiYxlfTSoHzLAddgAu8zboXgPYIfS9vDeWuOQ4gE1Rc8PdIpFeonyUZktxQNferfGvXFKOpSKQ8U9rwhyphenhyphen9h2kWR6MW4NNXdjCkgDu5TAO5vEYi/s1600/8914BC4E-A47D-4C30-995D-AE116D2E38D5+2.JPG)
 
 Recent empties (Nov 2019)
 
@@ -48,7 +48,7 @@ I got this during an event lepastu I tengok word "Hydra" terus I rasa nak guna. 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzWpBsJqlAqrMTZfhBpFeCK8m9r4Q8Baoo5JS2ofpy_TX3w1PhV0WtmpzuzpdsZ5_WVxHig9MEE5yOzaAcplLibXzSMd_Ux_E5lm-d2B2wnjWbSOM1Q8U5fp1h6RW7-0qEn1ajhAcCGbNt/s1600/9wishes-ampule-serum-25ml.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzWpBsJqlAqrMTZfhBpFeCK8m9r4Q8Baoo5JS2ofpy_TX3w1PhV0WtmpzuzpdsZ5_WVxHig9MEE5yOzaAcplLibXzSMd_Ux_E5lm-d2B2wnjWbSOM1Q8U5fp1h6RW7-0qEn1ajhAcCGbNt/s1600/9wishes-ampule-serum-25ml.jpg)
 
   
 

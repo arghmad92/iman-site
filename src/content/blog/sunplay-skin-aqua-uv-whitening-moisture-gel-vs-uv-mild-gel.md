@@ -3,7 +3,7 @@ title: "Sunplay Skin Aqua UV whitening moisture gel vs UV mild gel"
 date: "2018-08-01"
 category: Skincare
 excerpt: "Sunplay Skin Aqua UV whitening moisture gel vs UV mild gel"
-image: "https://web.archive.org/web/20241003200148im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGSc6D-ElH-gOpqQTP37ZcckvFwW_CbvO4QiyLptCV0HwGGIW0vUM7XIJSF0xPrS7xFtJ06kFgbtIbETNXkG6joDnguZA3jjEWjckA6320IBsTxW1WD3HMQfuHhf-Vj15ifi2JL8smbMPf/s640/Photo+27-08-2018%252C+11+38+07+AM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGSc6D-ElH-gOpqQTP37ZcckvFwW_CbvO4QiyLptCV0HwGGIW0vUM7XIJSF0xPrS7xFtJ06kFgbtIbETNXkG6joDnguZA3jjEWjckA6320IBsTxW1WD3HMQfuHhf-Vj15ifi2JL8smbMPf/s640/Photo+27-08-2018%252C+11+38+07+AM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ Sharing my personal thoughts and  comparison on Sunplay Skin Aqua UV whitening
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGSc6D-ElH-gOpqQTP37ZcckvFwW_CbvO4QiyLptCV0HwGGIW0vUM7XIJSF0xPrS7xFtJ06kFgbtIbETNXkG6joDnguZA3jjEWjckA6320IBsTxW1WD3HMQfuHhf-Vj15ifi2JL8smbMPf/s1600/Photo+27-08-2018%252C+11+38+07+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGSc6D-ElH-gOpqQTP37ZcckvFwW_CbvO4QiyLptCV0HwGGIW0vUM7XIJSF0xPrS7xFtJ06kFgbtIbETNXkG6joDnguZA3jjEWjckA6320IBsTxW1WD3HMQfuHhf-Vj15ifi2JL8smbMPf/s1600/Photo+27-08-2018%252C+11+38+07+AM.jpg)
 
   
 
@@ -107,7 +107,7 @@ Both sunscreen are chemical sunscreen sebab dia tak ada physical filter, either 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUuNLGuSkfi0p7CnqnWLKRsr04XFvmAbyeD8m-9fbk1pcPeEJpIEdTzPApOqTjTXtabKP-S6bn_Zt5elOps_EhaWLyRAslxZC0tBGSZtozalHBIKcrb5loqQ_6Yxx0Htl8Zuin9lL1rMpa/s1600/Photo+27-08-2018%252C+11+39+28+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUuNLGuSkfi0p7CnqnWLKRsr04XFvmAbyeD8m-9fbk1pcPeEJpIEdTzPApOqTjTXtabKP-S6bn_Zt5elOps_EhaWLyRAslxZC0tBGSZtozalHBIKcrb5loqQ_6Yxx0Htl8Zuin9lL1rMpa/s1600/Photo+27-08-2018%252C+11+39+28+AM.jpg)
 
 Both comes in a same plastic squeezable bottle with a white screwable cap cuma Whitening Moisture Gel is in pink bottle while Mild Gel is in yellow bottle. 
 
@@ -119,13 +119,13 @@ Both comes in a same plastic squeezable bottle with a white screwable cap cuma W
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP_TEvy5hyZFCz3BFqfV2slds0u7oCOf2RzHJKlH4meSQBEkZQo8QHAqFsQvj-vbHCj21U0npKogMwN01sMaI60goD9KSLNjBe0k2kEFOKrSLpOK1EdUVwM_fREPLSwwlWZgJAxWPAYlbZ/s1600/Photo+27-08-2018%252C+11+38+30+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP_TEvy5hyZFCz3BFqfV2slds0u7oCOf2RzHJKlH4meSQBEkZQo8QHAqFsQvj-vbHCj21U0npKogMwN01sMaI60goD9KSLNjBe0k2kEFOKrSLpOK1EdUVwM_fREPLSwwlWZgJAxWPAYlbZ/s1600/Photo+27-08-2018%252C+11+38+30+AM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDOyP5OKvl2lr-8hfYPFfDW75DuGzuMRacTg5kZd5lYncuISvndntyyzQ298WUOmbLitN76HthvEnWXBxSMH_dLl7ZDuBwzeHw3z3GUx5v9xqpVOAJhA2T28uvSpPj63YyubOCE5urvuew/s1600/Photo+27-08-2018%252C+11+38+43+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDOyP5OKvl2lr-8hfYPFfDW75DuGzuMRacTg5kZd5lYncuISvndntyyzQ298WUOmbLitN76HthvEnWXBxSMH_dLl7ZDuBwzeHw3z3GUx5v9xqpVOAJhA2T28uvSpPj63YyubOCE5urvuew/s1600/Photo+27-08-2018%252C+11+38+43+AM.jpg)
 
   
 

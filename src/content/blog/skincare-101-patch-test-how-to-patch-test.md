@@ -3,7 +3,7 @@ title: "Skincare 101: Patch test - How to patch test?"
 date: "2017-10-01"
 category: Skincare
 excerpt: "Skincare 101: Patch test - How to patch test?"
-image: "https://web.archive.org/web/20241108233141im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygvQ10RyermhJk0m37H-zDPe6C_wC2iK2NTGQxzeaIa4c5_s3DJ0WQfzi3M-u2ml9QQUwdfp23KS1G7LdldU3GwkeTSJyMJ0OP0EM1lLbXNI5lhO2i3NzgMrgOwoJiL0aAZ_3y4g7Vsg/s640/Screen+Shot+2017-10-22+at+4.32.37+PM.png"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygvQ10RyermhJk0m37H-zDPe6C_wC2iK2NTGQxzeaIa4c5_s3DJ0WQfzi3M-u2ml9QQUwdfp23KS1G7LdldU3GwkeTSJyMJ0OP0EM1lLbXNI5lhO2i3NzgMrgOwoJiL0aAZ_3y4g7Vsg/s640/Screen+Shot+2017-10-22+at+4.32.37+PM.png"
 readTime: "3 min read"
 draft: false
 ---
@@ -12,7 +12,7 @@ Sebelum pakai product baru, kalau boleh, patch test dulu, nak tengok kulit kita 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygvQ10RyermhJk0m37H-zDPe6C_wC2iK2NTGQxzeaIa4c5_s3DJ0WQfzi3M-u2ml9QQUwdfp23KS1G7LdldU3GwkeTSJyMJ0OP0EM1lLbXNI5lhO2i3NzgMrgOwoJiL0aAZ_3y4g7Vsg/s1600/Screen+Shot+2017-10-22+at+4.32.37+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygvQ10RyermhJk0m37H-zDPe6C_wC2iK2NTGQxzeaIa4c5_s3DJ0WQfzi3M-u2ml9QQUwdfp23KS1G7LdldU3GwkeTSJyMJ0OP0EM1lLbXNI5lhO2i3NzgMrgOwoJiL0aAZ_3y4g7Vsg/s1600/Screen+Shot+2017-10-22+at+4.32.37+PM.png)
 
   
 
@@ -25,7 +25,7 @@ Macam mana nak patch test?
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8KIlVrriXCqY1OqALy2fjqImObNXurShWQiigvjEw1oHiXp6-G9FXvmhLecXEa5TvfGH3DUeUrZ09twEFp2f0F8jotqNQfheoJhJ0DNslizYhAR9K-yDnO9DX1tYt4YapTxPMphNBfUg/s1600/Photo+13-10-2017%252C+1+45+02+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8KIlVrriXCqY1OqALy2fjqImObNXurShWQiigvjEw1oHiXp6-G9FXvmhLecXEa5TvfGH3DUeUrZ09twEFp2f0F8jotqNQfheoJhJ0DNslizYhAR9K-yDnO9DX1tYt4YapTxPMphNBfUg/s1600/Photo+13-10-2017%252C+1+45+02+PM.jpg)
 
   
 
@@ -80,7 +80,7 @@ For new products yang I was was sikit,
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPMHDsWrFvCRc9alT0b25BWor-l97QiuQn48C3TJEv158S4wXILIVU_mcUpt990NhUg7VcaHGmj1RqpQ9KGJZct71CEfw_5_OEDFfJnxFkjvbDgVyFmdzeTotix2CFpWNJLTYJhg5O4dw/s1600/Screen+Shot+2017-10-22+at+4.46.08+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPMHDsWrFvCRc9alT0b25BWor-l97QiuQn48C3TJEv158S4wXILIVU_mcUpt990NhUg7VcaHGmj1RqpQ9KGJZct71CEfw_5_OEDFfJnxFkjvbDgVyFmdzeTotix2CFpWNJLTYJhg5O4dw/s1600/Screen+Shot+2017-10-22+at+4.46.08+PM.png)
 
   
 
@@ -114,7 +114,7 @@ Ada yang patch test dekat kawasan dagu atau jawline.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ-nn7yRgwMZFlTlGDT4-rkAdttOzbBytxgjlYc89LOVMmFYsPWyXWu7fAX8ZLNzodRKN9i3UFYhPwWpOYrOsZi73JTqfielIFFoCGcs9gr-Jl1xHoB4mRG-qc_SyJatvCuGwr_xcWurc/s1600/Screen+Shot+2017-10-22+at+4.55.08+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ-nn7yRgwMZFlTlGDT4-rkAdttOzbBytxgjlYc89LOVMmFYsPWyXWu7fAX8ZLNzodRKN9i3UFYhPwWpOYrOsZi73JTqfielIFFoCGcs9gr-Jl1xHoB4mRG-qc_SyJatvCuGwr_xcWurc/s1600/Screen+Shot+2017-10-22+at+4.55.08+PM.png)
 
   
 

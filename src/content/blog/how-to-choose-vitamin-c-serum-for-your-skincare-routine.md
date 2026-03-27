@@ -3,14 +3,14 @@ title: "How to choose Vitamin C serum for your skincare routine?"
 date: "2018-12-01"
 category: Skincare
 excerpt: "How to choose Vitamin C serum for your skincare routine?"
-image: "https://web.archive.org/web/20241108232433im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJJ681AXSQYkOGfH1RmfH4kJ-NSvCEvd7U0TEPUAaDkb3hKhSUOsjMonvmtPNR_Dxgawqtc2b64wWyyzGtOpX7r9449GDumEboanxjngqQ_PituADB5pnOmz1dpW_OlwaKkbMMQFIUS0Y/s640/7176E498-D024-4B0F-97DE-47608752E37A.JPG"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJJ681AXSQYkOGfH1RmfH4kJ-NSvCEvd7U0TEPUAaDkb3hKhSUOsjMonvmtPNR_Dxgawqtc2b64wWyyzGtOpX7r9449GDumEboanxjngqQ_PituADB5pnOmz1dpW_OlwaKkbMMQFIUS0Y/s640/7176E498-D024-4B0F-97DE-47608752E37A.JPG"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJJ681AXSQYkOGfH1RmfH4kJ-NSvCEvd7U0TEPUAaDkb3hKhSUOsjMonvmtPNR_Dxgawqtc2b64wWyyzGtOpX7r9449GDumEboanxjngqQ_PituADB5pnOmz1dpW_OlwaKkbMMQFIUS0Y/s1600/7176E498-D024-4B0F-97DE-47608752E37A.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJJ681AXSQYkOGfH1RmfH4kJ-NSvCEvd7U0TEPUAaDkb3hKhSUOsjMonvmtPNR_Dxgawqtc2b64wWyyzGtOpX7r9449GDumEboanxjngqQ_PituADB5pnOmz1dpW_OlwaKkbMMQFIUS0Y/s1600/7176E498-D024-4B0F-97DE-47608752E37A.JPG)
 
 Vitamin C.
 
@@ -133,7 +133,7 @@ If you wanna use hydrating toner first pun boleh, as a buffer supaya kulit tak p
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJJ681AXSQYkOGfH1RmfH4kJ-NSvCEvd7U0TEPUAaDkb3hKhSUOsjMonvmtPNR_Dxgawqtc2b64wWyyzGtOpX7r9449GDumEboanxjngqQ_PituADB5pnOmz1dpW_OlwaKkbMMQFIUS0Y/s1600/7176E498-D024-4B0F-97DE-47608752E37A.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJJ681AXSQYkOGfH1RmfH4kJ-NSvCEvd7U0TEPUAaDkb3hKhSUOsjMonvmtPNR_Dxgawqtc2b64wWyyzGtOpX7r9449GDumEboanxjngqQ_PituADB5pnOmz1dpW_OlwaKkbMMQFIUS0Y/s1600/7176E498-D024-4B0F-97DE-47608752E37A.JPG)
 
   
 
@@ -175,7 +175,7 @@ Two powerful brightening ingredients. It contains 8% Ascorbic Acid but stable fo
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3uds91dyf6GKzihZun5vBvLRAcx8Kxg6wHICGgdB0fejgXy_G7i8KXl_I-saurFCRvyb0vi11YDXOe12AjIvlm9UQ0bhTrhoSyJiNTSvF3rHVbU5Gn15cF5eMSGPl18R4W3O9THn9eEFS/s1600/Screenshot+2018-12-20+at+10.30.28+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3uds91dyf6GKzihZun5vBvLRAcx8Kxg6wHICGgdB0fejgXy_G7i8KXl_I-saurFCRvyb0vi11YDXOe12AjIvlm9UQ0bhTrhoSyJiNTSvF3rHVbU5Gn15cF5eMSGPl18R4W3O9THn9eEFS/s1600/Screenshot+2018-12-20+at+10.30.28+AM.png)
 
   
 
@@ -185,7 +185,7 @@ Two powerful brightening ingredients. It contains 8% Ascorbic Acid but stable fo
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6s2VKt1OF2RCIfWid2oFAq0DhYC3KVBUeGCFxXORt3kfVQWV7j1MvDJMTxPbzavKesbwQzFRsMor9A7ia8f1F50Tjv6jco4pUdG71Jm-CI0Pv9usqAY3hmqwGXCqPxKusRSTHncnxFpY/s1600/Screenshot+2018-12-20+at+10.31.29+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6s2VKt1OF2RCIfWid2oFAq0DhYC3KVBUeGCFxXORt3kfVQWV7j1MvDJMTxPbzavKesbwQzFRsMor9A7ia8f1F50Tjv6jco4pUdG71Jm-CI0Pv9usqAY3hmqwGXCqPxKusRSTHncnxFpY/s1600/Screenshot+2018-12-20+at+10.31.29+AM.png)
 
   
 
@@ -197,7 +197,7 @@ Two powerful brightening ingredients. It contains 8% Ascorbic Acid but stable fo
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSlBuDd0my7gTbLAuZ9SVotk3221hB4BOCiIEV1O8WfptoCe3U4amQ1tXghjDLDR5e8zqO8TsJX0L9qFm-J8tl-z2qhXFCNlI2o00eJcAoIlF7oml8QobqDQ2NW4mBweAjxuUGO4TFdgng/s1600/Screenshot+2018-12-20+at+10.31.49+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSlBuDd0my7gTbLAuZ9SVotk3221hB4BOCiIEV1O8WfptoCe3U4amQ1tXghjDLDR5e8zqO8TsJX0L9qFm-J8tl-z2qhXFCNlI2o00eJcAoIlF7oml8QobqDQ2NW4mBweAjxuUGO4TFdgng/s1600/Screenshot+2018-12-20+at+10.31.49+AM.png)
 
   
 

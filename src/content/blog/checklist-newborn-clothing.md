@@ -3,7 +3,7 @@ title: "Checklist: Newborn Clothing"
 date: "2017-08-01"
 category: Motherhood
 excerpt: "Checklist: Newborn Clothing"
-image: "https://web.archive.org/web/20250320142103im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpvSJeirLMG29LNe0iospvqrHme4B6h7AA050rqT1H82SSfkQV5IKbxbEBMq9TYqyWN1ms01znW5uRTbvf5Zc7ODZHZQgpnugs9UQFHryAHXHOasR3sK2ewaE6e5vSHCjhYNIqxnQ3xO8/s640/Screen+Shot+2017-08-15+at+10.06.36+AM.png"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpvSJeirLMG29LNe0iospvqrHme4B6h7AA050rqT1H82SSfkQV5IKbxbEBMq9TYqyWN1ms01znW5uRTbvf5Zc7ODZHZQgpnugs9UQFHryAHXHOasR3sK2ewaE6e5vSHCjhYNIqxnQ3xO8/s640/Screen+Shot+2017-08-15+at+10.06.36+AM.png"
 readTime: "3 min read"
 draft: false
 ---
@@ -13,7 +13,7 @@ This is my clothing list that I bought for my newborn baby. Tak ikut pun list ya
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpvSJeirLMG29LNe0iospvqrHme4B6h7AA050rqT1H82SSfkQV5IKbxbEBMq9TYqyWN1ms01znW5uRTbvf5Zc7ODZHZQgpnugs9UQFHryAHXHOasR3sK2ewaE6e5vSHCjhYNIqxnQ3xO8/s1600/Screen+Shot+2017-08-15+at+10.06.36+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpvSJeirLMG29LNe0iospvqrHme4B6h7AA050rqT1H82SSfkQV5IKbxbEBMq9TYqyWN1ms01znW5uRTbvf5Zc7ODZHZQgpnugs9UQFHryAHXHOasR3sK2ewaE6e5vSHCjhYNIqxnQ3xO8/s1600/Screen+Shot+2017-08-15+at+10.06.36+AM.png)
 
   
 
@@ -45,7 +45,7 @@ This is my clothing list that I bought for my newborn baby. Tak ikut pun list ya
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix_-NRg-29S2i25uep541zRqfK2XRH3jyCHdV0HzMsC7GWUGwqsvubjW1m_OntL7ZPrSAlEqxYuiLGCKmTB7N_uSqMN_dxSxbTKnlIEZ-C2x4uQjhSlgl5rkTPkm0-CZ-NQT9TpBmF6zU/s1600/Screen+Shot+2017-08-15+at+10.16.48+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix_-NRg-29S2i25uep541zRqfK2XRH3jyCHdV0HzMsC7GWUGwqsvubjW1m_OntL7ZPrSAlEqxYuiLGCKmTB7N_uSqMN_dxSxbTKnlIEZ-C2x4uQjhSlgl5rkTPkm0-CZ-NQT9TpBmF6zU/s1600/Screen+Shot+2017-08-15+at+10.16.48+AM.png)
 
   
   
@@ -105,7 +105,7 @@ As for Maysaa, banyak kutip her cousin's, Nuhaa punya baju. Banyak baju pinjam j
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUrGq_iTlO4hnRqxqt_F8maBVobzmLkziGIJfa-ce5gVzw4OYOySCEUN2vltXVAAg6MCk0yPmzrhFAFXi7hPGKrGf-i1dQdY1EfSGdYVmEAhGHbmGhpuWb4dg_QstZypFciV750ysLghY/s1600/Screen+Shot+2017-08-15+at+10.15.00+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUrGq_iTlO4hnRqxqt_F8maBVobzmLkziGIJfa-ce5gVzw4OYOySCEUN2vltXVAAg6MCk0yPmzrhFAFXi7hPGKrGf-i1dQdY1EfSGdYVmEAhGHbmGhpuWb4dg_QstZypFciV750ysLghY/s1600/Screen+Shot+2017-08-15+at+10.15.00+AM.png)
 
   
 You can also read: [CHECKLIST: NEWBORN GROOMING / TOILETRIES STUFF](http://imanabdulrahim.blogspot.my/2017/05/checklist-newborn-grooming-toiletries.html)  

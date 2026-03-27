@@ -19,7 +19,8 @@
       "Bash(curl -sI \"https://imanabdulrahim.com/oauth?provider=github\")",
       "Bash(node scrape.mjs)",
       "Bash(curl -sL \"https://www.imanabdulrahim.com/2018/11/5-cafes-in-korea-that-i-visited.html\")",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(grep -v ':0$')"
     ]
   }
 }

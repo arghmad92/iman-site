@@ -3,7 +3,7 @@ title: "Missha First Treatment Essence"
 date: "2017-09-01"
 category: Skincare
 excerpt: "Missha First Treatment Essence"
-image: "https://web.archive.org/web/20241205030420im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlsZ2rFlpK0EAF2TChdyNQ5Bb2IGkt59xJD9MuEmDxsWggWFpMupbiDSpV-csi2Br6_FpqcXwUqkfJF_NRsilgXAT6DdpCdK510eSPRZevNSqIzDFv4q-F21PEil0ZGshk34_5wVkdiyE/s640/Photo+25-09-2017%252C+1+06+13+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlsZ2rFlpK0EAF2TChdyNQ5Bb2IGkt59xJD9MuEmDxsWggWFpMupbiDSpV-csi2Br6_FpqcXwUqkfJF_NRsilgXAT6DdpCdK510eSPRZevNSqIzDFv4q-F21PEil0ZGshk34_5wVkdiyE/s640/Photo+25-09-2017%252C+1+06+13+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -16,7 +16,7 @@ This essence is one of my skincare wishlist last year. It has soooooo many great
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlsZ2rFlpK0EAF2TChdyNQ5Bb2IGkt59xJD9MuEmDxsWggWFpMupbiDSpV-csi2Br6_FpqcXwUqkfJF_NRsilgXAT6DdpCdK510eSPRZevNSqIzDFv4q-F21PEil0ZGshk34_5wVkdiyE/s1600/Photo+25-09-2017%252C+1+06+13+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlsZ2rFlpK0EAF2TChdyNQ5Bb2IGkt59xJD9MuEmDxsWggWFpMupbiDSpV-csi2Br6_FpqcXwUqkfJF_NRsilgXAT6DdpCdK510eSPRZevNSqIzDFv4q-F21PEil0ZGshk34_5wVkdiyE/s1600/Photo+25-09-2017%252C+1+06+13+PM.jpg)
 
   
 
@@ -79,7 +79,7 @@ Suitable for:
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNy0ScStbwBU-WPVo2DE3-wdY7E_fqomEvAA-hMwX4QNJ-DRMRGOIqeI0v38rvj-XcxurqpNcLb8IVpjJrSYcFOH0ylmMSBEV0S0JJhmq_scoIFQEj4sFzFGslI-NmfqUP5EthtVYVdE0/s1600/Photo+25-09-2017%252C+1+05+30+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNy0ScStbwBU-WPVo2DE3-wdY7E_fqomEvAA-hMwX4QNJ-DRMRGOIqeI0v38rvj-XcxurqpNcLb8IVpjJrSYcFOH0ylmMSBEV0S0JJhmq_scoIFQEj4sFzFGslI-NmfqUP5EthtVYVdE0/s1600/Photo+25-09-2017%252C+1+05+30+PM.jpg)
 
 ### **Missha The First Treatment Essence Intensive Moist Ingredient**
 
@@ -119,7 +119,7 @@ OMG banyak gila ingredient yang best dekat dalam ni, tak ada ingredient yang pel
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisyND0HKGU40srPpPYqbAxB3C7HcEFK2OLajKNDr9z8IvWPjFrdAp0viM0Z2xjvkEQ23dJTRS5lioRatE051LRw98tKb7Gns-FGds7OjXgw1x8qaleMYU36X7C9Vx6OFTcAhQFhqAFWh0/s1600/Photo+25-09-2017%252C+1+05+23+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisyND0HKGU40srPpPYqbAxB3C7HcEFK2OLajKNDr9z8IvWPjFrdAp0viM0Z2xjvkEQ23dJTRS5lioRatE051LRw98tKb7Gns-FGds7OjXgw1x8qaleMYU36X7C9Vx6OFTcAhQFhqAFWh0/s1600/Photo+25-09-2017%252C+1+05+23+PM.jpg)
 
   
 
@@ -134,7 +134,7 @@ Almost like water, very thin and runny.
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAC2XyLHDjQyesllIW29tkJsEPLrBHQvUmssoJYTwINgJjI_Yjww2mCQAaHkkzWryb8BSuMaKnXjEZyqQ98rstwgJ8jZ1m2EhomDWuZklwO_q99EXLo_o71T_bHVyc8BTyyaSOs4M5WjM/s1600/Photo+25-09-2017%252C+1+16+45+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAC2XyLHDjQyesllIW29tkJsEPLrBHQvUmssoJYTwINgJjI_Yjww2mCQAaHkkzWryb8BSuMaKnXjEZyqQ98rstwgJ8jZ1m2EhomDWuZklwO_q99EXLo_o71T_bHVyc8BTyyaSOs4M5WjM/s1600/Photo+25-09-2017%252C+1+16+45+PM.jpg)
 
   
 

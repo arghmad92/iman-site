@@ -3,14 +3,14 @@ title: "Holika Holika Good Cera Super Ceramide Cream Review"
 date: "2019-08-01"
 category: Skincare
 excerpt: "Holika Holika Good Cera Super Ceramide Cream Review"
-image: "https://web.archive.org/web/20241205041834im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnClQ0ApOXJswxKJ07yo4LUfzWLfubDzDpfSLQlMKg2hKDvuaJm6JfuIrXwh4o6vPRLg6Tc-1ox2xjPRN7y4ff68pTvCXWaEjDdEmlEHqIIDIBSp2SPiyo_DXmEnro3zyHl2-nwW2RIm9L/s640/6FBADF29-BA98-4F8D-940E-16C8E749F01D.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnClQ0ApOXJswxKJ07yo4LUfzWLfubDzDpfSLQlMKg2hKDvuaJm6JfuIrXwh4o6vPRLg6Tc-1ox2xjPRN7y4ff68pTvCXWaEjDdEmlEHqIIDIBSp2SPiyo_DXmEnro3zyHl2-nwW2RIm9L/s640/6FBADF29-BA98-4F8D-940E-16C8E749F01D.jpg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnClQ0ApOXJswxKJ07yo4LUfzWLfubDzDpfSLQlMKg2hKDvuaJm6JfuIrXwh4o6vPRLg6Tc-1ox2xjPRN7y4ff68pTvCXWaEjDdEmlEHqIIDIBSp2SPiyo_DXmEnro3zyHl2-nwW2RIm9L/s1600/6FBADF29-BA98-4F8D-940E-16C8E749F01D.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnClQ0ApOXJswxKJ07yo4LUfzWLfubDzDpfSLQlMKg2hKDvuaJm6JfuIrXwh4o6vPRLg6Tc-1ox2xjPRN7y4ff68pTvCXWaEjDdEmlEHqIIDIBSp2SPiyo_DXmEnro3zyHl2-nwW2RIm9L/s1600/6FBADF29-BA98-4F8D-940E-16C8E749F01D.jpg)
 
 Holika Holika Good Cera Super Ceramide Cream Review
 
@@ -41,7 +41,7 @@ Water, Butylene Glycol, Glycerin, Cyclopentasiloxane, Butylene Glycol Dicaprylat
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8X6sT-BfEbssuvJ2eXDA0__PFh4ZBicoY3sCx7LTRSUKT9NHeso1uPDhCHRJncKno6DJRgpSTRLahlGGMNv8uI4ZQKnjkfaPHtlhWfKLU9Rl3hOaFQ55OozEPq_6ri9YDudlMHPkHsG88/s1600/DA9921E2-6DD7-4B14-ADA2-F5C9FFD28FB6.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8X6sT-BfEbssuvJ2eXDA0__PFh4ZBicoY3sCx7LTRSUKT9NHeso1uPDhCHRJncKno6DJRgpSTRLahlGGMNv8uI4ZQKnjkfaPHtlhWfKLU9Rl3hOaFQ55OozEPq_6ri9YDudlMHPkHsG88/s1600/DA9921E2-6DD7-4B14-ADA2-F5C9FFD28FB6.jpg)
 
   
 
@@ -55,7 +55,7 @@ It comes in a 60ml glass jar packaging. I don't really prefer this kind of packa
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh128ziANx4YRL1c8yP6n8d0G5jNTf5lMvoyZA85-OIjriqXyZuoFR1SFFqpkHoELnog49TXF-IY0KcT2vdxlAAA8Knf7Y9cdP7uKPlD246z4fSMnIYNUTXKuNSOe9Gm9SIgnsuSPhsSQFD/s1600/8E188AA7-29C3-4010-9C3E-0256A487FCFF.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh128ziANx4YRL1c8yP6n8d0G5jNTf5lMvoyZA85-OIjriqXyZuoFR1SFFqpkHoELnog49TXF-IY0KcT2vdxlAAA8Knf7Y9cdP7uKPlD246z4fSMnIYNUTXKuNSOe9Gm9SIgnsuSPhsSQFD/s1600/8E188AA7-29C3-4010-9C3E-0256A487FCFF.jpg)
 
   
 

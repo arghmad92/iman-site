@@ -3,7 +3,7 @@ title: "Pixi Glow Tonic Review"
 date: "2017-12-01"
 category: Skincare
 excerpt: "Pixi Glow Tonic Review"
-image: "https://web.archive.org/web/20250211045909im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTHFWT6yboL1xMg2vKRtowacL896u0IlLrVnWaVeHn8dK96dsUajX2pWbw_EO-7IEmK_gbXNwdEhsXskPWT4DU-73sRhiSIELM15motbNi76yTl9nfE5_WyecYXskLxnZPs3u5sPL9-TKn/s640/Photo+20-12-2017%252C+10+51+01+AM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTHFWT6yboL1xMg2vKRtowacL896u0IlLrVnWaVeHn8dK96dsUajX2pWbw_EO-7IEmK_gbXNwdEhsXskPWT4DU-73sRhiSIELM15motbNi76yTl9nfE5_WyecYXskLxnZPs3u5sPL9-TKn/s640/Photo+20-12-2017%252C+10+51+01+AM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -12,7 +12,7 @@ Pixi Glow Tonic is also one of my wishlist (Haha I have so many skincare wishlis
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTHFWT6yboL1xMg2vKRtowacL896u0IlLrVnWaVeHn8dK96dsUajX2pWbw_EO-7IEmK_gbXNwdEhsXskPWT4DU-73sRhiSIELM15motbNi76yTl9nfE5_WyecYXskLxnZPs3u5sPL9-TKn/s1600/Photo+20-12-2017%252C+10+51+01+AM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTHFWT6yboL1xMg2vKRtowacL896u0IlLrVnWaVeHn8dK96dsUajX2pWbw_EO-7IEmK_gbXNwdEhsXskPWT4DU-73sRhiSIELM15motbNi76yTl9nfE5_WyecYXskLxnZPs3u5sPL9-TKn/s1600/Photo+20-12-2017%252C+10+51+01+AM.jpg)  
   
   
   
@@ -76,7 +76,7 @@ I use this 2x per day. Normally my routine:
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFt1ByVKZ9EFvMX0Ldou1TAa1wJoX0YS3aDBAQ6ipRkPsA33l78aPbzckenDDKwj_UXlG1lHuAPiFJ2pw4Co0QjYCJwTksvZUSDhLLiTYU7kn9ItgQZHYtubMRt3EKNsPCWpwWi6DV0-Q7/s1600/Photo+20-12-2017%252C+10+51+45+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFt1ByVKZ9EFvMX0Ldou1TAa1wJoX0YS3aDBAQ6ipRkPsA33l78aPbzckenDDKwj_UXlG1lHuAPiFJ2pw4Co0QjYCJwTksvZUSDhLLiTYU7kn9ItgQZHYtubMRt3EKNsPCWpwWi6DV0-Q7/s1600/Photo+20-12-2017%252C+10+51+45+AM.jpg)
 
   
 
@@ -86,7 +86,7 @@ In a 100mL pale-orange transparent plastic bottle with a mint green cap. I love 
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEJsrYrgO1eL41PVc30sQjXNxlsRBRm4uO96C1sIfWmc39RoIw-u72WgjDJGffuebTOJDG9bUnpUb8IvRkLCNIXt-T4Jx6RhbiUtEtsrhK5bGVYgmK7ebhhmZSrML3-tQ0vetQVF6uWkrd/s1600/Photo+20-12-2017%252C+10+51+28+AM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEJsrYrgO1eL41PVc30sQjXNxlsRBRm4uO96C1sIfWmc39RoIw-u72WgjDJGffuebTOJDG9bUnpUb8IvRkLCNIXt-T4Jx6RhbiUtEtsrhK5bGVYgmK7ebhhmZSrML3-tQ0vetQVF6uWkrd/s1600/Photo+20-12-2017%252C+10+51+28+AM.jpg)  
 
   
 

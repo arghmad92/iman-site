@@ -3,7 +3,7 @@ title: "Althea Bare Essentials Review"
 date: "2018-04-01"
 category: Skincare
 excerpt: "Althea Bare Essentials Review"
-image: "https://web.archive.org/web/20250320151459im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6TztLcNgmcs4o19uwZ3_Rmv8V68hhyphenhyphen967Iotjq2wpV5g4_qr0Ue-IXi2sE3bqGdy2FTzV2_SkEMa9-C0vlRF5DCR5XVjimtPhieMsBPnP2D7IzCSWdlz8ZVv2U0jENXwr5euiE4qn0EI4/s640/Photo+27-04-2018%252C+8+54+02+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6TztLcNgmcs4o19uwZ3_Rmv8V68hhyphenhyphen967Iotjq2wpV5g4_qr0Ue-IXi2sE3bqGdy2FTzV2_SkEMa9-C0vlRF5DCR5XVjimtPhieMsBPnP2D7IzCSWdlz8ZVv2U0jENXwr5euiE4qn0EI4/s640/Photo+27-04-2018%252C+8+54+02+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ Althea is always one of my fav online shop to shop for Korean products. I was so
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6TztLcNgmcs4o19uwZ3_Rmv8V68hhyphenhyphen967Iotjq2wpV5g4_qr0Ue-IXi2sE3bqGdy2FTzV2_SkEMa9-C0vlRF5DCR5XVjimtPhieMsBPnP2D7IzCSWdlz8ZVv2U0jENXwr5euiE4qn0EI4/s1600/Photo+27-04-2018%252C+8+54+02+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6TztLcNgmcs4o19uwZ3_Rmv8V68hhyphenhyphen967Iotjq2wpV5g4_qr0Ue-IXi2sE3bqGdy2FTzV2_SkEMa9-C0vlRF5DCR5XVjimtPhieMsBPnP2D7IzCSWdlz8ZVv2U0jENXwr5euiE4qn0EI4/s1600/Photo+27-04-2018%252C+8+54+02+PM.jpg)
 
 Just look how pretty the packaging is <3
 
@@ -31,7 +31,7 @@ I was happy to see the packaging. so minimal, so pretty. I even tweeted about it
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQKv_y74ZArQd7wVY3h8l7r4YOMhLXwQuARO5f4vA513PrlC97go7gAsNjsO9nAol79V3clwXxTufiqas3zu75zJ2RJzCjlDHW5MgFrvQAO_JfOy-hQ7h4mc56ItSqDrTZLETYR5y8NA4N/s1600/Screen+Shot+2018-04-28+at+1.42.26+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQKv_y74ZArQd7wVY3h8l7r4YOMhLXwQuARO5f4vA513PrlC97go7gAsNjsO9nAol79V3clwXxTufiqas3zu75zJ2RJzCjlDHW5MgFrvQAO_JfOy-hQ7h4mc56ItSqDrTZLETYR5y8NA4N/s1600/Screen+Shot+2018-04-28+at+1.42.26+AM.png)
 
 Previously, Althea already launched the Petal Velvet Powder, a mattifying, translucent powder that sets makeup and leaves behind a silky satin finish.  I've reviewed about it here: [Althea Petal Velvet Powder Review](https://imanabdulrahim.blogspot.my/2017/08/althea-petal-velvet-powder-review.html)
 
@@ -53,7 +53,7 @@ The new Althea skincare line focuses on three skincare fundamentals steps which 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk8iUmoHu7zB7Zbr7QR1ihteGpC0f8ry0-hMm15MvdrDnJaaaoTMGmP09yJfCVBl-defktMcoYtUtfhNrWvrRiLHzIPgxSSTdCfvt-fSRfMcsXq7onpNLlwhXFRiQG1knsCAbjuZeaGwDK/s1600/Photo+27-04-2018%252C+8+54+20+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk8iUmoHu7zB7Zbr7QR1ihteGpC0f8ry0-hMm15MvdrDnJaaaoTMGmP09yJfCVBl-defktMcoYtUtfhNrWvrRiLHzIPgxSSTdCfvt-fSRfMcsXq7onpNLlwhXFRiQG1knsCAbjuZeaGwDK/s1600/Photo+27-04-2018%252C+8+54+20+PM.jpg)
 
   
 
@@ -75,13 +75,13 @@ Glycerin,Water,Myristic Acid,Stearic Acid,Potassium Hydroxide,Palmitic Acid,Laur
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4IHPKsZ-GslJLIt0-JQGyT9s__5R4U2TplVOuct4JFeoUhh2-yw-pBBofw6gv81hkQF5Zx391158Uaw742C2jb2wDaR0k_9ZuGzV96ObyxmklKI4nwKCqPv6eRCi9b4IsCZa0U7ll3QSV/s1600/Photo+27-04-2018%252C+8+56+27+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4IHPKsZ-GslJLIt0-JQGyT9s__5R4U2TplVOuct4JFeoUhh2-yw-pBBofw6gv81hkQF5Zx391158Uaw742C2jb2wDaR0k_9ZuGzV96ObyxmklKI4nwKCqPv6eRCi9b4IsCZa0U7ll3QSV/s1600/Photo+27-04-2018%252C+8+56+27+PM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiph4bwQFUJN9pjobAEtYt1DUFJdBcm-eS_YCr82c67mf5lHQ2o91-JoMFsYmQ2wjL7glc_99uTTZ829x_L3q1Tms5qpfq-lNVVpy8zhtB5ZmLE2eTgOaDTGePfgqij5CmqXDCjwTqqpD-F/s1600/Photo+27-04-2018%252C+8+56+13+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiph4bwQFUJN9pjobAEtYt1DUFJdBcm-eS_YCr82c67mf5lHQ2o91-JoMFsYmQ2wjL7glc_99uTTZ829x_L3q1Tms5qpfq-lNVVpy8zhtB5ZmLE2eTgOaDTGePfgqij5CmqXDCjwTqqpD-F/s1600/Photo+27-04-2018%252C+8+56+13+PM.jpg)
 
   
 
@@ -93,7 +93,7 @@ It has a refreshing scent and the texture is cream which is good for my dry skin
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1_zB-DikqTh5FNLCZnbo2pVPQZv4c6vtZ3y9am7Xeey9vpbzexqfhVbyl88DpzGcdSl-qGVS5geLvzUCUZuhRpyaOoD10Ogi_ozadnVOsyUP0ejVFhfjMT6Utj6fKVhHE71ujzkOJsBS/s1600/Photo+12-04-2018%252C+11+08+42+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1_zB-DikqTh5FNLCZnbo2pVPQZv4c6vtZ3y9am7Xeey9vpbzexqfhVbyl88DpzGcdSl-qGVS5geLvzUCUZuhRpyaOoD10Ogi_ozadnVOsyUP0ejVFhfjMT6Utj6fKVhHE71ujzkOJsBS/s1600/Photo+12-04-2018%252C+11+08+42+AM.jpg)
 
   
 
@@ -111,13 +111,13 @@ People with not so sensitive skin and love refreshing scent
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcogU9g6A6ZVzftup575O32fM-JfGOl6y6h1YKv0myWF4q2G39JYdk41CG-olbEhXdpxHXzwBLKUeQ11sUV97LOyp5U5p33Rl9cQNPSluX4ao22o1X-X25BdzPRhh9HRlDC6TwaFnBfE3G/s1600/Photo+27-04-2018%252C+8+54+38+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcogU9g6A6ZVzftup575O32fM-JfGOl6y6h1YKv0myWF4q2G39JYdk41CG-olbEhXdpxHXzwBLKUeQ11sUV97LOyp5U5p33Rl9cQNPSluX4ao22o1X-X25BdzPRhh9HRlDC6TwaFnBfE3G/s1600/Photo+27-04-2018%252C+8+54+38+PM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE86AX00UlBy9TW3rLKXPjjAeG_XS4_2MfPegoD9uqOQIM0ljJFIiDkXKmrV8whhg3nXXn6lw12DD2jMAfihwBgM2Qu224c4rLG9I5UdpOHeFi2A3aZYjPU9pINZjYDQdZm-b_Ebp-tACL/s1600/Photo+27-04-2018%252C+8+56+55+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE86AX00UlBy9TW3rLKXPjjAeG_XS4_2MfPegoD9uqOQIM0ljJFIiDkXKmrV8whhg3nXXn6lw12DD2jMAfihwBgM2Qu224c4rLG9I5UdpOHeFi2A3aZYjPU9pINZjYDQdZm-b_Ebp-tACL/s1600/Photo+27-04-2018%252C+8+56+55+PM.jpg)
 
   
 
@@ -139,13 +139,13 @@ Water,Propanediol,Diphenylsiloxy Phenyl Trimethicone,Alcohol,1,2-Hexanediol,Salv
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig6u24nuPOnyBoNt-AX7zYrUmkLIaQXLy-fw8odXdi6o0-I3Y6RezbE41QAKS7eqlh5JTheF6T4YTZ174AJ9iUHc3ceEDs0qAdDLitOOC8pNovvnGWhKC0aEluOtMjcF4YzGZrJ8ME_mdR/s1600/Photo+27-04-2018%252C+8+57+13+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig6u24nuPOnyBoNt-AX7zYrUmkLIaQXLy-fw8odXdi6o0-I3Y6RezbE41QAKS7eqlh5JTheF6T4YTZ174AJ9iUHc3ceEDs0qAdDLitOOC8pNovvnGWhKC0aEluOtMjcF4YzGZrJ8ME_mdR/s1600/Photo+27-04-2018%252C+8+57+13+PM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggk_SO4hUq4dtjFSX3XB0A3GoM3KK09h0ueWG0KMe_JeQ1SygEgmOw2nb6NEvkNbP73F6FU7PQ093WuPHhdVQnGAWgIFRiVocFXGtlfuGYJnWOROlO31qdPJBroVkd9fTCXKsdKsrlXJaS/s1600/Photo+27-04-2018%252C+8+57+27+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggk_SO4hUq4dtjFSX3XB0A3GoM3KK09h0ueWG0KMe_JeQ1SygEgmOw2nb6NEvkNbP73F6FU7PQ093WuPHhdVQnGAWgIFRiVocFXGtlfuGYJnWOROlO31qdPJBroVkd9fTCXKsdKsrlXJaS/s1600/Photo+27-04-2018%252C+8+57+27+PM.jpg)
 
   
 
@@ -161,7 +161,7 @@ However, I do notice that alcohol is the forth ingredient on the list. Surprisin
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLt4vXk063Y9rIt_lYLLgSv-D2XxOxf1lcEOu49On438ow78i631b1ldiKqLGMpWGOmkWD3U19PiTiBnMII0tpdJb0wzFK9DSwwwfL1MCEWHWzADQOwNVAgBImRFlUDcfiyufR6RR-Xuc5/s1600/Photo+12-04-2018%252C+11+10+15+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLt4vXk063Y9rIt_lYLLgSv-D2XxOxf1lcEOu49On438ow78i631b1ldiKqLGMpWGOmkWD3U19PiTiBnMII0tpdJb0wzFK9DSwwwfL1MCEWHWzADQOwNVAgBImRFlUDcfiyufR6RR-Xuc5/s1600/Photo+12-04-2018%252C+11+10+15+AM.jpg)
 
   
 
@@ -181,7 +181,7 @@ No matter what your skin type is, you will love this priming water!
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinGeaOqiK10-DGMu9WQmDX2KAAQbVwz37_EpBmpINcx-Jwm2K4wnUpEin8nKkG8xcZRTPQHVRPc5uCUSOKtpwN3Meigbx2rJ0D3UaRjwPiIr-qHsksz6STvKSK-lJgDLpgIZhNCn9btKSI/s1600/Photo+27-04-2018%252C+8+54+44+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinGeaOqiK10-DGMu9WQmDX2KAAQbVwz37_EpBmpINcx-Jwm2K4wnUpEin8nKkG8xcZRTPQHVRPc5uCUSOKtpwN3Meigbx2rJ0D3UaRjwPiIr-qHsksz6STvKSK-lJgDLpgIZhNCn9btKSI/s1600/Photo+27-04-2018%252C+8+54+44+PM.jpg)
 
   
 
@@ -207,13 +207,13 @@ Water,Glycerin,Methylpropanediol,Dimethicone,Olea Europaea (Olive) Fruit Oil,Hyd
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0fkZEZH2AitBrfz76XVBtkDKyx_nlIFxZz40nl8yChvsRVQKur_iy-EMSpPpFm7QxlrgOpufNwkHOqhNFRJfNx-1lulTgzdiZcNOt_oggTVxzPsjEltC57NQE0Q-RulUrn3vZcHbbi89/s1600/Photo+27-04-2018%252C+8+58+47+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0fkZEZH2AitBrfz76XVBtkDKyx_nlIFxZz40nl8yChvsRVQKur_iy-EMSpPpFm7QxlrgOpufNwkHOqhNFRJfNx-1lulTgzdiZcNOt_oggTVxzPsjEltC57NQE0Q-RulUrn3vZcHbbi89/s1600/Photo+27-04-2018%252C+8+58+47+PM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM-XRxsmsksQwIg1e_CvE4bOovcEXmaw4vHB4JD5PeofmiwGUj1zbdU0DDU5gaD_Z4fkX6Er7FcBw-mjPJJiuGS6Nv5pFsb00OjG0-KTjd-9JVitv8pej2L3B9qLgJOSG_YTDAu99Jx3Rx/s1600/Photo+27-04-2018%252C+8+59+11+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM-XRxsmsksQwIg1e_CvE4bOovcEXmaw4vHB4JD5PeofmiwGUj1zbdU0DDU5gaD_Z4fkX6Er7FcBw-mjPJJiuGS6Nv5pFsb00OjG0-KTjd-9JVitv8pej2L3B9qLgJOSG_YTDAu99Jx3Rx/s1600/Photo+27-04-2018%252C+8+59+11+PM.jpg)
 
   
 

@@ -3,7 +3,7 @@ title: "Catrice Camouflage Concealer"
 date: "2017-09-01"
 category: Beauty
 excerpt: "Catrice Camouflage Concealer"
-image: "https://web.archive.org/web/20250211050033im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMbQm8EqTC46EzsZsTsMFFiUC5_kDLRIUvCteTrio6yqP5XKh98wEs8aLLNF6Vs0Lxp0lz_YEFYmBsSSa18M4vx3DEVFCwmuQNvzddMtu5QxfaakTekByZMSjnCs69TKOhMTEoy4FWZS4/s640/Photo+15-09-2017%252C+9+17+22+AM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMbQm8EqTC46EzsZsTsMFFiUC5_kDLRIUvCteTrio6yqP5XKh98wEs8aLLNF6Vs0Lxp0lz_YEFYmBsSSa18M4vx3DEVFCwmuQNvzddMtu5QxfaakTekByZMSjnCs69TKOhMTEoy4FWZS4/s640/Photo+15-09-2017%252C+9+17+22+AM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ New concealer review! It's Catrice Liquid Camouflage High Coverage Concealer re
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMbQm8EqTC46EzsZsTsMFFiUC5_kDLRIUvCteTrio6yqP5XKh98wEs8aLLNF6Vs0Lxp0lz_YEFYmBsSSa18M4vx3DEVFCwmuQNvzddMtu5QxfaakTekByZMSjnCs69TKOhMTEoy4FWZS4/s1600/Photo+15-09-2017%252C+9+17+22+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMbQm8EqTC46EzsZsTsMFFiUC5_kDLRIUvCteTrio6yqP5XKh98wEs8aLLNF6Vs0Lxp0lz_YEFYmBsSSa18M4vx3DEVFCwmuQNvzddMtu5QxfaakTekByZMSjnCs69TKOhMTEoy4FWZS4/s1600/Photo+15-09-2017%252C+9+17+22+AM.jpg)
 
   
 
@@ -47,7 +47,7 @@ Dark circles, irregularities and redness are now a thing of the past – the Liq
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitf3QAVdXV4VFrs6tNqXHTWxFTO-DzSDWATJ-veN4DH445YpZrL6jD5mmW2altS6jYrQIpHODTKTCCrKM-Mg2LCo2itSuhLuDE5BW-4qA-74OzWt6U-AfidAK3okJYSVJ2by9mrhyphenhyphenNBDI/s1600/Photo+15-09-2017%252C+9+17+37+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitf3QAVdXV4VFrs6tNqXHTWxFTO-DzSDWATJ-veN4DH445YpZrL6jD5mmW2altS6jYrQIpHODTKTCCrKM-Mg2LCo2itSuhLuDE5BW-4qA-74OzWt6U-AfidAK3okJYSVJ2by9mrhyphenhyphenNBDI/s1600/Photo+15-09-2017%252C+9+17+37+AM.jpg)
 
   
 
@@ -65,13 +65,13 @@ There are three shades available, 005 Light Natural, 010 Porcelain, and 020 Ligh
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7aWDdeTXDkkgzqaleFxDTdSXnJxhRSJ1JwnxFojB40WisZtLdYwNY2hnwCozK1oiuhsdS8Hc8PU0TjhQ7vI3EdxKesBA6mZqiDfa29hSmxatAyIzV4HVm9ucp2tfFEj_zO1v6vbwEvz0/s1600/Photo+15-09-2017%252C+9+48+17+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7aWDdeTXDkkgzqaleFxDTdSXnJxhRSJ1JwnxFojB40WisZtLdYwNY2hnwCozK1oiuhsdS8Hc8PU0TjhQ7vI3EdxKesBA6mZqiDfa29hSmxatAyIzV4HVm9ucp2tfFEj_zO1v6vbwEvz0/s1600/Photo+15-09-2017%252C+9+48+17+AM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoyr2_shHf8wJFf3E_Q70pKsb79N83B0wSl2tIQZ57EQTB7Uy6iLleNmZpkb1B-NBl0-7XgY_2cyaSZ50jkCn267wwymesQjIym_L9Mpa4lLesSo5GmmjMDFDrtcxFPD0Zf340hHFcKuY/s1600/Photo+15-09-2017%252C+9+48+17+AM+%25281%2529.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoyr2_shHf8wJFf3E_Q70pKsb79N83B0wSl2tIQZ57EQTB7Uy6iLleNmZpkb1B-NBl0-7XgY_2cyaSZ50jkCn267wwymesQjIym_L9Mpa4lLesSo5GmmjMDFDrtcxFPD0Zf340hHFcKuY/s1600/Photo+15-09-2017%252C+9+48+17+AM+%25281%2529.jpg)
 
 From left, 005 Light Natural, 010 Porcelain, and 020 Light Beige
 
@@ -97,7 +97,7 @@ I love the packaging, just like a normal liquid concealer which is in a transpar
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2tK7WwxQ7eESv13HFyzPekWK58AYSgONNk4buqtpJNlmulfcyg0KDTBi3Ti49Te5aYI2YGAomdssOGJ9m8G1NBfzpTqGbCRgBWivvMD2PVN2mM2LAJ0TuD52xKjrCiKMW6LEQ1VoUaA8/s1600/Photo+15-09-2017%252C+9+12+44+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2tK7WwxQ7eESv13HFyzPekWK58AYSgONNk4buqtpJNlmulfcyg0KDTBi3Ti49Te5aYI2YGAomdssOGJ9m8G1NBfzpTqGbCRgBWivvMD2PVN2mM2LAJ0TuD52xKjrCiKMW6LEQ1VoUaA8/s1600/Photo+15-09-2017%252C+9+12+44+AM.jpg)
 
 I'm using the concealer under my eyes, with no foundation. Terus tak nampak my dark circles. Kalau tak, hmmmm. Faham faham je lah. 
 

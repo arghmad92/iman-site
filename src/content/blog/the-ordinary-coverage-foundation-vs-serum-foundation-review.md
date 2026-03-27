@@ -3,7 +3,7 @@ title: "The Ordinary Coverage Foundation vs Serum Foundation Review"
 date: "2017-12-01"
 category: Beauty
 excerpt: "The Ordinary Coverage Foundation vs Serum Foundation Review"
-image: "https://web.archive.org/web/20241109012030im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5G0IXe3lTl3EpLWEXdepPchJmk5hqnOm3iD-yn66PU55EnxylLYmfn7Z5txXQt6HsPVyumt9J6AQDojeqlZQcTX13JAfL3Zw0ZfHOqKb5kd5nE5cM6kPG_LViimbftKQdU7Wcwq0gHq9Y/s640/Photo+21-12-2017%252C+9+06+36+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5G0IXe3lTl3EpLWEXdepPchJmk5hqnOm3iD-yn66PU55EnxylLYmfn7Z5txXQt6HsPVyumt9J6AQDojeqlZQcTX13JAfL3Zw0ZfHOqKb5kd5nE5cM6kPG_LViimbftKQdU7Wcwq0gHq9Y/s640/Photo+21-12-2017%252C+9+06+36+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ Here is my review.
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5G0IXe3lTl3EpLWEXdepPchJmk5hqnOm3iD-yn66PU55EnxylLYmfn7Z5txXQt6HsPVyumt9J6AQDojeqlZQcTX13JAfL3Zw0ZfHOqKb5kd5nE5cM6kPG_LViimbftKQdU7Wcwq0gHq9Y/s1600/Photo+21-12-2017%252C+9+06+36+PM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5G0IXe3lTl3EpLWEXdepPchJmk5hqnOm3iD-yn66PU55EnxylLYmfn7Z5txXQt6HsPVyumt9J6AQDojeqlZQcTX13JAfL3Zw0ZfHOqKb5kd5nE5cM6kPG_LViimbftKQdU7Wcwq0gHq9Y/s1600/Photo+21-12-2017%252C+9+06+36+PM.jpg)  
   
   
   
@@ -37,7 +37,7 @@ Availability: Any igshop, just search #theordinarymalaysia
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZhYCBy5jDpIutlPqCSAV9KthNJhpocy3-INRrhxtoaXfZzalQ6RepVT75OlAmeGGZn355hFe6eg-UcoGf2kRlhiodNE3TSTqVfLQLVBCzUYmqZob2tmpSvckKfTZMHriG0r_9TAtRdmsO/s1600/Photo+21-12-2017%252C+9+07+27+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZhYCBy5jDpIutlPqCSAV9KthNJhpocy3-INRrhxtoaXfZzalQ6RepVT75OlAmeGGZn355hFe6eg-UcoGf2kRlhiodNE3TSTqVfLQLVBCzUYmqZob2tmpSvckKfTZMHriG0r_9TAtRdmsO/s1600/Photo+21-12-2017%252C+9+07+27+PM.jpg)
 
   
 **What it claims?**  
@@ -69,7 +69,7 @@ Shake before use. Dispense a small amount into the palm or the back of your hand
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAkFkXbkzvsy_KwORuHI3eT-mEtwF44-bkhcDFM7eP0TlUzbLhtJb-nOQN6cTDxkig2xnh2rRRRqzNCjHGll3V6jezfAzf79ERpJLrrMhVchb_NHuX2w8LUqe4LZ39ihnkgNbVhNewth9/s1600/Photo+21-12-2017%252C+9+07+43+PM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAkFkXbkzvsy_KwORuHI3eT-mEtwF44-bkhcDFM7eP0TlUzbLhtJb-nOQN6cTDxkig2xnh2rRRRqzNCjHGll3V6jezfAzf79ERpJLrrMhVchb_NHuX2w8LUqe4LZ39ihnkgNbVhNewth9/s1600/Photo+21-12-2017%252C+9+07+43+PM.jpg)  
   
 **Packaging:**   
 The packaging is really similar for both Serum Foundation and Coverage Foundation. It comes in a 30ml transparent plastic bottle with a black locking pump. The pump has lock feature which is really travel friendly. The bottle does look kind of small to compared with other foundations that I have (Yelah sebab 30ml je kaaaan)  
@@ -85,7 +85,7 @@ The texture is creamy but it is not thick.
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi665Yt1oQdLnGfB6vqjgYs3Y38G-wnxvwq63wz6TMcUqT1UWMU5Jfb9ImGoibVKc5cbvcserUHKOcSvPAPM98SiAxe21ZADRU_WGweFkdvkpOM-XIm2ExJdNZkJ9PX8IRqYIWhzSGgegab/s1600/Screen+Shot+2017-12-22+at+9.10.35+AM.png)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi665Yt1oQdLnGfB6vqjgYs3Y38G-wnxvwq63wz6TMcUqT1UWMU5Jfb9ImGoibVKc5cbvcserUHKOcSvPAPM98SiAxe21ZADRU_WGweFkdvkpOM-XIm2ExJdNZkJ9PX8IRqYIWhzSGgegab/s1600/Screen+Shot+2017-12-22+at+9.10.35+AM.png)  
   
   
 **Coverage/Finish:**  
@@ -106,7 +106,7 @@ As I have mentioned, the texture is quite thin and the coverage is sheer to medi
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPRl_8VId5g58myRwQ094ActmGrwXr3AsdY_fH5mSOGQliF8y7LUtSFpp-MZbsR95xmoAgW8fgwApZbHw9_7IaGjfmKod73K3VQEo1Um_oSarQlboP5Lo9Byxat1YBVe7GBudTe_O5C_N5/s1600/Photo+21-12-2017%252C+9+11+06+PM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPRl_8VId5g58myRwQ094ActmGrwXr3AsdY_fH5mSOGQliF8y7LUtSFpp-MZbsR95xmoAgW8fgwApZbHw9_7IaGjfmKod73K3VQEo1Um_oSarQlboP5Lo9Byxat1YBVe7GBudTe_O5C_N5/s1600/Photo+21-12-2017%252C+9+11+06+PM.jpg)  
   
 For your reference, I have dry skin. It didn't dry out my skin, foundation tak pecah even after 5-6 hours. It can lasts for about 7-8 hours kot. After 9 hours, dah tak hilang dah. I don't feel tight/kering bila pakai this foundation, tak crease on my fine lines, tak cling on my dry patches.  
   
@@ -123,7 +123,7 @@ So the first time I tried, I malas prep properly. So, it settle into my fine lin
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUkeAsADFUffFyP-7EKPJqPjFOZyW_OnpeYiI_5a4rZnp8hUiNI5oCmlGfXMbljyixZdiKarnsmT8wrHMp_GGAzBAJptXvIx9g4vvPRw0AKJIadYtaJ9TqyZ1VQGZ8keQe0CgP8DuNNFRA/s1600/Photo+21-12-2017%252C+9+11+22+PM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUkeAsADFUffFyP-7EKPJqPjFOZyW_OnpeYiI_5a4rZnp8hUiNI5oCmlGfXMbljyixZdiKarnsmT8wrHMp_GGAzBAJptXvIx9g4vvPRw0AKJIadYtaJ9TqyZ1VQGZ8keQe0CgP8DuNNFRA/s1600/Photo+21-12-2017%252C+9+11+22+PM.jpg)  
   
 However, when I prep my skin properly, I moisturize banyak banyak biar kulit memang hydrated, I pakai primer, and then set with my dewy setting spray, it looks good. Even after 9 hours, my skin still looks okay! Tak ada bercapuk teruk sangat, tak rasa drying, and tak crease under my eyes.  
   
@@ -133,7 +133,7 @@ My shade is 1.1N. Both in 1.1N. Just check dekat website findation.com and compa
   
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLef1qDYVymMjTYfKi1sGKBKpxGJJ3cqHpvu5YTR3M67V1abVuDpQaRBdyIG8qTWYPnUJzxU1XjfE82rqV_Tg3s6q_YHaktL9aryQEjWipxD_8q-os57gpns89g242juFUsiCcJoTaw5T7/s1600/Photo+21-12-2017%252C+9+08+36+PM.jpg)  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLef1qDYVymMjTYfKi1sGKBKpxGJJ3cqHpvu5YTR3M67V1abVuDpQaRBdyIG8qTWYPnUJzxU1XjfE82rqV_Tg3s6q_YHaktL9aryQEjWipxD_8q-os57gpns89g242juFUsiCcJoTaw5T7/s1600/Photo+21-12-2017%252C+9+08+36+PM.jpg)  
 
 **  
 Overall**

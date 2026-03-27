@@ -3,7 +3,7 @@ title: "Skincare 101: All about toner"
 date: "2017-09-01"
 category: Skincare
 excerpt: "Skincare 101: All about toner"
-image: "https://web.archive.org/web/20250211061328im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlIZgHDgmn5NRA2jqCYlvaxYQLEkuvwPWK6BvSzuh388WcS-gawB78wHfvhgSSqZet8thSdblvFBEWUdPMGYE4_WyeU6Mm3WCC7RKTkS9EhKe7DMeOGrfKcPrqYZS-TWYz8K4csVOa9Xc/s640/Photo+07-09-2017%252C+6+57+41+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlIZgHDgmn5NRA2jqCYlvaxYQLEkuvwPWK6BvSzuh388WcS-gawB78wHfvhgSSqZet8thSdblvFBEWUdPMGYE4_WyeU6Mm3WCC7RKTkS9EhKe7DMeOGrfKcPrqYZS-TWYz8K4csVOa9Xc/s640/Photo+07-09-2017%252C+6+57+41+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ About toners:
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlIZgHDgmn5NRA2jqCYlvaxYQLEkuvwPWK6BvSzuh388WcS-gawB78wHfvhgSSqZet8thSdblvFBEWUdPMGYE4_WyeU6Mm3WCC7RKTkS9EhKe7DMeOGrfKcPrqYZS-TWYz8K4csVOa9Xc/s1600/Photo+07-09-2017%252C+6+57+41+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlIZgHDgmn5NRA2jqCYlvaxYQLEkuvwPWK6BvSzuh388WcS-gawB78wHfvhgSSqZet8thSdblvFBEWUdPMGYE4_WyeU6Mm3WCC7RKTkS9EhKe7DMeOGrfKcPrqYZS-TWYz8K4csVOa9Xc/s1600/Photo+07-09-2017%252C+6+57+41+PM.jpg)
 
   
 
@@ -74,7 +74,7 @@ I normally use toner, bila perlu. Bila perlu tu, bila?? Bila I rasa kulit macam 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigOgn2MI8YzIV9rZODdgUyi9KFmPyzg1rkK7vPFdyPqkn5yPr2yzoCcX6rRHUM7UjX9VKeRQUBW8ZEGyRUDUTh7VqxtIL4WxNk3YlOLEJ2I_byym-4x2pqrun36hVvIyEOWeyH0Yj8s04/s1600/Screen+Shot+2017-09-07+at+7.09.01+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigOgn2MI8YzIV9rZODdgUyi9KFmPyzg1rkK7vPFdyPqkn5yPr2yzoCcX6rRHUM7UjX9VKeRQUBW8ZEGyRUDUTh7VqxtIL4WxNk3YlOLEJ2I_byym-4x2pqrun36hVvIyEOWeyH0Yj8s04/s1600/Screen+Shot+2017-09-07+at+7.09.01+PM.png)
 
   
 

@@ -3,14 +3,14 @@ title: "Apa nak buat sebelum beli skincare?"
 date: "2020-06-15"
 category: Skincare
 excerpt: "Apa nak buat sebelum beli skincare?"
-image: "https://web.archive.org/web/20250123101435im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE3g4sW0FxO1U0JgEK3MlZkcR8AccUknKX22PHBf5iucAwh8FLEAQQhqiPyNOm98TD-fM9TY3opLQBKjI_oASLNoC_ha0zYMGqEY3IG2ubWToSIANAqkZEyafseSLfSVYXGqdOFteUw_Lp/w640-h640/photo_2020-06-15_18-40-10.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE3g4sW0FxO1U0JgEK3MlZkcR8AccUknKX22PHBf5iucAwh8FLEAQQhqiPyNOm98TD-fM9TY3opLQBKjI_oASLNoC_ha0zYMGqEY3IG2ubWToSIANAqkZEyafseSLfSVYXGqdOFteUw_Lp/w640-h640/photo_2020-06-15_18-40-10.jpg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE3g4sW0FxO1U0JgEK3MlZkcR8AccUknKX22PHBf5iucAwh8FLEAQQhqiPyNOm98TD-fM9TY3opLQBKjI_oASLNoC_ha0zYMGqEY3IG2ubWToSIANAqkZEyafseSLfSVYXGqdOFteUw_Lp/s750/photo_2020-06-15_18-40-10.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE3g4sW0FxO1U0JgEK3MlZkcR8AccUknKX22PHBf5iucAwh8FLEAQQhqiPyNOm98TD-fM9TY3opLQBKjI_oASLNoC_ha0zYMGqEY3IG2ubWToSIANAqkZEyafseSLfSVYXGqdOFteUw_Lp/s750/photo_2020-06-15_18-40-10.jpg)
 
   
 Apa nak buat sebelum beli skincare?

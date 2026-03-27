@@ -3,7 +3,7 @@ title: "Canmake Mermaid Skin Gel UV Review"
 date: "2018-04-01"
 category: Skincare
 excerpt: "Canmake Mermaid Skin Gel UV Review"
-image: "https://web.archive.org/web/20250211050626im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTBiLJVE3sRr4vcnb0-JP8LfbH2F07fiJmJUgSv4UM-Nkd8R3WwZvcFUuKTrAp1k2ADUOzwmM6Mf2Y0gOEClNgUgSLSF119vakxUc6QjjS65jlmqFWIftfemqRTx5rNI7nbE28H3rxMlT/s640/Photo+18-04-2018%252C+12+47+34+AM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTBiLJVE3sRr4vcnb0-JP8LfbH2F07fiJmJUgSv4UM-Nkd8R3WwZvcFUuKTrAp1k2ADUOzwmM6Mf2Y0gOEClNgUgSLSF119vakxUc6QjjS65jlmqFWIftfemqRTx5rNI7nbE28H3rxMlT/s640/Photo+18-04-2018%252C+12+47+34+AM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ Canmake Mermaid Skin Gel UV ni dah lama sangat I nak try! So here is my review.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTBiLJVE3sRr4vcnb0-JP8LfbH2F07fiJmJUgSv4UM-Nkd8R3WwZvcFUuKTrAp1k2ADUOzwmM6Mf2Y0gOEClNgUgSLSF119vakxUc6QjjS65jlmqFWIftfemqRTx5rNI7nbE28H3rxMlT/s1600/Photo+18-04-2018%252C+12+47+34+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTBiLJVE3sRr4vcnb0-JP8LfbH2F07fiJmJUgSv4UM-Nkd8R3WwZvcFUuKTrAp1k2ADUOzwmM6Mf2Y0gOEClNgUgSLSF119vakxUc6QjjS65jlmqFWIftfemqRTx5rNI7nbE28H3rxMlT/s1600/Photo+18-04-2018%252C+12+47+34+AM.jpg)
 
   
   
@@ -29,13 +29,13 @@ I bought this sunscreen during Guardian 50% cosmetic sale. Time tu semua benda c
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihrHHrymohcT1fP1_70mqcMMohNcrp-UYYuYFPBwRPflrBMH9u-JMb6qkxsCKOhOBr-n2SDgakrubtWL1fLK5WWMs9LabtfUZu_Ugr5QwI2OxXxv6wVMUBnIiN_alSBheVWhvj5PQrkb8U/s1600/Screen+Shot+2018-04-18+at+1.43.59+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihrHHrymohcT1fP1_70mqcMMohNcrp-UYYuYFPBwRPflrBMH9u-JMb6qkxsCKOhOBr-n2SDgakrubtWL1fLK5WWMs9LabtfUZu_Ugr5QwI2OxXxv6wVMUBnIiN_alSBheVWhvj5PQrkb8U/s1600/Screen+Shot+2018-04-18+at+1.43.59+AM.png)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfHq8QDO0Q92WegJVrxHhP2JvvwPrn24Jvig77y2f8FVA9lzDtQzlHdwwYMtSXjkcq7RsNK1QFjVVPZ1PiAOUL9cLlRwMrcZKnYQzsUrnatxrfeMj369U-iRkk3flCvYaG7y0_-O_jlpE3/s1600/Screen+Shot+2018-04-18+at+1.44.18+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfHq8QDO0Q92WegJVrxHhP2JvvwPrn24Jvig77y2f8FVA9lzDtQzlHdwwYMtSXjkcq7RsNK1QFjVVPZ1PiAOUL9cLlRwMrcZKnYQzsUrnatxrfeMj369U-iRkk3flCvYaG7y0_-O_jlpE3/s1600/Screen+Shot+2018-04-18+at+1.44.18+AM.png)
 
   
 
@@ -54,13 +54,13 @@ The reason why I nak sangat this sunscreen is because ada BANYAK GILA good revie
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJQdEGbNHjXFUbLpCtvaz7Rnijmr_AsDUa8skjE16FwqhrUqWbrsYi4xPQvk7FdYJrmOeqMJYFA3FUg01urkRxoYEp9C2Qo6HzahUHlXtp5iHulMI9pmKr60s7SFCqKUwklPHFwruV6_BH/s1600/Photo+18-04-2018%252C+12+47+41+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJQdEGbNHjXFUbLpCtvaz7Rnijmr_AsDUa8skjE16FwqhrUqWbrsYi4xPQvk7FdYJrmOeqMJYFA3FUg01urkRxoYEp9C2Qo6HzahUHlXtp5iHulMI9pmKr60s7SFCqKUwklPHFwruV6_BH/s1600/Photo+18-04-2018%252C+12+47+41+AM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdrpE7fcZPGuchS48dVwkAeEpq99iFM_ubWHb1xQuhqPNE9AZLMSWvjqGzPCE9JQ50UFbH8w1UHvNMnauDppZYaqot7TMY_XuHYCBNwTS7_EC2izlZLx5yInxFJZiMvy0YlVn45Ks1M6Ya/s1600/Photo+18-04-2018%252C+12+48+02+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdrpE7fcZPGuchS48dVwkAeEpq99iFM_ubWHb1xQuhqPNE9AZLMSWvjqGzPCE9JQ50UFbH8w1UHvNMnauDppZYaqot7TMY_XuHYCBNwTS7_EC2izlZLx5yInxFJZiMvy0YlVn45Ks1M6Ya/s1600/Photo+18-04-2018%252C+12+48+02+AM.jpg)
 
   
 
@@ -85,13 +85,13 @@ I like the scent. It's almost like coconut, tapi I tak sure lah coconut ke apa, 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Q9RJq5obDpoPINTDoH-5JMDB3uKXBjki0ZGoIPJjH9uhFXquoPs6API-mVpEfxnU0Dgt89aXukoUKHyPxxnNt4jjV4JNUwW4h7MbE-UTxO0qcv3QtKuilHnogCCbgwMEI5D6yhIv4Z_A/s1600/Photo+18-04-2018%252C+12+48+06+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Q9RJq5obDpoPINTDoH-5JMDB3uKXBjki0ZGoIPJjH9uhFXquoPs6API-mVpEfxnU0Dgt89aXukoUKHyPxxnNt4jjV4JNUwW4h7MbE-UTxO0qcv3QtKuilHnogCCbgwMEI5D6yhIv4Z_A/s1600/Photo+18-04-2018%252C+12+48+06+AM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoOPZDQkfRkeSQh_KhtVEu48XTpA3LIMiyLy7EZOYIpyKR6wwzIRGpiJb77E4r4t6jxdwxeu4YlyadhBhuJofcEZzsiSoDXbihUSIpocP9cwagqsUTBkY81tyqcbz-bjwy0vBAOrcJjq09/s1600/Photo+18-04-2018%252C+12+48+20+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoOPZDQkfRkeSQh_KhtVEu48XTpA3LIMiyLy7EZOYIpyKR6wwzIRGpiJb77E4r4t6jxdwxeu4YlyadhBhuJofcEZzsiSoDXbihUSIpocP9cwagqsUTBkY81tyqcbz-bjwy0vBAOrcJjq09/s1600/Photo+18-04-2018%252C+12+48+20+AM.jpg)
 
   
   

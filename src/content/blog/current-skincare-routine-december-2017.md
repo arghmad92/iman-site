@@ -3,7 +3,7 @@ title: "Current skincare routine (December 2017)"
 date: "2017-12-01"
 category: Skincare
 excerpt: "Current skincare routine (December 2017)"
-image: "https://web.archive.org/web/20240912002701im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRw5Ujc-RfAG1mh8jOoc_J0-YjQ7OZR9stMERUjHEsjFb5yRIxZmQB-MS3UFPz2gFMEPgxJnbYXboewQfuEfTQxLbdlCVW7RTDlYb_pd3gVndowNoz0UFvIz6BsNC62j9WB3DC_mQpTNU/s640/Photo+29-12-2017%252C+11+55+56+AM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRw5Ujc-RfAG1mh8jOoc_J0-YjQ7OZR9stMERUjHEsjFb5yRIxZmQB-MS3UFPz2gFMEPgxJnbYXboewQfuEfTQxLbdlCVW7RTDlYb_pd3gVndowNoz0UFvIz6BsNC62j9WB3DC_mQpTNU/s640/Photo+29-12-2017%252C+11+55+56+AM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -18,7 +18,7 @@ I've already did a skincare routine post last August here: [Skincare routine Au
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRw5Ujc-RfAG1mh8jOoc_J0-YjQ7OZR9stMERUjHEsjFb5yRIxZmQB-MS3UFPz2gFMEPgxJnbYXboewQfuEfTQxLbdlCVW7RTDlYb_pd3gVndowNoz0UFvIz6BsNC62j9WB3DC_mQpTNU/s1600/Photo+29-12-2017%252C+11+55+56+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRw5Ujc-RfAG1mh8jOoc_J0-YjQ7OZR9stMERUjHEsjFb5yRIxZmQB-MS3UFPz2gFMEPgxJnbYXboewQfuEfTQxLbdlCVW7RTDlYb_pd3gVndowNoz0UFvIz6BsNC62j9WB3DC_mQpTNU/s1600/Photo+29-12-2017%252C+11+55+56+AM.jpg)
 
  My fav spot <3
 
@@ -31,7 +31,7 @@ I've already did a skincare routine post last August here: [Skincare routine Au
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb-3BbTODoSIYGyg2ahEtojTgFJdu6VyzCKjUaWzoLeBUEDeEZjSRCfbQHRBSd0-59XgqPeBppv9qwLh3_8g4ech93gbJ-ONAfJVB3TNHOT10Orw-0ZOunGxaFuB0Em-yFN8wnB41FFvJF/s1600/Photo+29-12-2017%252C+11+56+14+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb-3BbTODoSIYGyg2ahEtojTgFJdu6VyzCKjUaWzoLeBUEDeEZjSRCfbQHRBSd0-59XgqPeBppv9qwLh3_8g4ech93gbJ-ONAfJVB3TNHOT10Orw-0ZOunGxaFuB0Em-yFN8wnB41FFvJF/s1600/Photo+29-12-2017%252C+11+56+14+AM.jpg)
 
   
 
@@ -57,7 +57,7 @@ Yang lain lain tu add on je.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Ceg-HqUKFi0ZmW2U_ynJmPTKOISloehFJdw-co8mFy72xXYkHKwOgTemm52vyx7tmonNoX7GYPs79EyH4s9lSYxFBuHSFIWMLUg4WbR00wAVBefyRby1dv0QdV0OifGn3uJ-Cn2rKrhS/s1600/Photo+29-12-2017%252C+11+57+56+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Ceg-HqUKFi0ZmW2U_ynJmPTKOISloehFJdw-co8mFy72xXYkHKwOgTemm52vyx7tmonNoX7GYPs79EyH4s9lSYxFBuHSFIWMLUg4WbR00wAVBefyRby1dv0QdV0OifGn3uJ-Cn2rKrhS/s1600/Photo+29-12-2017%252C+11+57+56+AM.jpg)
 
   
 
@@ -81,7 +81,7 @@ Review: [The Ordinary Niacinamide Review](http://imanabdulrahim.blogspot.my/201
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPPBhWJitFgrogo-nOghzEkuCY8tE4trxAhc0e24RQro7d_vuclBfjINnQshatNOQ7LzvvtdvfuvV01BG9a8PhYJIPpcTVrAP8rM4L6WeI53gvhC-ZDmUad4WHRlYl2WFQS6hAba-q_ZZ/s1600/Photo+29-12-2017%252C+12+03+56+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPPBhWJitFgrogo-nOghzEkuCY8tE4trxAhc0e24RQro7d_vuclBfjINnQshatNOQ7LzvvtdvfuvV01BG9a8PhYJIPpcTVrAP8rM4L6WeI53gvhC-ZDmUad4WHRlYl2WFQS6hAba-q_ZZ/s1600/Photo+29-12-2017%252C+12+03+56+PM.jpg)
 
 I've tried both, the Ato Salt Cream which have quite some good reviews. But I prefer the moisturizer more. 
 
@@ -106,7 +106,7 @@ That is all for my morning routine.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLOSumJn7gNjnu9F5m_tH62_lGJak7vx2QL0vO6kDCU8QERgDriKTPZ-s_VPEkysDVOyWkl32jY2rAr1SdF5LOjeav5jGvexM5RvsEcV01ZJLr5Sr6pQqJpMeXXU7IpU3tXSujYQo6eUzO/s1600/Photo+29-12-2017%252C+12+04+54+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLOSumJn7gNjnu9F5m_tH62_lGJak7vx2QL0vO6kDCU8QERgDriKTPZ-s_VPEkysDVOyWkl32jY2rAr1SdF5LOjeav5jGvexM5RvsEcV01ZJLr5Sr6pQqJpMeXXU7IpU3tXSujYQo6eUzO/s1600/Photo+29-12-2017%252C+12+04+54+PM.jpg)
 
   
 
@@ -116,7 +116,7 @@ If I use heavy makeups, I'll remove em either using Son & Park Beauty Water or G
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI4-nsBtN_5D_bx116SR4TsAAvnd5nV1YvRI2kIUYkOI3ngXJh745JMpYdYXH3zp9U9waV42m1IpmGm5mt08sN5mmXMCwskjaNzEU9iaJUIJT5i2HB-nihopx7ziLxgQghmboiwo14blkb/s1600/Photo+29-12-2017%252C+11+58+52+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI4-nsBtN_5D_bx116SR4TsAAvnd5nV1YvRI2kIUYkOI3ngXJh745JMpYdYXH3zp9U9waV42m1IpmGm5mt08sN5mmXMCwskjaNzEU9iaJUIJT5i2HB-nihopx7ziLxgQghmboiwo14blkb/s1600/Photo+29-12-2017%252C+11+58+52+AM.jpg)
 
 **1\. Oil based cleanser** - belif cleansing oil fresh. This one I got from belif. Does it job, to remove my makeups and sunscreen.
 
@@ -148,7 +148,7 @@ If I use heavy makeups, I'll remove em either using Son & Park Beauty Water or G
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUxokzdguZ9k0D4sFX6gA_i9E5vVZeryzDXsSOJLqvGzEe1d_KFCrdUkh2FDjXro1-eepjGVVtuP2yODcI3sWZbvBFeFVLnCDj3yYx1SwxZ8S5PxKTWf25Vh8KyzDp9mJJULVSlwSlalIL/s1600/Photo+29-12-2017%252C+12+03+16+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUxokzdguZ9k0D4sFX6gA_i9E5vVZeryzDXsSOJLqvGzEe1d_KFCrdUkh2FDjXro1-eepjGVVtuP2yODcI3sWZbvBFeFVLnCDj3yYx1SwxZ8S5PxKTWf25Vh8KyzDp9mJJULVSlwSlalIL/s1600/Photo+29-12-2017%252C+12+03+16+PM.jpg)
 
 Skin Food Salmon Brightening Eye Cream, The Body Shop Vitamin E Eyes Cube, belif Moisturizing and Firming Eye Cream, it Cosmetics Bye Bye Undereye Eye Cream.
 
@@ -160,7 +160,7 @@ Skin Food Salmon Brightening Eye Cream, The Body Shop Vitamin E Eyes Cube, belif
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihC5WZupcqDDrB8bk1beSIrxW5yKKI8eyRgYI76oLr3W2HPaQ-MCjQK57_a9bAYHTo0sjYYGMLaHHA7efB79nF88JXACezvPQQFjGp1EFQP2GnSsoGK6hhwWsJ54mdX2S2M4FQ_-BYQHZQ/s1600/Photo+29-12-2017%252C+11+59+40+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihC5WZupcqDDrB8bk1beSIrxW5yKKI8eyRgYI76oLr3W2HPaQ-MCjQK57_a9bAYHTo0sjYYGMLaHHA7efB79nF88JXACezvPQQFjGp1EFQP2GnSsoGK6hhwWsJ54mdX2S2M4FQ_-BYQHZQ/s1600/Photo+29-12-2017%252C+11+59+40+AM.jpg)
 
   
   
@@ -176,7 +176,7 @@ For serums, I have a few serums which I use depends on the condition of my skin.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI7I6gZMnWDyiEBGV68r-tPfii1mHrY4jzsi3o1bfsExwrakpr-hfT6oya7Nnym1yEXlQkXOyqIsgWQ7Iio-WNks3FyqAzN3wYPNgWMlDHpcRBHgpcbIxa8QogY6VZUmMDc_OllaoKqCTL/s1600/Photo+29-12-2017%252C+12+01+37+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI7I6gZMnWDyiEBGV68r-tPfii1mHrY4jzsi3o1bfsExwrakpr-hfT6oya7Nnym1yEXlQkXOyqIsgWQ7Iio-WNks3FyqAzN3wYPNgWMlDHpcRBHgpcbIxa8QogY6VZUmMDc_OllaoKqCTL/s1600/Photo+29-12-2017%252C+12+01+37+PM.jpg)
 
   
 

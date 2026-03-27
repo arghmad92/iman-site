@@ -3,7 +3,7 @@ title: "Etude House Soon Jung pH5.5 Relief Toner Review"
 date: "2018-06-01"
 category: Skincare
 excerpt: "Etude House Soon Jung pH5.5 Relief Toner Review"
-image: "https://web.archive.org/web/20250320144208im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTJkYO38DdPnQM57bulf-eOxWzQdyJrsUrioZK5a7fTRZDGAr_Mm6XPilTz6vovZunDvpiifYyF3kekPKLDX88JpWOhp0UoSz7kPYaZNr8cEsC2Hgj3ttNngpWJ3ec5WAhxBQ_oHaiT4Ea/s640/Photo+24-06-2018%252C+5+29+47+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTJkYO38DdPnQM57bulf-eOxWzQdyJrsUrioZK5a7fTRZDGAr_Mm6XPilTz6vovZunDvpiifYyF3kekPKLDX88JpWOhp0UoSz7kPYaZNr8cEsC2Hgj3ttNngpWJ3ec5WAhxBQ_oHaiT4Ea/s640/Photo+24-06-2018%252C+5+29+47+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ Sharing my thoughts on Etude House's Soon Jung pH5.5 Relief Toner.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTJkYO38DdPnQM57bulf-eOxWzQdyJrsUrioZK5a7fTRZDGAr_Mm6XPilTz6vovZunDvpiifYyF3kekPKLDX88JpWOhp0UoSz7kPYaZNr8cEsC2Hgj3ttNngpWJ3ec5WAhxBQ_oHaiT4Ea/s1600/Photo+24-06-2018%252C+5+29+47+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTJkYO38DdPnQM57bulf-eOxWzQdyJrsUrioZK5a7fTRZDGAr_Mm6XPilTz6vovZunDvpiifYyF3kekPKLDX88JpWOhp0UoSz7kPYaZNr8cEsC2Hgj3ttNngpWJ3ec5WAhxBQ_oHaiT4Ea/s1600/Photo+24-06-2018%252C+5+29+47+PM.jpg)
 
   
   
@@ -41,7 +41,7 @@ I was looking for a hydrating toner, with no alcohol and fragrance, and I found 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOFxhNt3YtreBc5vIgmy0sA63LgQVjvJ1oyRsGq_tFneaBF9m2JSrOADuhQ-9Kh6RlleTr6zWWi-Hi9wbchJFpnyhL4g_beMg22SiJRgHvELQJlZ7jzbUZQMxOas4-nGKMmdT3-jVQatRb/s1600/Photo+24-06-2018%252C+5+30+05+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOFxhNt3YtreBc5vIgmy0sA63LgQVjvJ1oyRsGq_tFneaBF9m2JSrOADuhQ-9Kh6RlleTr6zWWi-Hi9wbchJFpnyhL4g_beMg22SiJRgHvELQJlZ7jzbUZQMxOas4-nGKMmdT3-jVQatRb/s1600/Photo+24-06-2018%252C+5+30+05+PM.jpg)
 
   
 
@@ -57,7 +57,7 @@ There are only 14 ingredients, with no alcohol and fragrance. There's also a lot
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_unsg5R0s-Hch_qErzKSzGBdjrv36wjIv7LHPzTeeOLpxQNfVN4CLmUKhvPBa5B9yuU16TB2B7othW1VLbQHWfGkxDGiix-rwlhU1CkzR5gvHSPwnMqWVCBm3LigiPKzyTIaIQ8aVb4a-/s1600/Photo+24-06-2018%252C+5+30+21+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_unsg5R0s-Hch_qErzKSzGBdjrv36wjIv7LHPzTeeOLpxQNfVN4CLmUKhvPBa5B9yuU16TB2B7othW1VLbQHWfGkxDGiix-rwlhU1CkzR5gvHSPwnMqWVCBm3LigiPKzyTIaIQ8aVb4a-/s1600/Photo+24-06-2018%252C+5+30+21+PM.jpg)
 
   
 
@@ -69,7 +69,7 @@ It comes in a 80 ml transparent square plastic bottle with a white screwable pla
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc0eR_SMgfdT6cRMKh_gCYoSsp9QvLRYpOJEv4Bdh2V0W1CtFQI-B1Ga8hQCtijt4t9w1SDKuksfAkPkW7SirKgIxtfzMyNyfWM1_iHdedj6kC_ajshwGMOZij7IfUurdfMT2uQlmHPKMl/s1600/Photo+24-06-2018%252C+5+30+28+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc0eR_SMgfdT6cRMKh_gCYoSsp9QvLRYpOJEv4Bdh2V0W1CtFQI-B1Ga8hQCtijt4t9w1SDKuksfAkPkW7SirKgIxtfzMyNyfWM1_iHdedj6kC_ajshwGMOZij7IfUurdfMT2uQlmHPKMl/s1600/Photo+24-06-2018%252C+5+30+28+PM.jpg)
 
   
 

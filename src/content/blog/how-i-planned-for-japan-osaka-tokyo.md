@@ -3,14 +3,14 @@ title: "How I planned for Japan (Osaka & Tokyo)"
 date: "2019-12-01"
 category: Lifestyle
 excerpt: "How I planned for Japan (Osaka & Tokyo)"
-image: "https://web.archive.org/web/20250603163835im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3hve0KdwC4D0_uRKIToWZEO7b5eXUkfgKQgklK_TDZxKd3ujnZrtrol_GFOSltgoKk4synDGJ6jck6HcIFG7h5HBZZOwRDQvbdZB7fmedAr39huQ7rM0EHQY45HgEZ9IVJREmUGag2Wru/s640/C4295524-17BB-4C88-8775-F4110FCA918B.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3hve0KdwC4D0_uRKIToWZEO7b5eXUkfgKQgklK_TDZxKd3ujnZrtrol_GFOSltgoKk4synDGJ6jck6HcIFG7h5HBZZOwRDQvbdZB7fmedAr39huQ7rM0EHQY45HgEZ9IVJREmUGag2Wru/s640/C4295524-17BB-4C88-8775-F4110FCA918B.jpg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3hve0KdwC4D0_uRKIToWZEO7b5eXUkfgKQgklK_TDZxKd3ujnZrtrol_GFOSltgoKk4synDGJ6jck6HcIFG7h5HBZZOwRDQvbdZB7fmedAr39huQ7rM0EHQY45HgEZ9IVJREmUGag2Wru/s1600/C4295524-17BB-4C88-8775-F4110FCA918B.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3hve0KdwC4D0_uRKIToWZEO7b5eXUkfgKQgklK_TDZxKd3ujnZrtrol_GFOSltgoKk4synDGJ6jck6HcIFG7h5HBZZOwRDQvbdZB7fmedAr39huQ7rM0EHQY45HgEZ9IVJREmUGag2Wru/s1600/C4295524-17BB-4C88-8775-F4110FCA918B.jpg)
 
   
 
@@ -35,7 +35,7 @@ I memang dah lama hint hint nak pergi Japan tapi takdelah terfikir dalam masa ya
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWcq2YmUFOiviwNKs0srFPyJXHBMuEn3Mynwc7M52TyxcYZPIi9gHtd94HRi9MxnJe0-yF-37I0BCaOk2CMptPw8zd8qJpQHXKJgnKxg7yMusZfLcttn6PJcuVtSRfNX5zVfUkOaCAMmja/s1600/EMPF6ebU4AANVGW.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWcq2YmUFOiviwNKs0srFPyJXHBMuEn3Mynwc7M52TyxcYZPIi9gHtd94HRi9MxnJe0-yF-37I0BCaOk2CMptPw8zd8qJpQHXKJgnKxg7yMusZfLcttn6PJcuVtSRfNX5zVfUkOaCAMmja/s1600/EMPF6ebU4AANVGW.jpeg)
 
   
 
@@ -45,7 +45,7 @@ Benda murah macam ni, we buy first, think later! Sebab tiket murah ni bukan sela
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG4R3tSxxgVd5lVRl7tgx3KO0-xWiSwmtFMzAPNFgAApdTjQG53J5525yyE8xbT_14r5oWNXei9oK-rzWxfpFTDxCtRTjcbxGajrG4WeS8cmBSRHJ9Q63CSpMvTSjh8qeq40csqHsQ51rr/s1600/281E9CF1-3B52-4098-B3CA-FF5A6E6AFE9C.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG4R3tSxxgVd5lVRl7tgx3KO0-xWiSwmtFMzAPNFgAApdTjQG53J5525yyE8xbT_14r5oWNXei9oK-rzWxfpFTDxCtRTjcbxGajrG4WeS8cmBSRHJ9Q63CSpMvTSjh8qeq40csqHsQ51rr/s1600/281E9CF1-3B52-4098-B3CA-FF5A6E6AFE9C.jpg)
 
 Print siap siap segala benda berkaitan flight ni, masukkan dalam file. Nanti dekat airport, tak payah gelabah. Tunjuk je.
 
@@ -63,7 +63,7 @@ Lepas dah confirm flight, terus kita book hotel pulak. Sebab ye lah, risau nanti
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxhR6tg3frLkmc5vhe8WFVczvVdtTUsKBpeBdtwSoJGGmnQJfPv5Tym8p7025irCE54YLy77woQokCXMvxQEyEZJFyQs0xxmjaawWA-4VYW4evzV7-SaiyORQUeY-VoAvuWu4O4Wm4ZR0D/s1600/IMG_6083.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxhR6tg3frLkmc5vhe8WFVczvVdtTUsKBpeBdtwSoJGGmnQJfPv5Tym8p7025irCE54YLy77woQokCXMvxQEyEZJFyQs0xxmjaawWA-4VYW4evzV7-SaiyORQUeY-VoAvuWu4O4Wm4ZR0D/s1600/IMG_6083.JPG)
 
   
 
@@ -95,7 +95,7 @@ I ambil Etiqa Tripcare 360 Takaful sebab ramai kata okay. Link: [https://www.ma
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmOvtZf831sDB72Y06qJ5tjMuM06UrkQswUjz2TFKHWwYL8YYElDtNc2Ynw4bQahKHxdh6W1aOxmJE1xoL2zx0OdIX83eAIHIad6O8RR4Qw5ux_242cy0RoYDy47A8HgNpMQpCmBsPNT4Z/s1600/8C16BBED-B4A4-4B3C-9FD5-C783EA4B0751.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmOvtZf831sDB72Y06qJ5tjMuM06UrkQswUjz2TFKHWwYL8YYElDtNc2Ynw4bQahKHxdh6W1aOxmJE1xoL2zx0OdIX83eAIHIad6O8RR4Qw5ux_242cy0RoYDy47A8HgNpMQpCmBsPNT4Z/s1600/8C16BBED-B4A4-4B3C-9FD5-C783EA4B0751.JPG)
 
   
 
@@ -115,7 +115,7 @@ Bab buat itinerary ni lah yang paling leceh tapi best! Mula mula I list dulu tem
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3IME_pd2cwAPqzl7xqSxv_PLTAAoccxTgWoheHg96oQ7QBKNjvcFuZ0d4qfBMHJtqnOhPzOjs_tZbN98woHbEhrMt_fSO-AN5NTRIBMYvYaJyORfI1ojohCFbpOQom8QIIMXX0si2jWta/s1600/phonto.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3IME_pd2cwAPqzl7xqSxv_PLTAAoccxTgWoheHg96oQ7QBKNjvcFuZ0d4qfBMHJtqnOhPzOjs_tZbN98woHbEhrMt_fSO-AN5NTRIBMYvYaJyORfI1ojohCFbpOQom8QIIMXX0si2jWta/s1600/phonto.PNG)
 
   
 
@@ -133,7 +133,7 @@ Untuk tengok train, I guna apps Google Map sahaja. Tak perlu guna apps lain. Nak
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLhswoMvR9kGybVhrK3uRDkv36aYFDnrjOBJmwD7BiAEqh6OtVPl3zxI1wffipvsHsV1XUVoOk_xDxdxz13FHkWmr4y6-L01nOufQY0KDtHDCpbzz11mYj0ZmqMdOIVcrZMyopKXHfSrcc/s1600/IMG_6085.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLhswoMvR9kGybVhrK3uRDkv36aYFDnrjOBJmwD7BiAEqh6OtVPl3zxI1wffipvsHsV1XUVoOk_xDxdxz13FHkWmr4y6-L01nOufQY0KDtHDCpbzz11mYj0ZmqMdOIVcrZMyopKXHfSrcc/s1600/IMG_6085.jpg)
 
   
 
@@ -181,7 +181,7 @@ Mt Fuji Tour: [KLOOK: Mt Fuji Tour](https://www.klook.com/activity/10233-mt-fuj
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXc1gPGVQG718Av_Tpsf4Q8PMSKvL05hIER9Vf_N9mfr07BQ35FV49ug9HBFfAsf0Z7OtS78fFnyNPrQB51xUCVoAc20cmAXCcVgEqrbPIDl6WN-BIdVO3HUHluTXbRBwTFHxR6E0WPHbn/s1600/7AD41CF1-9BEB-4F0D-AF78-D906DDA4901C.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXc1gPGVQG718Av_Tpsf4Q8PMSKvL05hIER9Vf_N9mfr07BQ35FV49ug9HBFfAsf0Z7OtS78fFnyNPrQB51xUCVoAc20cmAXCcVgEqrbPIDl6WN-BIdVO3HUHluTXbRBwTFHxR6E0WPHbn/s1600/7AD41CF1-9BEB-4F0D-AF78-D906DDA4901C.jpg)
 
 I print sekali semua flight details, hotel details etc
 
@@ -189,7 +189,7 @@ I print sekali semua flight details, hotel details etc
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigxq2ub-dGGCc25qeQwOlYykwWdh51Gkp3dYskByNHZKz2Ss_k5wFijhjyauHNgHSvwEO7w0TKgE8psu8H-_r8161YdgYdgUfVkdqC3ZAeOHTDUREIFeOkwin_Ro2IxmuGPXAfgkiJDl5b/s1600/2EC49CE7-FED9-48CC-9720-43502DAB46A1.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigxq2ub-dGGCc25qeQwOlYykwWdh51Gkp3dYskByNHZKz2Ss_k5wFijhjyauHNgHSvwEO7w0TKgE8psu8H-_r8161YdgYdgUfVkdqC3ZAeOHTDUREIFeOkwin_Ro2IxmuGPXAfgkiJDl5b/s1600/2EC49CE7-FED9-48CC-9720-43502DAB46A1.jpg)
 
  Weather forecast pun penting sebab nak plan baju apa.
 
@@ -197,7 +197,7 @@ I print sekali semua flight details, hotel details etc
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH0C0vhYJlFGp4mdCDKSynPHu1iL7im4SH8OeSavjVjvNr0HlzqIPARrAbARjqfo4xte1SkELgAtaWTM9DjVqmuUUCAGbJvy4xM3jAhGPGg5-iiPb54gmmhv2-8pqm7b4o7HJz706eiaiD/s1600/BBA82B25-75DE-4F86-A2C8-BC1E32591CD9.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH0C0vhYJlFGp4mdCDKSynPHu1iL7im4SH8OeSavjVjvNr0HlzqIPARrAbARjqfo4xte1SkELgAtaWTM9DjVqmuUUCAGbJvy4xM3jAhGPGg5-iiPb54gmmhv2-8pqm7b4o7HJz706eiaiD/s1600/BBA82B25-75DE-4F86-A2C8-BC1E32591CD9.jpg)
 
   
 

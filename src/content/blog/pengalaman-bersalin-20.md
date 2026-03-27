@@ -3,14 +3,14 @@ title: "Pengalaman Bersalin 2.0"
 date: "2020-04-23"
 category: Motherhood
 excerpt: "Pengalaman Bersalin 2.0"
-image: "https://web.archive.org/web/20240719201624im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc33SsjiWy6Iwbvgjzw0Iz90OK_RuiVcdsArwwTnBQDHDFoD5RzRwsIuxk0ywfpnJFUYOSGQfmdrNUoEB9jnb0cZellq2GHxzqfFfasH7Cya4RMZSPnKlo_sW3iy-YPqdjyNPfbuFxbN3R/s640/239FF34D-ED13-45C9-8245-036A024B4FFA.jpeg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc33SsjiWy6Iwbvgjzw0Iz90OK_RuiVcdsArwwTnBQDHDFoD5RzRwsIuxk0ywfpnJFUYOSGQfmdrNUoEB9jnb0cZellq2GHxzqfFfasH7Cya4RMZSPnKlo_sW3iy-YPqdjyNPfbuFxbN3R/s640/239FF34D-ED13-45C9-8245-036A024B4FFA.jpeg"
 readTime: "3 min read"
 draft: false
 ---
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc33SsjiWy6Iwbvgjzw0Iz90OK_RuiVcdsArwwTnBQDHDFoD5RzRwsIuxk0ywfpnJFUYOSGQfmdrNUoEB9jnb0cZellq2GHxzqfFfasH7Cya4RMZSPnKlo_sW3iy-YPqdjyNPfbuFxbN3R/s1600/239FF34D-ED13-45C9-8245-036A024B4FFA.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc33SsjiWy6Iwbvgjzw0Iz90OK_RuiVcdsArwwTnBQDHDFoD5RzRwsIuxk0ywfpnJFUYOSGQfmdrNUoEB9jnb0cZellq2GHxzqfFfasH7Cya4RMZSPnKlo_sW3iy-YPqdjyNPfbuFxbN3R/s1600/239FF34D-ED13-45C9-8245-036A024B4FFA.jpeg)
 
   
 
@@ -76,7 +76,7 @@ Terus kena admit ward. Salin baju semua and rehat rehat dulu. Tak sakit pun time
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs9YraguPdi6jBioPZsDFzCQBJ4yrRUuakOflISWPbN4_492K377P7AzuuKr8fLK56xoqG9LeRLC7g17oXelZVf_q-D25i8rGZM83-p1LRiebWnO4dhvjSn3RcmvzP83-ckOAWtemFiLAs/s1600/721E335A-B66A-4097-AA96-2F2B2BD81996.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs9YraguPdi6jBioPZsDFzCQBJ4yrRUuakOflISWPbN4_492K377P7AzuuKr8fLK56xoqG9LeRLC7g17oXelZVf_q-D25i8rGZM83-p1LRiebWnO4dhvjSn3RcmvzP83-ckOAWtemFiLAs/s1600/721E335A-B66A-4097-AA96-2F2B2BD81996.JPG)
 
 Maysaa pun salin baju lagi sebab baru habis celebrate birthday dia. Nasib baik hospital bag semua dah siap packing, tak ada lah gelabah sangat.
 
@@ -84,7 +84,7 @@ Maysaa pun salin baju lagi sebab baru habis celebrate birthday dia. Nasib baik h
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVdAEOC1K4_l26tTDtq5iZyalDxIkUjFjiOt50T3Ee2oCkznEvz48RgOyOVU6E5uedryUi5eu4bNFiOXWCUqwFAvBbTd2khNCX5cNqhhsUHHg1PMuWyUs9TmvYDU2AvTok2pLLkGO54Fh/s1600/C3094C74-4377-40CC-8534-3F2B20D3BAD7.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFVdAEOC1K4_l26tTDtq5iZyalDxIkUjFjiOt50T3Ee2oCkznEvz48RgOyOVU6E5uedryUi5eu4bNFiOXWCUqwFAvBbTd2khNCX5cNqhhsUHHg1PMuWyUs9TmvYDU2AvTok2pLLkGO54Fh/s1600/C3094C74-4377-40CC-8534-3F2B20D3BAD7.JPG)
 
 Tengah manja manja dengan Mummy sementara tunggu family semua datang. 
 
@@ -92,7 +92,7 @@ Tengah manja manja dengan Mummy sementara tunggu family semua datang. 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbe1wJoYvlya74XdBkWmrHQg5as5f9mAvw-47qr2Kd4N4AaZy7rNukL0Ux7GlGqt8j11RndjZ9mSquPbSJhTDSdH5AP_GHmk5zcoSKDk1heBwgH8lfwtiH8_wqSCIUirq1_lRaAZCIek_5/s1600/E466FE13-57C8-4D50-81AE-3E278EB8870E.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbe1wJoYvlya74XdBkWmrHQg5as5f9mAvw-47qr2Kd4N4AaZy7rNukL0Ux7GlGqt8j11RndjZ9mSquPbSJhTDSdH5AP_GHmk5zcoSKDk1heBwgH8lfwtiH8_wqSCIUirq1_lRaAZCIek_5/s1600/E466FE13-57C8-4D50-81AE-3E278EB8870E.JPG)
 
   
 
@@ -110,7 +110,7 @@ Lepas solat maghrib dengan isyak terus in case tak sempat nak solat, dah mula ra
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFCIl7ZRUKebANhv2eeFLzqR4uCb6Q_ZwkaP_VCkZRDUtTcCi_sLecwbZxObyEoLOO103t6GCo0UG1YkkT15g1546doWKuVRt9xlQgWKJD9dNDl0xSEjiixFstSZIeohwTUGxwHm1OtsVq/s1600/42188C94-2179-45A0-B196-F68107134007.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFCIl7ZRUKebANhv2eeFLzqR4uCb6Q_ZwkaP_VCkZRDUtTcCi_sLecwbZxObyEoLOO103t6GCo0UG1YkkT15g1546doWKuVRt9xlQgWKJD9dNDl0xSEjiixFstSZIeohwTUGxwHm1OtsVq/s1600/42188C94-2179-45A0-B196-F68107134007.jpeg)
 
   
 
@@ -124,7 +124,7 @@ I requested for epidural sebab lepas bersalin Maysaa haritu, next baby memang I 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0PtYqFUh9g09tLBOnJh8qKZIZK6Bpr2c6ULOeVcgpQPnJLV2IhA_DHV2-wundGlvXEkhDVeWFvxhlEUXWoHCi83XzxQs3s-D_FyuIGc7JOpbkl5U-dvcq5kOfoAHeeJu6Wkv1MqdLLaCT/s1600/main-qimg-bf2361b33b5b18a4b17f32d4445ecb1c.jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0PtYqFUh9g09tLBOnJh8qKZIZK6Bpr2c6ULOeVcgpQPnJLV2IhA_DHV2-wundGlvXEkhDVeWFvxhlEUXWoHCi83XzxQs3s-D_FyuIGc7JOpbkl5U-dvcq5kOfoAHeeJu6Wkv1MqdLLaCT/s1600/main-qimg-bf2361b33b5b18a4b17f32d4445ecb1c.jpeg)
 
   
 
@@ -156,7 +156,7 @@ By the way epidural tu time contraction je tak sakit sangat, tapi I still feel e
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVVTThvjGuOIw9BnvGFMLOJX4jHKksBUl1JDxUQ0S9qf9vDzOP9yXUsuD3c9b1YL_ZDSwrGi4ZlTQeJ0zqA4XTjEv3MnEuR3qWa521_Sp9eJXnyMga9HydLpaTdShNbQkrzWdeXsKGhfoO/s1600/27802789-6E0F-45FB-B868-E3CE1F22DC4A.JPG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVVTThvjGuOIw9BnvGFMLOJX4jHKksBUl1JDxUQ0S9qf9vDzOP9yXUsuD3c9b1YL_ZDSwrGi4ZlTQeJ0zqA4XTjEv3MnEuR3qWa521_Sp9eJXnyMga9HydLpaTdShNbQkrzWdeXsKGhfoO/s1600/27802789-6E0F-45FB-B868-E3CE1F22DC4A.JPG)
 
   
 

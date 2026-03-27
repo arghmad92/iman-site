@@ -3,7 +3,7 @@ title: "Recent beauty purchase (Hermo, Wakobeauty, Worthee, The Ordinary)"
 date: "2017-10-01"
 category: Skincare
 excerpt: "Recent beauty purchase (Hermo, Wakobeauty, Worthee, The Ordinary)"
-image: "https://web.archive.org/web/20250211044412im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxrNwev0laphpL2OwT3IaWQL6RvbHqV8hkQrkqtsX-0bPSdsn5v65ZzXhcO_T8SvzPUdqRk0apNW6x0TRFgB7DKkd5KyATehaX_ZBdaXD-0ovck9F9fwiFdKnsmEQhJkRFtW1IKFKJBOY/s640/Photo+11-10-2017%252C+5+46+53+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxrNwev0laphpL2OwT3IaWQL6RvbHqV8hkQrkqtsX-0bPSdsn5v65ZzXhcO_T8SvzPUdqRk0apNW6x0TRFgB7DKkd5KyATehaX_ZBdaXD-0ovck9F9fwiFdKnsmEQhJkRFtW1IKFKJBOY/s640/Photo+11-10-2017%252C+5+46+53+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ Lately ni I banyak pulak shopping skincare. Sorry, I can't help it. Banyak sanga
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxrNwev0laphpL2OwT3IaWQL6RvbHqV8hkQrkqtsX-0bPSdsn5v65ZzXhcO_T8SvzPUdqRk0apNW6x0TRFgB7DKkd5KyATehaX_ZBdaXD-0ovck9F9fwiFdKnsmEQhJkRFtW1IKFKJBOY/s1600/Photo+11-10-2017%252C+5+46+53+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxrNwev0laphpL2OwT3IaWQL6RvbHqV8hkQrkqtsX-0bPSdsn5v65ZzXhcO_T8SvzPUdqRk0apNW6x0TRFgB7DKkd5KyATehaX_ZBdaXD-0ovck9F9fwiFdKnsmEQhJkRFtW1IKFKJBOY/s1600/Photo+11-10-2017%252C+5+46+53+PM.jpg)
 
   
 
@@ -33,7 +33,7 @@ First of all, from **Hermo**. Sekarang still ada lagi sale Hermo x MyCyberSALE. 
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxrNwev0laphpL2OwT3IaWQL6RvbHqV8hkQrkqtsX-0bPSdsn5v65ZzXhcO_T8SvzPUdqRk0apNW6x0TRFgB7DKkd5KyATehaX_ZBdaXD-0ovck9F9fwiFdKnsmEQhJkRFtW1IKFKJBOY/s1600/Photo+11-10-2017%252C+5+46+53+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxrNwev0laphpL2OwT3IaWQL6RvbHqV8hkQrkqtsX-0bPSdsn5v65ZzXhcO_T8SvzPUdqRk0apNW6x0TRFgB7DKkd5KyATehaX_ZBdaXD-0ovck9F9fwiFdKnsmEQhJkRFtW1IKFKJBOY/s1600/Photo+11-10-2017%252C+5+46+53+PM.jpg)
 
   
 
@@ -67,7 +67,7 @@ Next, is from IG **@budgetbeauty\_\_** (Ada dua kali underscore tau!)
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjreYrYmTxfRaupOJZDOpmFlBE025ofpkCGnDLz6LXODBDV0kAC-ApPfvU7DghYVO_abysxOjOmexKowBB3a2DuV_1WNqhYDUFZrQJ-oh2hr5YgW-9yb6InywTYsJiQSsO-qHO5dnHqGBk/s1600/Photo+11-10-2017%252C+5+45+14+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjreYrYmTxfRaupOJZDOpmFlBE025ofpkCGnDLz6LXODBDV0kAC-ApPfvU7DghYVO_abysxOjOmexKowBB3a2DuV_1WNqhYDUFZrQJ-oh2hr5YgW-9yb6InywTYsJiQSsO-qHO5dnHqGBk/s1600/Photo+11-10-2017%252C+5+45+14+PM.jpg)
 
   
 
@@ -81,7 +81,7 @@ St. Ives scrub, moisturizer and Vaseline Lip Therapy. Yang moisturizer tu dah la
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRPTfAd9Up67xGOEm2rkWwPymVoXpM4i990CQXHPIwW2rMYtE-_AEItmLZrMKw1rthpPSsZoXXm9WAZihP6javrCUnr67HMMpjfVM71YFBXgNZ2PFVxl3bNctOemvmnPvWKDzFfFPAmUk/s1600/Photo+11-10-2017%252C+5+48+39+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRPTfAd9Up67xGOEm2rkWwPymVoXpM4i990CQXHPIwW2rMYtE-_AEItmLZrMKw1rthpPSsZoXXm9WAZihP6javrCUnr67HMMpjfVM71YFBXgNZ2PFVxl3bNctOemvmnPvWKDzFfFPAmUk/s1600/Photo+11-10-2017%252C+5+48+39+PM.jpg)
 
   
 
@@ -107,7 +107,7 @@ More on AHA & BHA: [Exfoliation, AHA & BHA](http://imanabdulrahim.blogspot.my/2
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyeqUJMKVJbetNBCm4aWGg815iJ7kIOEzjFShoiee0tfrvPgrYYBfiQZHZITfxRcPX_7dcMmbhYuTsGcN5nL0mkHTeuF2_DEIKmEImpmXkchJBkRsvbiYOWIWDzxZUUhM_gcqpu5c3p0o/s1600/Photo+11-10-2017%252C+5+49+20+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyeqUJMKVJbetNBCm4aWGg815iJ7kIOEzjFShoiee0tfrvPgrYYBfiQZHZITfxRcPX_7dcMmbhYuTsGcN5nL0mkHTeuF2_DEIKmEImpmXkchJBkRsvbiYOWIWDzxZUUhM_gcqpu5c3p0o/s1600/Photo+11-10-2017%252C+5+49+20+PM.jpg)
 
   
 
@@ -123,13 +123,13 @@ Lastly, I bough a skin moisture analyzer. Motif sangaaaat.
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetsatCFPLJR5sUT6M8tWSGVkcn5x4cGskfTsG1JANHam6IphtqgyywGzTnbVX_6rRLU9LS9TDD7N4FW3n0nS680hB8bdrK13cl16MA0AijgzMBv91PqSmKYeYgJIGz-IM9LKWM6UgAvc/s1600/Photo+11-10-2017%252C+7+24+52+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetsatCFPLJR5sUT6M8tWSGVkcn5x4cGskfTsG1JANHam6IphtqgyywGzTnbVX_6rRLU9LS9TDD7N4FW3n0nS680hB8bdrK13cl16MA0AijgzMBv91PqSmKYeYgJIGz-IM9LKWM6UgAvc/s1600/Photo+11-10-2017%252C+7+24+52+PM.jpg)
 
   
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1CU2tudeTCGmBroLub5_x84TePHozHgsT-c9xAmLQajGgx-o3iPsZlP52ZC5Flvezv9kJZDkUh_7oS66WTWC7ZSG-g2xWeaKw4-SfTKLf-av2uN8jILsyOXErnQpHuMusfIvB8FJ9gk0/s1600/Photo+11-10-2017%252C+7+25+26+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1CU2tudeTCGmBroLub5_x84TePHozHgsT-c9xAmLQajGgx-o3iPsZlP52ZC5Flvezv9kJZDkUh_7oS66WTWC7ZSG-g2xWeaKw4-SfTKLf-av2uN8jILsyOXErnQpHuMusfIvB8FJ9gk0/s1600/Photo+11-10-2017%252C+7+25+26+PM.jpg)
 
   
 

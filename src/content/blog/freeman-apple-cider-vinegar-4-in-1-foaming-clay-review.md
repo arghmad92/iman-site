@@ -3,7 +3,7 @@ title: "Freeman Apple Cider Vinegar 4-in-1 Foaming Clay Review"
 date: "2017-09-01"
 category: Skincare
 excerpt: "Freeman Apple Cider Vinegar 4-in-1 Foaming Clay Review"
-image: "https://web.archive.org/web/20250211042622im_/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwLHubyNPD85Vietizsnf_i2ao4zqMLmacWT2QF-hN5FZn0h0tEcUsWSS1K-30ZFgFe1_ALI2rR7COmgLSsVy91egTd2H9qvz9QRkKqiCXt00ATA-Lcw3n4JZJ6At1QComUwpKXK3SFss/s640/Photo+29-09-2017%252C+6+06+15+PM.jpg"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwLHubyNPD85Vietizsnf_i2ao4zqMLmacWT2QF-hN5FZn0h0tEcUsWSS1K-30ZFgFe1_ALI2rR7COmgLSsVy91egTd2H9qvz9QRkKqiCXt00ATA-Lcw3n4JZJ6At1QComUwpKXK3SFss/s640/Photo+29-09-2017%252C+6+06+15+PM.jpg"
 readTime: "3 min read"
 draft: false
 ---
@@ -14,7 +14,7 @@ I bought this a long long time ago, tapi baru sekarang rasa nak review
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwLHubyNPD85Vietizsnf_i2ao4zqMLmacWT2QF-hN5FZn0h0tEcUsWSS1K-30ZFgFe1_ALI2rR7COmgLSsVy91egTd2H9qvz9QRkKqiCXt00ATA-Lcw3n4JZJ6At1QComUwpKXK3SFss/s1600/Photo+29-09-2017%252C+6+06+15+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwLHubyNPD85Vietizsnf_i2ao4zqMLmacWT2QF-hN5FZn0h0tEcUsWSS1K-30ZFgFe1_ALI2rR7COmgLSsVy91egTd2H9qvz9QRkKqiCXt00ATA-Lcw3n4JZJ6At1QComUwpKXK3SFss/s1600/Photo+29-09-2017%252C+6+06+15+PM.jpg)
 
   
   
@@ -45,7 +45,7 @@ Water/Aqua/Eau, Bentonite, Sodium C14-16 Olefin Sulfonate, Titanium Dioxide, Pum
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4QRw1kokoQ61snPXD8ihDEgf8KsArUeFM5uMgIQdXMlxXOnDKDJGqC0gIgTv-g2moPXKWiVMMCER-T_5vUoahkTEsYMg7nK7zO09Q7GUJYNHVIcH2bPKzaPTvDujXHfl3sQtJzmT9qvY/s1600/Photo+29-09-2017%252C+6+06+31+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4QRw1kokoQ61snPXD8ihDEgf8KsArUeFM5uMgIQdXMlxXOnDKDJGqC0gIgTv-g2moPXKWiVMMCER-T_5vUoahkTEsYMg7nK7zO09Q7GUJYNHVIcH2bPKzaPTvDujXHfl3sQtJzmT9qvY/s1600/Photo+29-09-2017%252C+6+06+31+PM.jpg)
 
   
 
@@ -68,7 +68,7 @@ I like the smell. Smells like apple cider vinegar. Wangi macam apple!
 
 [!
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinkhz4bUebv4N-9GGohgm2zjJqCU8xInzY0G4pg491KcMQwiv4ySC2Jv1KLddduryFGc4Q-00mSW6CDt-HYzAmdkngrHgaUyVJYe8Hy5vZicenIuglrdvY37AoyhsqsA6NXl7M9vfbsv0/s1600/Photo+29-09-2017%252C+6+07+25+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinkhz4bUebv4N-9GGohgm2zjJqCU8xInzY0G4pg491KcMQwiv4ySC2Jv1KLddduryFGc4Q-00mSW6CDt-HYzAmdkngrHgaUyVJYe8Hy5vZicenIuglrdvY37AoyhsqsA6NXl7M9vfbsv0/s1600/Photo+29-09-2017%252C+6+07+25+PM.jpg)
 
   
   
