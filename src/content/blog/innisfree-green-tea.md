@@ -5,7 +5,7 @@ category: Skincare
 excerpt: "Innisfree Green Tea"
 externalUrl: "https://www.imanabdulrahim.com/2017/09/innisfree-green-tea.html"
 readTime: "3 min read"
-draft: false
+draft: true
 ---
 
 This post was originally published on [imanabdulrahim.com](https://www.imanabdulrahim.com/2017/09/innisfree-green-tea.html).

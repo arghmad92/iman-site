@@ -5,7 +5,7 @@ category: Skincare
 excerpt: "Hada Labo Premium Lotion Review"
 externalUrl: "https://www.imanabdulrahim.com/2018/05/hada-labo-premium-lotion-review.html"
 readTime: "3 min read"
-draft: false
+draft: true
 ---
 
 This post was originally published on [imanabdulrahim.com](https://www.imanabdulrahim.com/2018/05/hada-labo-premium-lotion-review.html).

@@ -5,7 +5,7 @@ category: Lifestyle
 excerpt: "Motivasi untuk workout!"
 externalUrl: "https://www.imanabdulrahim.com/2021/02/motivasi-untuk-workout.html"
 readTime: "3 min read"
-draft: false
+draft: true
 ---
 
 This post was originally published on [imanabdulrahim.com](https://www.imanabdulrahim.com/2021/02/motivasi-untuk-workout.html).
