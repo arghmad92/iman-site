@@ -14,8 +14,6 @@ I bought this product out of curiosity. Sebab ramai gila cakap product ni best s
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9dgW78GLMIWF75WdwjcHpJAeBD2e6NUaV42mBqWOpmDxuaOgGCzuCj0E4wr-JuIaDFAPhIXE9b3XK5IJ5hihAM7cHxLpkbtFBMDHoYZPQoO8p2gIU4TTBhwMUB8BdWHj0aK6RxlRcA0y/s640/Photo+27-02-2018%252C+7+03+00+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9dgW78GLMIWF75WdwjcHpJAeBD2e6NUaV42mBqWOpmDxuaOgGCzuCj0E4wr-JuIaDFAPhIXE9b3XK5IJ5hihAM7cHxLpkbtFBMDHoYZPQoO8p2gIU4TTBhwMUB8BdWHj0aK6RxlRcA0y/s1600/Photo+27-02-2018%252C+7+03+00+PM.jpg)
-
   
   
   
@@ -30,8 +28,6 @@ So okay, yeah, I bought it. Nasib baik packaging lawa and warna rose gold. Nasib
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvroruKaFRJh0gNICpOMy5x0xPaDe8cl9_4gFPZK99Lyt5p0cqu7L01Fl4oT104JgxoPsuEOW-1CVpC-ZwsKW2gZF_3ous_MaQsa246wsRXT8Bmcq6pbW2la_o-o1dpeN5vWMVnW3ufEOi/s640/Photo+27-02-2018%252C+7+03+26+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvroruKaFRJh0gNICpOMy5x0xPaDe8cl9_4gFPZK99Lyt5p0cqu7L01Fl4oT104JgxoPsuEOW-1CVpC-ZwsKW2gZF_3ous_MaQsa246wsRXT8Bmcq6pbW2la_o-o1dpeN5vWMVnW3ufEOi/s1600/Photo+27-02-2018%252C+7+03+26+PM.jpg)
-
   
 
 So anyways, this is what it claims lah kan.
@@ -44,8 +40,6 @@ Healthier, radiant and beautiful skin. Menarik!
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU_J3M2GRkqTbfhtV42vWmaMGWRA9YK9nlMYSMKCLiYwc8wUozxERrJIq-flI_8eAP1xH4zk-L1e_XDv9hH8TBktWWrEWj7Yo-rUd_yG5wo4HYSd6_x1LqX0SW-z5nIjCdxlicTzhzpouk/s640/Photo+27-02-2018%252C+7+03+23+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU_J3M2GRkqTbfhtV42vWmaMGWRA9YK9nlMYSMKCLiYwc8wUozxERrJIq-flI_8eAP1xH4zk-L1e_XDv9hH8TBktWWrEWj7Yo-rUd_yG5wo4HYSd6_x1LqX0SW-z5nIjCdxlicTzhzpouk/s1600/Photo+27-02-2018%252C+7+03+23+PM.jpg)
-
  Lagi claims dia. Reduce fine lines, refine visible pores, smother skin, regulate sebum balance.
 
   
@@ -55,8 +49,6 @@ Let's move on to the ingredients.
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiESJszP_QocO9WbOLgXzgzstQsXC2pCqY9skx7Zg5rHPBYgbDsDBYFw6CFXNd3j7XdF8I_j-ktTBOFO-mBzCejUBrYQhrY9lk-N816NAsAOeeXUyLji36DviACxkrmu8xiDIqUaqIFx8J2/s640/Photo+27-02-2018%252C+7+03+17+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiESJszP_QocO9WbOLgXzgzstQsXC2pCqY9skx7Zg5rHPBYgbDsDBYFw6CFXNd3j7XdF8I_j-ktTBOFO-mBzCejUBrYQhrY9lk-N816NAsAOeeXUyLji36DviACxkrmu8xiDIqUaqIFx8J2/s1600/Photo+27-02-2018%252C+7+03+17+PM.jpg)
 
   
 
@@ -72,8 +64,6 @@ Ingredients dia panjang lah jugak, penat nak baca padahal bukannya faham sangat 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnh5QmGdPmO4Z-VinmCjVi-bn2ftOa1vUAc77X9yXnhGCN2BEiPi54GZpaTciOH791Vs9bjSsimLtuiiAio1oEi8TR4jwKFngvXo-lDfnPQz6AEoEISKDY_iUlftqETZ8B_xcApeUofSJ1/s640/Photo+27-02-2018%252C+7+03+36+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnh5QmGdPmO4Z-VinmCjVi-bn2ftOa1vUAc77X9yXnhGCN2BEiPi54GZpaTciOH791Vs9bjSsimLtuiiAio1oEi8TR4jwKFngvXo-lDfnPQz6AEoEISKDY_iUlftqETZ8B_xcApeUofSJ1/s1600/Photo+27-02-2018%252C+7+03+36+PM.jpg)
 
   
 
@@ -101,8 +91,6 @@ The texture is quite thick, almost like serum. Dia ada gold flakes which kinda a
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM5HBZWCgA5C6SwmfIPQz35WREKwfiapFJ8TCKNf5jRnT_zO_h1x6zrH8lKVVHD4coRcP29ucu3CHo99xrJqxuCM4lbF2n1c4OubclA1ZkN2AVonKD5FNKtnHKx7EkJIEUXOVjFsqO3Xa_/s640/Photo+27-02-2018%252C+7+25+21+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM5HBZWCgA5C6SwmfIPQz35WREKwfiapFJ8TCKNf5jRnT_zO_h1x6zrH8lKVVHD4coRcP29ucu3CHo99xrJqxuCM4lbF2n1c4OubclA1ZkN2AVonKD5FNKtnHKx7EkJIEUXOVjFsqO3Xa_/s1600/Photo+27-02-2018%252C+7+25+21+PM.jpg)
 
   
 

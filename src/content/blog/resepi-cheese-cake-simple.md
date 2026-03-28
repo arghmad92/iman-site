@@ -14,8 +14,6 @@ Resepi cheese cake:
 
 [![](https://2.bp.blogspot.com/-qC90CPcsdgk/W3-3giVt7JI/AAAAAAAAHGQ/wQq4jTOEy1YFC14ocOeYKt80T8YmDD7MgCLcBGAs/s640/Photo%2B24-08-2018%252C%2B2%2B14%2B15%2BPM.jpg)
 
-](https://2.bp.blogspot.com/-qC90CPcsdgk/W3-3giVt7JI/AAAAAAAAHGQ/wQq4jTOEy1YFC14ocOeYKt80T8YmDD7MgCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B2%2B14%2B15%2BPM.jpg)
-
   
 
   
@@ -26,8 +24,6 @@ Resepi cheese cake:
   
 
 [![](https://3.bp.blogspot.com/-Z64OwcP93lE/W3-3j_i9FnI/AAAAAAAAHG0/chTFt4zy82MQK1xQ8xrxuxlnp1ZQNFLFgCLcBGAs/s640/Photo%2B24-08-2018%252C%2B3%2B17%2B31%2BPM.jpg)
-
-](https://3.bp.blogspot.com/-Z64OwcP93lE/W3-3j_i9FnI/AAAAAAAAHG0/chTFt4zy82MQK1xQ8xrxuxlnp1ZQNFLFgCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B3%2B17%2B31%2BPM.jpg)
 
   
 
@@ -75,8 +71,6 @@ Resepi cheese cake:
 
 [![](https://2.bp.blogspot.com/-fDAUDJtD8SI/W3-3hj241LI/AAAAAAAAHGc/9dhvysEVHRQNdIP6UO8W94GtgmXcgKKDQCLcBGAs/s640/Photo%2B24-08-2018%252C%2B3%2B17%2B30%2BPM%2B%25282%2529.jpg)
 
-](https://2.bp.blogspot.com/-fDAUDJtD8SI/W3-3hj241LI/AAAAAAAAHGc/9dhvysEVHRQNdIP6UO8W94GtgmXcgKKDQCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B3%2B17%2B30%2BPM%2B%25282%2529.jpg)
-
   
 
  Nak guna biskut apa apa pun boleh, biskut merrie pun takde hal
@@ -89,8 +83,6 @@ Resepi cheese cake:
 
 [![](https://4.bp.blogspot.com/-hqVZbr7kpgw/W3-3gmoelaI/AAAAAAAAHGM/j11_8kH1Bs0S4tJBo2SxeVgSyzqg9sBuwCLcBGAs/s640/Photo%2B24-08-2018%252C%2B3%2B17%2B29%2BPM.jpg)
 
-](https://4.bp.blogspot.com/-hqVZbr7kpgw/W3-3gmoelaI/AAAAAAAAHGM/j11_8kH1Bs0S4tJBo2SxeVgSyzqg9sBuwCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B3%2B17%2B29%2BPM.jpg)
-
   
 
 I tambah garam jugak sebab guna unsalted butter. Kalau butter dah salted, tak payah garam pun takpe. Gula pun pun kalau taknak manis, tak perlu letak.
@@ -98,8 +90,6 @@ I tambah garam jugak sebab guna unsalted butter. Kalau butter dah salted, tak pa
   
 
 [![](https://2.bp.blogspot.com/-eNTCiHUisFU/W3-3iEZ-kfI/AAAAAAAAHGo/gbceTzFu3n45wcKVlL5XfZeWGx616Y0FgCLcBGAs/s640/Photo%2B24-08-2018%252C%2B3%2B17%2B30%2BPM.jpg)
-
-](https://2.bp.blogspot.com/-eNTCiHUisFU/W3-3iEZ-kfI/AAAAAAAAHGo/gbceTzFu3n45wcKVlL5XfZeWGx616Y0FgCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B3%2B17%2B30%2BPM.jpg)
 
   
 
@@ -113,13 +103,9 @@ Penyet penyetkan. K siap dah base dia.
 
 [![](https://3.bp.blogspot.com/-Pjo5xbRofPI/W3-3h_oQ0WI/AAAAAAAAHGg/KNAbqTjsOpUEy3FVSjO-GXxOwi9xi3PLQCLcBGAs/s640/Photo%2B24-08-2018%252C%2B3%2B17%2B30%2BPM%2B%25284%2529.jpg)
 
-](https://3.bp.blogspot.com/-Pjo5xbRofPI/W3-3h_oQ0WI/AAAAAAAAHGg/KNAbqTjsOpUEy3FVSjO-GXxOwi9xi3PLQCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B3%2B17%2B30%2BPM%2B%25284%2529.jpg)
-
   
 
 [![](https://1.bp.blogspot.com/-44luLeGyUZI/W3-3jC8fNVI/AAAAAAAAHGw/4mP4FCdFaesPqyHVkdI0UWnhFG7AE2RzACLcBGAs/s640/Photo%2B24-08-2018%252C%2B3%2B17%2B31%2BPM%2B%25282%2529.jpg)
-
-](https://1.bp.blogspot.com/-44luLeGyUZI/W3-3jC8fNVI/AAAAAAAAHGw/4mP4FCdFaesPqyHVkdI0UWnhFG7AE2RzACLcBGAs/s1600/Photo%2B24-08-2018%252C%2B3%2B17%2B31%2BPM%2B%25282%2529.jpg)
 
   
 
@@ -132,8 +118,6 @@ Pakai mixer je senang. Ni rasmikan mixer baru he he he
   
 
 [![](https://1.bp.blogspot.com/-P-F5hdfn19k/W3-3iJiNWPI/AAAAAAAAHGk/v6-iH49PB1s6D5N8SIndHhkmfrhEdw17wCLcBGAs/s640/Photo%2B24-08-2018%252C%2B3%2B17%2B30%2BPM%2B%25283%2529.jpg)
-
-](https://1.bp.blogspot.com/-P-F5hdfn19k/W3-3iJiNWPI/AAAAAAAAHGk/v6-iH49PB1s6D5N8SIndHhkmfrhEdw17wCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B3%2B17%2B30%2BPM%2B%25283%2529.jpg)
 
   
 
@@ -151,8 +135,6 @@ Pakai mixer je senang. Ni rasmikan mixer baru he he he
 
 [![](https://3.bp.blogspot.com/-eRbyM1W3NM4/W3-3hHce6FI/AAAAAAAAHGY/rIN9YU3WVz8y35ioITIrxwTGHwbZh6gRgCLcBGAs/s640/Photo%2B24-08-2018%252C%2B3%2B17%2B30%2BPM%2B%25281%2529.jpg)
 
-](https://3.bp.blogspot.com/-eRbyM1W3NM4/W3-3hHce6FI/AAAAAAAAHGY/rIN9YU3WVz8y35ioITIrxwTGHwbZh6gRgCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B3%2B17%2B30%2BPM%2B%25281%2529.jpg)
-
   
 
 9\. Masukkan dalam oven 170C for 45 mins. 
@@ -160,8 +142,6 @@ Pakai mixer je senang. Ni rasmikan mixer baru he he he
   
 
 [![](https://2.bp.blogspot.com/-QknXWj3aiB0/W3-3ihHY9jI/AAAAAAAAHGs/a5Stb887UX8lpqPonlAiAoUORTVVQQfvgCLcBGAs/s640/Photo%2B24-08-2018%252C%2B3%2B17%2B31%2BPM%2B%25281%2529.jpg)
-
-](https://2.bp.blogspot.com/-QknXWj3aiB0/W3-3ihHY9jI/AAAAAAAAHGs/a5Stb887UX8lpqPonlAiAoUORTVVQQfvgCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B3%2B17%2B31%2BPM%2B%25281%2529.jpg)
 
   
 
@@ -171,13 +151,9 @@ And, siap! Sejukkan and masukkan dalam peti.
 
 [![](https://2.bp.blogspot.com/-MMl-PqC66pY/W3-3gl7JARI/AAAAAAAAHGU/c_NKdVrtM-MkiLU97reaAlNm-YZ60wSMQCLcBGAs/s640/Photo%2B24-08-2018%252C%2B2%2B09%2B33%2BPM.jpg)
 
-](https://2.bp.blogspot.com/-MMl-PqC66pY/W3-3gl7JARI/AAAAAAAAHGU/c_NKdVrtM-MkiLU97reaAlNm-YZ60wSMQCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B2%2B09%2B33%2BPM.jpg)
-
   
 
 [![](https://2.bp.blogspot.com/-qC90CPcsdgk/W3-3giVt7JI/AAAAAAAAHGQ/wQq4jTOEy1YFC14ocOeYKt80T8YmDD7MgCLcBGAs/s640/Photo%2B24-08-2018%252C%2B2%2B14%2B15%2BPM.jpg)
-
-](https://2.bp.blogspot.com/-qC90CPcsdgk/W3-3giVt7JI/AAAAAAAAHGQ/wQq4jTOEy1YFC14ocOeYKt80T8YmDD7MgCLcBGAs/s1600/Photo%2B24-08-2018%252C%2B2%2B14%2B15%2BPM.jpg)
 
   
 

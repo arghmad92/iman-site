@@ -10,8 +10,6 @@ draft: false
 
 [![](https://1.bp.blogspot.com/-stVvhzVo0Vg/XA1uVso8dnI/AAAAAAAAHg0/vygiWxsYrvsIZZ5R4XDu-K78TDmYQW1ZQCLcBGAs/s640/IMG_1250.PNG)
 
-](https://1.bp.blogspot.com/-stVvhzVo0Vg/XA1uVso8dnI/AAAAAAAAHg0/vygiWxsYrvsIZZ5R4XDu-K78TDmYQW1ZQCLcBGAs/s1600/IMG_1250.PNG)
-
   
   
   
@@ -42,25 +40,17 @@ The first and the most basic website, **www.cosdna.com**.
 
 [![](https://3.bp.blogspot.com/-N8YDI4tMNu4/XA1uVZfPdoI/AAAAAAAAHgw/NpsOBe0KVM8nNua_fW8aBlnJLZNEzrvxQCLcBGAs/s640/IMG_1261.JPG)
 
-](https://3.bp.blogspot.com/-N8YDI4tMNu4/XA1uVZfPdoI/AAAAAAAAHgw/NpsOBe0KVM8nNua_fW8aBlnJLZNEzrvxQCLcBGAs/s1600/IMG_1261.JPG)
-
   
 
 [![](https://3.bp.blogspot.com/-ys91TMpuxBY/XA1uVWcfDFI/AAAAAAAAHgs/ASJhoVcHLEkuGEVGYOER_RbfOi5DVBU6wCLcBGAs/s640/IMG_1262.JPG)
-
-](https://3.bp.blogspot.com/-ys91TMpuxBY/XA1uVWcfDFI/AAAAAAAAHgs/ASJhoVcHLEkuGEVGYOER_RbfOi5DVBU6wCLcBGAs/s1600/IMG_1262.JPG)
 
   
 
 [![](https://1.bp.blogspot.com/-QJDLeGm0qkY/XA1uWdn_-JI/AAAAAAAAHg4/xVQgnG_lVGsrrRs5KPKiFb-fTJcZg1xxwCLcBGAs/s640/IMG_1263.JPG)
 
-](https://1.bp.blogspot.com/-QJDLeGm0qkY/XA1uWdn_-JI/AAAAAAAAHg4/xVQgnG_lVGsrrRs5KPKiFb-fTJcZg1xxwCLcBGAs/s1600/IMG_1263.JPG)
-
   
 
 [![](https://3.bp.blogspot.com/-cRfe3hdWtpw/XA1uWkg67AI/AAAAAAAAHg8/v0TZeX1tvvQ_8BUJhTf3NgJMMc5hveusACLcBGAs/s640/IMG_1264.jpg)
-
-](https://3.bp.blogspot.com/-cRfe3hdWtpw/XA1uWkg67AI/AAAAAAAAHg8/v0TZeX1tvvQ_8BUJhTf3NgJMMc5hveusACLcBGAs/s1600/IMG_1264.jpg)
 
   
 
@@ -90,19 +80,13 @@ My fav website sebab interface dia cantik and senang nak navigate. Details dia p
 
 [![](https://2.bp.blogspot.com/-khThwCBbJRE/XA1uWwiTnQI/AAAAAAAAHhA/COtU0z4P5YUgnq4adqXIzvFaB40ZBZa-QCLcBGAs/s640/IMG_1265.JPG)
 
-](https://2.bp.blogspot.com/-khThwCBbJRE/XA1uWwiTnQI/AAAAAAAAHhA/COtU0z4P5YUgnq4adqXIzvFaB40ZBZa-QCLcBGAs/s1600/IMG_1265.JPG)
-
   
 
 [![](https://2.bp.blogspot.com/-gNyN_SrD6EA/XA1uXjR_RxI/AAAAAAAAHhE/4KJfXwYwFc8Q7OxQEMKpQre8eeCPNZmrgCLcBGAs/s640/IMG_1266.JPG)
 
-](https://2.bp.blogspot.com/-gNyN_SrD6EA/XA1uXjR_RxI/AAAAAAAAHhE/4KJfXwYwFc8Q7OxQEMKpQre8eeCPNZmrgCLcBGAs/s1600/IMG_1266.JPG)
-
   
 
 [![](https://2.bp.blogspot.com/-rQZZi661o2o/XA1wVFbRuvI/AAAAAAAAHhk/-o1dc-VatM4MSJMM5YONWD1sd6M0Py6HwCLcBGAs/s640/1544382729145.jpg)
-
-](https://2.bp.blogspot.com/-rQZZi661o2o/XA1wVFbRuvI/AAAAAAAAHhk/-o1dc-VatM4MSJMM5YONWD1sd6M0Py6HwCLcBGAs/s1600/1544382729145.jpg)
 
   
 
@@ -123,8 +107,6 @@ This website is for you to know more about specific ingredients. Contohnya lepas
   
 
 [![](https://4.bp.blogspot.com/-Wb80UcQuigo/XA1uXhnNyVI/AAAAAAAAHhI/MokYIQy5pZcfvdsplUx5TTHbIzKL3VdJQCLcBGAs/s640/IMG_1267.JPG)
-
-](https://4.bp.blogspot.com/-Wb80UcQuigo/XA1uXhnNyVI/AAAAAAAAHhI/MokYIQy5pZcfvdsplUx5TTHbIzKL3VdJQCLcBGAs/s1600/IMG_1267.JPG)
 
   
 

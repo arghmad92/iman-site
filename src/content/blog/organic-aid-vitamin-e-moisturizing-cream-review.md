@@ -10,8 +10,6 @@ draft: false
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivkpe-WinWhzqyhPHdoHjtyEJ3gQRfUSdt5EvQClYnBiAorMM2jSUSbWS1_hqkxTikpyVo-vTzQpVq5VwzUEmA6Y-tTrUyxoWW_p84b39zsrSGUTzVbaPia89L3A2RtBa1MCnH6Fdc_v4Y/s640/753E8995-4D8A-4754-A6E3-F8FAF7BC4BAC.JPG)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivkpe-WinWhzqyhPHdoHjtyEJ3gQRfUSdt5EvQClYnBiAorMM2jSUSbWS1_hqkxTikpyVo-vTzQpVq5VwzUEmA6Y-tTrUyxoWW_p84b39zsrSGUTzVbaPia89L3A2RtBa1MCnH6Fdc_v4Y/s1600/753E8995-4D8A-4754-A6E3-F8FAF7BC4BAC.JPG)
-
 Organic Aid Vitamin E Moisturizing Cream Review
 
   
@@ -35,8 +33,6 @@ This moisturizer was quite famous dulu dulu, ada banyak good reviews hence that 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0uJxxhNFQjv_zX6qv_uHbCYhmtONLWmDty5HQ8oZUdYoRXZYBhYW5YIS4xSkbOwM7FsIau7K4R5VJcDLDDQ6Nqg7Cxo4VKVN3dZ2lv9zO-jDLyTNJCvMJ7c2nczx6icF2cTxnUMsx7tvc/s640/31C08382-9369-41F6-AF36-6A18821A8CCD.JPG)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0uJxxhNFQjv_zX6qv_uHbCYhmtONLWmDty5HQ8oZUdYoRXZYBhYW5YIS4xSkbOwM7FsIau7K4R5VJcDLDDQ6Nqg7Cxo4VKVN3dZ2lv9zO-jDLyTNJCvMJ7c2nczx6icF2cTxnUMsx7tvc/s1600/31C08382-9369-41F6-AF36-6A18821A8CCD.JPG)
-
  The ingredients as shown above. It contains Vitamin E which is a well researched antioxidant for the skin. If you have fungal acne, you might want to skip this since it contains few ingredients that might trigger your fungal acne.
 
   
@@ -51,8 +47,6 @@ Very mild fragrance scent
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7261vN7yLMcHzs92vlVMs54mvA3_xuUIWUYURnJ1Qgfeq9GjkMX4j2uqyTFabe4Y1dNBh52sC11LokzlNGeJ3HewNYYKGsioGeJgrd0Sa0Sz6cOomtleTCHPYUAEEQZ3I0xt6vs6yuzYQ/s640/28E527AE-F72F-433B-BCC2-775CC80CAB78.JPG)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7261vN7yLMcHzs92vlVMs54mvA3_xuUIWUYURnJ1Qgfeq9GjkMX4j2uqyTFabe4Y1dNBh52sC11LokzlNGeJ3HewNYYKGsioGeJgrd0Sa0Sz6cOomtleTCHPYUAEEQZ3I0xt6vs6yuzYQ/s1600/28E527AE-F72F-433B-BCC2-775CC80CAB78.JPG)
-
 It comes in a 30ml brown jar with a dark brown screwable cap. The details are printed clearly on the packaging. Again, I don't really like jar packaging sebab rasa tak bersih bila celup.
 
   
@@ -64,8 +58,6 @@ It comes in a 30ml brown jar with a dark brown screwable cap. The details are pr
 **Texture**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM0oY4K3fCxp1_n8t15UZ20kGhSIK9yCzZF_uIHGYYQ_uNCQPiyapJAH9xcM1f6upQSBuFHJxl-YbzvJ_pCjLZjhs9N-sZ5T1PX5DNMhmPErCebD2VR-bW9xIXe0Apf_E8W32P8mu6_dxA/s640/E39E6A05-787B-4879-B894-2052A41810A5.JPG)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM0oY4K3fCxp1_n8t15UZ20kGhSIK9yCzZF_uIHGYYQ_uNCQPiyapJAH9xcM1f6upQSBuFHJxl-YbzvJ_pCjLZjhs9N-sZ5T1PX5DNMhmPErCebD2VR-bW9xIXe0Apf_E8W32P8mu6_dxA/s1600/E39E6A05-787B-4879-B894-2052A41810A5.JPG)
 
 The texture is a bit thick when I first applied on on my skin. Rasa macam boleh ke my skin absorb this??? However, it absorbs nicely into my skin without leaving any greasy or tacky feeling. Padan lah I baca review, orang yang oily or combination skin pun suka sebab doa tak buat kulit rasa melekit sangat. It also claims "Non-Sticky" and "Non-Greasy"
 

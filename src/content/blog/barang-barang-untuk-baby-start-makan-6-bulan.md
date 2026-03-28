@@ -10,8 +10,6 @@ draft: false
 
 [![](https://1.bp.blogspot.com/-to4JgJZ-jDs/YBfukxNdRBI/AAAAAAAAJl0/qBFTZg1hRDsSDuq0bYdRgs4aV1L-jVDMwCLcBGAsYHQ/w640-h636/IMG_2800.jpg)
 
-](https://1.bp.blogspot.com/-to4JgJZ-jDs/YBfukxNdRBI/AAAAAAAAJl0/qBFTZg1hRDsSDuq0bYdRgs4aV1L-jVDMwCLcBGAsYHQ/s1125/IMG_2800.jpg)
-
 Barang barang untuk baby start makan (6 bulan) yang boleh beli dekat Shopee!
 
   
@@ -32,8 +30,6 @@ Barang barang untuk baby start makan (6 bulan) yang boleh beli dekat Shopee!
 
 [![](https://1.bp.blogspot.com/-ZIfz64eMnV4/YBfujhbSx4I/AAAAAAAAJlk/SDkuu8UKSZUFZvTXcQrFBMH5G3IE-MTEwCLcBGAsYHQ/s320/IMG_2792.JPG)
 
-](https://1.bp.blogspot.com/-ZIfz64eMnV4/YBfujhbSx4I/AAAAAAAAJlk/SDkuu8UKSZUFZvTXcQrFBMH5G3IE-MTEwCLcBGAsYHQ/s850/IMG_2792.JPG)
-
   
 
 Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dalam 4-5 bulan gitu je. [shp.ee/4z6yxmv](http://shp.ee/4z6yxmv)
@@ -43,8 +39,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
   
 
 [![](https://1.bp.blogspot.com/-Ukr0ioxHbgA/YBfujtS_P1I/AAAAAAAAJlo/ei7P2fXL9vUbUWQ33mfFV5K9LsXAYQSWwCLcBGAsYHQ/s320/IMG_2794.JPG)
-
-](https://1.bp.blogspot.com/-Ukr0ioxHbgA/YBfujtS_P1I/AAAAAAAAJlo/ei7P2fXL9vUbUWQ33mfFV5K9LsXAYQSWwCLcBGAsYHQ/s1004/IMG_2794.JPG)
 
   
 
@@ -58,8 +52,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
 
 [![](https://1.bp.blogspot.com/-2INY5Yg8dkI/YBfujm0V43I/AAAAAAAAJls/bRUtIx2x9roeuybUw0FqKDcflj_rsROnACLcBGAsYHQ/s320/IMG_2795.JPG)
 
-](https://1.bp.blogspot.com/-2INY5Yg8dkI/YBfujm0V43I/AAAAAAAAJls/bRUtIx2x9roeuybUw0FqKDcflj_rsROnACLcBGAsYHQ/s1024/IMG_2795.JPG)
-
   
 
 3\. Cube food storage. Nak letak makanan yang dah jadi puree and simpan dalam freezer. Cari yang silicone supaya tak emo nak keluarkan! [shp.ee/e3q7i3v](http://shp.ee/e3q7i3v)
@@ -67,8 +59,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
   
 
 [![](https://1.bp.blogspot.com/-nr0ZfeirzjQ/YBfukpmuZNI/AAAAAAAAJlw/4fXiQvB_XQI_BEF3ImPwkVS969qWn60qgCLcBGAsYHQ/s320/IMG_2798.jpg)
-
-](https://1.bp.blogspot.com/-nr0ZfeirzjQ/YBfukpmuZNI/AAAAAAAAJlw/4fXiQvB_XQI_BEF3ImPwkVS969qWn60qgCLcBGAsYHQ/s1125/IMG_2798.jpg)
 
   
 
@@ -80,8 +70,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
 
 [![](https://1.bp.blogspot.com/-PGuZ-dS5l4A/YBfulSWZcqI/AAAAAAAAJl4/oHAGW_9bw3ILa4xaeZos9MWcXeJfKHIxQCLcBGAsYHQ/s320/IMG_2802.JPG)
 
-](https://1.bp.blogspot.com/-PGuZ-dS5l4A/YBfulSWZcqI/AAAAAAAAJl4/oHAGW_9bw3ILa4xaeZos9MWcXeJfKHIxQCLcBGAsYHQ/s800/IMG_2802.JPG)
-
   
 
 5\. Food storage. Untuk letak chicken stock / soup sebab bekas besar sikit. Senang nak masak kalau prepare semua siap siap and masuk freezer je. [https://shp.ee/45w2yi5](https://shp.ee/45w2yi5)
@@ -89,8 +77,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
   
 
 [![](https://1.bp.blogspot.com/-WchnOrORMtw/YBfulbvketI/AAAAAAAAJl8/5jEWPJKz3jo6LjDHnpTQ27IBJWcwzbDqwCLcBGAsYHQ/s320/IMG_2803.JPG)
-
-](https://1.bp.blogspot.com/-WchnOrORMtw/YBfulbvketI/AAAAAAAAJl8/5jEWPJKz3jo6LjDHnpTQ27IBJWcwzbDqwCLcBGAsYHQ/s500/IMG_2803.JPG)
 
   
 
@@ -102,8 +88,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
 
 [![](https://1.bp.blogspot.com/-Ff7fRsSCLhc/YBfulqHA6-I/AAAAAAAAJmA/17OGyeWdjdUGCvrlTcKY9wcVQK-bKxO4gCLcBGAsYHQ/s320/IMG_2805.JPG)
 
-](https://1.bp.blogspot.com/-Ff7fRsSCLhc/YBfulqHA6-I/AAAAAAAAJmA/17OGyeWdjdUGCvrlTcKY9wcVQK-bKxO4gCLcBGAsYHQ/s1000/IMG_2805.JPG)
-
   
 
   
@@ -111,8 +95,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
 7\. Bowl set. Ada banyak jenis and semua comel comel. I kadang kadang pakai mangkuk plastik beli ikea tu je Face with tears of joy Ni comel: [https://shp.ee/anfq5ed](https://shp.ee/anfq5ed)
 
 [![](https://1.bp.blogspot.com/-00BUA25g7yU/YBfumeYqr2I/AAAAAAAAJmE/omWtUeLNf8EaRR5G4i3AB7y-zTVmEFEFgCLcBGAsYHQ/s320/IMG_2808.JPG)
-
-](https://1.bp.blogspot.com/-00BUA25g7yU/YBfumeYqr2I/AAAAAAAAJmE/omWtUeLNf8EaRR5G4i3AB7y-zTVmEFEFgCLcBGAsYHQ/s1024/IMG_2808.JPG)
 
   
 
@@ -124,8 +106,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
 
 [![](https://1.bp.blogspot.com/-aiO6RewExtY/YBfumdpTrUI/AAAAAAAAJmI/Syc3wKgTeV8T3wD1qot5ZC93zGmwAwPXgCLcBGAsYHQ/s320/IMG_2809.JPG)
 
-](https://1.bp.blogspot.com/-aiO6RewExtY/YBfumdpTrUI/AAAAAAAAJmI/Syc3wKgTeV8T3wD1qot5ZC93zGmwAwPXgCLcBGAsYHQ/s640/IMG_2809.JPG)
-
   
 
   
@@ -135,8 +115,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
   
 
 [![](https://1.bp.blogspot.com/-9CBLPCkCxkU/YBfumm3D-lI/AAAAAAAAJmM/Kf2SY0iGzMM_T8ajcVxvvBG__gqI4hGyACLcBGAsYHQ/s320/IMG_2812.JPG)
-
-](https://1.bp.blogspot.com/-9CBLPCkCxkU/YBfumm3D-lI/AAAAAAAAJmM/Kf2SY0iGzMM_T8ajcVxvvBG__gqI4hGyACLcBGAsYHQ/s1024/IMG_2812.JPG)
 
   
 
@@ -148,8 +126,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
 
 [![](https://1.bp.blogspot.com/-Z3Ul3tlooGs/YBfunEyQ_0I/AAAAAAAAJmQ/qbwU8pcgy1IoLr9Y3PkhjnkH7ofAq06PQCLcBGAsYHQ/s320/IMG_2813.JPG)
 
-](https://1.bp.blogspot.com/-Z3Ul3tlooGs/YBfunEyQ_0I/AAAAAAAAJmQ/qbwU8pcgy1IoLr9Y3PkhjnkH7ofAq06PQCLcBGAsYHQ/s800/IMG_2813.JPG)
-
   
 
   
@@ -160,8 +136,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
 
 [![](https://1.bp.blogspot.com/-zHBBh6ujPM0/YBfunodWZKI/AAAAAAAAJmU/sTaanDbt9FQSLSnHeac9REq7uVOzvxyJACLcBGAsYHQ/s320/IMG_2815.JPG)
 
-](https://1.bp.blogspot.com/-zHBBh6ujPM0/YBfunodWZKI/AAAAAAAAJmU/sTaanDbt9FQSLSnHeac9REq7uVOzvxyJACLcBGAsYHQ/s800/IMG_2815.JPG)
-
   
 
   
@@ -171,8 +145,6 @@ Nak beli yang biasa pun okay je. Ni tak sampai RM100. Sebab sekejap je guna, dal
   
 
 [![](https://1.bp.blogspot.com/-w9jZ9VPNYCw/YBfuoGKgtRI/AAAAAAAAJmY/Q_RvrHUr9_EVBxXsQw3XKRse6RWS6E1JgCLcBGAsYHQ/s320/IMG_2817.JPG)
-
-](https://1.bp.blogspot.com/-w9jZ9VPNYCw/YBfuoGKgtRI/AAAAAAAAJmY/Q_RvrHUr9_EVBxXsQw3XKRse6RWS6E1JgCLcBGAsYHQ/s640/IMG_2817.JPG)
 
   
 

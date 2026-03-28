@@ -10,8 +10,6 @@ draft: false
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-v0IjHvoQ43Zji-m8w6IBEqhhJUer5IzPU1FKgZB5GYwN02i8trfWhoicOVFXu118Zn6g11YsXpBtN3Jr7Jqxwu1BiBRpuhWd0YNBkXbH9SIXPiygJDLzwp4miLQ2CN1dyhkr9vsAO88/s640/IMG_6406.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-v0IjHvoQ43Zji-m8w6IBEqhhJUer5IzPU1FKgZB5GYwN02i8trfWhoicOVFXu118Zn6g11YsXpBtN3Jr7Jqxwu1BiBRpuhWd0YNBkXbH9SIXPiygJDLzwp4miLQ2CN1dyhkr9vsAO88/s1600/IMG_6406.jpg)
-
 Macam mana nak kurangkan jeragat?
 
   
@@ -67,8 +65,6 @@ Kenapa hydration penting?
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUvU54OzL0YiPyoXu2cClJfBxxA_9YtDJfyIF_YgN1-mse8oXt5PpC7Xl6Qymm6pSYFzJBax5dbcevxr2z0JA2uXuBtS1LNxyemOWdI3Bopk4FKVYFjXUcN50uE0JgB0hkuV7Pqeuiaxp4/s640/IMG_4959.png)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUvU54OzL0YiPyoXu2cClJfBxxA_9YtDJfyIF_YgN1-mse8oXt5PpC7Xl6Qymm6pSYFzJBax5dbcevxr2z0JA2uXuBtS1LNxyemOWdI3Bopk4FKVYFjXUcN50uE0JgB0hkuV7Pqeuiaxp4/s1600/IMG_4959.png)
-
 Boleh baca dekat sini: [https://www.imanabdulrahim.com/2019/01/brightening-ingredients.html](https://www.imanabdulrahim.com/2019/01/brightening-ingredients.html)
 
   
@@ -82,8 +78,6 @@ AHA ialah salah satu ingredients untuk exfoliate your skin supaya kulit jadi lag
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie76sPGPauAiR4cN7tMZEFaV5xrffSkKEY3VWaC4R8UeSRyBPa_CSNCIAqtuugFw6VFJa6RB823OpsQvCYgIB5kMFV8mX7v7Yr8vXcK70npHJ_C7baOvmVLVkEF8sIRDiI7EftLyXMiha-/s640/IMG_5574.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie76sPGPauAiR4cN7tMZEFaV5xrffSkKEY3VWaC4R8UeSRyBPa_CSNCIAqtuugFw6VFJa6RB823OpsQvCYgIB5kMFV8mX7v7Yr8vXcK70npHJ_C7baOvmVLVkEF8sIRDiI7EftLyXMiha-/s1600/IMG_5574.jpg)
 
 Boleh baca dekat sini about AHA: [https://www.imanabdulrahim.com/2017/09/exfoliate-aha-bha.html](https://www.imanabdulrahim.com/2017/09/exfoliate-aha-bha.html)
 

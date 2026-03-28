@@ -14,8 +14,6 @@ My all time favourite moisturizer, Olay Moisturizing Lotion.
 
 [![](https://3.bp.blogspot.com/-WMMBLbcRxXs/Wbnn2QGf_nI/AAAAAAAAEws/tbp2uHKBiCENa8rIbruwgjTKZdqj6GR2gCLcBGAs/s640/Photo%2B13-09-2017%252C%2B6%2B09%2B58%2BPM.jpg)
 
-](https://3.bp.blogspot.com/-WMMBLbcRxXs/Wbnn2QGf_nI/AAAAAAAAEws/tbp2uHKBiCENa8rIbruwgjTKZdqj6GR2gCLcBGAs/s1600/Photo%2B13-09-2017%252C%2B6%2B09%2B58%2BPM.jpg)
-
   
   
   
@@ -74,8 +72,6 @@ The smell is really calming, and wangi! Yelah, dah letak fragrance kan... Haha
   
 
 [![](https://4.bp.blogspot.com/-Gt9W6MeFqts/Wbnn2BlaAGI/AAAAAAAAEwo/pgNX6oCfyXcj9Wpj27IpXD3gVVsdt12RQCLcBGAs/s640/Photo%2B13-09-2017%252C%2B6%2B11%2B16%2BPM.jpg)
-
-](https://4.bp.blogspot.com/-Gt9W6MeFqts/Wbnn2BlaAGI/AAAAAAAAEwo/pgNX6oCfyXcj9Wpj27IpXD3gVVsdt12RQCLcBGAs/s1600/Photo%2B13-09-2017%252C%2B6%2B11%2B16%2BPM.jpg)
 
   
 

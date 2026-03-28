@@ -14,8 +14,6 @@ I was very excited when I got the chance to try the Nuby Comfort 360 bottle and 
 
 [![](https://1.bp.blogspot.com/-9pjaPS53Rk8/WXAs9iNiXRI/AAAAAAAAEF4/quzc6MjVmjMuRG8nokFv3OaNo7C9KS3SQCLcBGAs/s640/Photo%2BJul%2B20%252C%2B10%2B56%2B37.jpg)
 
-](https://1.bp.blogspot.com/-9pjaPS53Rk8/WXAs9iNiXRI/AAAAAAAAEF4/quzc6MjVmjMuRG8nokFv3OaNo7C9KS3SQCLcBGAs/s1600/Photo%2BJul%2B20%252C%2B10%2B56%2B37.jpg)
-
 Nuby Comfort 360 bottle 
 
   
@@ -30,8 +28,6 @@ Nuby Comfort 360 bottle 
 
 [![](https://3.bp.blogspot.com/-PT_95ZB8VdM/WXAxNEiAgqI/AAAAAAAAEGQ/r1ABJdMLCU4VA5JpnKtm9D4R73HLsvLOwCLcBGAs/s640/Screen%2BShot%2B2017-07-20%2Bat%2B12.27.05%2BPM.png)
 
-](https://3.bp.blogspot.com/-PT_95ZB8VdM/WXAxNEiAgqI/AAAAAAAAEGQ/r1ABJdMLCU4VA5JpnKtm9D4R73HLsvLOwCLcBGAs/s1600/Screen%2BShot%2B2017-07-20%2Bat%2B12.27.05%2BPM.png)
-
   
 
 **Nuby Comfort 360 bottle made of silicone**
@@ -45,8 +41,6 @@ See:
   
 
 [![](https://4.bp.blogspot.com/-5zP8yDj_elo/WXAs92sfZ2I/AAAAAAAAEGA/7Xxus5el37gjzz8PZaygCW32E2tSs9FjgCLcBGAs/s640/Photo%2BJul%2B20%252C%2B10%2B57%2B18.jpg)
-
-](https://4.bp.blogspot.com/-5zP8yDj_elo/WXAs92sfZ2I/AAAAAAAAEGA/7Xxus5el37gjzz8PZaygCW32E2tSs9FjgCLcBGAs/s1600/Photo%2BJul%2B20%252C%2B10%2B57%2B18.jpg)
 
 Boleh picit.  
   
@@ -67,8 +61,6 @@ Secondly, this bottle comes with a cute bottle handle so babies can hold the bot
 
 [![](https://4.bp.blogspot.com/-aMv7YaPu05A/WXAs9swaGnI/AAAAAAAAEF8/7TA8N1CZlb0aOFq5k_rppnpUWNSVEy_zQCLcBGAs/s640/Photo%2BJul%2B19%252C%2B13%2B29%2B54.jpg)
 
-](https://4.bp.blogspot.com/-aMv7YaPu05A/WXAs9swaGnI/AAAAAAAAEF8/7TA8N1CZlb0aOFq5k_rppnpUWNSVEy_zQCLcBGAs/s1600/Photo%2BJul%2B19%252C%2B13%2B29%2B54.jpg)
-
   
 
   
@@ -78,8 +70,6 @@ It features anti-colic valves that can reduce wind and the amount of suction you
   
 
 [![](https://2.bp.blogspot.com/-kQ9-41ouOsA/WXAs-sdCbEI/AAAAAAAAEGE/dEuETb_97_AJXOJ1yXphePxy_76ShHRJgCLcBGAs/s640/Photo%2BJul%2B20%252C%2B10%2B59%2B42.jpg)
-
-](https://2.bp.blogspot.com/-kQ9-41ouOsA/WXAs-sdCbEI/AAAAAAAAEGE/dEuETb_97_AJXOJ1yXphePxy_76ShHRJgCLcBGAs/s1600/Photo%2BJul%2B20%252C%2B10%2B59%2B42.jpg)
 
 **Nuby Comfort 360 bottle is wide neck**
 

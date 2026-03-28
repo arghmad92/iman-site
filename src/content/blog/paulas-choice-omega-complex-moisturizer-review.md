@@ -10,8 +10,6 @@ draft: false
 
 [![](https://1.bp.blogspot.com/-7D9F0aaGH_g/XpF3OqMJV6I/AAAAAAAAJN0/oexaAAIROOw-WwmeRYajYm-npuARGZw4gCLcBGAsYHQ/s640/56823F50-C772-4377-863D-B350A9CE1003.JPG)
 
-](https://1.bp.blogspot.com/-7D9F0aaGH_g/XpF3OqMJV6I/AAAAAAAAJN0/oexaAAIROOw-WwmeRYajYm-npuARGZw4gCLcBGAsYHQ/s1600/56823F50-C772-4377-863D-B350A9CE1003.JPG)
-
   
 
   
@@ -42,8 +40,6 @@ Omega+ Complex Moisturizer immediately hydrates, soothes, and steadily addresses
 
 [![](https://1.bp.blogspot.com/-e_PF4mk1z_w/XpF3OoKvWVI/AAAAAAAAJN8/81JyEU1PCZgxL8UuObxPXF81vh0nfWHbACLcBGAsYHQ/s640/279B6261-6C57-4700-B3C3-91AE73D98697.JPG)
 
-](https://1.bp.blogspot.com/-e_PF4mk1z_w/XpF3OoKvWVI/AAAAAAAAJN8/81JyEU1PCZgxL8UuObxPXF81vh0nfWHbACLcBGAsYHQ/s1600/279B6261-6C57-4700-B3C3-91AE73D98697.JPG)
-
   
 
  **Packaging**: 
@@ -53,8 +49,6 @@ It comes in a 50ml light blue plastic bottle with a pump and transparent plastic
   
 
 [![](https://1.bp.blogspot.com/-f2jtp3uVsFs/XpF3Oh3bmvI/AAAAAAAAJN4/0vYH_b57u_QEIJy4HAEVOMCTE2WZlg7-wCLcBGAsYHQ/s640/58E13B76-FC3D-46CC-AD73-8610585A06BA.JPG)
-
-](https://1.bp.blogspot.com/-f2jtp3uVsFs/XpF3Oh3bmvI/AAAAAAAAJN4/0vYH_b57u_QEIJy4HAEVOMCTE2WZlg7-wCLcBGAsYHQ/s1600/58E13B76-FC3D-46CC-AD73-8610585A06BA.JPG)
 
   
 
@@ -71,8 +65,6 @@ White thick cream 
   
 
 [![](https://1.bp.blogspot.com/-PH2YExKOnDo/XpF3PhTaptI/AAAAAAAAJOA/yoYInjTPej4aIJDlYyncstGMVKPAJOVHwCLcBGAsYHQ/s640/7C83E5AD-3718-45CF-ACF7-CA3165C1094D.JPG)
-
-](https://1.bp.blogspot.com/-PH2YExKOnDo/XpF3PhTaptI/AAAAAAAAJOA/yoYInjTPej4aIJDlYyncstGMVKPAJOVHwCLcBGAsYHQ/s1600/7C83E5AD-3718-45CF-ACF7-CA3165C1094D.JPG)
 
   
 

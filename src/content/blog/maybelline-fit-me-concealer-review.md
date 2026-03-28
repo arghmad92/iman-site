@@ -16,8 +16,6 @@ I am so into concealers right now. The main reason why I love (and need) a conce
 
 [![](https://4.bp.blogspot.com/-bJguxmw81gM/Wa5oUV6204I/AAAAAAAAEoY/EK-0gD_un4ItNCLUhUDZ7FCz3v55xJKGgCLcBGAs/s640/Photo%2B05-09-2017%252C%2B4%2B21%2B44%2BPM.jpg)
 
-](https://4.bp.blogspot.com/-bJguxmw81gM/Wa5oUV6204I/AAAAAAAAEoY/EK-0gD_un4ItNCLUhUDZ7FCz3v55xJKGgCLcBGAs/s1600/Photo%2B05-09-2017%252C%2B4%2B21%2B44%2BPM.jpg)
-
   
 
   
@@ -59,13 +57,9 @@ Step 2. Pat with a finger to blend.
   
 Yang ni based on their website la. But for me, I don't dot. I buat macam symbol arrow under my eyes, and blend it using my fingers je kalau malas. Masa rajin, I'll blend it using sponge.  
   
-[![](https://3.bp.blogspot.com/-xsgRGJCl3Dk/Wa5oVe2L60I/AAAAAAAAEoo/9IEZ-sALrlUk0Yg8zECtoWbU5-9gLHi6gCLcBGAs/s640/Photo%2B05-09-2017%252C%2B4%2B24%2B11%2BPM.jpg)
-
-](https://3.bp.blogspot.com/-xsgRGJCl3Dk/Wa5oVe2L60I/AAAAAAAAEoo/9IEZ-sALrlUk0Yg8zECtoWbU5-9gLHi6gCLcBGAs/s1600/Photo%2B05-09-2017%252C%2B4%2B24%2B11%2BPM.jpg)  
+[![](https://3.bp.blogspot.com/-xsgRGJCl3Dk/Wa5oVe2L60I/AAAAAAAAEoo/9IEZ-sALrlUk0Yg8zECtoWbU5-9gLHi6gCLcBGAs/s640/Photo%2B05-09-2017%252C%2B4%2B24%2B11%2BPM.jpg)  
   
 [![](https://1.bp.blogspot.com/-DbvnJa0wlEo/Wa5oVTD7sJI/AAAAAAAAEok/HoE0eVkYixkmujkE1WIyCl41EVcjNhwQwCLcBGAs/s640/Photo%2B05-09-2017%252C%2B4%2B23%2B47%2BPM.jpg)
-
-](https://1.bp.blogspot.com/-DbvnJa0wlEo/Wa5oVTD7sJI/AAAAAAAAEok/HoE0eVkYixkmujkE1WIyCl41EVcjNhwQwCLcBGAs/s1600/Photo%2B05-09-2017%252C%2B4%2B23%2B47%2BPM.jpg)
 
   
 
@@ -80,13 +74,9 @@ I like this kind of  concealer, instead the Maybelline Instant Age Rewind tu. T
   
 Read here: [MAYBELLINE INSTANT AGE REWIND ERASER DARK CIRCLES TREATMENT CONCEALER REVIEW](http://imanabdulrahim.blogspot.my/2017/06/maybelline-instant-age-rewind-eraser.html)  
   
-[![](https://4.bp.blogspot.com/-6qz-rIcamIY/Wa5oUfyivRI/AAAAAAAAEoc/o5DrScylu104Efzsiz3nuCXtmw_RszncQCLcBGAs/s640/Photo%2B05-09-2017%252C%2B4%2B21%2B59%2BPM.jpg)
-
-](https://4.bp.blogspot.com/-6qz-rIcamIY/Wa5oUfyivRI/AAAAAAAAEoc/o5DrScylu104Efzsiz3nuCXtmw_RszncQCLcBGAs/s1600/Photo%2B05-09-2017%252C%2B4%2B21%2B59%2BPM.jpg)  
+[![](https://4.bp.blogspot.com/-6qz-rIcamIY/Wa5oUfyivRI/AAAAAAAAEoc/o5DrScylu104Efzsiz3nuCXtmw_RszncQCLcBGAs/s640/Photo%2B05-09-2017%252C%2B4%2B21%2B59%2BPM.jpg)  
   
-[![](https://4.bp.blogspot.com/-mYlkLiaJ-Mw/Wa5oVRNaCcI/AAAAAAAAEog/4cSjoYB300gTKYmoAD-FVN5sotRE4Hl-gCLcBGAs/s640/Photo%2B05-09-2017%252C%2B4%2B22%2B37%2BPM.jpg)
-
-](https://4.bp.blogspot.com/-mYlkLiaJ-Mw/Wa5oVRNaCcI/AAAAAAAAEog/4cSjoYB300gTKYmoAD-FVN5sotRE4Hl-gCLcBGAs/s1600/Photo%2B05-09-2017%252C%2B4%2B22%2B37%2BPM.jpg)  
+[![](https://4.bp.blogspot.com/-mYlkLiaJ-Mw/Wa5oVRNaCcI/AAAAAAAAEog/4cSjoYB300gTKYmoAD-FVN5sotRE4Hl-gCLcBGAs/s640/Photo%2B05-09-2017%252C%2B4%2B22%2B37%2BPM.jpg)  
 After blending the concealer.  
   
 **What I love about Maybelline Fit Me Concealer**  
@@ -98,9 +88,7 @@ After blending the concealer.
 \- Really affordable and senang nak beli.  
 \- The packaging. Kurus kecik je, senang nak masuk bag.  
   
-[![](https://2.bp.blogspot.com/-vfGdQ0-xyc8/Wa5oUH3lXvI/AAAAAAAAEoU/hXQujReEw2YHk493cDdsSoS5qx_JRH7eQCLcBGAs/s640/Photo%2B05-09-2017%252C%2B4%2B07%2B43%2BPM.jpg)
-
-](https://2.bp.blogspot.com/-vfGdQ0-xyc8/Wa5oUH3lXvI/AAAAAAAAEoU/hXQujReEw2YHk493cDdsSoS5qx_JRH7eQCLcBGAs/s1600/Photo%2B05-09-2017%252C%2B4%2B07%2B43%2BPM.jpg)  
+[![](https://2.bp.blogspot.com/-vfGdQ0-xyc8/Wa5oUH3lXvI/AAAAAAAAEoU/hXQujReEw2YHk493cDdsSoS5qx_JRH7eQCLcBGAs/s640/Photo%2B05-09-2017%252C%2B4%2B07%2B43%2BPM.jpg)  
 I am not wearing any foundation / bb cream / base. Just the Maybelline Fit Me concealer under my eyes.  
   
 **What I don't like about Maybelline Fit Me Concealer**  

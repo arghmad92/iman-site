@@ -14,8 +14,6 @@ First of all, bila orang tanya, "Macam mana nak hilangkan sunburn?", I selalu ke
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYSV3YzAD2yaBSHJYMwfwzP-eD8mcUiXXw59SBFqMsqrsgTYkETPsvI96CzM2VCadyPzyWKZoeaHtivI7Om8rx4I1GjStksqRPe88dOvitDEnKKat-uadW2EmQIMgnfDlMgH49sFbnc4xx/s640/What-causes-sunburn-or-suntan.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYSV3YzAD2yaBSHJYMwfwzP-eD8mcUiXXw59SBFqMsqrsgTYkETPsvI96CzM2VCadyPzyWKZoeaHtivI7Om8rx4I1GjStksqRPe88dOvitDEnKKat-uadW2EmQIMgnfDlMgH49sFbnc4xx/s1600/What-causes-sunburn-or-suntan.jpg)
-
   
 
   

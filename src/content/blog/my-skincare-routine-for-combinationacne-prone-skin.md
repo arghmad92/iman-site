@@ -22,8 +22,6 @@ I am going to start with my friend, Anisa's skincare routine. Her twitter: [Nis
 
 [![](https://1.bp.blogspot.com/-obTWZfkvNuA/Wa0dTynfM8I/AAAAAAAAEmQ/1hbwJooIwuEkxOKzE3IoM6hFsDJwbmGrgCLcBGAs/s640/Photo%2B04-09-2017%252C%2B5%2B19%2B42%2BPM.jpg)
 
-](https://1.bp.blogspot.com/-obTWZfkvNuA/Wa0dTynfM8I/AAAAAAAAEmQ/1hbwJooIwuEkxOKzE3IoM6hFsDJwbmGrgCLcBGAs/s1600/Photo%2B04-09-2017%252C%2B5%2B19%2B42%2BPM.jpg)
-
   
 
   
@@ -69,8 +67,6 @@ _Honestly, I owe it to Iman because she is extremely diligent in doing her resea
 
 [![](https://3.bp.blogspot.com/-zfnacbar-k4/Wa0e5Y36djI/AAAAAAAAEmc/TY6rsN3-s8g7fXqFgtD1YGyZnp1ZM4OJQCLcBGAs/s640/Picture1.png)
 
-](https://3.bp.blogspot.com/-zfnacbar-k4/Wa0e5Y36djI/AAAAAAAAEmc/TY6rsN3-s8g7fXqFgtD1YGyZnp1ZM4OJQCLcBGAs/s1600/Picture1.png)
-
  Avene Cleanance Cleansing Gel review 
 
   
@@ -101,8 +97,6 @@ Would she repurchase? A hundred times yes! 
 
 [![](https://4.bp.blogspot.com/-hytQPm3H_Yg/Wa0gg6b0oJI/AAAAAAAAEmo/x9FYSaxFHFM4rM0q_kT2kEnFooooyVztACLcBGAs/s640/Picture1.png)
 
-](https://4.bp.blogspot.com/-hytQPm3H_Yg/Wa0gg6b0oJI/AAAAAAAAEmo/x9FYSaxFHFM4rM0q_kT2kEnFooooyVztACLcBGAs/s1600/Picture1.png)
-
   
 
 **What she says about it?**
@@ -126,8 +120,6 @@ Would she repurchase?: No. She just want to finish this bottle because she wanna
   
 
 [![](https://3.bp.blogspot.com/-hsZB7f6x7MU/Wa0glyVcNjI/AAAAAAAAEms/x8JnBGgwIhsUDd48VmqReTjVpgoN_sTUgCLcBGAs/s640/Picture2.png)
-
-](https://3.bp.blogspot.com/-hsZB7f6x7MU/Wa0glyVcNjI/AAAAAAAAEms/x8JnBGgwIhsUDd48VmqReTjVpgoN_sTUgCLcBGAs/s1600/Picture2.png)
 
   
 
@@ -157,8 +149,6 @@ Would she repurchase?: Definitely! She can’t live without this one
 
 [![](https://1.bp.blogspot.com/-10Xfz3kz0FI/Wa0iMKSlIaI/AAAAAAAAEnA/_v4i-WIgI4Y5wi1RK7Q7qpGZSMtGlmX3QCLcBGAs/s640/41GZVS8INCL._SY450_.jpg)
 
-](https://1.bp.blogspot.com/-10Xfz3kz0FI/Wa0iMKSlIaI/AAAAAAAAEnA/_v4i-WIgI4Y5wi1RK7Q7qpGZSMtGlmX3QCLcBGAs/s1600/41GZVS8INCL._SY450_.jpg)
-
 **What she says about it?**
 
 _This product claims to effectively control oil and avoid pores enlarging with witch hazel leaf extract and vitamin B3 to help pore astringent and larcyl to diminish and tighten pores effectively._ 
@@ -182,8 +172,6 @@ Would she repurchase: No 
   
 
 [![](https://4.bp.blogspot.com/-Jcx-kGyBkrg/Wa0kBjgxK7I/AAAAAAAAEnM/6sspI9uC4bgsF_REaUHaXG0myFviu8fhACLcBGAs/s640/10503_cosrx-advanced-snail-92-all-in-one-cream-100ml_440_280_1476939561.png)
-
-](https://4.bp.blogspot.com/-Jcx-kGyBkrg/Wa0kBjgxK7I/AAAAAAAAEnM/6sspI9uC4bgsF_REaUHaXG0myFviu8fhACLcBGAs/s1600/10503_cosrx-advanced-snail-92-all-in-one-cream-100ml_440_280_1476939561.png)
 
   
 
@@ -218,8 +206,6 @@ Would she repurchase: Yes 
   
 
 [![](https://4.bp.blogspot.com/-YxIRZaHcbbY/Wa0kY9V7ZHI/AAAAAAAAEnQ/W_-y2ySYLWM06oLYECg8GKkIczez6gl0ACLcBGAs/s640/Heliocare-Gel-SPF-50-2.jpg)
-
-](https://4.bp.blogspot.com/-YxIRZaHcbbY/Wa0kY9V7ZHI/AAAAAAAAEnQ/W_-y2ySYLWM06oLYECg8GKkIczez6gl0ACLcBGAs/s1600/Heliocare-Gel-SPF-50-2.jpg)
 
   
 
@@ -265,8 +251,6 @@ Her night skincare routine is exactly as her day routine but she added 1 step be
 
 [![](https://3.bp.blogspot.com/-QAmFlKWBtpo/Wa0l_HW8xnI/AAAAAAAAEnc/lW_bg6FphswVOB8SIhVXnKIUpfmWLgVhQCLcBGAs/s640/download.jpeg)
 
-](https://3.bp.blogspot.com/-QAmFlKWBtpo/Wa0l_HW8xnI/AAAAAAAAEnc/lW_bg6FphswVOB8SIhVXnKIUpfmWLgVhQCLcBGAs/s1600/download.jpeg)
-
   
 
 **What she says?**
@@ -288,8 +272,6 @@ _Would I repurchase: Of course! Current one dah nak habis._ 
   
 
 [![](https://1.bp.blogspot.com/-_A9Yk2DsNZI/Wa0mPj6UClI/AAAAAAAAEng/dBHGsR2SkWYkMr0zg25ELvTT53w5NikYQCLcBGAs/s640/time-freeze-firming-sleeping-mask_01.png)
-
-](https://1.bp.blogspot.com/-_A9Yk2DsNZI/Wa0mPj6UClI/AAAAAAAAEng/dBHGsR2SkWYkMr0zg25ELvTT53w5NikYQCLcBGAs/s1600/time-freeze-firming-sleeping-mask_01.png)
 
   
 

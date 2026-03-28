@@ -10,8 +10,6 @@ draft: false
 
 [![](https://1.bp.blogspot.com/-hB-EXdqKypg/XQBsKCGZh-I/AAAAAAAAIng/c1OiH8jGJEQEnw6G0qQH2xE9msklcAOrQCLcBGAs/s640/CEAD9F9A-1943-4211-A343-A6DCC4C62FDD.jpg)
 
-](https://1.bp.blogspot.com/-hB-EXdqKypg/XQBsKCGZh-I/AAAAAAAAIng/c1OiH8jGJEQEnw6G0qQH2xE9msklcAOrQCLcBGAs/s1600/CEAD9F9A-1943-4211-A343-A6DCC4C62FDD.jpg)
-
 Laneige Cream Skin Refiner Review
 
   
@@ -29,8 +27,6 @@ Since this Laneige Cream Skin Refiner has A LOT of great reviews, of course I a
 
 [![](https://1.bp.blogspot.com/-FgA0Ncs-Y_w/XQBsKNLgHpI/AAAAAAAAIno/0AUswLBFqyESfhQuYDM-8EEnd8THSBD7gCLcBGAs/s640/B8598003-C59F-4463-B867-9257799100C8.jpg)
 
-](https://1.bp.blogspot.com/-FgA0Ncs-Y_w/XQBsKNLgHpI/AAAAAAAAIno/0AUswLBFqyESfhQuYDM-8EEnd8THSBD7gCLcBGAs/s1600/B8598003-C59F-4463-B867-9257799100C8.jpg)
-
   
 
 **Ingredient list (taken from Laneige's website)**
@@ -40,9 +36,7 @@ WATER / AQUA / EAU, BUTYLENE GLYCOL, GLYCERIN, LIMNANTHES ALBA (MEADOWFOAM) SEED
   
 **Scent**: No noticeable scent. There is no fragrance in this. Macam tak ada bau je.  
   
-[![](https://1.bp.blogspot.com/-7RwNhrFGkuE/XQBsKB5QsFI/AAAAAAAAInk/cCNAsGeUg-cKULhH9SNlhKdEbojhxlcSACLcBGAs/s640/A46B2726-E96C-43BC-88CB-9B4C224F80D7.jpg)
-
-](https://1.bp.blogspot.com/-7RwNhrFGkuE/XQBsKB5QsFI/AAAAAAAAInk/cCNAsGeUg-cKULhH9SNlhKdEbojhxlcSACLcBGAs/s1600/A46B2726-E96C-43BC-88CB-9B4C224F80D7.jpg)  
+[![](https://1.bp.blogspot.com/-7RwNhrFGkuE/XQBsKB5QsFI/AAAAAAAAInk/cCNAsGeUg-cKULhH9SNlhKdEbojhxlcSACLcBGAs/s640/A46B2726-E96C-43BC-88CB-9B4C224F80D7.jpg)  
   
 **Texture**: Oh I love the texture! It's like a milky white watery texture that feels really hydrated and absorbs nicely into the skin. Terus rasa kulit best and soothing sangat. I can do 3-5 layers of this.  
   
@@ -53,9 +47,7 @@ WATER / AQUA / EAU, BUTYLENE GLYCOL, GLYCERIN, LIMNANTHES ALBA (MEADOWFOAM) SEED
 I really enjoyed using this Laneige Cream Skin Refiner. I selalu guna after cleanse my face, as a toner. Tuang atas tangan and dab dekat kulit. Kalau kulit rasa kering sangat, I apply 3-5 layers. Memang buat kulit rasa hydrated sangat. Then continue with my moisturizer.  
   
 
-[![](https://1.bp.blogspot.com/-1jGqcZFIXqg/XQBoad5JK-I/AAAAAAAAInU/jyB1HwrFpsE06uBT_wIFuhoYCWhmJjANQCLcBGAs/s640/Screenshot%2B2019-06-12%2Bat%2B10.50.04%2BAM.png)
-
-](https://1.bp.blogspot.com/-1jGqcZFIXqg/XQBoad5JK-I/AAAAAAAAInU/jyB1HwrFpsE06uBT_wIFuhoYCWhmJjANQCLcBGAs/s1600/Screenshot%2B2019-06-12%2Bat%2B10.50.04%2BAM.png)  
+[![](https://1.bp.blogspot.com/-1jGqcZFIXqg/XQBoad5JK-I/AAAAAAAAInU/jyB1HwrFpsE06uBT_wIFuhoYCWhmJjANQCLcBGAs/s640/Screenshot%2B2019-06-12%2Bat%2B10.50.04%2BAM.png)  
 This is based on their website. 
 
 [https://www.laneige.com/my/en/product/skincare/category/view.cream-skin-refiner.skin\_refiner.html](https://www.laneige.com/my/en/product/skincare/category/view.cream-skin-refiner.skin_refiner.html)  

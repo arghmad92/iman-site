@@ -10,8 +10,6 @@ draft: false
 
 [![](https://4.bp.blogspot.com/-FvI4TqNphjA/XACl1mdi-TI/AAAAAAAAHfA/IcwQRinEScooCwTDULLSYv-fqu61yR_nwCLcBGAs/s640/IMG_0429.PNG)
 
-](https://4.bp.blogspot.com/-FvI4TqNphjA/XACl1mdi-TI/AAAAAAAAHfA/IcwQRinEScooCwTDULLSYv-fqu61yR_nwCLcBGAs/s1600/IMG_0429.PNG)
-
  What are soothing ingredients?
 
   
@@ -41,8 +39,6 @@ Kalau tanya apa contoh soothing ingredients, normally memang orang akan jawab fi
 
 [![](https://3.bp.blogspot.com/-q1bxJCYUWwM/XACl1EpPksI/AAAAAAAAHe8/06LrWWc-kRs4SuVAMEYMbu7UWPxVRVARwCLcBGAs/s640/IMG_0059.PNG)
 
-](https://3.bp.blogspot.com/-q1bxJCYUWwM/XACl1EpPksI/AAAAAAAAHe8/06LrWWc-kRs4SuVAMEYMbu7UWPxVRVARwCLcBGAs/s1600/IMG_0059.PNG)
-
   
 
 1\. Innisfree Aloe Revival Soothing Gel
@@ -63,8 +59,6 @@ One of the most well researched ingredient. Elok juga sebagai anti-oxidant dan i
 
 [![](https://4.bp.blogspot.com/-rilpoceVsJw/XACl0rX_o1I/AAAAAAAAHe4/CwGE-z2E0Ls_yQgvAPKtGKwgSndM63MpwCLcBGAs/s640/IMG_0050.PNG)
 
-](https://4.bp.blogspot.com/-rilpoceVsJw/XACl0rX_o1I/AAAAAAAAHe4/CwGE-z2E0Ls_yQgvAPKtGKwgSndM63MpwCLcBGAs/s1600/IMG_0050.PNG)
-
   
 
   
@@ -79,8 +73,6 @@ Normally dalam ingredient, dia akan tulis 'snail secretion filtrate'. 
 
 [![](https://2.bp.blogspot.com/-oB-lFyE-ppE/XAClzeH9M4I/AAAAAAAAHes/-PDCMvUbvXszT9Yf_2bVO-xuIrim8Kb2gCLcBGAs/s640/IMG_0031.PNG)
 
-](https://2.bp.blogspot.com/-oB-lFyE-ppE/XAClzeH9M4I/AAAAAAAAHes/-PDCMvUbvXszT9Yf_2bVO-xuIrim8Kb2gCLcBGAs/s1600/IMG_0031.PNG)
-
   
 
 I've reviewed the Cosrx Snail Mucin here: [https://www.imanabdulrahim.com/2018/03/cosrx-advanced-snail-96-mucin-power.html](https://www.imanabdulrahim.com/2018/03/cosrx-advanced-snail-96-mucin-power.html)
@@ -94,8 +86,6 @@ I've reviewed the Cosrx Snail Mucin here: [https://www.imanabdulrahim.com/2018/
 One of the excellent ingredients to improve redness and sensitive skin.
 
 [![](https://4.bp.blogspot.com/-8ncXb94TPEg/XAClzXsOzxI/AAAAAAAAHeo/IOno_30tdZIMZelx-iCz-riD_dZLjrRPACLcBGAs/s640/IMG_0035.PNG)
-
-](https://4.bp.blogspot.com/-8ncXb94TPEg/XAClzXsOzxI/AAAAAAAAHeo/IOno_30tdZIMZelx-iCz-riD_dZLjrRPACLcBGAs/s1600/IMG_0035.PNG)
 
   
 
@@ -115,16 +105,12 @@ Or also known as pegaga. Anti-oxidant, soothing properties and improve skin's mo
 
 [![](https://1.bp.blogspot.com/-jFd8BiC-GyY/XAClzR24unI/AAAAAAAAHew/ToGtSpPMI2wWlm-V_LqRBcREW5wlmmWqgCLcBGAs/s640/IMG_0042.PNG)
 
-](https://1.bp.blogspot.com/-jFd8BiC-GyY/XAClzR24unI/AAAAAAAAHew/ToGtSpPMI2wWlm-V_LqRBcREW5wlmmWqgCLcBGAs/s1600/IMG_0042.PNG)
-
   
   
 
 ## 6\. Honey (propolis)
 
 [![](https://4.bp.blogspot.com/-mBCkHt6qLFM/XACl0jyPYPI/AAAAAAAAHe0/ZK_yih2RSTQMx-g7f_-edhDt2VJVfq-5QCLcBGAs/s320/IMG_0046.PNG)
-
-](https://4.bp.blogspot.com/-mBCkHt6qLFM/XACl0jyPYPI/AAAAAAAAHe0/ZK_yih2RSTQMx-g7f_-edhDt2VJVfq-5QCLcBGAs/s1600/IMG_0046.PNG)
 
   
 
@@ -141,8 +127,6 @@ Other soothing ingredients:
   
 
 [![](https://4.bp.blogspot.com/-T0FiX7qMZW0/XACl1qfYgQI/AAAAAAAAHfE/YX3b5ZKgEIALuG7wsOoYuV5DYzJP_R9LwCLcBGAs/s640/IMG_0431.PNG)
-
-](https://4.bp.blogspot.com/-T0FiX7qMZW0/XACl1qfYgQI/AAAAAAAAHfE/YX3b5ZKgEIALuG7wsOoYuV5DYzJP_R9LwCLcBGAs/s1600/IMG_0431.PNG)
 
   
 

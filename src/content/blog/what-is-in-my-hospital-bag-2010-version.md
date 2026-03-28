@@ -10,8 +10,6 @@ draft: false
 
 [![](https://1.bp.blogspot.com/-J1nEDu4tz4E/YTh6LIFU2HI/AAAAAAAAJ8k/ZA4S_aguQKcQZLszlGk3LJ2DRhtrnI1xQCLcBGAsYHQ/w640-h640/hospital%2Bbag.png)
 
-](https://1.bp.blogspot.com/-J1nEDu4tz4E/YTh6LIFU2HI/AAAAAAAAJ8k/ZA4S_aguQKcQZLszlGk3LJ2DRhtrnI1xQCLcBGAsYHQ/s1080/hospital%2Bbag.png)
-
   
 
  What is in my hospital bag?
@@ -38,8 +36,6 @@ I ada share kat Instagram dulu but let me share here pulak :P
 **Mummy's Stuff**
 
 [![](https://1.bp.blogspot.com/-L2AZDRf7O3Q/YTh4Vq4iHMI/AAAAAAAAJ8U/YGbnovcasGsMrn6-wok4-RcMQVZ999I1ACLcBGAsYHQ/w640-h636/Screenshot%2B2021-09-08%2Bat%2B4.45.58%2BPM.png)
-
-](https://1.bp.blogspot.com/-L2AZDRf7O3Q/YTh4Vq4iHMI/AAAAAAAAJ8U/YGbnovcasGsMrn6-wok4-RcMQVZ999I1ACLcBGAsYHQ/s1202/Screenshot%2B2021-09-08%2Bat%2B4.45.58%2BPM.png)
 
   
 
@@ -76,8 +72,6 @@ I ada share kat Instagram dulu but let me share here pulak :P
 **Baby's Stuff**
 
 [![](https://1.bp.blogspot.com/-2YVKaBioIjA/YTh459ZRkSI/AAAAAAAAJ8c/pi3A2JQF-Pw2F_Ouap0OLYuZ99NAppwbgCLcBGAsYHQ/w634-h640/Screenshot%2B2021-09-08%2Bat%2B4.48.15%2BPM.png)
-
-](https://1.bp.blogspot.com/-2YVKaBioIjA/YTh459ZRkSI/AAAAAAAAJ8c/pi3A2JQF-Pw2F_Ouap0OLYuZ99NAppwbgCLcBGAsYHQ/s1192/Screenshot%2B2021-09-08%2Bat%2B4.48.15%2BPM.png)
 
   
 

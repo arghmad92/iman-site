@@ -14,8 +14,6 @@ This unscented toner is Klairs new version of their best selling Supple Prepara
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK2VZt_37yH_YISGVuPB6wiiIogorxwqth47xBXvhSmE1FlhTclNKq76S5GFtyGztFu1EZiZBBw43Lsq9ADCQeg7XhpJjVn7pvwdi5Q9oDlcw_yUv00Tgb-aJQt99DBrBlKpO_mgO6Y2dm/s640/Photo+15-05-2018%252C+1+32+12+AM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK2VZt_37yH_YISGVuPB6wiiIogorxwqth47xBXvhSmE1FlhTclNKq76S5GFtyGztFu1EZiZBBw43Lsq9ADCQeg7XhpJjVn7pvwdi5Q9oDlcw_yUv00Tgb-aJQt99DBrBlKpO_mgO6Y2dm/s1600/Photo+15-05-2018%252C+1+32+12+AM.jpg)
-
   
   
   
@@ -39,8 +37,6 @@ Then, when Klairs released the new unscented toner, I was excited. Amboi, yang v
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGwLX6AKyD6IxoQIhTVDmnCCmon9DzDGyW_qdejeLC-SzTNn9OvIK98kWyO9Q7MucOYlJtQ2wGnBZRmLU1lhry8JqRG-7aYDBh1Dd4vhvaTKNRodgb5qAb62bxvXsqWqY492GIEFAJzgXm/s640/Screen+Shot+2018-05-15+at+9.48.15+AM.png)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGwLX6AKyD6IxoQIhTVDmnCCmon9DzDGyW_qdejeLC-SzTNn9OvIK98kWyO9Q7MucOYlJtQ2wGnBZRmLU1lhry8JqRG-7aYDBh1Dd4vhvaTKNRodgb5qAb62bxvXsqWqY492GIEFAJzgXm/s1600/Screen+Shot+2018-05-15+at+9.48.15+AM.png)
-
 Wishtrend normally ambil masa 10 hari untuk sampai.
 
   
@@ -60,8 +56,6 @@ You can also get this from [www.nattacosme.com](http://www.nattacosme.com/) fo
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH9xMUUX45v7Ltj3XFtZtDxOh8QQmKKVRozQSU0d9xp5tVxbS6nTwZnocK_Acv1yVtPpw6TzqeLixlw2qj5qkdy48MMW4A1CHpsN32VCYI34e0meeKTEasHRm8TKe8q3hiiAdarAVTx3rJ/s640/Photo+14-05-2018%252C+2+26+04+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH9xMUUX45v7Ltj3XFtZtDxOh8QQmKKVRozQSU0d9xp5tVxbS6nTwZnocK_Acv1yVtPpw6TzqeLixlw2qj5qkdy48MMW4A1CHpsN32VCYI34e0meeKTEasHRm8TKe8q3hiiAdarAVTx3rJ/s1600/Photo+14-05-2018%252C+2+26+04+PM.jpg)
 
   
 
@@ -109,8 +103,6 @@ This is from CosDNA:
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpiQcaNv-W8kGMpZfgKJsd4yBxzwI57Y7OI8xvI7qKdLSS9X3_eIa3MpUnv0jLFP2Z3BKIQPV_zWSt3AyXnRARIBF-Subfr4eCvcZcH5z1xWR0pj_VA2zn7ho0SsVIJ5DemxilDXfX_-GV/s640/Screen+Shot+2018-05-15+at+10.00.04+AM.png)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpiQcaNv-W8kGMpZfgKJsd4yBxzwI57Y7OI8xvI7qKdLSS9X3_eIa3MpUnv0jLFP2Z3BKIQPV_zWSt3AyXnRARIBF-Subfr4eCvcZcH5z1xWR0pj_VA2zn7ho0SsVIJ5DemxilDXfX_-GV/s1600/Screen+Shot+2018-05-15+at+10.00.04+AM.png)
-
   
 
 Basically the ingredients ada hydrating properties (Sodium Hyaluronate), soothing properties (Centella, Panthenol, Beta Glucan, Aloe Vera), brightening properties (Licorice Root Extract, Sodium Ascorbyl Phosphate), anti-oxidant properties (Tocopheryl Acetate, Arginine etc). A very good product with a lot of great ingredients. Yang penting, dia tak ada alcohol, tak ada fragrance, tak ada sensitizing ingredients.
@@ -125,8 +117,6 @@ Basically the ingredients ada hydrating properties (Sodium Hyaluronate), soothin
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYUara9hjgniGWiXGaTiGXNu7D_wJkgRz4LCnXC93ngValXLBqq4zGmomrN39n3PWMW6cpXsL5RgLB-M1dgIu68xfen6GSrSNoeZFacygmnHRobI9jwWTN06lYIiorBAwSppEPAyD8dDHp/s640/Photo+14-05-2018%252C+2+25+30+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYUara9hjgniGWiXGaTiGXNu7D_wJkgRz4LCnXC93ngValXLBqq4zGmomrN39n3PWMW6cpXsL5RgLB-M1dgIu68xfen6GSrSNoeZFacygmnHRobI9jwWTN06lYIiorBAwSppEPAyD8dDHp/s1600/Photo+14-05-2018%252C+2+25+30+PM.jpg)
-
   
 
 **Packaging**
@@ -136,8 +126,6 @@ It comes in a 180ml plastic clear transparent bottle with a screwable cap. The l
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguo4g-Toq-MjOOQIDx_qAMWCI7xbS-fyW149n5snG-sfZHz8nUdGPgo0O9SUPfiasntqpGidLGbxGZ-A-uDCaLUwIaUEGpHRpCLCi0cFu56Z3Rs0l0iwybE7Vgt66yUU12TCYzMKZFSorl/s640/Photo+14-05-2018%252C+4+20+54+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguo4g-Toq-MjOOQIDx_qAMWCI7xbS-fyW149n5snG-sfZHz8nUdGPgo0O9SUPfiasntqpGidLGbxGZ-A-uDCaLUwIaUEGpHRpCLCi0cFu56Z3Rs0l0iwybE7Vgt66yUU12TCYzMKZFSorl/s1600/Photo+14-05-2018%252C+4+20+54+PM.jpg)
 
   
 

@@ -16,8 +16,6 @@ My best skincare products in 2017 jeng jeng jeng...
 
 [![](https://3.bp.blogspot.com/-ezYE09VsaSg/WliYgxRkbSI/AAAAAAAAFyM/OrrR5z25sdcZdsjwLT5-fZdVadtsU7BMwCLcBGAs/s640/Photo%2B12-01-2018%252C%2B7%2B01%2B56%2BPM.jpg)
 
-](https://3.bp.blogspot.com/-ezYE09VsaSg/WliYgxRkbSI/AAAAAAAAFyM/OrrR5z25sdcZdsjwLT5-fZdVadtsU7BMwCLcBGAs/s1600/Photo%2B12-01-2018%252C%2B7%2B01%2B56%2BPM.jpg)
-
  Missha Time Revolution The First Treatment Essence (Intense Moist), MUJI Moisturizing Milk (High Moisture) and Laneige Lip Sleeping Mask!
 
   
@@ -79,8 +77,6 @@ Finally, of course kena mention, The Ordinary products.
   
 
 [![](https://2.bp.blogspot.com/-T5YDzdRoiRQ/WliYgzJwYyI/AAAAAAAAFyI/7NRlw50SDvYgyGMZR7Lqie4PkwUKF9OxwCLcBGAs/s640/Photo%2B12-01-2018%252C%2B7%2B03%2B12%2BPM.jpg)
-
-](https://2.bp.blogspot.com/-T5YDzdRoiRQ/WliYgzJwYyI/AAAAAAAAFyI/7NRlw50SDvYgyGMZR7Lqie4PkwUKF9OxwCLcBGAs/s1600/Photo%2B12-01-2018%252C%2B7%2B03%2B12%2BPM.jpg)
 
 Ini semua yang I ada sekarang. Not all are mine, half are my husband's. Really affordable and it really works. Acne, acne scars, dullness, pores, etc etc, semua boleh. LOVE.
 

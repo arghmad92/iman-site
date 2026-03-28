@@ -10,8 +10,6 @@ draft: false
 
 [![](https://4.bp.blogspot.com/-gXyag7lgDKY/XA6B8jsqeBI/AAAAAAAAHh8/0c-hqdt58a8aIxEnnhDuEr9Sipz5uIQXQCLcBGAs/s640/IMG_1295.PNG)
 
-](https://4.bp.blogspot.com/-gXyag7lgDKY/XA6B8jsqeBI/AAAAAAAAHh8/0c-hqdt58a8aIxEnnhDuEr9Sipz5uIQXQCLcBGAs/s1600/IMG_1295.PNG)
-
 Kalau moisturizer, foundation, BB cream dah ada SPF, perlu ke pakai sunscreen?
 
   
@@ -44,8 +42,6 @@ Untuk mendapatkan SPF yang secukupnya, kita perlu pakai sebanyak dua jari. 
   
 
 [![](https://1.bp.blogspot.com/-1W1ONNvat1s/XA6C6NAFmHI/AAAAAAAAHiE/a3mHvmaN9cM0v7HVwqVNb0nDyjhWA9_EwCLcBGAs/s640/IMG_1299.JPG)
-
-](https://1.bp.blogspot.com/-1W1ONNvat1s/XA6C6NAFmHI/AAAAAAAAHiE/a3mHvmaN9cM0v7HVwqVNb0nDyjhWA9_EwCLcBGAs/s1600/IMG_1299.JPG)
 
 Sebanyak ini untuk satu muka. Banyak ke?
 

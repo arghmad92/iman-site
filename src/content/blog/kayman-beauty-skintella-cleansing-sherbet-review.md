@@ -10,8 +10,6 @@ draft: false
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMvPW0C7JeSsNOcu1Hf_9qcEn89Ta4R8jzx2D_lqLtc129PlDUm9THuYRgy8cPcjlLPs4ZaLKB6YYLef7V26pJ0TnuLeMEIiitlLSX-8BdxwRygFTrbK9slEAuPwwICu6fbsGvdFmNHGpQUkCvhDl1iHMDPK7hXgIO95Xr7RY2VUc3j0J5PsoGpgDb5g/w480-h640/IMG_9021.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMvPW0C7JeSsNOcu1Hf_9qcEn89Ta4R8jzx2D_lqLtc129PlDUm9THuYRgy8cPcjlLPs4ZaLKB6YYLef7V26pJ0TnuLeMEIiitlLSX-8BdxwRygFTrbK9slEAuPwwICu6fbsGvdFmNHGpQUkCvhDl1iHMDPK7hXgIO95Xr7RY2VUc3j0J5PsoGpgDb5g/s4032/IMG_9021.jpg)
-
   
 
 Product Name: Skintella Cleansing Sherbet 
@@ -65,8 +63,6 @@ Melt away all traces of impurities for clean and soft skin with Skintella Cleans
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI86n_so7mZTI31rAx1kC6_mJwXWu52MDKT7WbHXZN3Cr1suaInsjDBvSGu4KEsAMP4_MkwYxYFte-nFYQ8kihBdwxFQsfR0wRAXLg-VS5C45SJ3Jd6FnQ8zRXj2VMAf1I6c3lV68wsBX-kSpfC_U9D1hCT0XCOxswFtOSu8dh7wmXVydhjEPQlrPb9g/w480-h640/IMG_9022.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI86n_so7mZTI31rAx1kC6_mJwXWu52MDKT7WbHXZN3Cr1suaInsjDBvSGu4KEsAMP4_MkwYxYFte-nFYQ8kihBdwxFQsfR0wRAXLg-VS5C45SJ3Jd6FnQ8zRXj2VMAf1I6c3lV68wsBX-kSpfC_U9D1hCT0XCOxswFtOSu8dh7wmXVydhjEPQlrPb9g/s4032/IMG_9022.jpg)
-
   
 
  **The packaging** 
@@ -76,8 +72,6 @@ It comes in a 40g black plastic jar with a flap lid. I suka okay penutup macam n
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7bRb1MJbucuPLaHAqYPIFWmtEMG7XlxKgG7wFab2_Sc-Unkq6RbfA3iyspI_1dwmse8oSDfZsxCGi1D3FzeAGQTZuNXLzQa7H0x9W8SMUEeUHu0TJrQDy9G7IFqocSc2Gldq0Fi4qhoKbHtXyz1m7aa5vdjpimqBRtSf7dlYLbVEjE8UrEc7FNPAoew/w480-h640/IMG_9025.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7bRb1MJbucuPLaHAqYPIFWmtEMG7XlxKgG7wFab2_Sc-Unkq6RbfA3iyspI_1dwmse8oSDfZsxCGi1D3FzeAGQTZuNXLzQa7H0x9W8SMUEeUHu0TJrQDy9G7IFqocSc2Gldq0Fi4qhoKbHtXyz1m7aa5vdjpimqBRtSf7dlYLbVEjE8UrEc7FNPAoew/s4032/IMG_9025.jpg)
 
   
 
@@ -90,8 +84,6 @@ A creamy balm sherbet texture that melts nicely like oil into your skin when you
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-RVL3IqOCYGclC14u9h9tJ2Elmc4bTJ0S81VnLe2SHPKJHO7WQ3HtXDLcoADAltqNc2MDm4bHx258GxSzKWJRAhWO4eJ4cudDOuBWLt8C-jY-gDYik7oUycscxSammvi_dHRZnoQXizKNXkZb4IfNvYg6jb4EweZCrpVZZ3UG3WlBrFHIYBA2JG-uRA/w480-h640/IMG_9024.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-RVL3IqOCYGclC14u9h9tJ2Elmc4bTJ0S81VnLe2SHPKJHO7WQ3HtXDLcoADAltqNc2MDm4bHx258GxSzKWJRAhWO4eJ4cudDOuBWLt8C-jY-gDYik7oUycscxSammvi_dHRZnoQXizKNXkZb4IfNvYg6jb4EweZCrpVZZ3UG3WlBrFHIYBA2JG-uRA/s4032/IMG_9024.jpg)
 
   
 
@@ -123,15 +115,11 @@ No noticeable scent. This product is free from any fragrance. 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiNDA1TxuvGHnOHCU_WhtCHNwo48e3axnWBY3q4cbD0jF8p1xlLlWJxIN6qw8LLKHHmNLZ7jpO76W8EREE7olDdLE01rE9VMevKgPf_-kg6SvP1_WfCWZERwtymRHmPJcuMqLBBj5qUlww7uhzKeDxZbWpHp7OtigYw5rJq8YtO3b08zHJp9rXoD_z4Q/s320/FullSizeRender.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiNDA1TxuvGHnOHCU_WhtCHNwo48e3axnWBY3q4cbD0jF8p1xlLlWJxIN6qw8LLKHHmNLZ7jpO76W8EREE7olDdLE01rE9VMevKgPf_-kg6SvP1_WfCWZERwtymRHmPJcuMqLBBj5qUlww7uhzKeDxZbWpHp7OtigYw5rJq8YtO3b08zHJp9rXoD_z4Q/s1244/FullSizeRender.jpg)
-
 1\. Apply product guna tangan yang KERING atas kulit muka yang KERING. Takmau basah basah tau. Make sure kering.
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZJEglrt6I4ROCq0Uf-8jzVdf6VviNS6ii9X8KaK0kKGauWmbUzc8PbVynIgNgBvVA2_chXOfcz7YDPRiVgdxa9yvX-fnmSNQCST5wNAkd1X1Cbt0ETJxeVNSW4A41rSAAEtGyzTKCTkfkz4CKMf9T0tULYwg5xBiDYGwQghNM04V0nnYKu8RGCDX-bw/s320/FullSizeRender%202.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZJEglrt6I4ROCq0Uf-8jzVdf6VviNS6ii9X8KaK0kKGauWmbUzc8PbVynIgNgBvVA2_chXOfcz7YDPRiVgdxa9yvX-fnmSNQCST5wNAkd1X1Cbt0ETJxeVNSW4A41rSAAEtGyzTKCTkfkz4CKMf9T0tULYwg5xBiDYGwQghNM04V0nnYKu8RGCDX-bw/s1281/FullSizeRender%202.jpg)
 
 2\. Urut kulit muka SLOWLY je biar makeup dan sunscreen tu cair
 
@@ -139,15 +127,11 @@ No noticeable scent. This product is free from any fragrance. 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIQDAN5UoEDb_0hR0Nkt4_TnaeIZFRAbWYxLaOQyr_Rx2uaRwMdvgPxKDTDkKm56PzDt0j7tOfFfccroXgAPcg-voAziNQe7tN4Fa9taitnZUqaFxsik5QCVcwARzXNWr6zVHU5Gi-kXcD2A83a-zgzmBhY83c379PVGQtXe3IYabUBXTONeEPU-I-3Q/s320/FullSizeRender%203.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIQDAN5UoEDb_0hR0Nkt4_TnaeIZFRAbWYxLaOQyr_Rx2uaRwMdvgPxKDTDkKm56PzDt0j7tOfFfccroXgAPcg-voAziNQe7tN4Fa9taitnZUqaFxsik5QCVcwARzXNWr6zVHU5Gi-kXcD2A83a-zgzmBhY83c379PVGQtXe3IYabUBXTONeEPU-I-3Q/s1181/FullSizeRender%203.jpg)
-
 3\. EMULSIFY it. Tambah air sikit sikit bagi dia jadi milky / keruh macam ni. Sambung urut. Kenapa step ni penting? Sebab nak bagi makeup lagi cair dah senang nak remove. Kalau bilas terus, nanti risau makeup tak habis bersih dan muka rasa berminyak.
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOhuPzaMZIkGXtRqXcrzvz6k9-PdhCgQ-gkjDFDKItXjdzk4B5nMnm5Rlr01bZkOdikiTWVCWGU4HVYpdmXvEWRxGc823ph46PnsVzBPBJ8gKVHEaB2o8_NQqle9L2S-8fxjvgiqdj3W13wSAIOq2OylVcnZApr6MPHw1quFmCotN-K-thtLSfTK4ASQ/s320/FullSizeRender%204.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOhuPzaMZIkGXtRqXcrzvz6k9-PdhCgQ-gkjDFDKItXjdzk4B5nMnm5Rlr01bZkOdikiTWVCWGU4HVYpdmXvEWRxGc823ph46PnsVzBPBJ8gKVHEaB2o8_NQqle9L2S-8fxjvgiqdj3W13wSAIOq2OylVcnZApr6MPHw1quFmCotN-K-thtLSfTK4ASQ/s1512/FullSizeRender%204.jpg)
 
 4.Tambah air sikit sedikit demi sedikit dan bilas bagi bersih. Terus kulit jadi smooth dan tak beminyak. Lepastu boleh la continue dengan your normal cleanser.
 
@@ -174,8 +158,6 @@ The first impression, this product is quite smaller than I thought. It’s only 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFQgK5AUxmzCoyieB0ZTQxBWwOVoM-rS2m37InqpFZrKrySZ7kHXwTa-ZkzeHx_PYRFltqXANd4fbQ8XweT4Kxfei87bBX4TwGfKaeac7Ckm2Hw3g3X4IqsgmgUCq1jC-1W4DzodJZBiezRbiLm69EZbXKDXlD4IG4RvHshNptDSmud_4ddaharzqwlQ/s320/IMG_9041.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFQgK5AUxmzCoyieB0ZTQxBWwOVoM-rS2m37InqpFZrKrySZ7kHXwTa-ZkzeHx_PYRFltqXANd4fbQ8XweT4Kxfei87bBX4TwGfKaeac7Ckm2Hw3g3X4IqsgmgUCq1jC-1W4DzodJZBiezRbiLm69EZbXKDXlD4IG4RvHshNptDSmud_4ddaharzqwlQ/s1125/IMG_9041.jpg)
 
   
 

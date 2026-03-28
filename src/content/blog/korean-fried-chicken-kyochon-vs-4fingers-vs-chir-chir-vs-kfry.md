@@ -14,8 +14,6 @@ The korean fried chicken craze! Sebenarnya I pun terpengaruh jugak. Sebab hello,
 
 [![](https://2.bp.blogspot.com/-PcxrxRrdt0w/WhZLrp67tHI/AAAAAAAAFYQ/Gki8sFy-sNElK0VKN6fIoxJAdOMQRUE2QCLcBGAs/s640/Photo%2B12-11-2017%252C%2B7%2B49%2B57%2BPM.jpg)
 
-](https://2.bp.blogspot.com/-PcxrxRrdt0w/WhZLrp67tHI/AAAAAAAAFYQ/Gki8sFy-sNElK0VKN6fIoxJAdOMQRUE2QCLcBGAs/s1600/Photo%2B12-11-2017%252C%2B7%2B49%2B57%2BPM.jpg)
-
   
 
   
@@ -46,8 +44,6 @@ I pernah pergi branch dekat Pavilion and MyTOWN. Haritu try Soy Garlic Wingette 
   
 
 [![](https://2.bp.blogspot.com/-6MQyCDyl_vw/WhZLrfTyIkI/AAAAAAAAFYI/4VZtbUwIZxMTpsRVMdojJSG5FX0gnc3DwCLcBGAs/s640/Photo%2B12-10-2017%252C%2B10%2B57%2B42%2BPM.jpg)
-
-](https://2.bp.blogspot.com/-6MQyCDyl_vw/WhZLrfTyIkI/AAAAAAAAFYI/4VZtbUwIZxMTpsRVMdojJSG5FX0gnc3DwCLcBGAs/s1600/Photo%2B12-10-2017%252C%2B10%2B57%2B42%2BPM.jpg)
 
   
 
@@ -83,8 +79,6 @@ Chir Chir ada ada yang small punya, if I'm not mistaken. Semua besar besar punya
 
 [![](https://4.bp.blogspot.com/-KpGwUeIWd60/WhZLrpC5usI/AAAAAAAAFYM/2MYDaWnEdkY9zEbZy0lYraO4axCTVdA1ACLcBGAs/s640/Photo%2B12-11-2017%252C%2B7%2B46%2B04%2BPM.jpg)
 
-](https://4.bp.blogspot.com/-KpGwUeIWd60/WhZLrpC5usI/AAAAAAAAFYM/2MYDaWnEdkY9zEbZy0lYraO4axCTVdA1ACLcBGAs/s1600/Photo%2B12-11-2017%252C%2B7%2B46%2B04%2BPM.jpg)
-
   
 
  I ordered Garlicky Wings. RM48.90. Tapi boleh je habis makan sorang sorang kalau lapar haha. It's a bit spicy untuk orang yang tak makan pedas macam I. My husband ordered Spicy Chicken, RM56.90. I imagine dia pedas gilaaaa, tapi bila I try, tak ada la pedas sangat. So I rasa, Chir Chir ni semua benda pedas, tapi pedas biasa biasa je.
@@ -103,15 +97,11 @@ KFry ni kalau dekat KL, ada dekat IOI City Mall je rasanya. 
 
 [![](https://2.bp.blogspot.com/-CejKBXR09Nc/WhZLtYnknjI/AAAAAAAAFYY/Fvd_ebkSRAAG_VcNQfPkA3OZF7RM7IhAQCLcBGAs/s640/Photo%2B14-11-2017%252C%2B1%2B56%2B38%2BPM.jpg)
 
-](https://2.bp.blogspot.com/-CejKBXR09Nc/WhZLtYnknjI/AAAAAAAAFYY/Fvd_ebkSRAAG_VcNQfPkA3OZF7RM7IhAQCLcBGAs/s1600/Photo%2B14-11-2017%252C%2B1%2B56%2B38%2BPM.jpg)
-
 I ordered KFry Garlic Soy Wings, RM18.90 for 8pcs. My friend Sarah ordered KFry Spicy Soya Chicks, RM28.90. Tapi tengok lah yang sampai, nampak dry gilaaaa. Not a fan :(
 
   
 
 [![](https://1.bp.blogspot.com/-7HlXGVCqUE0/WhZLs4ZvvgI/AAAAAAAAFYU/xktqMVQngEAOQcSRPvYQTZoqyVnsg6WFgCLcBGAs/s640/Photo%2B14-11-2017%252C%2B1%2B55%2B51%2BPM.jpg)
-
-](https://1.bp.blogspot.com/-7HlXGVCqUE0/WhZLs4ZvvgI/AAAAAAAAFYU/xktqMVQngEAOQcSRPvYQTZoqyVnsg6WFgCLcBGAs/s1600/Photo%2B14-11-2017%252C%2B1%2B55%2B51%2BPM.jpg)
 
  Saja nak try haritu, with my friends, Sarah, Mayy and Yana.
 
@@ -131,15 +121,11 @@ Tapi yang sedapnya dekat KFry, Watermelon Bingsoo RM20++ rasanya.
 
 [![](https://2.bp.blogspot.com/-keYJdFwvFWs/WhZOZaKMQTI/AAAAAAAAFYo/kHqG8LG3XDA9SuvhZCqoM-vGqZgMlRgxwCLcBGAs/s640/Photo%2B13-11-2017%252C%2B4%2B30%2B23%2BPM.jpg)
 
-](https://2.bp.blogspot.com/-keYJdFwvFWs/WhZOZaKMQTI/AAAAAAAAFYo/kHqG8LG3XDA9SuvhZCqoM-vGqZgMlRgxwCLcBGAs/s1600/Photo%2B13-11-2017%252C%2B4%2B30%2B23%2BPM.jpg)
-
 Sedap g i l a
 
   
 
 [![](https://4.bp.blogspot.com/-C0ijNOnfpuo/WhZOZfeoXAI/AAAAAAAAFYk/UN7LXxqZwYQ8BMFU1rhgwCRBJ5hbVF51wCLcBGAs/s640/Photo%2B13-11-2017%252C%2B4%2B31%2B55%2BPM.jpg)
-
-](https://4.bp.blogspot.com/-C0ijNOnfpuo/WhZOZfeoXAI/AAAAAAAAFYk/UN7LXxqZwYQ8BMFU1rhgwCRBJ5hbVF51wCLcBGAs/s1600/Photo%2B13-11-2017%252C%2B4%2B31%2B55%2BPM.jpg)
 
 Time ni pergi dengan Padgie and Azza, tapi makan bingsoo je.
 

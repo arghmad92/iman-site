@@ -10,8 +10,6 @@ draft: false
 
 [![](https://4.bp.blogspot.com/-7NiyCZ-dlHs/XE2ai-Hx2kI/AAAAAAAAIGY/kqoZWGI-3jkaiPCgD1B0mzvIqPX8nMp7wCLcBGAs/s640/IMG_5581.jpg)
 
-](https://4.bp.blogspot.com/-7NiyCZ-dlHs/XE2ai-Hx2kI/AAAAAAAAIGY/kqoZWGI-3jkaiPCgD1B0mzvIqPX8nMp7wCLcBGAs/s1600/IMG_5581.jpg)
-
 Macam mana nak hilangkan whitehead dan blackhead?
 
   
@@ -26,8 +24,6 @@ Macam mana nak hilangkan whitehead dan blackhead?
   
 
 [![](https://4.bp.blogspot.com/-4NspJ8PGHTo/XE2ahs_L6YI/AAAAAAAAIGI/sXnDoGIiqK4u15_KeDDEWBp640muGj5tgCLcBGAs/s640/IMG_5575.jpg)
-
-](https://4.bp.blogspot.com/-4NspJ8PGHTo/XE2ahs_L6YI/AAAAAAAAIGI/sXnDoGIiqK4u15_KeDDEWBp640muGj5tgCLcBGAs/s1600/IMG_5575.jpg)
 
   
 
@@ -51,8 +47,6 @@ Kat sini I ada share kenapa hydration penting and macam mana nak make sure kulit
 
 [![](https://4.bp.blogspot.com/-awCqCTX7Orw/XE2bLoWT46I/AAAAAAAAIGs/O0xJfTYHZ6cLDtAX9PpJ6PiV_RvR7rkfwCLcBGAs/s640/IMG_1301.jpg)
 
-](https://4.bp.blogspot.com/-awCqCTX7Orw/XE2bLoWT46I/AAAAAAAAIGs/O0xJfTYHZ6cLDtAX9PpJ6PiV_RvR7rkfwCLcBGAs/s1600/IMG_1301.jpg)
-
 Contoh hydrating toners.
 
   
@@ -73,8 +67,6 @@ Contohnya products yang ada glycolic acid, lactic acid atau mandelic acid. You c
 
 [![](https://3.bp.blogspot.com/-5-LN91ESZEQ/XE2ajN3mvPI/AAAAAAAAIGc/AGU06i9AnkMXl1oeBMhxGVSY5vCgj48GQCLcBGAs/s640/IMG_5583.jpg)
 
-](https://3.bp.blogspot.com/-5-LN91ESZEQ/XE2ajN3mvPI/AAAAAAAAIGc/AGU06i9AnkMXl1oeBMhxGVSY5vCgj48GQCLcBGAs/s1600/IMG_5583.jpg)
-
 Contoh AHA:
 
 1\. Paula's Choice
@@ -91,8 +83,6 @@ Contoh AHA:
 
 [![](https://4.bp.blogspot.com/-6coY4zEE_TE/XE2ahj6ZPnI/AAAAAAAAIGM/oyOcnwVVIg4HMhxp6agBnPxSDFXrEcx0ACLcBGAs/s640/IMG_5574.jpg)
 
-](https://4.bp.blogspot.com/-6coY4zEE_TE/XE2ahj6ZPnI/AAAAAAAAIGM/oyOcnwVVIg4HMhxp6agBnPxSDFXrEcx0ACLcBGAs/s1600/IMG_5574.jpg)
-
   
 
 Contoh AHA daripada The Ordinary
@@ -106,8 +96,6 @@ Contoh AHA daripada The Ordinary
   
 
 [![](https://4.bp.blogspot.com/-fYodGPH94hI/XE2aiaYEfVI/AAAAAAAAIGU/gZXKp-WjV7kVNfuwZisOgv8A71eqHGvcwCLcBGAs/s640/IMG_5576.jpg)
-
-](https://4.bp.blogspot.com/-fYodGPH94hI/XE2aiaYEfVI/AAAAAAAAIGU/gZXKp-WjV7kVNfuwZisOgv8A71eqHGvcwCLcBGAs/s1600/IMG_5576.jpg)
 
   
 
@@ -126,8 +114,6 @@ Contoh AHA daripada The Ordinary
   
 
 [![](https://4.bp.blogspot.com/-0hM9jtyb6EI/XE2ah37EwSI/AAAAAAAAIGQ/uFDM_iwUeOMY98sZFzwfgaA-yr0BICVaQCLcBGAs/s640/IMG_5573.jpg)
-
-](https://4.bp.blogspot.com/-0hM9jtyb6EI/XE2ah37EwSI/AAAAAAAAIGQ/uFDM_iwUeOMY98sZFzwfgaA-yr0BICVaQCLcBGAs/s1600/IMG_5573.jpg)
 
   
 

@@ -18,8 +18,6 @@ So today, I am going to share with you guys, my lip care routine.
 
 [![](https://2.bp.blogspot.com/-NIPeOx2MnJo/WXFkvmUyrpI/AAAAAAAAEGg/CTT5hDap_UUb-iQxeeBT8T_wMQqXFeCnQCLcBGAs/s640/Photo%2BJul%2B20%252C%2B19%2B40%2B55.jpg)
 
-](https://2.bp.blogspot.com/-NIPeOx2MnJo/WXFkvmUyrpI/AAAAAAAAEGg/CTT5hDap_UUb-iQxeeBT8T_wMQqXFeCnQCLcBGAs/s1600/Photo%2BJul%2B20%252C%2B19%2B40%2B55.jpg)
-
   
 
   
@@ -37,8 +35,6 @@ First of all, to remove the lipstick, I will normally use the normal micellar wa
 
 [![](https://4.bp.blogspot.com/-FVsP-PN2aNM/WXFkw2UsGxI/AAAAAAAAEGs/hwO-IyUWdhAMtv5u7Nsck6_PpAO3Q9W5gCLcBGAs/s640/Photo%2BJul%2B21%252C%2B09%2B30%2B08.jpg)
 
-](https://4.bp.blogspot.com/-FVsP-PN2aNM/WXFkw2UsGxI/AAAAAAAAEGs/hwO-IyUWdhAMtv5u7Nsck6_PpAO3Q9W5gCLcBGAs/s1600/Photo%2BJul%2B21%252C%2B09%2B30%2B08.jpg)
-
 I use Garnier Micellar Cleansing Water or Hada Labo Oil Cleanser
 
   
@@ -52,8 +48,6 @@ Okay, moving on to the next step. The real lip care routine using lip care produ
   
 
 [![](https://1.bp.blogspot.com/-yu4jouu_9V0/WXFl6RxjtpI/AAAAAAAAEG4/suBf6Yw8mQYCfLRwn8wNxiXt0LIpzdyVACLcBGAs/s640/Screen%2BShot%2B2017-07-21%2Bat%2B10.24.03%2BAM.png)
-
-](https://1.bp.blogspot.com/-yu4jouu_9V0/WXFl6RxjtpI/AAAAAAAAEG4/suBf6Yw8mQYCfLRwn8wNxiXt0LIpzdyVACLcBGAs/s1600/Screen%2BShot%2B2017-07-21%2Bat%2B10.24.03%2BAM.png)
 
 Lip care routine
 
@@ -87,8 +81,6 @@ Or, you can make your own DIY scrub. The easiest way, is to use honey or coconut
 
 [![](https://1.bp.blogspot.com/-ftM7CHUGxVg/WXFkvoK2CZI/AAAAAAAAEGc/2L5amCNPEKc8H8piuyvNRv03rFfPjKP5QCLcBGAs/s640/Photo%2BJul%2B20%252C%2B19%2B42%2B50.jpg)
 
-](https://1.bp.blogspot.com/-ftM7CHUGxVg/WXFkvoK2CZI/AAAAAAAAEGc/2L5amCNPEKc8H8piuyvNRv03rFfPjKP5QCLcBGAs/s1600/Photo%2BJul%2B20%252C%2B19%2B42%2B50.jpg)
-
 Lip scrub & lip mask
 
   
@@ -119,8 +111,6 @@ For daily use, I will forever love the lip balm from Burt's Bees in Vanila Bean.
   
 
 [![](https://1.bp.blogspot.com/-aQMQb4fpPEA/WXFkwhdfz_I/AAAAAAAAEGo/IsUhsriSuX4WOAEtA5JZLCcmJ3SeQFbwQCLcBGAs/s640/Photo%2BJul%2B20%252C%2B19%2B43%2B49.jpg)
-
-](https://1.bp.blogspot.com/-aQMQb4fpPEA/WXFkwhdfz_I/AAAAAAAAEGo/IsUhsriSuX4WOAEtA5JZLCcmJ3SeQFbwQCLcBGAs/s1600/Photo%2BJul%2B20%252C%2B19%2B43%2B49.jpg)
 
   
 

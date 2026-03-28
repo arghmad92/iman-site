@@ -10,8 +10,6 @@ draft: false
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfqmkxGviq9jElkkLAtZ9uAo4j0w55qoTJLgXKHJlOrI4CzggpmTWhAvJK3VLDRU0DmNjpEZXxW75lp3WfWI1QcXVHLPpA5oPbnkjE-_hzv1H6ml3C-YavHoHpy2kxJWYUtp7PgVEGgaoU/w360-h640/pregnancy.png)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfqmkxGviq9jElkkLAtZ9uAo4j0w55qoTJLgXKHJlOrI4CzggpmTWhAvJK3VLDRU0DmNjpEZXxW75lp3WfWI1QcXVHLPpA5oPbnkjE-_hzv1H6ml3C-YavHoHpy2kxJWYUtp7PgVEGgaoU/s1920/pregnancy.png)
-
  Keperluan semasa mengandung
 
   
@@ -21,8 +19,6 @@ draft: false
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8_aE_CYvxJnHzKuFilBqhZQY-UxhwJk1Y94dw8WihBYKn-LGaRiCnoSDAqa4fiCAIyBM3XGokoceuhxnS3qmFW9EB_seMORRDKAOzRZ-OfB9W7oPkJNH7mn_Qg-BQIs5yfjrNPEjnJuuA/s320/IMG_1211.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8_aE_CYvxJnHzKuFilBqhZQY-UxhwJk1Y94dw8WihBYKn-LGaRiCnoSDAqa4fiCAIyBM3XGokoceuhxnS3qmFW9EB_seMORRDKAOzRZ-OfB9W7oPkJNH7mn_Qg-BQIs5yfjrNPEjnJuuA/s1125/IMG_1211.jpg)
 
   
 

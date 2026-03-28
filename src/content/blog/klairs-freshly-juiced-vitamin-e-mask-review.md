@@ -14,8 +14,6 @@ This Klairs Freshly Juiced Vitamin E Mask is one of my wishlist, dah lama sanga
 
 [![](https://2.bp.blogspot.com/-TnFuijp67EQ/WsUPF189_aI/AAAAAAAAGLQ/Ul_wt1xZchUsrRytmkpLmyTWXELAvZxDACLcBGAs/s640/Photo%2B04-04-2018%252C%2B6%2B06%2B34%2BPM.jpg)
 
-](https://2.bp.blogspot.com/-TnFuijp67EQ/WsUPF189_aI/AAAAAAAAGLQ/Ul_wt1xZchUsrRytmkpLmyTWXELAvZxDACLcBGAs/s1600/Photo%2B04-04-2018%252C%2B6%2B06%2B34%2BPM.jpg)
-
   
   
   
@@ -61,9 +59,7 @@ Last step in my night skincare routine as a sleeping mask. Normaly lepas double 
 
   
   
-[![](https://1.bp.blogspot.com/-UiF3q_Y0hv4/WsUPHuVE8DI/AAAAAAAAGLc/D9rwb1QqZuwMj9WKA4KVHgZBlW2gZlLBgCLcBGAs/s640/Photo%2B04-04-2018%252C%2B8%2B10%2B49%2BPM.jpg)
-
-](https://1.bp.blogspot.com/-UiF3q_Y0hv4/WsUPHuVE8DI/AAAAAAAAGLc/D9rwb1QqZuwMj9WKA4KVHgZBlW2gZlLBgCLcBGAs/s1600/Photo%2B04-04-2018%252C%2B8%2B10%2B49%2BPM.jpg)  
+[![](https://1.bp.blogspot.com/-UiF3q_Y0hv4/WsUPHuVE8DI/AAAAAAAAGLc/D9rwb1QqZuwMj9WKA4KVHgZBlW2gZlLBgCLcBGAs/s640/Photo%2B04-04-2018%252C%2B8%2B10%2B49%2BPM.jpg)  
   
 
 **  
@@ -86,8 +82,6 @@ However, it contains essential oils so if your skin is suuuuuper sensitive with 
 
 [![](https://2.bp.blogspot.com/-_0T0XoPR1es/WsUPF7PsWDI/AAAAAAAAGLU/N4MSNw-nigY_wvA6izQsT6iez6kL9Ud6gCLcBGAs/s640/Photo%2B04-04-2018%252C%2B6%2B07%2B08%2BPM.jpg)
 
-](https://2.bp.blogspot.com/-_0T0XoPR1es/WsUPF7PsWDI/AAAAAAAAGLU/N4MSNw-nigY_wvA6izQsT6iez6kL9Ud6gCLcBGAs/s1600/Photo%2B04-04-2018%252C%2B6%2B07%2B08%2BPM.jpg)
-
   
   
 
@@ -106,13 +100,9 @@ As for the scent, it has the normal herbal-ish scent, like the normal Klairs pro
 
 [![](https://1.bp.blogspot.com/-Z258WHtbBzM/WsUPF7pTdRI/AAAAAAAAGLM/gHWwFSHC1YcqAWT0v5EJjJvv6J3koI6jgCLcBGAs/s640/Photo%2B04-04-2018%252C%2B6%2B07%2B22%2BPM.jpg)
 
-](https://1.bp.blogspot.com/-Z258WHtbBzM/WsUPF7pTdRI/AAAAAAAAGLM/gHWwFSHC1YcqAWT0v5EJjJvv6J3koI6jgCLcBGAs/s1600/Photo%2B04-04-2018%252C%2B6%2B07%2B22%2BPM.jpg)
-
   
 
 [![](https://4.bp.blogspot.com/-0os2lrVyAog/WsUPHZYoMGI/AAAAAAAAGLY/SS6OLIBaNIMo35q89ycB8X_3F3vFVtCdgCLcBGAs/s640/Photo%2B04-04-2018%252C%2B6%2B07%2B46%2BPM.jpg)
-
-](https://4.bp.blogspot.com/-0os2lrVyAog/WsUPHZYoMGI/AAAAAAAAGLY/SS6OLIBaNIMo35q89ycB8X_3F3vFVtCdgCLcBGAs/s1600/Photo%2B04-04-2018%252C%2B6%2B07%2B46%2BPM.jpg)
 
   
 

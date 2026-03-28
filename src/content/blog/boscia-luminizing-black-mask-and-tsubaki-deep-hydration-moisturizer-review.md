@@ -10,8 +10,6 @@ draft: false
 
 [![](https://3.bp.blogspot.com/-srF55vNA0xc/XC8XAhbSM2I/AAAAAAAAH48/iGw2CGOl9wEcQ6Q0Q8xawr98O36lae2YACLcBGAs/s640/661808B6-04A9-44F9-9394-451CB3922445.jpg)
 
-](https://3.bp.blogspot.com/-srF55vNA0xc/XC8XAhbSM2I/AAAAAAAAH48/iGw2CGOl9wEcQ6Q0Q8xawr98O36lae2YACLcBGAs/s1600/661808B6-04A9-44F9-9394-451CB3922445.jpg)
-
  BOSCIA Luminizing Black Mask and Tsubaki Swirl Two Part Gel & Cream Deep Hydration Moisturizer Review
 
   
@@ -25,8 +23,6 @@ draft: false
   
 
 [![](https://2.bp.blogspot.com/-yaJujf9XGeA/XC8XBiI0DCI/AAAAAAAAH5I/nR8BwaCwOWgE_Xtl4M7fxxsTKH6lNCirQCLcBGAs/s640/IMG_3638.PNG)
-
-](https://2.bp.blogspot.com/-yaJujf9XGeA/XC8XBiI0DCI/AAAAAAAAH5I/nR8BwaCwOWgE_Xtl4M7fxxsTKH6lNCirQCLcBGAs/s1600/IMG_3638.PNG)
 
   
 
@@ -65,9 +61,7 @@ I like it cause it's fun and satisfying bila tarik. Minimize the appearance of p
 ### BOSCIA Tsubaki Swirl Two Part Gel & Cream Deep Hydration Moisturizer
 
   
-[![](https://1.bp.blogspot.com/-6DbGY76vcJI/XC8XAuQWREI/AAAAAAAAH5A/YzVAAT0bSl4ywLgEa2_OyZiVMgJ6C4IRACLcBGAs/s640/D5903F61-175A-42E0-BBA8-33D9B65DBD94.jpg)
-
-](https://1.bp.blogspot.com/-6DbGY76vcJI/XC8XAuQWREI/AAAAAAAAH5A/YzVAAT0bSl4ywLgEa2_OyZiVMgJ6C4IRACLcBGAs/s1600/D5903F61-175A-42E0-BBA8-33D9B65DBD94.jpg)  
+[![](https://1.bp.blogspot.com/-6DbGY76vcJI/XC8XAuQWREI/AAAAAAAAH5A/YzVAAT0bSl4ywLgEa2_OyZiVMgJ6C4IRACLcBGAs/s640/D5903F61-175A-42E0-BBA8-33D9B65DBD94.jpg)  
 
   
 
@@ -90,8 +84,6 @@ This hydrating, swirled gel and cream moisturiser with nourishing, antioxidant-r
   
 
 [![](https://3.bp.blogspot.com/-dKclY7CWPME/XC8XAkwVgII/AAAAAAAAH5E/RAZ9Cte5PkktH13BBJnwnXoPnUhxESKBACLcBGAs/s640/A3492149-F57A-4743-98D7-79DA91FF322F.jpg)
-
-](https://3.bp.blogspot.com/-dKclY7CWPME/XC8XAkwVgII/AAAAAAAAH5E/RAZ9Cte5PkktH13BBJnwnXoPnUhxESKBACLcBGAs/s1600/A3492149-F57A-4743-98D7-79DA91FF322F.jpg)
 
   
 

@@ -14,8 +14,6 @@ Nak share cara untuk buat passport baby, atau kanak-kanak bawah 12 tahun.
 
 [![](https://3.bp.blogspot.com/-4lJdZr812Vs/W0f7dluGkKI/AAAAAAAAGzg/bte-7y3Lt4Mjoc-aF0qG2Nu1DagliWgHwCLcBGAs/s640/Photo%2B13-07-2018%252C%2B9%2B00%2B23%2BAM.jpg)
 
-](https://3.bp.blogspot.com/-4lJdZr812Vs/W0f7dluGkKI/AAAAAAAAGzg/bte-7y3Lt4Mjoc-aF0qG2Nu1DagliWgHwCLcBGAs/s1600/Photo%2B13-07-2018%252C%2B9%2B00%2B23%2BAM.jpg)
-
   
 
   
@@ -26,8 +24,6 @@ Kitorang pergi buat dekat Jabatan Imigresen Malaysia, **UTC Keramat** sebab kat 
   
 
 [![](https://4.bp.blogspot.com/-pXXL0GUxS1M/W0f7cuHORWI/AAAAAAAAGzY/_5bKP63rofAUHdI-_M59tX7PDwbJohO1gCLcBGAs/s640/Photo%2B12-07-2018%252C%2B8%2B35%2B48%2BAM.jpg)
-
-](https://4.bp.blogspot.com/-pXXL0GUxS1M/W0f7cuHORWI/AAAAAAAAGzY/_5bKP63rofAUHdI-_M59tX7PDwbJohO1gCLcBGAs/s1600/Photo%2B12-07-2018%252C%2B8%2B35%2B48%2BAM.jpg)
 
 _Maysaa mengantuk bangun pagi._
 
@@ -59,8 +55,6 @@ Ni I cerita prosedur dekat UTC Keramat je. Tempat lain rasanya lain. Haritu buat
 
 [![](https://3.bp.blogspot.com/-aDUu-ecIqCo/W0f7cyNI1SI/AAAAAAAAGzc/GLJJD5kjBiUFyqXXNNh4kypFj6wlw5uiwCLcBGAs/s640/Photo%2B12-07-2018%252C%2B9%2B59%2B13%2BAM.jpg)
 
-](https://3.bp.blogspot.com/-aDUu-ecIqCo/W0f7cyNI1SI/AAAAAAAAGzc/GLJJD5kjBiUFyqXXNNh4kypFj6wlw5uiwCLcBGAs/s1600/Photo%2B12-07-2018%252C%2B9%2B59%2B13%2BAM.jpg)
-
 _Tak ramai pun kan?_
 
   
@@ -73,13 +67,9 @@ _Tak ramai pun kan?_
 
 [![](https://2.bp.blogspot.com/-XDqY3HwFI4w/W0f7a8CW18I/AAAAAAAAGzM/6wXUmU4XA1gWnZAZCmwJvf-vkWLOM5YlwCLcBGAs/s640/Photo%2B12-07-2018%252C%2B10%2B15%2B54%2BAM.jpg)
 
-](https://2.bp.blogspot.com/-XDqY3HwFI4w/W0f7a8CW18I/AAAAAAAAGzM/6wXUmU4XA1gWnZAZCmwJvf-vkWLOM5YlwCLcBGAs/s1600/Photo%2B12-07-2018%252C%2B10%2B15%2B54%2BAM.jpg)
-
   
 
 [![](https://4.bp.blogspot.com/-4LnaBda4r_k/W0f7ayS15zI/AAAAAAAAGzI/6_Mj2wT9ipsISr7VzimnFCmUmtolypKZgCLcBGAs/s640/Photo%2B12-07-2018%252C%2B10%2B15%2B47%2BAM.jpg)
-
-](https://4.bp.blogspot.com/-4LnaBda4r_k/W0f7ayS15zI/AAAAAAAAGzI/6_Mj2wT9ipsISr7VzimnFCmUmtolypKZgCLcBGAs/s1600/Photo%2B12-07-2018%252C%2B10%2B15%2B47%2BAM.jpg)
 
 _Bila nak tinggi ni Maysaa_
 
@@ -94,8 +84,6 @@ _Bila nak tinggi ni Maysaa_
   
 
 [![](https://2.bp.blogspot.com/-5rB3ctD0oTg/W0f7aw70QMI/AAAAAAAAGzQ/smF01tTuw6sQKD56Fc2uPWcP8cbzcqyzQCLcBGAs/s640/Photo%2B12-07-2018%252C%2B10%2B20%2B07%2BAM.jpg)
-
-](https://2.bp.blogspot.com/-5rB3ctD0oTg/W0f7aw70QMI/AAAAAAAAGzQ/smF01tTuw6sQKD56Fc2uPWcP8cbzcqyzQCLcBGAs/s1600/Photo%2B12-07-2018%252C%2B10%2B20%2B07%2BAM.jpg)
 
   
 
@@ -112,8 +100,6 @@ Tapi lepas 10 minutes I saja je pergi ingat nak check dah siap ke belum (sebab t
   
 
 [![](https://4.bp.blogspot.com/-SqzgreebNrw/W0f7cESJN_I/AAAAAAAAGzU/-N95r-xt13Ub0jyzoYl7trkEzCE_R3MwQCLcBGAs/s640/Photo%2B12-07-2018%252C%2B6%2B21%2B59%2BPM.jpg)
-
-](https://4.bp.blogspot.com/-SqzgreebNrw/W0f7cESJN_I/AAAAAAAAGzU/-N95r-xt13Ub0jyzoYl7trkEzCE_R3MwQCLcBGAs/s1600/Photo%2B12-07-2018%252C%2B6%2B21%2B59%2BPM.jpg)
 
   
 

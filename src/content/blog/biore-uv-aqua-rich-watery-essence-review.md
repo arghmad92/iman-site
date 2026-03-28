@@ -12,9 +12,7 @@ Today I am going to share my thoughts on Biore UV Aqua Rich Watery Essence. I b
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUp5jDeSOhQpvsy8ewZKJVSYDeTRvTOP-FEPXy7bvQHBzOYATH3nJW2OpH5PYf-mZ4mAY2MY4R2ZDr1zHiuWr_f8RDln7trhRg4SXrrsCPJZ-ink7KfqrOxHTrc0t5Im_hBes8gXNtCm8/s640/Photo+21-08-2017%252C+8+08+38+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUp5jDeSOhQpvsy8ewZKJVSYDeTRvTOP-FEPXy7bvQHBzOYATH3nJW2OpH5PYf-mZ4mAY2MY4R2ZDr1zHiuWr_f8RDln7trhRg4SXrrsCPJZ-ink7KfqrOxHTrc0t5Im_hBes8gXNtCm8/s1600/Photo+21-08-2017%252C+8+08+38+PM.jpg)  
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUp5jDeSOhQpvsy8ewZKJVSYDeTRvTOP-FEPXy7bvQHBzOYATH3nJW2OpH5PYf-mZ4mAY2MY4R2ZDr1zHiuWr_f8RDln7trhRg4SXrrsCPJZ-ink7KfqrOxHTrc0t5Im_hBes8gXNtCm8/s640/Photo+21-08-2017%252C+8+08+38+PM.jpg)  
   
   
   
@@ -39,9 +37,7 @@ Availability: Guardian, Watson
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfF0dU-Mw7Bs8bRTIlNi0c4IJ9Meg5TV4UmZaPxqYIqNRmImpu7FFI3CfmwbCOC_DwZWsq8ewnk1cAfwOe0any04bKXWmtZ6cuERaFx0hLUgX1_v74dFl3FQx0F4uxCQLMKGOICHOs4MI/s640/Photo+21-08-2017%252C+8+08+46+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfF0dU-Mw7Bs8bRTIlNi0c4IJ9Meg5TV4UmZaPxqYIqNRmImpu7FFI3CfmwbCOC_DwZWsq8ewnk1cAfwOe0any04bKXWmtZ6cuERaFx0hLUgX1_v74dFl3FQx0F4uxCQLMKGOICHOs4MI/s1600/Photo+21-08-2017%252C+8+08+46+PM.jpg)  
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfF0dU-Mw7Bs8bRTIlNi0c4IJ9Meg5TV4UmZaPxqYIqNRmImpu7FFI3CfmwbCOC_DwZWsq8ewnk1cAfwOe0any04bKXWmtZ6cuERaFx0hLUgX1_v74dFl3FQx0F4uxCQLMKGOICHOs4MI/s640/Photo+21-08-2017%252C+8+08+46+PM.jpg)  
 
   
 
@@ -68,9 +64,7 @@ The last step for skincare. Maksudnya lepas cleanser, toner, moisturizer, baru l
 The product comes in a 50 ml plastic squeezable tube with a white twisted cap. Leceh sebab dia tak attached. Senang nak picit and guna tapi tak nampak dia banyak mana.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsu_DI1EIN8VhK3UcFxmllO3oAxJpcsMURgkc809IvmoW6T8mXHNotqiKI4W-T5o70HQqWli3be-XKr8oC29TBdnZJSPBVOPV0vJdwTbCRBt00a9lIR-4Un5Sr41MJIfJzNKp8V_VC3m0/s640/Photo+21-08-2017%252C+8+09+18+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsu_DI1EIN8VhK3UcFxmllO3oAxJpcsMURgkc809IvmoW6T8mXHNotqiKI4W-T5o70HQqWli3be-XKr8oC29TBdnZJSPBVOPV0vJdwTbCRBt00a9lIR-4Un5Sr41MJIfJzNKp8V_VC3m0/s1600/Photo+21-08-2017%252C+8+09+18+PM.jpg)  
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsu_DI1EIN8VhK3UcFxmllO3oAxJpcsMURgkc809IvmoW6T8mXHNotqiKI4W-T5o70HQqWli3be-XKr8oC29TBdnZJSPBVOPV0vJdwTbCRBt00a9lIR-4Un5Sr41MJIfJzNKp8V_VC3m0/s640/Photo+21-08-2017%252C+8+09+18+PM.jpg)  
 
   
 
@@ -85,15 +79,11 @@ Pale yellow. It feels like a gel-like moisturizer and very lightweight. 
 Quite strong citrus smell macam bau lemon sikit. Which, I don't really like.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWok5S6euClTBMvSJb_yj3EWzny7OvhfP0TMdxHWyCx0dNv78nRO7pNYNkaPFA0lkKh1gKAzpzbnYoJc3DgmPYNl-Uq-zAmwHYTDuW15bvUDYTfVC32rFSnzHPJPL-23h1IWFaWp3HNA4/s640/Photo+21-08-2017%252C+8+10+12+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWok5S6euClTBMvSJb_yj3EWzny7OvhfP0TMdxHWyCx0dNv78nRO7pNYNkaPFA0lkKh1gKAzpzbnYoJc3DgmPYNl-Uq-zAmwHYTDuW15bvUDYTfVC32rFSnzHPJPL-23h1IWFaWp3HNA4/s1600/Photo+21-08-2017%252C+8+10+12+PM.jpg)  
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWok5S6euClTBMvSJb_yj3EWzny7OvhfP0TMdxHWyCx0dNv78nRO7pNYNkaPFA0lkKh1gKAzpzbnYoJc3DgmPYNl-Uq-zAmwHYTDuW15bvUDYTfVC32rFSnzHPJPL-23h1IWFaWp3HNA4/s640/Photo+21-08-2017%252C+8+10+12+PM.jpg)  
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3hTeTAJDfxqyvH7kKsOBelVLv0TYOqaSeYiyKj_7Rrnwjx8qrHSkah782fd3VVsLli7-b7OIoU1cKXQ3zvZxbQWoB-FXdvJSsVZzb7r_ucgZHE4KnVgrMg5Q6ndb-1gQMsdPpRJjtDTk/s640/Photo+21-08-2017%252C+8+10+22+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3hTeTAJDfxqyvH7kKsOBelVLv0TYOqaSeYiyKj_7Rrnwjx8qrHSkah782fd3VVsLli7-b7OIoU1cKXQ3zvZxbQWoB-FXdvJSsVZzb7r_ucgZHE4KnVgrMg5Q6ndb-1gQMsdPpRJjtDTk/s1600/Photo+21-08-2017%252C+8+10+22+PM.jpg)  
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3hTeTAJDfxqyvH7kKsOBelVLv0TYOqaSeYiyKj_7Rrnwjx8qrHSkah782fd3VVsLli7-b7OIoU1cKXQ3zvZxbQWoB-FXdvJSsVZzb7r_ucgZHE4KnVgrMg5Q6ndb-1gQMsdPpRJjtDTk/s640/Photo+21-08-2017%252C+8+10+22+PM.jpg)  
 
   
 
@@ -110,8 +100,6 @@ I tried again a few days later, still the same. I don't like it. My skin doesn't
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHi81QYvhecqceWEUX2Bw6zzmrpSnrYS-koO03UbH_EUALN4x2H5UN8c7tfgHIWkX7gXixdmYqIDKIZPK2gdM-riP17usm1li8BbtgF-_zt5Rk-TOJpnC__S4XldkXth7kLsis5FgRXmo/s640/Screen+Shot+2017-08-22+at+11.22.26+AM.png)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHi81QYvhecqceWEUX2Bw6zzmrpSnrYS-koO03UbH_EUALN4x2H5UN8c7tfgHIWkX7gXixdmYqIDKIZPK2gdM-riP17usm1li8BbtgF-_zt5Rk-TOJpnC__S4XldkXth7kLsis5FgRXmo/s1600/Screen+Shot+2017-08-22+at+11.22.26+AM.png)
 
   
 

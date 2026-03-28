@@ -18,8 +18,6 @@ Kalau dalam dunia skincare, alcohol ni salah satu ingredient yang banyak kontrov
 
 [![](https://2.bp.blogspot.com/-_McjCN9yLUg/WyqzSk_jiGI/AAAAAAAAGo4/st61KHy6OMs2b14HZsl2dgH-gl0up2sIACLcBGAs/s640/AhejZ5Ln.jpg)
 
-](https://2.bp.blogspot.com/-_McjCN9yLUg/WyqzSk_jiGI/AAAAAAAAGo4/st61KHy6OMs2b14HZsl2dgH-gl0up2sIACLcBGAs/s1600/AhejZ5Ln.jpg)
-
   
 
   

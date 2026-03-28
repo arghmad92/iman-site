@@ -14,8 +14,6 @@ There are some beauty products that I store in the fridge. Yes!
 
 [![](https://4.bp.blogspot.com/-vGVFtGpKsZo/WczvYPfCsWI/AAAAAAAAE98/0-LtXIuK9-AWqAgkASUPGn9iP79Q7v-AQCLcBGAs/s640/Photo%2B28-09-2017%252C%2B8%2B43%2B08%2BPM.jpg)
 
-](https://4.bp.blogspot.com/-vGVFtGpKsZo/WczvYPfCsWI/AAAAAAAAE98/0-LtXIuK9-AWqAgkASUPGn9iP79Q7v-AQCLcBGAs/s1600/Photo%2B28-09-2017%252C%2B8%2B43%2B08%2BPM.jpg)
-
   
 
   
@@ -27,8 +25,6 @@ There are some beauty products that I store in the fridge. Yes!
 
 [![](https://2.bp.blogspot.com/-D8npMtQcX-k/WczvYDBnoxI/AAAAAAAAE90/1wioHm3BI-UG4t-OVQXlYNM2bDW-dFLzwCLcBGAs/s640/Photo%2B28-09-2017%252C%2B8%2B42%2B51%2BPM.jpg)
 
-](https://2.bp.blogspot.com/-D8npMtQcX-k/WczvYDBnoxI/AAAAAAAAE90/1wioHm3BI-UG4t-OVQXlYNM2bDW-dFLzwCLcBGAs/s1600/Photo%2B28-09-2017%252C%2B8%2B42%2B51%2BPM.jpg)
-
   
 
 I letak dekat dalam Multi Keeper ni, tak bercampur dengan makanan
@@ -38,8 +34,6 @@ I letak dekat dalam Multi Keeper ni, tak bercampur dengan makanan
   
 
 [![](https://4.bp.blogspot.com/-4x1k9FouIMk/WczvYNzP92I/AAAAAAAAE94/Ui8U-u_yJEIUCriEel5y5QfXnUjEtJ66QCLcBGAs/s640/Photo%2B28-09-2017%252C%2B8%2B43%2B14%2BPM.jpg)
-
-](https://4.bp.blogspot.com/-4x1k9FouIMk/WczvYNzP92I/AAAAAAAAE94/Ui8U-u_yJEIUCriEel5y5QfXnUjEtJ66QCLcBGAs/s1600/Photo%2B28-09-2017%252C%2B8%2B43%2B14%2BPM.jpg)
 
   
   

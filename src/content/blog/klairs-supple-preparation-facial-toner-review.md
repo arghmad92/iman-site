@@ -12,8 +12,6 @@ Finally, a review on Klairs Supple Preparation Facial Toner. Dah lama nak buat 
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijhoaaKvo_TWTxZ8Bi6XlRCFOIHz12PoLZuR4xsqbsCyDcZy_iC-SsHM53OnA0ID_vLOsHk4GOWQWZueuP_ZeZOoY_TdD88NCsWMOI4-Gt7XEmr-RoijyEZ-2f6dsGgesDyEmkA_VyAnQ/s640/Photo+03-11-2017%252C+11+26+34+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijhoaaKvo_TWTxZ8Bi6XlRCFOIHz12PoLZuR4xsqbsCyDcZy_iC-SsHM53OnA0ID_vLOsHk4GOWQWZueuP_ZeZOoY_TdD88NCsWMOI4-Gt7XEmr-RoijyEZ-2f6dsGgesDyEmkA_VyAnQ/s1600/Photo+03-11-2017%252C+11+26+34+PM.jpg)
-
   
   
   
@@ -42,8 +40,6 @@ Kalau dekat Hermo, normal price RM80 including GST. Nattacosme pun harga RM80. A
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge6ldSkADjy19fSf3ToQGIr0NFQLJuzZZ9edFlbxXJPVa8rBLgmCjxiJlH1M59hG1P4LGdbRApuFSa-InP6SgwPzEf5hfuy88ZulOeyuTtFDqMYnEv_kUzt9t4YaCujw20_bhE0Zw7Egw/s640/Screen+Shot+2017-11-04+at+10.36.40+AM.png)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge6ldSkADjy19fSf3ToQGIr0NFQLJuzZZ9edFlbxXJPVa8rBLgmCjxiJlH1M59hG1P4LGdbRApuFSa-InP6SgwPzEf5hfuy88ZulOeyuTtFDqMYnEv_kUzt9t4YaCujw20_bhE0Zw7Egw/s1600/Screen+Shot+2017-11-04+at+10.36.40+AM.png)
-
   
 
  **What it claims?** 
@@ -67,8 +63,6 @@ Kalau dekat Hermo, normal price RM80 including GST. Nattacosme pun harga RM80. A
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhucwHylhXZNaah-2pd4Zj9XqsVKc2iy4dJefgzKDwRC6hYfYV320SHJCf7HCSXCg6XRyibulXV-7elTNAENvlzpvx-W7kMGy-lrqIGHF0FUtFBvWEiuY9uZzKqoinbtFLH901E9v0V3F0/s640/Photo+03-11-2017%252C+11+27+03+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhucwHylhXZNaah-2pd4Zj9XqsVKc2iy4dJefgzKDwRC6hYfYV320SHJCf7HCSXCg6XRyibulXV-7elTNAENvlzpvx-W7kMGy-lrqIGHF0FUtFBvWEiuY9uZzKqoinbtFLH901E9v0V3F0/s1600/Photo+03-11-2017%252C+11+27+03+PM.jpg)
 
   
 
@@ -118,9 +112,7 @@ For me, I apply this toner after cleanser and my first treatment essence. Apply 
 
 It's colourless, and the texture is not as light and watery but not as thick as an essence. Dia macam thicker than water.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7j07RAbTPvvlvEZ8U9-qjmgL8y-lBPhI4nIv2JX6qwVzQTW-ug3CTvQd6KXiG4X9_L8HeNTNI2enU4WZ5q3ERANEgKDobPYDReLiL0yw3tXkxcJubahIDoUHDnMN3k5xzn7-VOEdDepw/s640/Photo+03-11-2017%252C+11+27+24+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7j07RAbTPvvlvEZ8U9-qjmgL8y-lBPhI4nIv2JX6qwVzQTW-ug3CTvQd6KXiG4X9_L8HeNTNI2enU4WZ5q3ERANEgKDobPYDReLiL0yw3tXkxcJubahIDoUHDnMN3k5xzn7-VOEdDepw/s1600/Photo+03-11-2017%252C+11+27+24+PM.jpg)  
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7j07RAbTPvvlvEZ8U9-qjmgL8y-lBPhI4nIv2JX6qwVzQTW-ug3CTvQd6KXiG4X9_L8HeNTNI2enU4WZ5q3ERANEgKDobPYDReLiL0yw3tXkxcJubahIDoUHDnMN3k5xzn7-VOEdDepw/s640/Photo+03-11-2017%252C+11+27+24+PM.jpg)  
 As you can see, it's not really watery yang cepat je dia mengalir but not to thick.  
   
 **The scent**  

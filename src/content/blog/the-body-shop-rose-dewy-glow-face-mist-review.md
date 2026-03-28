@@ -18,8 +18,6 @@ So harini nak share about The Body Shop Rose Dewy Glow Face Mist
 
 [![](https://4.bp.blogspot.com/-Xuz4CgPGCx4/WxzfW-TtxmI/AAAAAAAAGmk/EbMu1h0jbXI4WHanP-yKKuZXrjMNdROrgCLcBGAs/s640/Photo%2B10-06-2018%252C%2B4%2B13%2B23%2BPM.jpg)
 
-](https://4.bp.blogspot.com/-Xuz4CgPGCx4/WxzfW-TtxmI/AAAAAAAAGmk/EbMu1h0jbXI4WHanP-yKKuZXrjMNdROrgCLcBGAs/s1600/Photo%2B10-06-2018%252C%2B4%2B13%2B23%2BPM.jpg)
-
   
   
   
@@ -41,8 +39,6 @@ Can be used before or after makeup application. Shake well before use. Spray at 
   
 
 [![](https://1.bp.blogspot.com/-LICowgJBTxE/WxzfW-Ow4RI/AAAAAAAAGmc/85b3FevhkgEGwR34GiOpF3JqS73rtd2DwCLcBGAs/s640/Photo%2B10-06-2018%252C%2B4%2B15%2B16%2BPM.jpg)
-
-](https://1.bp.blogspot.com/-LICowgJBTxE/WxzfW-Ow4RI/AAAAAAAAGmc/85b3FevhkgEGwR34GiOpF3JqS73rtd2DwCLcBGAs/s1600/Photo%2B10-06-2018%252C%2B4%2B15%2B16%2BPM.jpg)
 
   
 
@@ -66,8 +62,6 @@ It comes in a 60ml transparent pink plastic bottle with a nozzle spray. The bott
 
 [![](https://4.bp.blogspot.com/-WvzZ-TeK2fI/WxzfXxfcvsI/AAAAAAAAGmo/CVqTZrPNv10Dw8UjUWZO6cbIApP2dUGUACLcBGAs/s640/Photo%2B10-06-2018%252C%2B4%2B16%2B16%2BPM.jpg)
 
-](https://4.bp.blogspot.com/-WvzZ-TeK2fI/WxzfXxfcvsI/AAAAAAAAGmo/CVqTZrPNv10Dw8UjUWZO6cbIApP2dUGUACLcBGAs/s1600/Photo%2B10-06-2018%252C%2B4%2B16%2B16%2BPM.jpg)
-
 **Scent**
 
 Berry - rose scent which is quite strong. Rasa macam spray perfume dekat muka.
@@ -86,8 +80,6 @@ It makes my skin a bit tacky and looks dewy.
 
 [![](https://1.bp.blogspot.com/-kLpDFt8Gqdc/WxzfWz7hKtI/AAAAAAAAGmg/MBmBF8nOdK8MLkHCX8RXfqoUGCbprJ5OwCLcBGAs/s640/Photo%2B10-06-2018%252C%2B4%2B15%2B52%2BPM.jpg)
 
-](https://1.bp.blogspot.com/-kLpDFt8Gqdc/WxzfWz7hKtI/AAAAAAAAGmg/MBmBF8nOdK8MLkHCX8RXfqoUGCbprJ5OwCLcBGAs/s1600/Photo%2B10-06-2018%252C%2B4%2B15%2B52%2BPM.jpg)
-
   
 
 Aqua/Water/Eau, Propanediol, Glycerin, Polysorbate 20, Phenoxyethanol, Caprylyl Glycol, Parfum/Fragrance, Trisodium Ethylenediamine Disuccinate, Propylene Glycol, Aloe Barbadensis Leaf Juice Powder, Rose Extract, Calcium Aluminum Borosilicate, Citric Acid, Silica, Prunus Cerasus Fruit Extract/Bitter Cherry Fruit Extract, Rubus Idaeus Fruit Extract/Raspberry Fruit Extract, Sodium Benzoate, Sodium Hydroxide, Potassium Sorbate, Tin Oxide, CI 77891/Titanium Dioxide
@@ -95,8 +87,6 @@ Aqua/Water/Eau, Propanediol, Glycerin, Polysorbate 20, Phenoxyethanol, Caprylyl 
   
 
 [![](https://2.bp.blogspot.com/-Jhg6Bgu8pgM/Wxzj0er8lcI/AAAAAAAAGm8/R6nl-vDKEmkmxZo-vVl0klM19FRZvKDyACLcBGAs/s640/Screen%2BShot%2B2018-06-10%2Bat%2B4.39.23%2BPM.png)
-
-](https://2.bp.blogspot.com/-Jhg6Bgu8pgM/Wxzj0er8lcI/AAAAAAAAGm8/R6nl-vDKEmkmxZo-vVl0klM19FRZvKDyACLcBGAs/s1600/Screen%2BShot%2B2018-06-10%2Bat%2B4.39.23%2BPM.png)
 
   
 
@@ -111,8 +101,6 @@ There are five types of face mist. Mint Mattifying, Coco Calming, Mandarin Energ
   
 
 [![](https://4.bp.blogspot.com/-tGFzjLu_xH0/WxzkihCfbUI/AAAAAAAAGnE/kewz-QE5ebsYgaBjRM-KNNLKLnMOnG7dQCLcBGAs/s640/26752408059934.jpg)
-
-](https://4.bp.blogspot.com/-tGFzjLu_xH0/WxzkihCfbUI/AAAAAAAAGnE/kewz-QE5ebsYgaBjRM-KNNLKLnMOnG7dQCLcBGAs/s1600/26752408059934.jpg)
 
   
 

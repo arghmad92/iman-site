@@ -19,8 +19,6 @@ When I saw MUJI got skincare line, I instantly wanted to buy! Especially the Sen
 
 [![](https://3.bp.blogspot.com/-qYoa7NQgekI/WXaY-envd-I/AAAAAAAAEHQ/UP1T2Ml4T5Qw6CeNhuWk5dx3yVfIjFoWACLcBGAs/s640/Photo%2BJul%2B25%252C%2B08%2B21%2B29.jpg)
 
-](https://3.bp.blogspot.com/-qYoa7NQgekI/WXaY-envd-I/AAAAAAAAEHQ/UP1T2Ml4T5Qw6CeNhuWk5dx3yVfIjFoWACLcBGAs/s1600/Photo%2BJul%2B25%252C%2B08%2B21%2B29.jpg)
-
 MUJI Light Toning Water
 
   
@@ -63,8 +61,6 @@ Price: RM 29.90
   
 [![](https://1.bp.blogspot.com/-0rO83vIY-Ms/WXaY_QbxEXI/AAAAAAAAEHU/DM8_6kEpu7I5RnvtlZ1Juuu4KPfv6wnggCLcBGAs/s640/Photo%2BJul%2B25%252C%2B08%2B22%2B09.jpg)
 
-](https://1.bp.blogspot.com/-0rO83vIY-Ms/WXaY_QbxEXI/AAAAAAAAEHU/DM8_6kEpu7I5RnvtlZ1Juuu4KPfv6wnggCLcBGAs/s1600/Photo%2BJul%2B25%252C%2B08%2B22%2B09.jpg)
-
   
 
 **What it claims?** 
@@ -103,9 +99,7 @@ The product claim that it is fragrance-free, hence tak bau wangi ke floral ke fr
   
 **Ingredients**  
   
-[![](https://3.bp.blogspot.com/-AoAIxbalBJo/WXaY-b1-UmI/AAAAAAAAEHI/pAO8yCr6i8wbx_dxnvk42wNd4qo0Pzr-gCLcBGAs/s640/Photo%2BJul%2B25%252C%2B08%2B21%2B40.jpg)
-
-](https://3.bp.blogspot.com/-AoAIxbalBJo/WXaY-b1-UmI/AAAAAAAAEHI/pAO8yCr6i8wbx_dxnvk42wNd4qo0Pzr-gCLcBGAs/s1600/Photo%2BJul%2B25%252C%2B08%2B21%2B40.jpg)  
+[![](https://3.bp.blogspot.com/-AoAIxbalBJo/WXaY-b1-UmI/AAAAAAAAEHI/pAO8yCr6i8wbx_dxnvk42wNd4qo0Pzr-gCLcBGAs/s640/Photo%2BJul%2B25%252C%2B08%2B21%2B40.jpg)  
   
 **Ingredients analysis**  
 Based on cosdna, there is no ingredients that are harmful to the skin which is gooood. It contains **Hyaluronic Acid** which acts as a humectant (to moisturize the skin). And it's fragrance free, mineral oil free, alcohol free.
@@ -138,13 +132,9 @@ Light Toning Water (High Moisture) - 200ml - RM29.90
 Light Toning Water (High Moisture) - 400ml - RM49.90  
 Light Toning Water (High Moisture) - 50ml - RM12.90  
   
-[![](https://2.bp.blogspot.com/-pkKkzsrKEsY/WXaY-cQ94bI/AAAAAAAAEHM/MZVLgU9tzJwWceQ3DKNYwLQSWTjy9S-oACLcBGAs/s640/Photo%2BJul%2B25%252C%2B08%2B21%2B18.jpg)
-
-](https://2.bp.blogspot.com/-pkKkzsrKEsY/WXaY-cQ94bI/AAAAAAAAEHM/MZVLgU9tzJwWceQ3DKNYwLQSWTjy9S-oACLcBGAs/s1600/Photo%2BJul%2B25%252C%2B08%2B21%2B18.jpg)  
+[![](https://2.bp.blogspot.com/-pkKkzsrKEsY/WXaY-cQ94bI/AAAAAAAAEHM/MZVLgU9tzJwWceQ3DKNYwLQSWTjy9S-oACLcBGAs/s640/Photo%2BJul%2B25%252C%2B08%2B21%2B18.jpg)  
   
-[![](https://3.bp.blogspot.com/-Okge9dK4i8U/WXaZAcF-4kI/AAAAAAAAEHk/zOKqG9Ysoo8ztzhVNfipxLSAnqsIzVEiwCLcBGAs/s640/Photo%2BJul%2B25%252C%2B08%2B23%2B18.jpg)
-
-](https://3.bp.blogspot.com/-Okge9dK4i8U/WXaZAcF-4kI/AAAAAAAAEHk/zOKqG9Ysoo8ztzhVNfipxLSAnqsIzVEiwCLcBGAs/s1600/Photo%2BJul%2B25%252C%2B08%2B23%2B18.jpg)  
+[![](https://3.bp.blogspot.com/-Okge9dK4i8U/WXaZAcF-4kI/AAAAAAAAEHk/zOKqG9Ysoo8ztzhVNfipxLSAnqsIzVEiwCLcBGAs/s640/Photo%2BJul%2B25%252C%2B08%2B23%2B18.jpg)  
   
 I bought both toner and moisturizer. I will review the moisturizer, soooon.  
   

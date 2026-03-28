@@ -14,8 +14,6 @@ I was intrigued when I saw this new yellow Garnier. It's oil-infused cleansing w
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ7Fy6qJ-J-Edv1dWFBHZFNOE0Bn66x2B4qc_8enRAGH6ZUni6638xxb_UqMytzv-YDE1CsvZ4AqKIiOtWdgPmyW2mQCNOLqE6giOu55aO7ea2H7ofH2xPylU-Vjs9EJmBUaYXaFB7rnwO/s640/Photo+02-12-2017%252C+6+02+06+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ7Fy6qJ-J-Edv1dWFBHZFNOE0Bn66x2B4qc_8enRAGH6ZUni6638xxb_UqMytzv-YDE1CsvZ4AqKIiOtWdgPmyW2mQCNOLqE6giOu55aO7ea2H7ofH2xPylU-Vjs9EJmBUaYXaFB7rnwO/s1600/Photo+02-12-2017%252C+6+02+06+PM.jpg)
-
   
 
   
@@ -55,8 +53,6 @@ Where to get? Any drusgtore (Watsons, Guardian)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMMNYIcZeSVsrTwCGoWdXn-ogRO_jaGh3SdPPm9iPmAaxFITz3FF2GQk3zXEn0Mv9ffiQDNj52Mzv7qw842ipIXSi70lYfwzSbHANAf7rMUk2GQEgU6fygzrE-7AdgB6OWQNCp9-ZuYqvt/s640/Photo+02-12-2017%252C+6+02+13+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMMNYIcZeSVsrTwCGoWdXn-ogRO_jaGh3SdPPm9iPmAaxFITz3FF2GQk3zXEn0Mv9ffiQDNj52Mzv7qw842ipIXSi70lYfwzSbHANAf7rMUk2GQEgU6fygzrE-7AdgB6OWQNCp9-ZuYqvt/s1600/Photo+02-12-2017%252C+6+02+13+PM.jpg)
-
   
 
   
@@ -87,8 +83,6 @@ For the 1st time Garnier Micellar technology is formulated with oils. The micell
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge5wqXHOF-d7fEZNQ3QNfxE4ey0GpyZOdJEUcZKGdlrbjnq-DkriOvfvMZdQoJyRCSGWQXcHePNYsduODnqtI-96Z7FB7E44j2n1MJZcQhsRApkQ_aWk4ujVkfX5Sb-P0-gpLnRopyoReb/s640/Photo+02-12-2017%252C+6+02+31+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge5wqXHOF-d7fEZNQ3QNfxE4ey0GpyZOdJEUcZKGdlrbjnq-DkriOvfvMZdQoJyRCSGWQXcHePNYsduODnqtI-96Z7FB7E44j2n1MJZcQhsRApkQ_aWk4ujVkfX5Sb-P0-gpLnRopyoReb/s1600/Photo+02-12-2017%252C+6+02+31+PM.jpg)
-
   
 
 **Ingredients** 
@@ -100,8 +94,6 @@ Aqua / Water, Cyclopentasiloxane, Isohexadecane, Argania Spinosa Oil / Argania S
 **Ingredient analysis**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOKYVyRi-rz8A9qcKXb224CsgnI2NQAlkeIIwrmHcV_6VF_o5FBGCjhrfclbAO1slMxsukvVwZ-OOw5kZqVCFyUr3vqGSjwD7akhwkDe6UPvHoM49akWFrTwxLhQS357KgK5zDspsBB9wW/s640/Screen+Shot+2017-12-12+at+1.03.06+PM.png)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOKYVyRi-rz8A9qcKXb224CsgnI2NQAlkeIIwrmHcV_6VF_o5FBGCjhrfclbAO1slMxsukvVwZ-OOw5kZqVCFyUr3vqGSjwD7akhwkDe6UPvHoM49akWFrTwxLhQS357KgK5zDspsBB9wW/s1600/Screen+Shot+2017-12-12+at+1.03.06+PM.png)
 
   
 
@@ -130,8 +122,6 @@ Drying, berminyak and tambah satu lagi, glitters. The glitters. Why oh why? Berk
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6UrfsJAHfkY-qjLh_O0PgocIGEMmS-XZPwPH0PArnj0CbZn2yfcmXyxVgG56zPNd38BDuMXoS0sp5pOLXimmaDVmygzuK1x-appLHcxcFI8M6y2PCdOenlJ2v0QUWonM3mBABrj_iDDI_/s640/Photo+02-12-2017%252C+6+02+48+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6UrfsJAHfkY-qjLh_O0PgocIGEMmS-XZPwPH0PArnj0CbZn2yfcmXyxVgG56zPNd38BDuMXoS0sp5pOLXimmaDVmygzuK1x-appLHcxcFI8M6y2PCdOenlJ2v0QUWonM3mBABrj_iDDI_/s1600/Photo+02-12-2017%252C+6+02+48+PM.jpg)
 
 See the glitters berkilat macam tu? Can't imagine kalau ada yang guna tapi tak bilas.
 

@@ -14,8 +14,6 @@ I am going to review the Innisfree Orchid line! 
 
 [![](https://3.bp.blogspot.com/-6B7B_hGn3Rg/WbiWOchG0kI/AAAAAAAAEuU/Q6uRmU_h6T8320U-7KyID1J0Lk2Y1xr7QCLcBGAs/s640/Photo%2B11-09-2017%252C%2B11%2B59%2B24%2BAM.jpg)
 
-](https://3.bp.blogspot.com/-6B7B_hGn3Rg/WbiWOchG0kI/AAAAAAAAEuU/Q6uRmU_h6T8320U-7KyID1J0Lk2Y1xr7QCLcBGAs/s1600/Photo%2B11-09-2017%252C%2B11%2B59%2B24%2BAM.jpg)
-
 Innisfree Orchid Skin, Essence, Lotion and Cream
 
   
@@ -43,8 +41,6 @@ First of all, what are the difference between skin, essence, lotion, cream? For 
   
 
 [![](https://4.bp.blogspot.com/-ruTO0ScWTUA/Wbib1HqKD6I/AAAAAAAAEu8/E_bJwkm8gwwdFWhsHUC9DSpojZRd8M3SgCLcBGAs/s640/Screen%2BShot%2B2017-09-13%2Bat%2B10.44.55%2BAM.png)
-
-](https://4.bp.blogspot.com/-ruTO0ScWTUA/Wbib1HqKD6I/AAAAAAAAEu8/E_bJwkm8gwwdFWhsHUC9DSpojZRd8M3SgCLcBGAs/s1600/Screen%2BShot%2B2017-09-13%2Bat%2B10.44.55%2BAM.png)
 
   
 
@@ -80,8 +76,6 @@ Intense cream: For very dry skin
 
 [![](https://2.bp.blogspot.com/-YCwQli3ohKw/WbiWQAaqH-I/AAAAAAAAEuk/Gu_EnPYg6wEJVYHnhJmikpJZ_KZzOe-LQCLcBGAs/s640/Photo%2B11-09-2017%252C%2B12%2B03%2B12%2BPM.jpg)
 
-](https://2.bp.blogspot.com/-YCwQli3ohKw/WbiWQAaqH-I/AAAAAAAAEuk/Gu_EnPYg6wEJVYHnhJmikpJZ_KZzOe-LQCLcBGAs/s1600/Photo%2B11-09-2017%252C%2B12%2B03%2B12%2BPM.jpg)
-
   
 
 Smells nice, tak melekit, absorbs quickly. Quite hydrating. RM79.00 for 200mL? Naahh, I'll pass. Maybe kena pakai banyak kali kot, baru nampak the brightening and anti-wrinkle tu. Tapi it's nice to have satu set. Doesn't break me out, doesn't irritates me, so, okay la kot? Eventhough it contains alcohol, tapi tak rasa pedih sangat.
@@ -96,8 +90,6 @@ Smells nice, tak melekit, absorbs quickly. Quite hydrating. RM79.00 for 200mL? N
 
 [![](https://1.bp.blogspot.com/-wlQLSQbcuXY/WbiWQQVaOlI/AAAAAAAAEuo/7352jntte5gDuKbf-2XfJoWiTdHgDL0vgCLcBGAs/s640/Photo%2B11-09-2017%252C%2B12%2B03%2B43%2BPM.jpg)
 
-](https://1.bp.blogspot.com/-wlQLSQbcuXY/WbiWQQVaOlI/AAAAAAAAEuo/7352jntte5gDuKbf-2XfJoWiTdHgDL0vgCLcBGAs/s1600/Photo%2B11-09-2017%252C%2B12%2B03%2B43%2BPM.jpg)
-
   
 
 I kinda of like this essence. The texture macam best, absorbs dekat kulit and rasa moisturizing. However, it contains alcohol so it might be a bit drying. Doesn't irritates or breaks me out, so okay lah. A bit pricey, RM107 for 50mL. I don't think I am going to purchase the full size.
@@ -107,9 +99,7 @@ I kinda of like this essence. The texture macam best, absorbs dekat kulit and ra
 
 ## Innisfree Orchid Lotion review
 
-[![](https://3.bp.blogspot.com/-imsNXJhY0Lc/WbiWQkFb4oI/AAAAAAAAEus/Ok-Ctetc1w0X-5Sve0debd58mY2nBsrsACLcBGAs/s640/Photo%2B11-09-2017%252C%2B12%2B03%2B52%2BPM.jpg)
-
-](https://3.bp.blogspot.com/-imsNXJhY0Lc/WbiWQkFb4oI/AAAAAAAAEus/Ok-Ctetc1w0X-5Sve0debd58mY2nBsrsACLcBGAs/s1600/Photo%2B11-09-2017%252C%2B12%2B03%2B52%2BPM.jpg)  
+[![](https://3.bp.blogspot.com/-imsNXJhY0Lc/WbiWQkFb4oI/AAAAAAAAEus/Ok-Ctetc1w0X-5Sve0debd58mY2nBsrsACLcBGAs/s640/Photo%2B11-09-2017%252C%2B12%2B03%2B52%2BPM.jpg)  
   
 
 Again, all the products ni smells nice, I like the smell. Doesn't irritates or breaks me out. Absobs quickly and not greasy. 160mL for RM79.00 is quite pricey, but it is good. 
@@ -120,13 +110,9 @@ Again, all the products ni smells nice, I like the smell. Doesn't irritates or b
 
 [![](https://3.bp.blogspot.com/-uS1-qZCAWtQ/WbiWOhre8eI/AAAAAAAAEuY/diCLsu0eDscLFRq0W-efPOgEQ6oECOehACLcBGAs/s640/Photo%2B11-09-2017%252C%2B11%2B59%2B42%2BAM.jpg)
 
-](https://3.bp.blogspot.com/-uS1-qZCAWtQ/WbiWOhre8eI/AAAAAAAAEuY/diCLsu0eDscLFRq0W-efPOgEQ6oECOehACLcBGAs/s1600/Photo%2B11-09-2017%252C%2B11%2B59%2B42%2BAM.jpg)
-
   
 
 [![](https://1.bp.blogspot.com/-A3GmbHln644/WbiWOZibHsI/AAAAAAAAEuc/Tc2sNavizlQxlOlDmxxkfQGL2rFrC4RjgCLcBGAs/s640/Photo%2B11-09-2017%252C%2B11%2B59%2B53%2BAM.jpg)
-
-](https://1.bp.blogspot.com/-A3GmbHln644/WbiWOZibHsI/AAAAAAAAEuc/Tc2sNavizlQxlOlDmxxkfQGL2rFrC4RjgCLcBGAs/s1600/Photo%2B11-09-2017%252C%2B11%2B59%2B53%2BAM.jpg)
 
   
 

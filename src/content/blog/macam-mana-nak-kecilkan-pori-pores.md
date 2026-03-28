@@ -14,8 +14,6 @@ Masalah pores ni memang common problem for everyone. Semua orang kalau boleh, ta
 
 [![](https://4.bp.blogspot.com/-POZ2ZyLVsBE/WvgPysfczvI/AAAAAAAAGeU/DNaIJCsQ6-ADTXPgksbAp6XwniV0jI_agCLcBGAs/s640/Screen%2BShot%2B2018-05-13%2Bat%2B6.13.16%2BPM.png)
 
-](https://4.bp.blogspot.com/-POZ2ZyLVsBE/WvgPysfczvI/AAAAAAAAGeU/DNaIJCsQ6-ADTXPgksbAp6XwniV0jI_agCLcBGAs/s1600/Screen%2BShot%2B2018-05-13%2Bat%2B6.13.16%2BPM.png)
-
   
   
   

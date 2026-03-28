@@ -8,9 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://2.bp.blogspot.com/-wzwX18NzPec/XBkfJ0AA7pI/AAAAAAAAHqU/VFqxTr3PN5s830tcTuFhLsUGFtGcZ47zQCLcBGAs/s640/E2B5D293-4430-469F-BCFF-A0498D554EAA.jpg)
-
-](https://2.bp.blogspot.com/-wzwX18NzPec/XBkfJ0AA7pI/AAAAAAAAHqU/VFqxTr3PN5s830tcTuFhLsUGFtGcZ47zQCLcBGAs/s1600/E2B5D293-4430-469F-BCFF-A0498D554EAA.jpg)  
+[![](https://2.bp.blogspot.com/-wzwX18NzPec/XBkfJ0AA7pI/AAAAAAAAHqU/VFqxTr3PN5s830tcTuFhLsUGFtGcZ47zQCLcBGAs/s640/E2B5D293-4430-469F-BCFF-A0498D554EAA.jpg)  
 
 My thoughts on Banila Co Hello Sunny Hydrating Sun Essence SPF50 PA++++
 
@@ -24,8 +22,6 @@ I bought this during my Korea trip. You can read more here: [https://www.imanabd
   
 
 [![](https://4.bp.blogspot.com/-ekhr4ir5hEk/XBkfKQdApeI/AAAAAAAAHqY/qNxxtMPc4HYNZdyqwFy_jhGJFwYoluy5ACLcBGAs/s640/A6A69668-2B6A-40D9-905F-CFE1A7893687.jpg)
-
-](https://4.bp.blogspot.com/-ekhr4ir5hEk/XBkfKQdApeI/AAAAAAAAHqY/qNxxtMPc4HYNZdyqwFy_jhGJFwYoluy5ACLcBGAs/s1600/A6A69668-2B6A-40D9-905F-CFE1A7893687.jpg)
 
   
 
@@ -47,8 +43,6 @@ I can't find the full ingredient list on the website and the ingredient list on 
 
 [![](https://1.bp.blogspot.com/-2PKywxrI6NU/XBkfHZUAyaI/AAAAAAAAHqM/jSG5QtwIEQM1tnoho2alW9x43E7isQVDgCLcBGAs/s640/04BE95C8-E884-483C-A2DA-1F93643CAEA7.JPG)
 
-](https://1.bp.blogspot.com/-2PKywxrI6NU/XBkfHZUAyaI/AAAAAAAAHqM/jSG5QtwIEQM1tnoho2alW9x43E7isQVDgCLcBGAs/s1600/04BE95C8-E884-483C-A2DA-1F93643CAEA7.JPG)
-
   
 
 I tried to Google translate the ingredients and this is what I found.
@@ -56,8 +50,6 @@ I tried to Google translate the ingredients and this is what I found.
   
 
 [![](https://3.bp.blogspot.com/-cuejjrnjM-w/XBkfJVzOr5I/AAAAAAAAHqQ/s6q5KnlRbqcTrpNg6hKmIc-u1RXZAbziwCLcBGAs/s640/IMG_2321.PNG)
-
-](https://3.bp.blogspot.com/-cuejjrnjM-w/XBkfJVzOr5I/AAAAAAAAHqQ/s6q5KnlRbqcTrpNg6hKmIc-u1RXZAbziwCLcBGAs/s1600/IMG_2321.PNG)
 
 Panjang gila, and banyak essential oils.
 
@@ -93,8 +85,6 @@ All chemical filters and no physical filters (titanium dioxide or zinc oxide) so
 
 [![](https://2.bp.blogspot.com/-WrpR1tEhsfw/XBkfHcv0u5I/AAAAAAAAHqE/_JfZ_Z95oE0r5GfbWxGdXLzlZVR3MxlMwCLcBGAs/s640/0B03D975-7956-4089-95E5-358DFF6A8038.jpg)
 
-](https://2.bp.blogspot.com/-WrpR1tEhsfw/XBkfHcv0u5I/AAAAAAAAHqE/_JfZ_Z95oE0r5GfbWxGdXLzlZVR3MxlMwCLcBGAs/s1600/0B03D975-7956-4089-95E5-358DFF6A8038.jpg)
-
  It comes in a 50ml white opaque bottle with a purple cap and a sturdy pump. I love the pump cause it is easy to use and dispense the product. It is also very hygienic. The design is also simple and cute, terus rasa nak guna lepas beli. And this is the first sunscreen I reached for walaupun I beli banyak lagi sunscreen lain tapi I pilih yang ni untuk try sebab I tak pernah try sunscreen yang dalam bottle and pump like this.
 
   
@@ -112,8 +102,6 @@ No strong sunscreen smell, it smells herbal-ish and refreshing!
 **Texture and formula**
 
 [![](https://4.bp.blogspot.com/-ucaP9Mpkn_E/XBkfHYTrmfI/AAAAAAAAHqI/xfI0I4pIlLIKGu5YUs_aV88SCK5RCotWgCLcBGAs/s640/2BD05AE4-1D56-417C-96AC-3B5BF182DF10.jpg)
-
-](https://4.bp.blogspot.com/-ucaP9Mpkn_E/XBkfHYTrmfI/AAAAAAAAHqI/xfI0I4pIlLIKGu5YUs_aV88SCK5RCotWgCLcBGAs/s1600/2BD05AE4-1D56-417C-96AC-3B5BF182DF10.jpg)
 
  The texture is lightweight cream-gel and absorbs nicely into the skin and leaves a dewy finish. It absorbs nicely on the skin. Since I have dry skin, the texture is really nice for me since it didn't makes my skin feels drier and tight.
 

@@ -14,8 +14,6 @@ Sharing my thoughts about Senka Perfect Watery Oil today!
 
 [![](https://4.bp.blogspot.com/-o-bkJdR3Lzo/WsZKnrxJTbI/AAAAAAAAGOw/JzBDK1jXdjcloPpwOlwFA8RRakSwNQ4ggCLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B39%2B47%2BAM.jpg)
 
-](https://4.bp.blogspot.com/-o-bkJdR3Lzo/WsZKnrxJTbI/AAAAAAAAGOw/JzBDK1jXdjcloPpwOlwFA8RRakSwNQ4ggCLcBGAs/s1600/Photo%2B05-04-2018%252C%2B2%2B39%2B47%2BAM.jpg)
-
   
   
   
@@ -59,8 +57,6 @@ Oil cleanser boleh remove makeups, sunscreens, minyak semua dekat muka kita. And
 
 [![](https://4.bp.blogspot.com/-fWxTXer2Pi0/WsZKniwy49I/AAAAAAAAGO0/AH6m8-TscBcDrl36-vXRH-96YUsoXYaHgCLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B40%2B06%2BAM.jpg)
 
-](https://4.bp.blogspot.com/-fWxTXer2Pi0/WsZKniwy49I/AAAAAAAAGO0/AH6m8-TscBcDrl36-vXRH-96YUsoXYaHgCLcBGAs/s1600/Photo%2B05-04-2018%252C%2B2%2B40%2B06%2BAM.jpg)
-
   
   
 
@@ -81,8 +77,6 @@ OMG it has a very strong fragance, macam shampoo, which I really hate :(
   
 
 [![](https://2.bp.blogspot.com/-5y5HKgzGt9o/WsZKnXrVw5I/AAAAAAAAGOs/68C3RRKF5g4AB9_p5jUM89vrZIqMxvQ1gCLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B40%2B18%2BAM.jpg)
-
-](https://2.bp.blogspot.com/-5y5HKgzGt9o/WsZKnXrVw5I/AAAAAAAAGOs/68C3RRKF5g4AB9_p5jUM89vrZIqMxvQ1gCLcBGAs/s1600/Photo%2B05-04-2018%252C%2B2%2B40%2B18%2BAM.jpg)
 
   
 

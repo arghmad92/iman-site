@@ -10,8 +10,6 @@ draft: false
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDk4aDGNiQIJNTiTn6J59SZUh5SzEAdEXX3TDhyuMMa3DeAtXIAQMDa_1kZL6v5eGfQqusZHwESB4NK0UDAJ79bGheyzonzqODUEPiUDcWSSc6VTRpq_LVwSxJL1EopmmWHw_virAsUzo/s640/Photo+Jul+12%252C+12+43+02.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDk4aDGNiQIJNTiTn6J59SZUh5SzEAdEXX3TDhyuMMa3DeAtXIAQMDa_1kZL6v5eGfQqusZHwESB4NK0UDAJ79bGheyzonzqODUEPiUDcWSSc6VTRpq_LVwSxJL1EopmmWHw_virAsUzo/s1600/Photo+Jul+12%252C+12+43+02.jpg)
-
   
 
 Product Name: Nature Republic Argan Essential Deep Care Hair Pack 
@@ -36,8 +34,6 @@ Availability: Hermo, Althea
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqalJik_Z-mBJBXxTTQLy8XEpRtsoJdNTRZ7Ykf-tSR4VzsTB8YL_lPX2z7NJ0f_U3CHQSSVRSY3clY8clVKETOhM2CLYSvi-hwrZvoZTt-3tN0XZUtM3IphEpan2yf1j8TblfKljRQco/s640/Photo+Jul+12%252C+12+43+08.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqalJik_Z-mBJBXxTTQLy8XEpRtsoJdNTRZ7Ykf-tSR4VzsTB8YL_lPX2z7NJ0f_U3CHQSSVRSY3clY8clVKETOhM2CLYSvi-hwrZvoZTt-3tN0XZUtM3IphEpan2yf1j8TblfKljRQco/s1600/Photo+Jul+12%252C+12+43+08.jpg)
-
   
 
 **What it claims?** 
@@ -57,13 +53,9 @@ Brown plastic jar with screw-off plastic lid
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKU2QI2NkFrugv2PszlcdnYD2jCl3UZMpA9oNNzQkEuiY6K7b6zes0bAh9ax8TPbnQKJwbFzBVK3Tny5CVuV8dh3GykLr_y9-vF76isv26MXuY0cpgTc4g4z56bDJry1ZQSSywY20F9QU/s640/Photo+Jul+12%252C+12+43+45.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKU2QI2NkFrugv2PszlcdnYD2jCl3UZMpA9oNNzQkEuiY6K7b6zes0bAh9ax8TPbnQKJwbFzBVK3Tny5CVuV8dh3GykLr_y9-vF76isv26MXuY0cpgTc4g4z56bDJry1ZQSSywY20F9QU/s1600/Photo+Jul+12%252C+12+43+45.jpg)
-
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlIww7N54SzjWw9mZ408WA5bncrZd6tXR01yIEflJV6lfL9BQLnqsONLpWt1UWQ4CDcEBfDK4YSSK1kV4pnH-icprx3yekxipT9UFtkMD_3K99KNKUGNfK82ozwoRzXVXYY2NaA5Aam4/s640/Photo+Jul+12%252C+12+43+29.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlIww7N54SzjWw9mZ408WA5bncrZd6tXR01yIEflJV6lfL9BQLnqsONLpWt1UWQ4CDcEBfDK4YSSK1kV4pnH-icprx3yekxipT9UFtkMD_3K99KNKUGNfK82ozwoRzXVXYY2NaA5Aam4/s1600/Photo+Jul+12%252C+12+43+29.jpg)
 
   
 

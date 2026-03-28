@@ -10,8 +10,6 @@ draft: false
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-gcyCSWSiPqAxhSFKW95BOR97c19Qfc_5gJ9_xCRRfsZPI_Ok9ifBYZeY8uQ3nxCevUUj0nOaK7nB_cctKz4Ywzfvl1XjSCt5KcJogKBCfrE8R3kwUR6TLB1wWHYb3OZMnv6RDS0v_Wf/s640/9F651013-B38A-459A-A0B7-A6B933F8C98C.JPG)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-gcyCSWSiPqAxhSFKW95BOR97c19Qfc_5gJ9_xCRRfsZPI_Ok9ifBYZeY8uQ3nxCevUUj0nOaK7nB_cctKz4Ywzfvl1XjSCt5KcJogKBCfrE8R3kwUR6TLB1wWHYb3OZMnv6RDS0v_Wf/s1600/9F651013-B38A-459A-A0B7-A6B933F8C98C.JPG)
-
  My newborn checklist!
 
   
@@ -62,31 +60,21 @@ Clothing ni depends lah environment baby macam mana. Kalau rumah jenis asyik pan
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucQ6cK86kb-LXJSG0LknA_p9QB-IlKoBmDmn_5K1vsX4caXJTGcA7j4-j_prpRlknDOonAwOZBMdrAZP_XdntHsMDTaOCT0Jw-ZcxlNpZzhtf5LmApHeS9NANdRGDaRYiGQH8GBAOEOnf/s640/IMG_3634.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucQ6cK86kb-LXJSG0LknA_p9QB-IlKoBmDmn_5K1vsX4caXJTGcA7j4-j_prpRlknDOonAwOZBMdrAZP_XdntHsMDTaOCT0Jw-ZcxlNpZzhtf5LmApHeS9NANdRGDaRYiGQH8GBAOEOnf/s1600/IMG_3634.jpg)
-
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZKwN27YBlBAGGPI4F643kBZ9r_OepWzG7TAys92uLtLoIuAArYVa5jIDLeNJY32lIxfv0E5S5EE-clom2w7x65lyu4DZAulVGGSTGguFSTIY-qm8YB4LfS9hQtcZVzpXbASf5JSOXaSS3/s640/IMG_3636.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZKwN27YBlBAGGPI4F643kBZ9r_OepWzG7TAys92uLtLoIuAArYVa5jIDLeNJY32lIxfv0E5S5EE-clom2w7x65lyu4DZAulVGGSTGguFSTIY-qm8YB4LfS9hQtcZVzpXbASf5JSOXaSS3/s1600/IMG_3636.jpg)
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC3xqR75Cp9NT9vY2H6VQ8ZqLzID-_H2pugU77Rh_l8u80AmbTMtl-qAPotezzeurp5-YMCoZeW4vhEgls6fMkpKHlj-NoI-EjsOU_o-K-z1qb8ay0cmqi3qGplSAmQiyM4-XqAVYyKBsZ/s640/IMG_3638.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC3xqR75Cp9NT9vY2H6VQ8ZqLzID-_H2pugU77Rh_l8u80AmbTMtl-qAPotezzeurp5-YMCoZeW4vhEgls6fMkpKHlj-NoI-EjsOU_o-K-z1qb8ay0cmqi3qGplSAmQiyM4-XqAVYyKBsZ/s1600/IMG_3638.jpg)
-
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiPY23c8IxmLalsUdJgPXajKqGi6egv6ZyAFoTZsAfmLZqpzLno8QEzRuUQ7hgtoASkLGz3hOj6GEKpc5HbIkmtrVTjghkIGDr0Qap6laePSmPUZklXnpm43ZfUodlfoM-u39RWb4G7NiA/s640/IMG_3639.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiPY23c8IxmLalsUdJgPXajKqGi6egv6ZyAFoTZsAfmLZqpzLno8QEzRuUQ7hgtoASkLGz3hOj6GEKpc5HbIkmtrVTjghkIGDr0Qap6laePSmPUZklXnpm43ZfUodlfoM-u39RWb4G7NiA/s1600/IMG_3639.jpg)
-
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpCP0aSpVmWai68vGrKNkZYg23HxHBrIEJPPLkkJrjffs-n1rFG-cHBLOSeWPmyKwMtcgrRbhcMx8Y2qxmH3H1Rv7NVo0ybT8-VyVgAIJEVQz4824W2ivtxnZyGVWfOR-3kf5D8ylm1nQR/s640/IMG_3640.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpCP0aSpVmWai68vGrKNkZYg23HxHBrIEJPPLkkJrjffs-n1rFG-cHBLOSeWPmyKwMtcgrRbhcMx8Y2qxmH3H1Rv7NVo0ybT8-VyVgAIJEVQz4824W2ivtxnZyGVWfOR-3kf5D8ylm1nQR/s1600/IMG_3640.jpg)
 
 (Brand Pureen best) (Untuk rujukan masa depan I haha)
 
@@ -149,8 +137,6 @@ Sterilizer - Also bukan keperluan tapi nice to have
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnSzI9EQZscWvyUz2Bn45EQaDtsNoMf2z55dEXuMGWfphCew9P3aFZ94vYVs8rm1-TO5G320XMMfUXbJ9U9cPfwxJ-A-SeeaOivC3WNTrm6AdkrmDBRRfnPZo3V1_mf9WU61vEkQ83p1m/s640/IMG_3842.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnSzI9EQZscWvyUz2Bn45EQaDtsNoMf2z55dEXuMGWfphCew9P3aFZ94vYVs8rm1-TO5G320XMMfUXbJ9U9cPfwxJ-A-SeeaOivC3WNTrm6AdkrmDBRRfnPZo3V1_mf9WU61vEkQ83p1m/s1600/IMG_3842.jpg)
-
   
   
   
@@ -180,8 +166,6 @@ I did a diaper comparison review here: [Baby Diapers Review (2018)](https://www
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtMD07lkO4duHaLkm_B4wb84sEpZv1QwkiTGt4wBnGjhNMDlHUPfPBl-lYee2sYfWnyN5uqepb9iFWS-BsNI4btmquEFCGk4RnUHmTgIJnp_qt513JffocAaMtC9sDzhmAaNU2sPetxwsn/s640/Screenshot+2020-05-01+at+12.55.03+AM.png)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtMD07lkO4duHaLkm_B4wb84sEpZv1QwkiTGt4wBnGjhNMDlHUPfPBl-lYee2sYfWnyN5uqepb9iFWS-BsNI4btmquEFCGk4RnUHmTgIJnp_qt513JffocAaMtC9sDzhmAaNU2sPetxwsn/s1600/Screenshot+2020-05-01+at+12.55.03+AM.png)
 
 Tong sampah untuk buang diapers pun RM339.
 
@@ -214,8 +198,6 @@ Cotton buds
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEgTia-VJ5USvM6Jr5gRAv9nS__c-2TPdyAc-HQPtJJNCQ-zGpdYsPaEHqWxh3xdhLmQAxG-z1mAkBeFN24WHMZTZfJJbed2sz-DRkfSkrQfCQ2GSAyGQ73OIzck5VVNJ1mQJVkcWIkflu/s640/IMG_3642.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEgTia-VJ5USvM6Jr5gRAv9nS__c-2TPdyAc-HQPtJJNCQ-zGpdYsPaEHqWxh3xdhLmQAxG-z1mAkBeFN24WHMZTZfJJbed2sz-DRkfSkrQfCQ2GSAyGQ73OIzck5VVNJ1mQJVkcWIkflu/s1600/IMG_3642.jpg)
-
 Minyak telon yang I suka. [Telon JMK](http://shp.ee/mgje9z5), [Bebiku](http://shp.ee/aw4izz5) and [Minyak Telon Cap Lang](https://shp.ee/5qvfrr5).
 
   
@@ -230,8 +212,6 @@ Sterimar - Untuk bersihkan hidung
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0bkn_0zzVZmQa3w12fC2ZYGjrREDPf_PnB4ceGU_lRPzU2LoafyquwViRheGTZlaboM7RRIDJ7faKSptyQ4g_7F2phuwK27u34wbiT3h1-bGlKLFRETbEKeaZNp2DXCYYwTvdckoG2Ght/s640/IMG_3654.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0bkn_0zzVZmQa3w12fC2ZYGjrREDPf_PnB4ceGU_lRPzU2LoafyquwViRheGTZlaboM7RRIDJ7faKSptyQ4g_7F2phuwK27u34wbiT3h1-bGlKLFRETbEKeaZNp2DXCYYwTvdckoG2Ght/s1600/IMG_3654.jpg)
-
   
 
   
@@ -243,8 +223,6 @@ Here is the full list:
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm4ID0PqHBzSFvMt5RtulHc51e9L2H1OguwbDDUhNPpH6463izKs8G6A_8SHTSsBqyI53CKk-LMbqQZDn__KtUB60-yoCp97yeLypmsRsN-zrigNPZhXHYD0CBeS_HpV9qgDDhEL6LRVL6/s640/phonto+2.PNG)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm4ID0PqHBzSFvMt5RtulHc51e9L2H1OguwbDDUhNPpH6463izKs8G6A_8SHTSsBqyI53CKk-LMbqQZDn__KtUB60-yoCp97yeLypmsRsN-zrigNPZhXHYD0CBeS_HpV9qgDDhEL6LRVL6/s1600/phonto+2.PNG)
 
   
 

@@ -14,8 +14,6 @@ I've tried quite a lot of Simple skincare, so today I'm going to review the Kind
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWILqAOrKeCdZtLTMNakazjOgyAhTI91mBeVVRDw1ZjPgXGrlkzyQzRmboLn3vdHlqnmF_znzWlcaYCh7mHaCsMZDhkvHL43lgKDwtmVJIK2O7VNlKFoQdT6QYE-uEtB-ZLiNWyKQKytc/s640/Photo+Jun+23%252C+01+10+59.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWILqAOrKeCdZtLTMNakazjOgyAhTI91mBeVVRDw1ZjPgXGrlkzyQzRmboLn3vdHlqnmF_znzWlcaYCh7mHaCsMZDhkvHL43lgKDwtmVJIK2O7VNlKFoQdT6QYE-uEtB-ZLiNWyKQKytc/s1600/Photo+Jun+23%252C+01+10+59.jpg)
-
  Product Name: Simple Kind To Skin+ Protecting Moisture Cream SPF30
 
 Product Brand: Simple Skincare
@@ -34,8 +32,6 @@ Availability online: [www.simpleskincare.my](https://www.simpleskincare.my/) (
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdCLEIcYuNdt-x2fil3GsEQbkR2hPEXm-WatQfo0X-cGVSGnKb-zJmjFAcHzVGPfOBIiyqCgSlRgsQ6NJIPmllWK_dRC61Pt8oiTpCKlkCSsZL8tlCUI2i89btTl99L_REFRaKirmHng8/s640/Photo+Jun+23%252C+01+11+06.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdCLEIcYuNdt-x2fil3GsEQbkR2hPEXm-WatQfo0X-cGVSGnKb-zJmjFAcHzVGPfOBIiyqCgSlRgsQ6NJIPmllWK_dRC61Pt8oiTpCKlkCSsZL8tlCUI2i89btTl99L_REFRaKirmHng8/s1600/Photo+Jun+23%252C+01+11+06.jpg)
 
   
 
@@ -56,8 +52,6 @@ White plastic bottle with a pump
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoK_eR_OUVdKJFkFnDAh7ou2PLhPIF4IwMsqW1fx7c-e6U1vBdL5_69ygp6Bjjr1YA78Mu4anVLOMC6DfEtjg0KWrdubSgWv2EFGqEAGBXGLr18vyl_seRM40nWMLH6VcP9WPHG-R3xmQ/s640/Photo+Jun+23%252C+01+11+23.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoK_eR_OUVdKJFkFnDAh7ou2PLhPIF4IwMsqW1fx7c-e6U1vBdL5_69ygp6Bjjr1YA78Mu4anVLOMC6DfEtjg0KWrdubSgWv2EFGqEAGBXGLr18vyl_seRM40nWMLH6VcP9WPHG-R3xmQ/s1600/Photo+Jun+23%252C+01+11+23.jpg)
 
   
 

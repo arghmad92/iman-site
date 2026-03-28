@@ -14,8 +14,6 @@ My thoughs on Kora Organics Hydrating Moisturizer.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_9VlHYxmaTnGTtnQMnScTCYgYDdrjYPmwtzUNYeQctHT2SkkPoqAx9MZzYevm5jJ0WGjSuKfdq07NFXokdmgofBFX-yFu9Br0fN7fnkgSz6DE7gufmPYneDqkMfQ7leEg_ao-f_K602bn/s640/Photo+01-07-2018%252C+3+14+09+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_9VlHYxmaTnGTtnQMnScTCYgYDdrjYPmwtzUNYeQctHT2SkkPoqAx9MZzYevm5jJ0WGjSuKfdq07NFXokdmgofBFX-yFu9Br0fN7fnkgSz6DE7gufmPYneDqkMfQ7leEg_ao-f_K602bn/s1600/Photo+01-07-2018%252C+3+14+09+PM.jpg)
-
   
   
   
@@ -36,15 +34,11 @@ I bought the Daily Ritual set for dry skin from Sephora during the 20% sale.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil5jbLLWeIhOglyuop2XkyBeWryiVotSW5Xm-P1GUV5HHZbhSyZPSjB5pTf9Kx5VTQDOhX0k1qR0j7aIiYKDniNoL-DtQxwLoqnnOffUqGSb8Ly1Q29CghxLx_HO5A1eXm27KrnyVMMN-Z/s640/Photo+02-07-2018%252C+4+34+14+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil5jbLLWeIhOglyuop2XkyBeWryiVotSW5Xm-P1GUV5HHZbhSyZPSjB5pTf9Kx5VTQDOhX0k1qR0j7aIiYKDniNoL-DtQxwLoqnnOffUqGSb8Ly1Q29CghxLx_HO5A1eXm27KrnyVMMN-Z/s1600/Photo+02-07-2018%252C+4+34+14+PM.jpg)
-
   
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt75LWabbshfs67oAAefotWOU1tvR1j_8rG6P_hZq3tZuCY4zYOU0uaELG3QtCcHX4SyCDh2BDstp0XbT_NmFwuENFnJPw6otpn0R0fRvseCP2w-opGs4JNQiKEfJKiGMQOem1vM9bDo0w/s640/Photo+02-07-2018%252C+4+34+30+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt75LWabbshfs67oAAefotWOU1tvR1j_8rG6P_hZq3tZuCY4zYOU0uaELG3QtCcHX4SyCDh2BDstp0XbT_NmFwuENFnJPw6otpn0R0fRvseCP2w-opGs4JNQiKEfJKiGMQOem1vM9bDo0w/s1600/Photo+02-07-2018%252C+4+34+30+PM.jpg)
 
   
 
@@ -60,19 +54,13 @@ Whats inside the set: 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSmobGFeS92ZsWa1V02fCU1ZlIrRJ93XyAwOungmcUth1kaOOkKLNtd2xTmCCm9VdTRhi7vR9XgN_6ctwWtChawXIl3OiNcGCaBVFhRGWDsPzdunSmi0Km-3toSSX1Y5wK2VoEwwk3f36i/s640/Photo+02-07-2018%252C+4+35+17+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSmobGFeS92ZsWa1V02fCU1ZlIrRJ93XyAwOungmcUth1kaOOkKLNtd2xTmCCm9VdTRhi7vR9XgN_6ctwWtChawXIl3OiNcGCaBVFhRGWDsPzdunSmi0Km-3toSSX1Y5wK2VoEwwk3f36i/s1600/Photo+02-07-2018%252C+4+35+17+PM.jpg)
-
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqs9AjU7BXlNVSHfV_ywZ34GGbnHtDQuGCXey1hFjWlsOPvEu8PdPrwuyEki7nwDHiwkGWEv30b6YOiiGdZw4QEnTZtXGpEshXh8U_tYtJtF1qJNo-nDnEh3Lslg60nyx0Ms0HqzdpruoK/s640/Photo+02-07-2018%252C+4+34+46+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqs9AjU7BXlNVSHfV_ywZ34GGbnHtDQuGCXey1hFjWlsOPvEu8PdPrwuyEki7nwDHiwkGWEv30b6YOiiGdZw4QEnTZtXGpEshXh8U_tYtJtF1qJNo-nDnEh3Lslg60nyx0Ms0HqzdpruoK/s1600/Photo+02-07-2018%252C+4+34+46+PM.jpg)
-
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2bIuHOZlvLbQVhO1Hd5zYkolRI4473J-uM0zbKwT0pax-TH3mqE7MWq_f9NVsTqvcjrR17dI_XEw32_IeGL4P6dkAj5OoagQbH1PVNGLDp9u98RPSwLWuU8zCd3lG8hFklRJDWD9-oE99/s640/Photo+05-07-2018%252C+11+49+31+AM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2bIuHOZlvLbQVhO1Hd5zYkolRI4473J-uM0zbKwT0pax-TH3mqE7MWq_f9NVsTqvcjrR17dI_XEw32_IeGL4P6dkAj5OoagQbH1PVNGLDp9u98RPSwLWuU8zCd3lG8hFklRJDWD9-oE99/s1600/Photo+05-07-2018%252C+11+49+31+AM.jpg)
 
   
 
@@ -82,8 +70,6 @@ Normal price RM147, I beli RM117.50.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB4Ci92-kkNbRDbbHDfba29Vlcif78ZcPvQeOXUJY4VPUV1cfs3JiqJ3Fm4OBRbtex3WtYU71TDaVGhnyzqy2R5CbHburLlK_hLUftrbKG190dtIIRIu-rGB1RdZHkl6hrv457x8Hh_phJ/s640/Photo+05-07-2018%252C+11+47+12+AM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB4Ci92-kkNbRDbbHDfba29Vlcif78ZcPvQeOXUJY4VPUV1cfs3JiqJ3Fm4OBRbtex3WtYU71TDaVGhnyzqy2R5CbHburLlK_hLUftrbKG190dtIIRIu-rGB1RdZHkl6hrv457x8Hh_phJ/s1600/Photo+05-07-2018%252C+11+47+12+AM.jpg)
-
   
 
 Sekarang GST dah tak ada, harga dekat Sephora now is RM136. Ada juga set for sensitive skin and oily/combination skin.
@@ -91,8 +77,6 @@ Sekarang GST dah tak ada, harga dekat Sephora now is RM136. Ada juga set for sen
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6COllp36g5lSOzgVukpRumzf7iAThS4GTHyLkXyBYdARj3gK4vAE7pjMJchb68C8vWe0eUVAe__xL4ncgniB0eMAYp3nUvO0LjM9ZX80Dqglnkf_XU6FrJPNzChTYxbkSjZgG7XZv-RI1/s640/Photo+01-07-2018%252C+3+16+13+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6COllp36g5lSOzgVukpRumzf7iAThS4GTHyLkXyBYdARj3gK4vAE7pjMJchb68C8vWe0eUVAe__xL4ncgniB0eMAYp3nUvO0LjM9ZX80Dqglnkf_XU6FrJPNzChTYxbkSjZgG7XZv-RI1/s1600/Photo+01-07-2018%252C+3+16+13+PM.jpg)
 
   
 
@@ -107,8 +91,6 @@ A creamy daily moisturizer perfect for rehydrating dull or dry skin. Certified O
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4NicQhoeOGjoX4Cztqp5bEnLatY0rjiwKskTWWEGmbZs-b5RtNR0fahO2Rr4C-7pUjkXZKlnnHXfa7m6eQceCyvkLg2OIidkrRD5CuuqKrTqfG9KD9Nkv9u3P14Po3dINF0qJjfhijCel/s640/Photo+01-07-2018%252C+3+14+17+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4NicQhoeOGjoX4Cztqp5bEnLatY0rjiwKskTWWEGmbZs-b5RtNR0fahO2Rr4C-7pUjkXZKlnnHXfa7m6eQceCyvkLg2OIidkrRD5CuuqKrTqfG9KD9Nkv9u3P14Po3dINF0qJjfhijCel/s1600/Photo+01-07-2018%252C+3+14+17+PM.jpg)
 
   
 
@@ -148,15 +130,11 @@ The texture is quite thick and quite hard to absorbs. Dia tak sinks into the ski
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKfciWTpXoJVV_MsMHryol_NMvpmUJzTBxc-YLnFwQbnR6gsJE1GMy3SyhFwt2sIWY3ocpc8aEqxOn7PNLpKQLJHnCvkYnguPgDn0aoA514eIoAdmy9u65VjPOLmo_jLIcK96AkO6TW2Lq/s640/Photo+01-07-2018%252C+3+14+42+PM.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKfciWTpXoJVV_MsMHryol_NMvpmUJzTBxc-YLnFwQbnR6gsJE1GMy3SyhFwt2sIWY3ocpc8aEqxOn7PNLpKQLJHnCvkYnguPgDn0aoA514eIoAdmy9u65VjPOLmo_jLIcK96AkO6TW2Lq/s1600/Photo+01-07-2018%252C+3+14+42+PM.jpg)
-
  It's a thick pale yellow cream.
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhse8zbHMgXpf2PQXxV7wPsfZ_XqNSsR5JLRQ82YE14ZoPwerXGSilyY6l-uJ6pcRggnuRLSNRNmvcJRBPQZWjg-R0A8axhyVRNodH-PMV-wcv4N9fxPcYrcUk0sIHvRZEpV6n8pzH2IBTu/s640/Photo+01-07-2018%252C+3+15+00+PM.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhse8zbHMgXpf2PQXxV7wPsfZ_XqNSsR5JLRQ82YE14ZoPwerXGSilyY6l-uJ6pcRggnuRLSNRNmvcJRBPQZWjg-R0A8axhyVRNodH-PMV-wcv4N9fxPcYrcUk0sIHvRZEpV6n8pzH2IBTu/s1600/Photo+01-07-2018%252C+3+15+00+PM.jpg)
 
  Nampak tak bila sapu, dia susah nak absorb gitu. 
 

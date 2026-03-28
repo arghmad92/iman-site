@@ -17,8 +17,6 @@ So today, I am going to review the moisturizing milk!
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHi7wlLHtWPliq7QHIp4ZWmSBGoZEijHz8RpGYNYLL42It42ZqyvAxJ8dhqlvrBWgY226cerLWIft2a_stVDSVxxya46kyeWzaKMfEM7B6RSYPb5KbpmLh6Ptr6VF4VvtHgir-X-sGsvk/s640/Photo+Jul+25%252C+08+22+30.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHi7wlLHtWPliq7QHIp4ZWmSBGoZEijHz8RpGYNYLL42It42ZqyvAxJ8dhqlvrBWgY226cerLWIft2a_stVDSVxxya46kyeWzaKMfEM7B6RSYPb5KbpmLh6Ptr6VF4VvtHgir-X-sGsvk/s1600/Photo+Jul+25%252C+08+22+30.jpg)
-
   
   
 
@@ -36,13 +34,9 @@ Price: RM 32.90
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ioRrXDVIREru1E-mQaASCRuQ7aAtkT1AGCiQdWPBh9-Yxig69WPIEp0WbxoiTzBcfD782kE2x_HOABqr-f3VgSOGiCkHIA-2Vly2VD0DJ1TmdUlh9AbhB8Sm4IJAPrJSjMWURvYxLzY/s640/Photo+Jul+25%252C+08+22+36.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ioRrXDVIREru1E-mQaASCRuQ7aAtkT1AGCiQdWPBh9-Yxig69WPIEp0WbxoiTzBcfD782kE2x_HOABqr-f3VgSOGiCkHIA-2Vly2VD0DJ1TmdUlh9AbhB8Sm4IJAPrJSjMWURvYxLzY/s1600/Photo+Jul+25%252C+08+22+36.jpg)
-
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXPyV7_92Y1gvnJKeuHd6Z1Oox3HV_4p4MNIQHBD9E0MZWvhwJl9MDjsVSLgme-BP1TgNMN9IRQMevEAsRt6JhCfMXcQHrI9ftisRar_FbXBDb5__c5inktYF_I5wQYgDScE-EDP5cfA/s640/Photo+Jul+25%252C+08+22+54.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXPyV7_92Y1gvnJKeuHd6Z1Oox3HV_4p4MNIQHBD9E0MZWvhwJl9MDjsVSLgme-BP1TgNMN9IRQMevEAsRt6JhCfMXcQHrI9ftisRar_FbXBDb5__c5inktYF_I5wQYgDScE-EDP5cfA/s1600/Photo+Jul+25%252C+08+22+54.jpg)
 
   
 

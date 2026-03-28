@@ -10,8 +10,6 @@ draft: false
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRlY4IhJ3TdAj0NKiae8SZUucxYGtuEhB1mECWA1y-76RROgO0LtnWY1FEzjNR0LqdOC23Ybe90hyphenhyphenTYKp7-dxFATBji0MjIso_-fdqsQbRG-KN_Ar_mOnIdR6uUXwKEY6tPHsBLxciLLd/s640/F74CBCCD-3E86-4CDB-9949-C07A63221BEF.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRlY4IhJ3TdAj0NKiae8SZUucxYGtuEhB1mECWA1y-76RROgO0LtnWY1FEzjNR0LqdOC23Ybe90hyphenhyphenTYKp7-dxFATBji0MjIso_-fdqsQbRG-KN_Ar_mOnIdR6uUXwKEY6tPHsBLxciLLd/s1600/F74CBCCD-3E86-4CDB-9949-C07A63221BEF.jpg)
-
 Simple Refreshing Facial Wash VS Simple Micellar Facial Gel Wash
 
   
@@ -61,8 +59,6 @@ Our Water Boost Gel Wash uses micellar water technology in a light face wash for
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3AM0hClGFrr3ZLKoNRlYeI4ZfgyUsTbP-dSIG9BXjK_DTj-R3d0NWBzCMEiRtCQoIUzEmmWQ3TEXPe1e8iLF4Hqj3PPfqSsR2bI7_BBjH4fab66s1nAB68K_5tAG1ZfFNOS8u4kb46S9X/s640/688D7A4A-BCF4-4FC4-A51B-D35736D88830.jpg)
 
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3AM0hClGFrr3ZLKoNRlYeI4ZfgyUsTbP-dSIG9BXjK_DTj-R3d0NWBzCMEiRtCQoIUzEmmWQ3TEXPe1e8iLF4Hqj3PPfqSsR2bI7_BBjH4fab66s1nAB68K_5tAG1ZfFNOS8u4kb46S9X/s1600/688D7A4A-BCF4-4FC4-A51B-D35736D88830.jpg)
-
 Aqua, Cocamidopropyl Betaine, Propylene glycol, Sodium chloride, Hydroxypropyl methylcellulose, Panthenol, Disodium EDTA, Hydropropyl Cyclodextrin, Iodopropynyl Butylcarbamate, Pantolactone, Phenoxyethanol, Sodium hydroxide, Tocopheryl Acetate
 
   
@@ -80,8 +76,6 @@ Aqua, Cocamidopropyl Betaine, Propylene glycol, Hydroxypropyl methyl cellulose, 
 **Micellar Facial Gel Wash:**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCQBh6Qhm3fKmU4Wxgi-4Sd2DH4BFm_iP7fiW3Y5n3bVmaR-wIRXoE4hngPkfMFwu7c-fKM28HBStdnh78gpx65WFnPFz3AcGxbeW1gosYko7_dodzehDpc1Wn4O_t02ajnrnKJ76zU-Sz/s640/47CAC354-C234-42A4-A2A0-699B3440B900.jpg)
-
-](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCQBh6Qhm3fKmU4Wxgi-4Sd2DH4BFm_iP7fiW3Y5n3bVmaR-wIRXoE4hngPkfMFwu7c-fKM28HBStdnh78gpx65WFnPFz3AcGxbeW1gosYko7_dodzehDpc1Wn4O_t02ajnrnKJ76zU-Sz/s1600/47CAC354-C234-42A4-A2A0-699B3440B900.jpg)
 
 Aqua, Cocamidopropyl Betaine, Propylene Glycol, Hydroxypropyl Methylcellulose, Sodium Chloride, Panthenol, Citric Acid, Disodium EDTA, Glycerin, Hydroxypropyl Cyclodextrin, Iodopropynyl Butylcarbamate, Pantolactone, Phenoxyethanol, Potassium Chloride,Saccharide Isomerate, Sodium itrate, Sodium Hydroxide, Tocopheryl Acetate.
 
