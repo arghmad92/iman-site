@@ -8,14 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-I_aK8OAMFkY/YV8N-eYdpJI/AAAAAAAAKAo/1eLBXtiku5ghOAR8p1356IG4ettJ3QhGwCLcBGAsYHQ/w640-h472/IMG_6169.jpg)
-
-  
-
-  
-
-  
-
 Nursing bra is one of the most important thing for breastfeeding mothers. Apa beza dengan normal bra? Tak boleh ke pakai normal bra biasa je?
 
   

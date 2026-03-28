@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOq4A7YhqgCrMpSHAhidjo5AHF3CGihLBcxscykhYBL7KXnBuxFbSZxoOGw4rmktivCNSLXQNyjkU6h6O4mdr5Cni3AUCSJq3rVruGSQUXQXw9PCOExFMrJ7i-6aRQUwpcHGz8viSctDW/s1600/8103AFE8-58F0-4D20-A85F-7DDD83B87BF3.jpg)
-
-  
-
 My thoughts on  Innisfree Blueberry Rebalancing 5.5 Cleanser
 
   

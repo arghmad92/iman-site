@@ -8,12 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG_E6Cq4pQs9_101fidgQ0rZBDCdAA5eY7viDUXOtn_GXNm4r6bGVHClTEAU5k4wUW0dwE_JheZUh6eKEYfM54zDTT1VdoXBrVT2LXq0tL-HXNAdb6t4_UPZn7xHpJa78PRjuNe8yOXKbz/s1500/232D6EA0-157E-4F82-94A2-0AE5ABF0CC01+2.PNG)
-
-  
-
- Ini antara shops from Shopee yang boleh beli barangan basah macam lauk pauk, sayur sayuran dan juga buah buahan segar!
+Ini antara shops from Shopee yang boleh beli barangan basah macam lauk pauk, sayur sayuran dan juga buah buahan segar!
 
   
 

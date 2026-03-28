@@ -8,10 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDk4aDGNiQIJNTiTn6J59SZUh5SzEAdEXX3TDhyuMMa3DeAtXIAQMDa_1kZL6v5eGfQqusZHwESB4NK0UDAJ79bGheyzonzqODUEPiUDcWSSc6VTRpq_LVwSxJL1EopmmWHw_virAsUzo/s640/Photo+Jul+12%252C+12+43+02.jpg)
-
-  
-
 Product Name: Nature Republic Argan Essential Deep Care Hair Pack 
 
 Product Brand: Nature Republic

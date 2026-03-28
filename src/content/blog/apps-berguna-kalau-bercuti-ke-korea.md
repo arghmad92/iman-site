@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMSSDK6iRJaheoi0HAZckco_k4FtUVlE1Bt74y5M8xfZeFi8UDE4ZqSASpHOAmgCdD8NcfrO9gddfiraXMNFykpvf4V78dQTvkNXB6OEEMrElTbfc9cc2p8OoNCqylwE9ftrlg0Ge7qMSe/s1600/IMG_8015.JPG)
-
-  
-
 Apps yang I guna masa pergi Korea bulan lepas. Kitorang bercuti ni redah saja, tak ada pakai any tour guide, jadi kena pandai pandai survive sendiri.
 
   

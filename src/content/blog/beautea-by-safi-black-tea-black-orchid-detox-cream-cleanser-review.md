@@ -8,9 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzF9WAvU1wgHfTz51AG4s7cgrjNWGRsxOx3GJE-GlyUjR48SwlYu2Ky53pJaZ1LmVljsWH611kurncQsTeZIYgZz2VvInJs-Y_wyXiON6Xx05_0ScbX9foFz7tp2r7iYkhmhlBDHwH_xYl/s640/3D9297E9-66E2-419E-AD91-61D4A1874B8A.jpg)
-
- Beautea by Safi Black Tea & Black Orchid Detox Cream Cleanser Review
+Beautea by Safi Black Tea & Black Orchid Detox Cream Cleanser Review
 
   
 

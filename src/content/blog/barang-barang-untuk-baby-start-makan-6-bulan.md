@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-to4JgJZ-jDs/YBfukxNdRBI/AAAAAAAAJl0/qBFTZg1hRDsSDuq0bYdRgs4aV1L-jVDMwCLcBGAsYHQ/w640-h636/IMG_2800.jpg)
-
 Barang barang untuk baby start makan (6 bulan) yang boleh beli dekat Shopee!
 
   

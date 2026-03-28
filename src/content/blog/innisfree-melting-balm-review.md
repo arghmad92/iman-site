@@ -8,17 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieUrO0nLWgY-cfGIen_QrJbyERZsziWO-iJsAFvifjQHzUrqvLxodVyaEtvq4KSHyd5BpFi705Kg3viRJgZ8U4t1jNwv1vnliNCE4zETo0UTvnnWQkGcMJ7yQp58epXWuC0pSl5Kfep496/s640/AAC525F9-3F93-45B4-8B23-A7D1EBAD7E83.JPG)
-
-  
-
-  
-
-  
-  
-
-  
-
 I rarely review cleansing balms. This is the second cleansing balm I've tried so far. The first one is Heimish cleansing balm. I bought this at Korea: [Skincare shopping in Korea](https://www.imanabdulrahim.com/2018/12/skincare-shopping-in-korea.html)
 
   

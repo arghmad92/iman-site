@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRlY4IhJ3TdAj0NKiae8SZUucxYGtuEhB1mECWA1y-76RROgO0LtnWY1FEzjNR0LqdOC23Ybe90hyphenhyphenTYKp7-dxFATBji0MjIso_-fdqsQbRG-KN_Ar_mOnIdR6uUXwKEY6tPHsBLxciLLd/s640/F74CBCCD-3E86-4CDB-9949-C07A63221BEF.jpg)
-
 Simple Refreshing Facial Wash VS Simple Micellar Facial Gel Wash
 
   

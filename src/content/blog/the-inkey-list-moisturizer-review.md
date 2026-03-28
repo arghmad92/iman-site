@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY8N4MLXxBFg3G3OrItxoDQH-3GWlFFOU6EkiHO4mlMZuQIpgAjK6atCguLv9yUNKRQdhpQzPWxaiETyU1z3OHQcOM2atPhy4-cmzST6blzVpKJ6IylIRn2c1BYBd2PmuRm2S5sxR17amG/s1125/133ACD50-D0D4-4FAA-8FEE-2085479FBCC3.jpeg)
-
-  
-
 The Inkey List moisturizer review (Vitamin B, C And E Moisturizer | Peptide Moisturizer | Ceramide Night Treatment)
 
   

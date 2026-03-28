@@ -8,9 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-pFDTIFZBYpo/XobWsHAfr0I/AAAAAAAAJNY/t30a2yGGDD8jcl8uyNT2WuU7pi4VRJ87ACLcBGAsYHQ/s640/97BDE023-F053-4DC1-9FA5-C9FC0F3EBA51.jpg)
-
- Iman's pantang checklist (2020)
+Iman's pantang checklist (2020)
 
   
   

@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnClQ0ApOXJswxKJ07yo4LUfzWLfubDzDpfSLQlMKg2hKDvuaJm6JfuIrXwh4o6vPRLg6Tc-1ox2xjPRN7y4ff68pTvCXWaEjDdEmlEHqIIDIBSp2SPiyo_DXmEnro3zyHl2-nwW2RIm9L/s1600/6FBADF29-BA98-4F8D-940E-16C8E749F01D.jpg)
-
 Holika Holika Good Cera Super Ceramide Cream Review
 
   

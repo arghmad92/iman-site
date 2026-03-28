@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGb2ehjK87S6q9UV3RAVXp34hdYVfG7IIqannCsiyYvx-kasPnB4Ip_oZ8CDULsRhoO3zLHBrMwBiFX0FzsfS_KzsQsTyKNmzuaQcYbO2zpUIOizYOBNXDpVTs_MHzR9fFNm3QiilhzfOy/s1600/D3D5D7F1-744C-4147-81CF-5EEB862BFF3A.jpg)
-
 Purito Comfy Water Sun Block SPF50+ PA++++ Review
 
   

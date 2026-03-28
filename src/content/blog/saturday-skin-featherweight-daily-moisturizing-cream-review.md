@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://3.bp.blogspot.com/-cDvFRgcogYc/W9q7bb7wqWI/AAAAAAAAHUQ/jIHNI_cnekYzWRjWWFITdim3ZgO1tfEcACLcBGAs/s640/8355A720-BB07-4768-8EEE-18CA270629A7.jpg)
-
-  
 My review on SATURDAY SKIN Featherweight Daily Moisturizing Cream  
   
   

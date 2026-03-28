@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAxyzDer_mruzOsu6xGJI93ntT-rOeCmYrr5n5wAyMNT51T10wvBtOdHPe6stpmMlw0blMnrH03SRqv51ryl_TOz_pXPZrn52NgHyVqCqpkwZiN5hBJEB7XzJOzA6J-zA1CqypCxmjL77P/s1024/IMG_3901.JPG)
-
-  
-
 Hello! I am going to share 8 drugstore cleansers that are gentle and low pH. Most importantly, it is affordable!
 
   

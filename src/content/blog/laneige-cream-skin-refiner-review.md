@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-hB-EXdqKypg/XQBsKCGZh-I/AAAAAAAAIng/c1OiH8jGJEQEnw6G0qQH2xE9msklcAOrQCLcBGAs/s640/CEAD9F9A-1943-4211-A343-A6DCC4C62FDD.jpg)
-
 Laneige Cream Skin Refiner Review
 
   

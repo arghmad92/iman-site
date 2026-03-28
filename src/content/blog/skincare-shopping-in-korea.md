@@ -8,10 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://2.bp.blogspot.com/-9-Nlqs-Fpaw/XAVHgx5H2MI/AAAAAAAAHfk/nIFMhbCH5Fsiva1qefPn64FFFwuNr2HOwCLcBGAs/s640/IMG_0726.JPG)
-
-  
-
 This entry, I nak share tempat tempat yang I pergi untuk shopping skincare. Oh maafkan puff Maysaa, tu bukan skincare tapi bekalan makanan Maysaa :P
 
   

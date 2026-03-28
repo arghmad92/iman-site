@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFWxgVId0pssFJGEUK1cDNx4cV5gHvMkrKS5S5O7_bVMO__CpfTVid2T1nrBo8XCYjwRQwc9pixgavTIpiVDwtBmLd7__UQp_Xw-Hqx_gCPE8Dwh_HcjehJl_oPSSPMlaTni2QqZ3hyphenhyphenqQa/s1600/IMG_6474.jpg)
-
 Top 5 Most Popular Post for 2018
 
 **1\. Basic skincare routine (drugstore version)**

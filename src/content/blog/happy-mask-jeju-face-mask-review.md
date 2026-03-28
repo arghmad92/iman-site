@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA9RF9X9E78o0Qd-pUEZFuBccQUvl1n531zeyQXyufr8ME3M2XMuQ-MtP7kS5_prD_BGK0t5KVKdDpI4kzXNdFfsij4P748z_6jFikwEWBOoJ9o6Wf6BoMhEBqSruxjcvdoz8HIeECN9Hj/s1600/07EC2710-7CCA-403B-A92B-164340A3F251.jpg)
-
 All six Happy Masks that was sent to me. So this is my thoughts on them.
 
   

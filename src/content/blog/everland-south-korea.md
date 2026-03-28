@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsuA389Cwy0YjIPvZ2TS4cD_4wsicz0djN-VSRAVwSF2c6Ea2mGpcm50RmyYc1wB361OHBeKAbfASIimqqGuDDL_tN_Ze7fWQ57-4ospZLrKEqYffcABa-mWTXsw_IjoujNOcv5E7LO_fM/s1600/ORG_DSC08461.JPG)  
-
 Everland, South Korea, early Autumn 2018
 
   

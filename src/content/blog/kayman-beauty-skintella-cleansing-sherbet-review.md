@@ -8,10 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMvPW0C7JeSsNOcu1Hf_9qcEn89Ta4R8jzx2D_lqLtc129PlDUm9THuYRgy8cPcjlLPs4ZaLKB6YYLef7V26pJ0TnuLeMEIiitlLSX-8BdxwRygFTrbK9slEAuPwwICu6fbsGvdFmNHGpQUkCvhDl1iHMDPK7hXgIO95Xr7RY2VUc3j0J5PsoGpgDb5g/w480-h640/IMG_9021.jpg)
-
-  
-
 Product Name: Skintella Cleansing Sherbet 
 
 Product Brand: Kayman Beauty 

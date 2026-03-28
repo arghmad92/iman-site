@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh055DVF7Gk_zvzvfN0d0KpB783lMPSBNZ0H4sjbXjgfPi4z7ttxB7qgSHR5udwugKfDMxNLI-9MNdwXloLJ3IbT90DXcZ1B6Qr8VOJOaHeSBs0DgvduustmaFvBxDek051Ri3cpWigL7Jf/s452/IMG_3312.JPG)
-
 Cleaning supplies / alat alat bersihkan rumah untuk orang yang baru pindah, baru nak masuk rumah sewa, atau yang baru kahwin. Semua boleh dapatkan di Shopee!
 
   

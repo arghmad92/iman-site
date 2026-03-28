@@ -8,11 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-uMfHhW4pTxY/WW38ZgDJpWI/AAAAAAAAEEI/kU2bQDjmj5gxsp_VaAFnsrbM0v4q67fwACLcBGAs/s640/Photo%2BJul%2B18%252C%2B18%2B40%2B18.jpg)
-
-  
-
- Product Name: Vitamin E Overnight Serum-In-Oil
+Product Name: Vitamin E Overnight Serum-In-Oil
 
 Product Brand: The Body Shop
 

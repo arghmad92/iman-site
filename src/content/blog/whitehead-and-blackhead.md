@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://4.bp.blogspot.com/-7NiyCZ-dlHs/XE2ai-Hx2kI/AAAAAAAAIGY/kqoZWGI-3jkaiPCgD1B0mzvIqPX8nMp7wCLcBGAs/s640/IMG_5581.jpg)
-
 Macam mana nak hilangkan whitehead dan blackhead?
 
   

@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS2phZZFRGKPxTk5WRlvB0hAFCfiGtk1PeB6H6l88JH5JnoLxpkJZ3KTfiF37YSNqQzt1OfViONpxppykuiYdOSfUgRdLwYJF1FQrM1OtmyG3dGV76l0EZo8seDLIGfgMAGaAAlEYihjuJ/s1600/C57D3231-2B3A-469D-ADB3-79F0F8DE1E51.JPG)
-
 Essano Regenerating Facial Moisturizer VS Sukin Sensitive Facial Moisturizer
 
   

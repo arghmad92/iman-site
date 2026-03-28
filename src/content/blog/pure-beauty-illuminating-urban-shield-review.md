@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrBkUE5dG5MQ3jSfSnivQy9gGFUQlNn-lX_ijDgQUmZ3DYvGFbOgKgB4dSbHf7VybPjsJCvnuQWJYHsiqFk9s8VUj3jwrXdvLedjIKeYoAfe9A5r32lZkuSIjcqiQTwfUTscP0ODZEnpSQ/s1600/5AF8D909-6FA8-4A4E-8B7F-330164269F34.JPG)
-
 Pure Beauty Illuminating Urban Shield Review
 
   

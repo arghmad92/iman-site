@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BW1sUGDGXCApNBVxmhUFE1A22lrXZmuFywPo4E_OgkAxTKkSD247Uw2i-fxlG0YgyKr8T8hTyFnPgud3V2tyWdY6uKk2K-ov3nm9AaDkGeBMSwJYip9uBOtcozVqiQVrpIi0e84qpdyv/s1600/4B37BCC5-F568-4F53-B8CC-6516184EAF6B.JPG)
-
 Universal Studios Japan
 
   

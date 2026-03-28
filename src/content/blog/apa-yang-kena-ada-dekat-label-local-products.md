@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4o0ZT2_uRmFuGGiy2LVtXzIPKOuSEGiurxO25Y0J7rEJddUGFCkwuI7niJmJ4b8Z8NSUQvBmt2fT1HfVx1IcUynCIa29xdQh844StI2FUqbkviAkQ9teJrD2UES1WWKcDrMfIhvSvd3i1/s1600/Photo+09-08-2018%252C+8+30+24+PM.jpg)
-
-  
-
 Apa yang kena ada dekat label local products?
 
   

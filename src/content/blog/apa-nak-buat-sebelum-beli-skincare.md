@@ -8,10 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE3g4sW0FxO1U0JgEK3MlZkcR8AccUknKX22PHBf5iucAwh8FLEAQQhqiPyNOm98TD-fM9TY3opLQBKjI_oASLNoC_ha0zYMGqEY3IG2ubWToSIANAqkZEyafseSLfSVYXGqdOFteUw_Lp/s750/photo_2020-06-15_18-40-10.jpg)
-
-  
 Apa nak buat sebelum beli skincare?
 
   

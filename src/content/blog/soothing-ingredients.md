@@ -8,9 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://4.bp.blogspot.com/-FvI4TqNphjA/XACl1mdi-TI/AAAAAAAAHfA/IcwQRinEScooCwTDULLSYv-fqu61yR_nwCLcBGAs/s640/IMG_0429.PNG)
-
- What are soothing ingredients?
+What are soothing ingredients?
 
   
 

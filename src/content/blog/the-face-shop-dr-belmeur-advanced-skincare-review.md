@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWHpvI6bnBTc7uErYBwjsLPc3a5yPWuOJnD9q5yrqppVjb4mLC9xPHJhqH4hVr6DvSVNIZ20rHJrP_E8nRy-9Ul0hZwgPmhifLV9IlLRrCD-Tt4I82WGeaHX50vsgAr7C8r4h7oL-zOXnU/s640/9377D8B2-CDB1-4A7F-ACD4-E25980055FDF.jpg)
-
 THE FACE SHOP Dr. Belmeur Advanced Skincare Review
 
   

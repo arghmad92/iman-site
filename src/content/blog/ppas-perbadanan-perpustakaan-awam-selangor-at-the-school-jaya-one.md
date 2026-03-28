@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGytBa_ST9W9WdKYgXRVW4sW1GJdZbpSrPz7Tx6xpWfpkZdRRFZAYtS5WS-RO_Rb8vE5fZoT_uhIhaDkYwjSlY2EwM2OPFKE504AkX-n_27dy9nQW9YjNlH8W0hYeLsQSrUEqlFtJm0xTj/s1600/636DA6B0-3757-42B1-9F8F-3FB918D7A262.JPG)
-
 PPAS (Perbadanan Perpustakaan Awam Selangor) at The School Jaya One 
 
   

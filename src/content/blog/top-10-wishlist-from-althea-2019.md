@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLBWvUtpgo5OdOa77A7b0fism090E4DEIx9g9hs8cxT0T8VmPqfGBHthYLkMNZfyC2EsaIcbmJKWjggGu1HOlthM17YhPzoZKGeoQ4R7Kp_RvFtFe02NVidanECTPjWPaqh0UJTU116SWH/s1600/IMG_2315.PNG)
-
-  
-
 Here is my top 10 wishlist from Althea! <3
 
   

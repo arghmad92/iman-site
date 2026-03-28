@@ -8,9 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://3.bp.blogspot.com/-srF55vNA0xc/XC8XAhbSM2I/AAAAAAAAH48/iGw2CGOl9wEcQ6Q0Q8xawr98O36lae2YACLcBGAs/s640/661808B6-04A9-44F9-9394-451CB3922445.jpg)
-
- BOSCIA Luminizing Black Mask and Tsubaki Swirl Two Part Gel & Cream Deep Hydration Moisturizer Review
+BOSCIA Luminizing Black Mask and Tsubaki Swirl Two Part Gel & Cream Deep Hydration Moisturizer Review
 
   
   

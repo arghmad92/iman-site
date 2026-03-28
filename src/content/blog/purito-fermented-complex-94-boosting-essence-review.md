@@ -8,10 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCpCFQslZjzO6xl684wqczgo-0O5QpSK3nnftlF1qgo5gnD84gXCzj0bZ6jC8L-7bN8wB9_yHINc_8tzkrNoK31M7d453VihE5gR8XAa51KI-YgwxEz3gGkPLvJC2_rr5o88BpfqtwglhD/s1600/56B681D1-1911-4D7A-B8DA-1EA769E6F3E6.jpg)
-
- Purito Fermented Complex 94 Boosting Essence Review
+Purito Fermented Complex 94 Boosting Essence Review
 
   
 

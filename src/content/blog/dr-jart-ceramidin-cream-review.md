@@ -8,10 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr5KfxFKvKJfd4ArpJ-1J-kEBsDHPqz8AjZIXaLzMEV-1JCOjgLLQrayLHpupK-hu8cgfA6s5w_Brt7uAZi4IPCvyRkuj-oM0InOFF4e7L_2FsbIzyjb7pgflGdJi4i3kdAlkKHsKI5kKP/s1600/F644EB4D-BE3D-4BDD-BDCE-CDA1E3CB9051.JPG)
-
- Dr. Jart+ Ceramidin Cream Review
+Dr. Jart+ Ceramidin Cream Review
 
   
 

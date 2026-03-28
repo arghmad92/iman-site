@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCM5QzrrLWIhCZzIi9wNPTFvT-rBOFITkxgZRSgZbpfpCDKpzw3IlxKahb-LQtVfIto9rRtl8yrQRXZs0FNCpV2mhcq_-Uc52_Uek3Wp2sXhrT2gBEOxvcuMrJCKBPis0ALbOh8aGk73ea/s1600/03BD8865-9FBC-45A3-948E-1898B372AC63.jpg)
-
 Maysaa's Travel Kit
 
   

@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-NOO4X4exDq8/Xa7YTKpiqoI/AAAAAAAAI2Y/NNxoel4SSjcfumXsnEcEoZEQ_JDbYNUWQCLcBGAsYHQ/s640/Screenshot%2B2019-10-22%2Bat%2B6.21.53%2BPM.png)
-
 I've shared about this here: [https://www.instagram.com/p/B2UTYtMnTAs/](https://www.instagram.com/p/B2UTYtMnTAs/)
 
   

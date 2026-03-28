@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg35WapIFsd3WuqNQAT9UmoGcKkhb41nVfiYxlfTSoHzLAddgAu8zboXgPYIfS9vDeWuOQ4gE1Rc8PdIpFeonyUZktxQNferfGvXFKOpSKQ8U9rwhyphenhyphen9h2kWR6MW4NNXdjCkgDu5TAO5vEYi/s1600/8914BC4E-A47D-4C30-995D-AE116D2E38D5+2.JPG)
-
 Recent empties (Nov 2019)
 
   

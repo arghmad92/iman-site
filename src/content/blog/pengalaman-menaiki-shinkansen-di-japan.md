@@ -8,21 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://1.bp.blogspot.com/-SewcFiejzSQ/Xfy-1YWYU1I/AAAAAAAAJD4/fXU0cf8l1lQfIw3tk0dVB9EwsCjMKMJUACLcBGAsYHQ/s1600/E509546A-179C-4EC5-A0B3-EEF9BC64A83E.JPG)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 **WHAT IS SHINKANSEN?**
 
 Shinkansen ni train berkelajuan tinggi atau lebih dikenali dengan nama bullet train. Kelajuan dia boleh mencapai 320km/h. Laju gila kan? Dah lah memang train ni punctual.

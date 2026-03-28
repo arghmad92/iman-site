@@ -8,18 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-7D9F0aaGH_g/XpF3OqMJV6I/AAAAAAAAJN0/oexaAAIROOw-WwmeRYajYm-npuARGZw4gCLcBGAsYHQ/s640/56823F50-C772-4377-863D-B350A9CE1003.JPG)
-
-  
-
-  
-
-  
-
-  
-
-  
-
 **Why I bought it?** 
 
 I have been wanting to try this moisturizer since I saw some good reviews about this product. There’s a few products that I wanted to try from Paula’s Choice. Tapi the price is a bit steep so sabar dulu. Then tiba tiba ada sale 20% so yes, Im so gonna try this one dulu! Tapi beli satu je lah, yang lain kita sabar dulu hehe. I bought this one for RM152 (normal price RM190). 

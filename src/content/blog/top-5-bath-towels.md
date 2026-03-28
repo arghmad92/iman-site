@@ -8,15 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp_gM_B7DbMcvEHwyfstGsJMi1xlgjLmH_Nze_6cs3u8hIfxHvj7VAnfD_B9HJ637kdrzcRriVsemY26GT8ezKjKx0BftAajg0ahOKvS7TESDa5yhYaZAStMIK0Zhw06fksWvRFHn8H4fv/s1289/IMG_2396.jpg)
-
-  
-
-  
-
-  
-
 Antara ciri ciri towel yang best mestilah:
 
 1\. Lembut

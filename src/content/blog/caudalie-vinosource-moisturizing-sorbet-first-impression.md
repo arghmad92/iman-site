@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4mHmYQRtvVA5Z52RXWbXtydHS5QPxcA5DzEieGAzQzBpJIF1dHd-8VcCaI58hyQQd8teRkHoUGyzs2koKWRrMdPpb1v2_jvmUYh_OrKp2TED2ToiM1TRwQfPHQipBcjCJj1O-6_XLpQ7X/s1600/B73A209E-FFFB-47CF-A0A8-A6E54A2CA4D2.jpg)  
-
 My first impression on CAUDALIE Vinosource Moisturizing Sorbet
 
   

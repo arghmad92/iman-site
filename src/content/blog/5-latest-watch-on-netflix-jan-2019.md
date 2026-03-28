@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihUTnrhbJRoA-JuCzZt_cS7A4kIiBUfZA5NMNK65fz2xL8ShUPjLAIuQjzo-KMfPansHTQqHaDsTOURJk2jUVrl4xP5ICNIxO5h4vXXkk6DDtGs8ZnwijjGh2Sk9wefOilFWqjs8e-pYeb/s1600/IMG_6475.JPG)
-
-  
-
 5 Latest Watch On Netflix (Jan 2019)
 
   

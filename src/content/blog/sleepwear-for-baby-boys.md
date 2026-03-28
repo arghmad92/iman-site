@@ -8,16 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIUCeco2qxY0M0M6BKOu4EEhE0Axx4QHQ80VARaFYmijF2zAGZZBtvNsqj2qrPORD6AG7xExIOT8nYbyJsbz8oCXC5BobtXDj12_7O29IgqHzf1Ce0mFcKse_ICUmrmmhNjGv9kkpQof0n/w640-h640/sleepwear+boys.png)
-
-  
-
-  
-
-  
-
-  
-
 **Sleepwear for baby boys**
 
 1\. Cotton On Baby [The Long Sleeve Zip Romper](https://invol.co/cl5qp83) | RM59

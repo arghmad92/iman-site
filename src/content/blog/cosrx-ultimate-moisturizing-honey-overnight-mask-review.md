@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvmRMjb4lDf_fBQ_-COdewVm6fBJ7ischEZErzy1qL2oNsr0_Rd89GfPTg2lnWcpBFLx0A5yL8wvKFfNIq1uOhZopBLWIZ8Fzykf0hLSBgBLrE7V67NfDI9DMqHI3RNHn8lcJ4SqfXcrU/s1600/1463654D-622F-4C65-82D9-02D8B700872B.JPG)  
 Cosrx Ultimate Moisturizing Honey Overnight Mask Review
 
   

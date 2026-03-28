@@ -8,10 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-B2DXId0yapk/XJmQfUvmAGI/AAAAAAAAIcY/5mZ4k0ukGNQQzCrG60SPXqt5heElxj1mACLcBGAs/s640/Screenshot%2B2019-03-26%2Bat%2B10.37.26%2BAM.png)
-
-  
-
 Hi korang! Meet my new maid, **ECOVACS DEEBOT OZMO 600**.
 
   

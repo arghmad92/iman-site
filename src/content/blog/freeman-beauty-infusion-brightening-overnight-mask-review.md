@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-pKLRjmQ-9xE/XFPV95ZhG-I/AAAAAAAAIIg/Lrrxjdq2KfQkY4dzzDJoLuOvfhymLXbtQCLcBGAs/s640/63252F14-8F7D-45D8-BB5E-2D8E87199DE5.JPG)
-
 Freeman Beauty Infusion Brightening Overnight Mask Review 
 
   

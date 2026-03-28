@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUk5l6I_YffDyi0kRWNBZKWPJXyhVYyrkwGCdOiW7oVYvYG90Z3ID70ULk3zNmiFa_cDJIxUyH5ZlTTqeaTPbzhWLDyhs4pIvIjg1906TCnUA-3syj3MeDd4IwfFHstrcep1uxjUyngK6a/s1024/IMG_3447.JPG)
-
 Diffuser & essential oils yang boleh korang beli from Shopee!
 
   

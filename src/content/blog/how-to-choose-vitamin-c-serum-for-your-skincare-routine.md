@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKJJ681AXSQYkOGfH1RmfH4kJ-NSvCEvd7U0TEPUAaDkb3hKhSUOsjMonvmtPNR_Dxgawqtc2b64wWyyzGtOpX7r9449GDumEboanxjngqQ_PituADB5pnOmz1dpW_OlwaKkbMMQFIUS0Y/s1600/7176E498-D024-4B0F-97DE-47608752E37A.JPG)
-
 Vitamin C.
 
   

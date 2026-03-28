@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://4.bp.blogspot.com/-atgqHH4O9f0/XKXUsscua6I/AAAAAAAAIf0/de7Z49T2K_wAp5iquCGwhT8Mzjhx_oiBwCLcBGAs/s640/FD1876A5-1241-4994-B0A0-DC7FBDF695D6.jpg)  
-
 KAO "WELCOME TO MY MODERN PARENTHOOD" CAMPAIGN 2019
 
   

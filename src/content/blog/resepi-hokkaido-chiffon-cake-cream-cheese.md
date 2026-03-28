@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/---uaR822FHs/Xq_4NHYoSpI/AAAAAAAAJUY/JEhE_S7hbBUV9ZSfDiM_pwrW1RFpXOJPgCLcBGAsYHQ/s640/phonto%2B3.PNG)
-
 Resepi Hokkaido Chiffon Cake + Cream Cheese
 
   

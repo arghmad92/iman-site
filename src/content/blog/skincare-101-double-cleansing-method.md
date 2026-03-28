@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZc66KxehPys2Fix1AXlekJiPFR2YkMJev0FuoD5AviksNTNgxx59CH3LVj9lZzwJ7bwNn8dmBdme4idEWxv1mHVy5e_87w2QtHU-6Z-M9Z9k0lHIBbEVCjsdHjdz5_4iYeJ4FcexYc00/s1600/Screen+Shot+2017-08-03+at+10.07.38+PM.png)
-
 Got to be honest, I'm new with this double cleansing method. But bila buat, rasa best sangat! You guys really should add this in your skin care routine!  
   
   

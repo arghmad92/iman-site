@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivIBHyZ3eZ75PCPmlYEOBsWRiKofx37QZicmD0T-Bw1ZahxUG5Df14bu9LArt6ClQCWIOrcB46d2QYcXxJPwiaqA2ZEwBtswAkNJ8P8CfL3b6mG-7BjEVUgsqY8Q4CC6IXbR0vrR9HUU8/s1600/Screen+Shot+2017-07-19+at+9.00.29+AM.png)
-
-  
-
 No, I don't have THAT much of makeups, I rarely use them, only during the weekends atau kalau ada events. But I still feel that my makeups are bersepah. Kalau lepas makeup, meja akan jadi DISASTER.
 
   

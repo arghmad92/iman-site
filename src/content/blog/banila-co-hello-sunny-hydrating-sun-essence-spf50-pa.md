@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://2.bp.blogspot.com/-wzwX18NzPec/XBkfJ0AA7pI/AAAAAAAAHqU/VFqxTr3PN5s830tcTuFhLsUGFtGcZ47zQCLcBGAs/s640/E2B5D293-4430-469F-BCFF-A0498D554EAA.jpg)  
-
 My thoughts on Banila Co Hello Sunny Hydrating Sun Essence SPF50 PA++++
 
   

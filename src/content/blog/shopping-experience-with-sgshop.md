@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVnb2ugAtjBQ8OPNSiX1cHbL3QBIxymYjvFY3d-La562_yi0t6bb6kMuQECoPtYAeD81li96Y1vu6j-ObpVhI0GDU5XLhGiT_bQ1-oIj0TkC1I6azWfv2EuPeTi_ZvhiAamDEG8Thp2AT1/s640/Screenshot+2019-04-29+at+9.35.40+PM.png)
-
 Shopping Experience With SGShop
 
 [https://www.sgshop.com.my/](https://www.sgshop.com.my/)

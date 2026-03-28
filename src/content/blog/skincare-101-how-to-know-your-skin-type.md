@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdb4RVodlrkbhv8u6ogwwtr9H6KOKudyh-3_cFvxCmudO1iggRLzpyEiYdeMms-ZU_aBh2n2RQro-fGus-njrCiI-3SKzz_sbDTeg55ZnjJujqylsvt3cX7cyuAnNLWiiutu2M8PlflTM/s1600/Screen+Shot+2017-09-25+at+10.07.34+AM.png)
-
-  
-
 The basic thing you need to know about skincare, is your skin type. Whether it's oily, dry, combination or normal?
 
   

@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixrg11JwzDvehA4t7G2d-QK7uRPFVYXw3s6CWjwSj1mGQDSBWdHEiEkegYtdpdWPtOxiiE-Di_VRglS1LRCMgWFGRcRxm9aZYnTJyI2BpM0Beis_2ptDIWFXIfNZJbTxyz8lYanKF_ZubR/s1600/3C7EE4A5-6343-44AA-B2D2-58B705F00497.JPG)
-
 Apa yang I dah habiskan in December 2018.
 
   

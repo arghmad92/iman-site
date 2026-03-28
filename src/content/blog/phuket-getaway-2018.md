@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirNbW3QNyFVouxDnfzH1rQdZtULRzk9OMyzDyFad8W-K9OzZ6JoWZ4ycBnU0Jj_3xOC4LDoPgf6CgPEeF-8ds6K646iUb3Az1b6hz2SmVM9qbxHE7U2o9z590bqyVkoLdcsyHyHlh6225I/s1600/Photo+05-08-2018%252C+10+28+35+AM.jpg)
-
-  
-
 Sharing our Phuket Getaway!
 
   

@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXrRxjTMwhZwV-Ynhwb_0__pHBxly2HtNn17ZlE3LNE_GFx08s19rkjYeXqVAqmO0rWg36n-pX7yEo4YZ5_-6Rv1Pv9xr1EqgXHCTL8UwxWS1w23G3JvO7pJ4fjRZ4Oo4vko4Frwlvqp1Z/s1600/9992F278-9120-4CA2-B22C-1EA66EE2F17F.JPG)
-
 My second time BBW.
 
   

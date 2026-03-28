@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoS01XCByNC2zUmaQH7-eZYvVdzTEbAIrI1G9bBQP_fCDmRlKIOFkHKJnAJcLkbNZ874YF5TyBgnADIj_XBf-ML78LEuSYaLac0O_CL3TAkhBtpgwmx5hcmNAT_1jJ963KxD2FfagEBQCE/s1600/167393E6-BB22-4ACA-B1F7-E585F1493A57.JPG)
-
 Apieu Pure Block Aqua Sun Gel Review
 
   

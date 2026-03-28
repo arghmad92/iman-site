@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFseWc8mL2sPBo6xTNQYbXAKft9D9cb3ixzvQAgFPxK8cjJ_ZAs4tRDFRW8RB0e6UfG3A-Nvrp7BpqGCse6055jh4AClmf6EeQFqIVsIzuNjoeBvSOAUhjKikpOfDCybpcvBO-GVHDhPHb/s1600/40559214-4077-45AD-9ADC-B3166F2BB8A9.jpg)
-
 My thoughts on Pyunkang Yul Essence Toner
 
   

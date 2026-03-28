@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmIDLFM8nJ0wZtLSXTmg6BWBeNrJQXbb4r5l9STn3inLDAWL-LDZoi4xBEGqH01ou_xQ1p49asn-agYwU-0Jw7C9vExPY1y8rj5URezxYWFBZ6LgS4ZkuWiBt_yXTCWHMRkdjp4mBi0iry/s1600/6D8C9F78-C3F1-4967-8CE6-BDDA267ED752.JPG)
-
 Ni semua yang dah habis bulan ni. Selalu tau skincare I suka habis sekali gus waktu yang sama! 
 
   

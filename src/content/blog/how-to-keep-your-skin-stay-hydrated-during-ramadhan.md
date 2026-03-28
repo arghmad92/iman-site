@@ -8,20 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX25VTG8tLAskn6J9QItPuG7iS4m4w8gJBzXUCPvm7W1Al7nJLAvZ4dNrzcmIpJWfg0dkoBRApPmc5N_O8B0OfYtmQqYAP11APKieUo84YHx2UQb4P0-M0ajs6opWPHmY8znHMvHMOa-Eh/s1600/IMG_4096.PNG)
-
-  
-
-  
-  
-
-  
-
-  
-
-  
-
 Even though it is Ramadhan, you don't need to compromise your skincare regime. You can still maintain a well hydrated skin. A well hydrated skin is a natural glowing skin. Who doesn't want a glowing and radiant skin, right?!
 
   

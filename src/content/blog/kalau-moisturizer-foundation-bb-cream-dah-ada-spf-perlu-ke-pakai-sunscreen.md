@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://4.bp.blogspot.com/-gXyag7lgDKY/XA6B8jsqeBI/AAAAAAAAHh8/0c-hqdt58a8aIxEnnhDuEr9Sipz5uIQXQCLcBGAs/s640/IMG_1295.PNG)
-
 Kalau moisturizer, foundation, BB cream dah ada SPF, perlu ke pakai sunscreen?
 
   

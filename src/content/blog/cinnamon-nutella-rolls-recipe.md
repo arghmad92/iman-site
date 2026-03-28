@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDu-LyeIIaV3_RLdB5GAX5M-KqbmaAqcHtMZ5owi8_1j_uzIkeuagz3jYCWeHa2MtPdOpw3lkRXkemrWvMduIxlFXuEgAyYuto8jA6JWV-ue7kDpQ2yGotAzYsuX-67h8_u8P17nhwGjj/s1600/82CF25C1-C967-48EA-9D7B-FB288D98717A.JPG)
-
-  
-
 Cinnamon Rolls Recipe
 
   

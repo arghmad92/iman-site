@@ -8,10 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://3.bp.blogspot.com/-TtoWr6dlhmY/W-QZRO7PXEI/AAAAAAAAHW8/Ae-iwJOID6EK0Wk-RSr-CidC2eUDIH-QQCLcBGAs/s640/9D276D15-C918-47F5-A2B8-1C22FF9B4C88.JPG)
-
-  
-
 My Beauty Diary is one of the Taiwanese sheet mask that I like and tried a few times (but I always  forgot to review it on my blog haha). When I got these masks, I was so excited to try since I haven't tried these yet.
 
   

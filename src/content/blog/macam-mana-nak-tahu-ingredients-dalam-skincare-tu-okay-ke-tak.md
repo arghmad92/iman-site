@@ -8,14 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-stVvhzVo0Vg/XA1uVso8dnI/AAAAAAAAHg0/vygiWxsYrvsIZZ5R4XDu-K78TDmYQW1ZQCLcBGAs/s640/IMG_1250.PNG)
-
-  
-  
-  
-  
-  
-
 Sebelum kita beli product, mestilah kita kena check dulu ingredients dalam product yang kita nak beli. The question is, dah baca ingredients tapi tak faham. Macam mana nak tahu ingredients tu okay ke tak? Nak kena google satu satu ingredients ke? Tapi panjang sangat? Google pun maybe tak faham?
 
   

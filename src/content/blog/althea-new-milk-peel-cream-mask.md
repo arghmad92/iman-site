@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAoV4rTvlkp62qvsgOlnjMf0OESpYXUTjfc7b9LJIJWBx9RvCb-Soh8VbcTwTPjlC0gihTMXf54S665Y_byM7-oQwMjo3IwGmJG1TORJWWUFxuTGv593s8jFKvWe7fiwJlkhhE7GVanUF/s1600/6AFA5258-FE2F-4A8A-9206-BEE949A32226.jpg)  
 Althea NEW Milk Peel Cream Mask  
   
   

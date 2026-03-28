@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7DeXVQVvTErVZ1FkRLZz-cNJkAhf_N511dis4vFN2i7Yghi0yCGYVDDiR5Hl-fSCXk6nEhrMLT-SxJnbI9jA2ogItgeKklxaZ_zybV9x8I_H7Ybk_KXJNB85kv4PeUyD4NBkhZ075Biod/s1600/525B1592-5B54-4A59-BA00-C2E1441A2BF7.JPG)  
-
 Sharing a few halal restaurants that I visited in Korea.
 
   

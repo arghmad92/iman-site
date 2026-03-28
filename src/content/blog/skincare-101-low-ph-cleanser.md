@@ -8,14 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFVXegDjofJvNFGAH_gfyVvYJI1oNYHtYX75bdUKMPJVBYYgAQJuE760pY1T3zHzA5NiE22XtpHist-VlE24k5XhPbZFneDQ78HkuZ62VOIzEyGsO3ZF-uAUb_y-oVJn9k-Q03v2M7pn0/s1600/Screen+Shot+2017-08-03+at+12.17.58+PM.png)
-
-  
-
-  
-  
-
 First of all, do you know that our face is low ph? Our outermost moisture barier (pelindung kulit lapisan paling atas) yang ada segala minyak and peluh tu, have acidic pH 4.0-6.0. Average pH 4.7.
 
   

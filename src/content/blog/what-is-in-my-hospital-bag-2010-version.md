@@ -8,11 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-J1nEDu4tz4E/YTh6LIFU2HI/AAAAAAAAJ8k/ZA4S_aguQKcQZLszlGk3LJ2DRhtrnI1xQCLcBGAsYHQ/w640-h640/hospital%2Bbag.png)
-
-  
-
- What is in my hospital bag?
+What is in my hospital bag?
 
   
 

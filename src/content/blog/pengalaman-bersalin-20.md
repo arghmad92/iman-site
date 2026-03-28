@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc33SsjiWy6Iwbvgjzw0Iz90OK_RuiVcdsArwwTnBQDHDFoD5RzRwsIuxk0ywfpnJFUYOSGQfmdrNUoEB9jnb0cZellq2GHxzqfFfasH7Cya4RMZSPnKlo_sW3iy-YPqdjyNPfbuFxbN3R/s1600/239FF34D-ED13-45C9-8245-036A024B4FFA.jpeg)
-
-  
-
 Second delivery journey
 
   

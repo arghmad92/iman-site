@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpaK-aT3yuG701VFq_dzJ5DOie4BHexUVee3hOUYL1uaWLiQjSJsbmy0jygfVEea3LG0Yunccdng1votRnf1AXRf14eZ8i6yaI3kJx_CM0btyAPsAJC5Y8kfpu-EU24r38bPCEKA4Vf8l/s2048/IMG_0723.JPG)
-
 Nature’s Palette CeraMica Skin Balancing Essence Review
 
   

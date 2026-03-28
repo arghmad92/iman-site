@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM9Z2uNbchIw4YEQBo5yiALrS-oFknC5oWjKrLFOzQPSzMv2OZcRoD7h1t79iVSoedVEQ07qy9qydZ008gFr3Fp4RQi5dsVAy6qHNd2sUPZNs0pFpS103OgIHOgHBTBORM3urt2qloynUG/s1080/kasut+selesa+mengandung.png)
-
-  
-
 7 kasut yang selesa untuk ibu mengandung
 
   

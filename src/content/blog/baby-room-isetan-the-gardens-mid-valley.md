@@ -8,13 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgftiNyfOikSdP5hDgDblmnyI9eT-m6-GVi11guUfhhiOQqhHkDW7kLiQEH2NfpJcZ9-JbWVo4vtJzXd7UO0y45q5Sjk-a36Fp1XBCNvOLV3d28CSpfpr0XOtf1Dr4hAOpbYdW1JDJybo0/s1600/Screen+Shot+2017-07-11+at+10.50.13+AM.png)
-
-  
-  
-  
-
 Since I'm a direct bf mummy, I just discovered all the baby / nursery rooms at the malls. Sebelum ni tak pernah perasan pun ada bilik macam ni untuk breastfeed / changing baby.
 
   

@@ -8,13 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUQyhKoAh9tTotwGXY6n5cjLZTxNSH5oIKesVh6Ia2o3zUh5-uBxxaXTPZcxryM2oUb1GjcyHx85_YOfvZuMMIIU9S2BcrbIPH-ErVXe6ZkhPq-WHOG187y66TmzYNOSy6GHkEYJslR9qp/s1600/CDF22206-6949-42AD-8842-603797F301DB.jpg)
-
-  
-
-  
-
 Dekat Desa Home Theatre, One City Subang
 
   

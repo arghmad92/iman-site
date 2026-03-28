@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUZ7UJQ6pyXuh8gH_e-BcvjyKZvz87HWPeStHGij5OcIYfYnoej4cJO034f9K7kvUKrz1kqE8EQVwNx46VMNQUpsEZxG65i9zmSEkL8z-OODO_rUxh7al7EyfxCivG8re8ceGZWEtu8pYw/s640/4837EF59-61F1-4815-BB81-D5DCC5200DD2.JPG)
-
 Pak John Steamboat & BBQ Buffet IOI City Mall
 
   

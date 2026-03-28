@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-FtezZuTZxSo/XykxQMC9biI/AAAAAAAAJbA/oBYecjoTnvsIBQGYXKl75UAflQbJqm0vgCLcBGAsYHQ/s640/D625BE8D-3AA9-4F30-832F-165294A9E2B8-5225D2A9-6972-48DD-AE59-73CE6392E8B4.JPG)
-
 Safi Micellar Natural Cleansing Oil Review
 
   

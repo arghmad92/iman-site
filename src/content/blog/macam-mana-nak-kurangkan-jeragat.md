@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-v0IjHvoQ43Zji-m8w6IBEqhhJUer5IzPU1FKgZB5GYwN02i8trfWhoicOVFXu118Zn6g11YsXpBtN3Jr7Jqxwu1BiBRpuhWd0YNBkXbH9SIXPiygJDLzwp4miLQ2CN1dyhkr9vsAO88/s640/IMG_6406.jpg)
-
 Macam mana nak kurangkan jeragat?
 
   

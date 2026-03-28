@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-0IWUG9ei7m8/Wdro1TABz5I/AAAAAAAAFFc/D3VzYLz1VnAK33uCMf-5Mu-TRIZ8olOgQCLcBGAs/s640/Photo%2B08-10-2017%252C%2B11%2B34%2B15%2BPM.jpg)
-
 Hari Ahad yang lepas, I sempat singgah kejap De Centrum Mall Kajang sebab ada Grand Opening of De Centrum Mall.
 
   

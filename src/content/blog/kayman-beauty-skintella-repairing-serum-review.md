@@ -8,10 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-UaHA-MBQMn8/XV0rblAgwcI/AAAAAAAAIyE/DUtWtaa_al0bsvJsIjbD5beq_ODHaFBfACLcBGAs/s640/41C338FB-8B6D-4EAA-B711-3D729D1BDBE2.jpg)
-
-  
-
 Kayman Beauty Skintella Repairing Serum Review
 
   

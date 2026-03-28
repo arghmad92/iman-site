@@ -8,14 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-TogkUK8-mCk/XQC5K6KlKTI/AAAAAAAAIp4/QwRwr7CGUckboOCyKTi862zoDiuGr-9gACLcBGAs/s640/0FB3D5D7-159B-4F9E-A8A2-1CD170D4F7E5.JPEG)
-
-  
-  
-  
-  
-  
-  
 Antara boba / bubble tea / pearl (apa apa lah korang panggil) yang I pernah try. Minum dengan moderate ye, jadi bijak! :)  
   
 ![](https://1.bp.blogspot.com/-kiHKkftxQOA/XQCyy7wPPPI/AAAAAAAAIo8/bRzJYiniqHA0Cax1eUghH2raFsqUeDDhgCLcBGAs/s640/D8rBLkfVsAAebb4.jpg)  

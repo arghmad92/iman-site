@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14XvzQhbAeCgJQBvooImqdS4JAXh7RrL436pO0AJuMcPwgD-VVkm67eeKYIeBD3DBNOfcVCrHeDdXhGLyn3HGna_AlOK8LF_TE4qyoVvv0fU9d738wvczqJ9mmM2yjxUoQa5c0ap3rQUP/s1191/FAOL_KAO-RE-KV_CS6.jpg)
-
 The secret to my modern parenthood with KAO
 
   

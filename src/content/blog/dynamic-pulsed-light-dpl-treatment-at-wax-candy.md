@@ -8,10 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGipTyvuPbBD6Ewqr52Llew2B-2Vq1-jm08VS8Qzepe7wS-FOoBvhje4EjBA9JnXi-9VbXzDNWsTwuNtTSpLXwmRhXxrA645Fb9srXuBd0i4C2ff-AWk0NCnMhgkfS-DQ6hv9wqqOTEU4-/s1600/0548326B-6C7C-4DDE-9A02-A9C89F7A2291.jpg)
-
- Dynamic Pulsed Light (DPL) treatment at Wax Candy The Wax Bar Damansara Utama
+Dynamic Pulsed Light (DPL) treatment at Wax Candy The Wax Bar Damansara Utama
 
   
 

@@ -8,13 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0lTdOIHWzq15MSQ2v6c7d8fSn8y3QecMY9M6iaGolXditLTWh6B6quAHQqEkLIpjeKXMbtOA29FIAnhuutyZNOTC68sIMkvWkP0HryhOQkmKjWOlZmybBK-kYgA-cfBxSRxC73AztbuvF/s1600/IMG_7412.PNG)
-
-  
-
-  
-
 Cara daftar business online dengan SSM (Suruhanjaya Syarikat Malaysia)
 
   

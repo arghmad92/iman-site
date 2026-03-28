@@ -8,9 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_R5XklVQSKQ8RKfHrLlzu7DBsKTII97NIt1vz6ZiJhI_U8R3EOoCZ1x57jQKfF2weAdS477uWtjwcdvdQcr5IOW-wc0fOPV-1qbcncvBNmtC2GN6TwwfRF_epRkrS9V6JPtPcbp1pu0m/s640/1F7BFB02-363D-45F9-892F-BE53FE0F58DE.jpg)
-
- Sharing my thoughts on Klairs Soft Airy UV Essence Review.
+Sharing my thoughts on Klairs Soft Airy UV Essence Review.
 
   
 

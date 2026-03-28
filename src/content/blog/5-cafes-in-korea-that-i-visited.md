@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhToQX_iWUjeE6Ao71oBNq6Q-T9Toxutjucxzbr1QZ8URcNEYVnDR2cl5-zAU_0P1GQ50L651JsVibmhtHySp8KAEClDuMKqmLSL1Z0KZIB8QfY6t1VbW3fKotwc-ed1x2_mJTYco_1r7Rt/s1600/959EEE56-448A-43B9-A3F0-08B12D014085.JPG)  
-
-  
-
 5 CAFES IN KOREA THAT I VISITED 
 
   

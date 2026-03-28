@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAXPtN6bYXpjCj5rb9Wn1Schm0JgT_dGRpy5kcTyBNrT7Ja2Uorp3ksFrDcjPfIJjRHLV35fctFYKlysEJnZxIkMiESuNiwl6mK0kXhuWzUdrOC3ewbcFvp71o7UEmlXybqGbGPcVf_Nq/s1600/E9901EEC-26E3-4307-8DA1-41520A083CEF.jpg)
-
 Huxley Sleep Mask Review
 
   

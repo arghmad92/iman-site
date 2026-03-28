@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6N6gAM72wmKdLoHEz_ni6GRRJKal2Zz5TK2d7iBmIMp1o8kv3Y7ai0s3dkxfo8hzaOx9oCJVe6MpP8c4cOnksFf8nqd6TgnCUjGdIFBgX7GQxTV-NvyTGCusBcwkUZpScScN1xqZ4ZA2N/s1600/F82D472C-31D1-4F68-8064-F6142A58CD68.jpg)
-
 First Aid Beauty Ultra Repair Cream Review
 
   

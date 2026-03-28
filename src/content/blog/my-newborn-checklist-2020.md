@@ -8,9 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-gcyCSWSiPqAxhSFKW95BOR97c19Qfc_5gJ9_xCRRfsZPI_Ok9ifBYZeY8uQ3nxCevUUj0nOaK7nB_cctKz4Ywzfvl1XjSCt5KcJogKBCfrE8R3kwUR6TLB1wWHYb3OZMnv6RDS0v_Wf/s640/9F651013-B38A-459A-A0B7-A6B933F8C98C.JPG)
-
- My newborn checklist!
+My newborn checklist!
 
   
 

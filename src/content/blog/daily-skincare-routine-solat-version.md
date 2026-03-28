@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtXtyhgJb1EQBHZU4-FaA9f0t_MlUhyDZRiQFd1f58hrAa4LRMIYSnz_aNR1G7fXWfLZymKkC1wOJT3oIuCeSDVrXXRdtBKhzzYiiO6EjBYHpLGY1AVUcR8DSE3NlExJCoRRsZWqNkGYw/s1600/Screen+Shot+2017-08-11+at+10.38.58+AM.png)
-
-  
-
 Pernah tak rasa macam, the normal skincare routine cuma ada morning skincare routine dengan night skincare routine. Kalau nak solat, ambil wudhuk, macam mana pulak?
 
   

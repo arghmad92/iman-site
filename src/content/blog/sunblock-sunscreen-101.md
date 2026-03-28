@@ -8,8 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ZxovSCWmo-BK3XggEaUUfy74-QII5ZBjqHcfuUiLTGNWxpOEs3HuOE83Ruajf0BpaGU7tmoVdTiV4lnkpOWh-inUqHd4qDYOtfd9WYF9RkeYtECRjtSjIAyyS79iaGXyHsoC4p44-zQ/s640/Screen+Shot+2017-08-04+at+10.22.48+AM.png)
-
 I'm gonna share about why we NEED to wear sunscreen, the differences, and macam mana nak pilih sunscreen yang best untuk daily use.
 
   

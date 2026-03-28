@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiga0jkKLn0Qxbr7w8RZ5JUPEI2cvnkh7jY__TAUbHgIQzX8hZslJT_Lm84wlFBVZ-rm-KesameK1Csex9o4Uc4Tm5oXh5pI7ChHAXipiZNFD37XXy5YFAacU6zoiqD-Uk-t6EpyqMKVgna/s1600/9651FA89-FCA2-4E64-A569-0F82316D89B6.jpg)
-
 Eversoft Aloe Vera & Hyaluronic Acid Mochi Whip Cleanser Review
 
   

@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfxTA_rjIxbfMqyHGpWUDH8_6rwAzZmClVNiQoWMdAfF0YiOtHju3a_SaKia6GZe9BudipgTlY2Htpjo1zaiwgXzC0k57wfdxn8boFT77whBsisRi_-zImi8JG7Nr8J0lvwsr4YS-kDTrw/s1600/37559AAC-B708-4A49-9C76-3EFCCEA6F939.jpg)
-
 Cuura Invisible Protector SPF50 PA++ Review
 
   

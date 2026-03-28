@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3hve0KdwC4D0_uRKIToWZEO7b5eXUkfgKQgklK_TDZxKd3ujnZrtrol_GFOSltgoKk4synDGJ6jck6HcIFG7h5HBZZOwRDQvbdZB7fmedAr39huQ7rM0EHQY45HgEZ9IVJREmUGag2Wru/s1600/C4295524-17BB-4C88-8775-F4110FCA918B.jpg)
-
-  
-
 Hello! Today I am going to share about how I planned for for Japan!
 
   

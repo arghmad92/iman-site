@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi10y4lMsRfCpayjIBWhqT0wS96waLB7pOL7Ps2RllwnNvO5Y3t6otjXr59W8ooWIjCEtmvYIiR2GvMvYXRVyL3YrPDPs8M7Keh-73ZPBrv9ajk4hqxP6-jSyHyWXQHGJgL85zEHRQSNoUB/s1600/Photo+31-07-2018%252C+9+51+01+PM+%25281%2529.jpg)
-
-  
-
 Maysaa's first international flight to Phuket with Mummy and Daddy!
 
   

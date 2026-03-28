@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg80hDNuCCVv34dYTakoJ5XLZNt0kumOl5cLVkvMtnWbvz5tolmKXJeIePyahNXf6agXVzQ5eEm3qTb_1AJSkWV93TumPK38fPBP3Fi4bYnJ3P3WPZd_gvEWoNn1ZzdLX4X1ca76oVvbsxf/s1600/1B668855-EF02-4D01-A734-A51962869805.JPG)
-
 Moisturizers with ceramide that I have tried
 
   

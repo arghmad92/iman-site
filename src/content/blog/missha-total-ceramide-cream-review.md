@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoNMXjgjrW47uo1uEiQhte5RweTSt17S3i95e5Nw5AqlvegHd8fo1Ys4xhYvVzsSI6b_w636MUzxd9VyifMYq7rwxCRiIf7jHPgXn3mASf2Q1jT8tjGj2CpIaG6b3kYZ3Imbyngo0LG5zK/s1600/7703BFD5-9642-4C83-86E2-90A89636CC4D.jpg)
-
 Missha Near Skin Total Ceramide Cream Review
 
   

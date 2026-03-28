@@ -8,10 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://1.bp.blogspot.com/-s9ExofwFJuU/YU_drPIQGJI/AAAAAAAAJ9k/AClSr7Qs43ktX_N2yEBRcgocPbQrg2N3wCLcBGAsYHQ/w606-h640/IMG_4675.jpg)
-
-  
-
 Yello Oatellia Exfoliating Gel Cleanser & Oatmino Refreshing Cream Cleanser
 
   

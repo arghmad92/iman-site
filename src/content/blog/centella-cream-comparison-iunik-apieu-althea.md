@@ -8,11 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-LcrFSTdzA0Sy-uBycvRY8WAYBIkNzKqyuePVrIpiMk6wGHhKHT7Uxi3FoDBrsHpug2KNyGRo6ndj2q1KoWCu9aUWykPyKJUnT42w0rAIDS7GFULVyQ8rIbGyK25yZNuc9MG0J7-hOiGH/s2048/177AF3E4-87C5-40AD-8581-0C6DDB9C9E3B.jpeg)
-
-  
-
 Centella Cream Comparison: Iunik Centella Calming Gel Cream, Apieu Madecassoside Cream and Althea Skin Relief Calming Cream
 
   

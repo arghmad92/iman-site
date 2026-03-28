@@ -8,14 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGAntPa-Y64deeh_tY1LBNmD3fYVM1aBHjsFLSdxJ3rjLrW7GkzdFvVedV-6NXoPHJ8sRTnHAfs6mulxxNhvBSKbpNMI_ECnnbhxIWD1cnq6bdK_CmjZYonmAF4YsQeyvwH0e9of1se11m/s1600/57D252AF-8737-454F-9EFE-96BDE097BF83.jpg)
-
-  
-  
-  
-  
-
 **What it claims?**
 
 Shield your skin from the sun's rays and give it some petal protection with Althea's Petal Velvet Sunaway! Ultra lightweight, this invisible sunscreen is formulated with hyaluronic acid and Damask rose extracts, ensuring that your skin stays fresh and hydrated throughout the day without any streakiness or a white cast. It has an SPF of 50+ and PA++++, so your skin'll be kept protected all day. As part of the Petal Velvet line, it also contains micro-powder particles that give you a smooth, petal-like complexion. 

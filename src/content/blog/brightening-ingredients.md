@@ -8,10 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://4.bp.blogspot.com/-M1G2-k7Lv0Q/XENfnDjlL4I/AAAAAAAAIFU/mDBSIplrXlElegOHTqaQU76gpD2yJZdAwCLcBGAs/s640/IMG_5004.PNG)
-
-  
-  
 Brightening Ingredients
 
   

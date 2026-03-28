@@ -8,9 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfqmkxGviq9jElkkLAtZ9uAo4j0w55qoTJLgXKHJlOrI4CzggpmTWhAvJK3VLDRU0DmNjpEZXxW75lp3WfWI1QcXVHLPpA5oPbnkjE-_hzv1H6ml3C-YavHoHpy2kxJWYUtp7PgVEGgaoU/w360-h640/pregnancy.png)
-
- Keperluan semasa mengandung
+Keperluan semasa mengandung
 
   
 

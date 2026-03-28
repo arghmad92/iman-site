@@ -8,10 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRrt6L0z91EZkvG0-RtNzB-yQr1xFhcy7zApZi6G55okoApfdStfby2aDaJB5Lb9Qeb3HrjOhZSdC5eWDsGZ2tueDouOHf0x0u8ZS_lWzLbuzVfURghq6D3ltUMpkxvjZuvleORVCQ8tse/s1600/8F9D908E-299C-4939-B8EE-670C1BD3B72E+2.jpg)
-
- Aiken Daily Sunscreen Face & Body Lotion Review
+Aiken Daily Sunscreen Face & Body Lotion Review
 
   
   

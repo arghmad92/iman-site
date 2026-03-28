@@ -8,9 +8,6 @@ readTime: "3 min read"
 draft: false
 ---
 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGSI8Ji7h4LxvxucmDxn7BQ-stvhmhtQ90UNof8bJjrtViCc9qj2q9EXKsVTD1FU2ltgSihFyr2xr22KwTPMoSiBU7V4q7x6169WzHmvKaBE8311rKVATp1emfTw2tCKhY_0JHC7WbZ-ti/s4032/52535C28-45CF-419C-8997-D57F47B88646-FA718BC6-F751-4FA4-A3BE-76520FAA830B.JPG)
-
 Babyhood Diva Glider Chair
 
   
