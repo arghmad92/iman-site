@@ -12,7 +12,7 @@ There's a lot of DIY tips, guna barang barang yang ada dekat rumah je. I guess s
 
   
 
-[![](https://3.bp.blogspot.com/-fN4kvyM8Etc/Wot_SBCbgZI/AAAAAAAAF-s/U4VxAnI45As11edqSGVmG72Xz87oM6FtACLcBGAs/s640/Screen%2BShot%2B2018-02-20%2Bat%2B9.51.48%2BAM.png)
+![](https://3.bp.blogspot.com/-fN4kvyM8Etc/Wot_SBCbgZI/AAAAAAAAF-s/U4VxAnI45As11edqSGVmG72Xz87oM6FtACLcBGAs/s640/Screen%2BShot%2B2018-02-20%2Bat%2B9.51.48%2BAM.png)
 
   
   

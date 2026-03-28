@@ -12,7 +12,7 @@ About our skin barrier and why is it important?
 
   
 
-[![](https://4.bp.blogspot.com/-kNjKnVgTjo8/W3okhBPiuwI/AAAAAAAAHFU/_gtxHEwYxws8a1gGTphV2KaFilFWaHJ8wCLcBGAs/s640/IMG_0851.PNG)
+![](https://4.bp.blogspot.com/-kNjKnVgTjo8/W3okhBPiuwI/AAAAAAAAHFU/_gtxHEwYxws8a1gGTphV2KaFilFWaHJ8wCLcBGAs/s640/IMG_0851.PNG)
 
   
 

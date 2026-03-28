@@ -12,7 +12,7 @@ My thoughts on Sunplay Skin Aqua UV Whitening Moisture Gel SPF50 PA++
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHts5Se2R1Yga8JzqjkIz5ysJD1fMUFajcLgyPGmI7iFJPhC3ZWHFFpy_I8xg3h4YedEQ-QT5uS6xRwqlNQ9gW7myDx0xYAI4B5LusEdubyXJO08K62qEAGIFy1pqbg31CiqcQjphMcGgE/s640/Photo+27-08-2018%252C+1+36+31+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHts5Se2R1Yga8JzqjkIz5ysJD1fMUFajcLgyPGmI7iFJPhC3ZWHFFpy_I8xg3h4YedEQ-QT5uS6xRwqlNQ9gW7myDx0xYAI4B5LusEdubyXJO08K62qEAGIFy1pqbg31CiqcQjphMcGgE/s640/Photo+27-08-2018%252C+1+36+31+AM.jpg)
 
   
 
@@ -59,7 +59,7 @@ It comes in a 80 ml pink plastic squeezable bottle with a white screwable cap. N
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjXVVwSQTEyRxUPzxkOKH2wCDS7Ao_4F6uoZ-VMkEWRjAU_hvq2Mf1hM-Q6CHQPWjqj3eavuOmHBF2b75lHOIP5C1iOdh_ZGuRiRO6HWe3hA-xzOB1wD8hGhN0fKgrQ_516gJtMiwllt1S/s640/Photo+27-08-2018%252C+1+36+41+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjXVVwSQTEyRxUPzxkOKH2wCDS7Ao_4F6uoZ-VMkEWRjAU_hvq2Mf1hM-Q6CHQPWjqj3eavuOmHBF2b75lHOIP5C1iOdh_ZGuRiRO6HWe3hA-xzOB1wD8hGhN0fKgrQ_516gJtMiwllt1S/s640/Photo+27-08-2018%252C+1+36+41+AM.jpg)
 
   
 
@@ -73,11 +73,11 @@ It has a white light gel consistency, which is quite runny and thin. Tak thick a
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCvX8lofR7ov6nFajaSV51zTkSBT-v4I0thYkJ6LvqFOCbGUkNc12H92hTahfOqMx3jhgNs7OFhzJAHjdMQbFQHlSu4VjuN6ZTgGAiStuypJfSlAGpZygLM23UiqAtYo7O3US0MdsN0fxS/s640/Photo+27-08-2018%252C+1+37+47+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCvX8lofR7ov6nFajaSV51zTkSBT-v4I0thYkJ6LvqFOCbGUkNc12H92hTahfOqMx3jhgNs7OFhzJAHjdMQbFQHlSu4VjuN6ZTgGAiStuypJfSlAGpZygLM23UiqAtYo7O3US0MdsN0fxS/s640/Photo+27-08-2018%252C+1+37+47+AM.jpg)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0LGh1bustH1l5c5_OWd-2Q5FZdq5izZBntgfIjIiaDtTr934H30fAFDTip1FMA1ZwtrflIXZcFkirQZLpj0TwqBG_oB9JGgman_vJDlEoDIJvcGBa9Wx25-fVOMDFtDAhRoKq2STLwY44/s640/Photo+27-08-2018%252C+1+38+01+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0LGh1bustH1l5c5_OWd-2Q5FZdq5izZBntgfIjIiaDtTr934H30fAFDTip1FMA1ZwtrflIXZcFkirQZLpj0TwqBG_oB9JGgman_vJDlEoDIJvcGBa9Wx25-fVOMDFtDAhRoKq2STLwY44/s640/Photo+27-08-2018%252C+1+38+01+AM.jpg)
 
   
 
@@ -89,7 +89,7 @@ I hate the scent. The sunscreen scent is quite strong, macam bau liquid paper tu
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhqSIbuxoO03j3TmS-SAcHbcilPq_KcH4nFgvBnzwJtmUtJl8mRSwUGe1sFxpnEVVq28HK3zPvPOGqXUSDOVi_pQV-yX1fC4pX1Wc5d_0Pjt64d6Ke5ugnbcycsZt8maZhLxSOSMpOsWz_/s640/Photo+27-08-2018%252C+1+37+03+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhqSIbuxoO03j3TmS-SAcHbcilPq_KcH4nFgvBnzwJtmUtJl8mRSwUGe1sFxpnEVVq28HK3zPvPOGqXUSDOVi_pQV-yX1fC4pX1Wc5d_0Pjt64d6Ke5ugnbcycsZt8maZhLxSOSMpOsWz_/s640/Photo+27-08-2018%252C+1+37+03+AM.jpg)
 
   
 
@@ -127,7 +127,7 @@ I noticed about the Solarex-3 technology at the packaging. About Solarex-3 techn
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7jeVaUkm11h3mTUDn8nsaZZgmt9bN3FOmysLbvx3buNoYQGqpSEs8X2oTxeGOINRw9dEbdiaoWtbBjiF6MgcLzWt2_aigI_8iXXZQM4anTX9icbO5DUp-e5x9HJcLMS4vv4PRcsatJ2iX/s640/Solarex-3-diagram.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7jeVaUkm11h3mTUDn8nsaZZgmt9bN3FOmysLbvx3buNoYQGqpSEs8X2oTxeGOINRw9dEbdiaoWtbBjiF6MgcLzWt2_aigI_8iXXZQM4anTX9icbO5DUp-e5x9HJcLMS4vv4PRcsatJ2iX/s640/Solarex-3-diagram.jpg)
 
   
 

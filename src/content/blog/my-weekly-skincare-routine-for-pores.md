@@ -14,7 +14,7 @@ My weekly skincare routine! Yang ni I buat seminggu sekali je. Additional to my 
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKR0DZLTuOSIXHhq66lfzdzAzboE9F569w4-DU5UWfg0RVvkqKuOu52IDj2AheGAhtZrx3UMUcskDhPURNkuqpASCFW-VG1oxRaRuJ3HUBu3WTBDde690eVad3GnFrSXLeVBIx7z1Ervs/s640/Photo+15-11-2017%252C+9+41+14+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKR0DZLTuOSIXHhq66lfzdzAzboE9F569w4-DU5UWfg0RVvkqKuOu52IDj2AheGAhtZrx3UMUcskDhPURNkuqpASCFW-VG1oxRaRuJ3HUBu3WTBDde690eVad3GnFrSXLeVBIx7z1Ervs/s640/Photo+15-11-2017%252C+9+41+14+AM.jpg)
 
   
 
@@ -50,7 +50,7 @@ So anyways, lepas bersalinkan Maysaa, masa dalam pantang, I cuma buat cleanse an
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiw5-AP-BwFkwRu78g6VIxvxdotfrB7_cu6BtEGNVhyiIzyJyp1Nzl8IVpNuAHcDjbx736NUCguhvQpW4rOSdfoa9l5iIvcXzHmwQG-IAWwFzPwyTOI70uWY3YXCUkPA3toGDhR9Oj38c/s640/Screen+Shot+2017-11-14+at+8.22.22+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiw5-AP-BwFkwRu78g6VIxvxdotfrB7_cu6BtEGNVhyiIzyJyp1Nzl8IVpNuAHcDjbx736NUCguhvQpW4rOSdfoa9l5iIvcXzHmwQG-IAWwFzPwyTOI70uWY3YXCUkPA3toGDhR9Oj38c/s640/Screen+Shot+2017-11-14+at+8.22.22+PM.png)
 
   
 
@@ -88,7 +88,7 @@ I do this routine in the morning, sebelum morning routine. Cari lah mana mana pa
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinLbbNle5AzqUoyRK6-A06SGpCc9Ez7eOKRQz6qFS6JzfoCd5jXRuc0z7q75GQ_WaJTdnFTYfTtqyC2RhXUseEFJe4xcveB3Dg5xn4m4sZ-JhEwB4dgfgl-6mxMq38xbwBNXjNrwC9t4w/s640/Screen+Shot+2017-11-15+at+9.46.23+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinLbbNle5AzqUoyRK6-A06SGpCc9Ez7eOKRQz6qFS6JzfoCd5jXRuc0z7q75GQ_WaJTdnFTYfTtqyC2RhXUseEFJe4xcveB3Dg5xn4m4sZ-JhEwB4dgfgl-6mxMq38xbwBNXjNrwC9t4w/s640/Screen+Shot+2017-11-15+at+9.46.23+AM.png)
 
   
 
@@ -153,12 +153,12 @@ The idea is,
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix8Qzh7ibA5u5hkaWwzx7vvXbABSYU1GXPqxsGR7ibev5esMSefk8nU425QzGOk_RhDgnxn8pqZLVbrRLZFy8H1Wl7EmxFAgFgZ4Gx7rENB5QF4kmw2fEWIpJ3Fzw2bEM_2cG5RfV0iL4/s640/Photo+15-11-2017%252C+10+17+36+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix8Qzh7ibA5u5hkaWwzx7vvXbABSYU1GXPqxsGR7ibev5esMSefk8nU425QzGOk_RhDgnxn8pqZLVbrRLZFy8H1Wl7EmxFAgFgZ4Gx7rENB5QF4kmw2fEWIpJ3Fzw2bEM_2cG5RfV0iL4/s640/Photo+15-11-2017%252C+10+17+36+AM.jpg)
 
  Our weekly routine. For oily skin (like my husband), nak buat satu muka pun takdehal.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3i1ZMM0s2ERWw2zk2pWRIA4WXGZUlDqD9wyd2YnqbUyrGsO-ev4PcsQJUFUkK8_OkH7May34iT41MXPCIDOymR6OriLtWDG7GWvOpRKwb0VuLR3c1AyWu1lr5zapa7GLbLUl-ewtfwo/s640/Photo+15-11-2017%252C+10+18+47+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3i1ZMM0s2ERWw2zk2pWRIA4WXGZUlDqD9wyd2YnqbUyrGsO-ev4PcsQJUFUkK8_OkH7May34iT41MXPCIDOymR6OriLtWDG7GWvOpRKwb0VuLR3c1AyWu1lr5zapa7GLbLUl-ewtfwo/s640/Photo+15-11-2017%252C+10+18+47+AM.jpg)
 
 For oily skin, this Innisfree Super Volcanic Pore Clay Mask is good.  
   
@@ -167,7 +167,7 @@ For oily skin, this Innisfree Super Volcanic Pore Clay Mask is good.
 Hasil dia, pores lagi bersih! Sebaceous filament makin kurang! Area hidung makin lembut. But of course, dia tak akan hilang selama lamanya. So buat lah seminggu sekali supaya boleh control sikit. I've done this for the past 4 months, and I am absolutely happy with the result. Tapi orang kata ada keluar grits, I tak ada pulak.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhobr-M7oz9gvBctALdJXVGPeOGZdTB58LZ-5NITtTakMwHdnNFncwjHtPZa38VJe0cq5qilmEGi10XW7jET6chadWkSLoTdVvgSH18aZ0feb03hR6f1ZP9o8iZzN8hWSdd_bSlym9UlgA/s640/Screen+Shot+2017-11-15+at+10.10.38+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhobr-M7oz9gvBctALdJXVGPeOGZdTB58LZ-5NITtTakMwHdnNFncwjHtPZa38VJe0cq5qilmEGi10XW7jET6chadWkSLoTdVvgSH18aZ0feb03hR6f1ZP9o8iZzN8hWSdd_bSlym9UlgA/s640/Screen+Shot+2017-11-15+at+10.10.38+AM.png)
 
 Read about it [here](https://www.glamour.com/story/skin-gritting-blackhead-removal)
 
@@ -223,7 +223,7 @@ Soooo, my normal daily skincare routine is like this:
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht0UBmF9IK4Epd-FM9hbfgLHdVbP1krGRI2WTtFPgg0PrPwezZZy8e5T_tirNFvij8d8E4pnv75HiW6C5w4IFn_UTXUOmVC3PT_WVD-cNkyGtn0niABfHQHlWVng-RAi4LV7qPEMYA7To/s640/Screen+Shot+2017-11-15+at+10.03.14+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht0UBmF9IK4Epd-FM9hbfgLHdVbP1krGRI2WTtFPgg0PrPwezZZy8e5T_tirNFvij8d8E4pnv75HiW6C5w4IFn_UTXUOmVC3PT_WVD-cNkyGtn0niABfHQHlWVng-RAi4LV7qPEMYA7To/s640/Screen+Shot+2017-11-15+at+10.03.14+AM.png)
 
   
 
@@ -231,7 +231,7 @@ Tapi seminggu sekali, it's like this:
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibZt3Y1BaGJEQFvOk5crRLhmY4UMwRM0uS3OWVKwWLjc_X9Y5dacxUplt2uInPlm-ZSP-OZHMkC8ncPaRxo6mHR-wtCBFTBmGgZtomllsb19F7FG6zqgqCETvGF_cDkEHA23mFpCdAtdE/s640/Screen+Shot+2017-11-15+at+10.03.25+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibZt3Y1BaGJEQFvOk5crRLhmY4UMwRM0uS3OWVKwWLjc_X9Y5dacxUplt2uInPlm-ZSP-OZHMkC8ncPaRxo6mHR-wtCBFTBmGgZtomllsb19F7FG6zqgqCETvGF_cDkEHA23mFpCdAtdE/s640/Screen+Shot+2017-11-15+at+10.03.25+AM.png)
 
 Faham kan? Hope it helps!
 

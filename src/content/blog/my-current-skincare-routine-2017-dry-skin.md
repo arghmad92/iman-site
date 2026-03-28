@@ -14,7 +14,7 @@ Finally, a skincare routine! I've been wanting to do this post tapi asyik tak se
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT74VOwRP2-4ENjcJJbmE-d6lu39BmmAPulVSemTnmNwNAK8OWx4G36fwy7LHLcLmjr0bNVaDvhjW1LC6fLkb9u8PLtELawQ3SbuZRY4uHrOff3iGWCRKL-GWtHiE1UeUStKDXIxKCvgY/s640/Photo+30-08-2017%252C+8+49+49+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT74VOwRP2-4ENjcJJbmE-d6lu39BmmAPulVSemTnmNwNAK8OWx4G36fwy7LHLcLmjr0bNVaDvhjW1LC6fLkb9u8PLtELawQ3SbuZRY4uHrOff3iGWCRKL-GWtHiE1UeUStKDXIxKCvgY/s640/Photo+30-08-2017%252C+8+49+49+AM.jpg)
 
   
 
@@ -45,7 +45,7 @@ This is my morning skincare routine. Only 4 steps?? Because I am lazyyyyy.
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieXHJc3eqUTlgB3GgcZbmazeZa4UMBCvGiu22wJcxmEJasetS8W0cIdnHuh_p79HVIyqr5GYTUEdTmNH7TEpvYqhF89psSCWyGqx3mFOY3ibnFJQ0ysaUt460qbTEcasPUms_0vy1BoX4/s640/Photo+30-08-2017%252C+8+39+13+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieXHJc3eqUTlgB3GgcZbmazeZa4UMBCvGiu22wJcxmEJasetS8W0cIdnHuh_p79HVIyqr5GYTUEdTmNH7TEpvYqhF89psSCWyGqx3mFOY3ibnFJQ0ysaUt460qbTEcasPUms_0vy1BoX4/s640/Photo+30-08-2017%252C+8+39+13+AM.jpg)
 
   
 
@@ -91,7 +91,7 @@ Banyak sikit steps dari yang pagi. Tapi tak ada lah sampai 10 steps korean skinc
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimhCHj4vON1fF8bx0qQeJbHe_Tw6mGVjbxMzuzp_xfG6EXKYbLBE4075OwpLd5BUGXr39e07FXavRJo2Ja3Y7MmIqpMp6FX-1lexdPqXvgXc5GvP24ZOA5S_mPpqc7KKea52CXzDI8GzQ/s640/Photo+30-08-2017%252C+8+39+42+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimhCHj4vON1fF8bx0qQeJbHe_Tw6mGVjbxMzuzp_xfG6EXKYbLBE4075OwpLd5BUGXr39e07FXavRJo2Ja3Y7MmIqpMp6FX-1lexdPqXvgXc5GvP24ZOA5S_mPpqc7KKea52CXzDI8GzQ/s640/Photo+30-08-2017%252C+8+39+42+AM.jpg)
 
   
 
@@ -163,7 +163,7 @@ This is for weekly skincare routine pulak.
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsiIZ4XtOiwxQbLa6SXeTGCmqjbnyEuwYYIEcAXEkzOZX6Y6ozcGPJzDRpn8OMfugmlEkYYi-SKPwaE4zDwkJ56X9twgGenpcwMVsS-if01d5ZyBXXqHXGVv9n4RemIzh7hLKVijR76Gs/s640/Photo+30-08-2017%252C+8+49+11+AM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsiIZ4XtOiwxQbLa6SXeTGCmqjbnyEuwYYIEcAXEkzOZX6Y6ozcGPJzDRpn8OMfugmlEkYYi-SKPwaE4zDwkJ56X9twgGenpcwMVsS-if01d5ZyBXXqHXGVv9n4RemIzh7hLKVijR76Gs/s640/Photo+30-08-2017%252C+8+49+11+AM.jpg)
 
   
 

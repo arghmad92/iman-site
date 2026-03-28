@@ -18,7 +18,7 @@ So one day, I went to Guardian, nak cari benda lain sebenarnya, and I saw this H
 
   
 
-[![Hado Labo Cleansing Oil
+![Hado Labo Cleansing Oil
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigG1tAEj7YG6ybCjduJE7LQ9Vwoe9lhEQ_GpfFeTywuEs6i_qmk_DfzS4eSrs3wMrln3otCSmx5Y4zZE2l5txkswNOnCATYHXO9QPX4wPwAKVqoxrVCGPOtjkHF8TDVJdOW35gSqRvJTM/s1600/Photo+Jul+26%252C+14+23+54.jpg)
 

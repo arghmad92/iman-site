@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://1.bp.blogspot.com/-s9ExofwFJuU/YU_drPIQGJI/AAAAAAAAJ9k/AClSr7Qs43ktX_N2yEBRcgocPbQrg2N3wCLcBGAsYHQ/w606-h640/IMG_4675.jpg)
+![](https://1.bp.blogspot.com/-s9ExofwFJuU/YU_drPIQGJI/AAAAAAAAJ9k/AClSr7Qs43ktX_N2yEBRcgocPbQrg2N3wCLcBGAsYHQ/w606-h640/IMG_4675.jpg)
 
   
 
@@ -36,7 +36,7 @@ Okay tapi hari ni kita cerita about their newly launched cleanser that will be l
 
   
 
-[![](https://1.bp.blogspot.com/-qtxYek43EcA/YU_dmWNggaI/AAAAAAAAJ84/XdF2YF1ZjrMlM4WXOTe1LoSH3gnB-nUlwCLcBGAsYHQ/w480-h640/IMG_4503.jpg)
+![](https://1.bp.blogspot.com/-qtxYek43EcA/YU_dmWNggaI/AAAAAAAAJ84/XdF2YF1ZjrMlM4WXOTe1LoSH3gnB-nUlwCLcBGAsYHQ/w480-h640/IMG_4503.jpg)
 
   
 
@@ -56,7 +56,7 @@ Where to get? [Oatmino Refreshing Cream Cleanser](http://www.thebeautystuffxo.co
 
   
 
-[![](https://1.bp.blogspot.com/-4ZnRsXRyhAM/YU_doZI9yhI/AAAAAAAAJ9M/-UJJ28nW9nQT5UC2VWqnRBeQBbhVfyndQCLcBGAsYHQ/w480-h640/IMG_4508.jpg)
+![](https://1.bp.blogspot.com/-4ZnRsXRyhAM/YU_doZI9yhI/AAAAAAAAJ9M/-UJJ28nW9nQT5UC2VWqnRBeQBbhVfyndQCLcBGAsYHQ/w480-h640/IMG_4508.jpg)
 
   
 
@@ -80,7 +80,7 @@ Where to get? [Oatellia Exfoliating Gel Cleanser](http://www.thebeautystuffxo.co
 
 **WHAT IT CLAIMS?**
 
-[![](https://1.bp.blogspot.com/-Mz7iLI8gCFw/YU_dmsPW8SI/AAAAAAAAJ9A/xATRZQcqP3wTOwJZXSdGoY56ivI3F5xSQCLcBGAsYHQ/w480-h640/IMG_4505.heic)
+![](https://1.bp.blogspot.com/-Mz7iLI8gCFw/YU_dmsPW8SI/AAAAAAAAJ9A/xATRZQcqP3wTOwJZXSdGoY56ivI3F5xSQCLcBGAsYHQ/w480-h640/IMG_4505.heic)
 
 All the details ada dekat box dia.
 
@@ -90,7 +90,7 @@ All the details ada dekat box dia.
 
   
 
-[![](https://1.bp.blogspot.com/-dezUwn63320/YU_dpYYC8aI/AAAAAAAAJ9U/5EONIsF4n-wHweQR7Jjph9Bkry5JVpXkgCLcBGAsYHQ/w480-h640/IMG_4510.heic)
+![](https://1.bp.blogspot.com/-dezUwn63320/YU_dpYYC8aI/AAAAAAAAJ9U/5EONIsF4n-wHweQR7Jjph9Bkry5JVpXkgCLcBGAsYHQ/w480-h640/IMG_4510.heic)
 
   
 
@@ -108,7 +108,7 @@ All the details ada dekat box dia.
 
   
 
-[![](https://1.bp.blogspot.com/-7RluZ2t7IVo/YU_dnn7pUCI/AAAAAAAAJ9E/9OdxqFQ9SsYT-b8vTVFeX3EbXQzBiUTYQCLcBGAsYHQ/w480-h640/IMG_4506.heic)
+![](https://1.bp.blogspot.com/-7RluZ2t7IVo/YU_dnn7pUCI/AAAAAAAAJ9E/9OdxqFQ9SsYT-b8vTVFeX3EbXQzBiUTYQCLcBGAsYHQ/w480-h640/IMG_4506.heic)
 
   
 
@@ -122,7 +122,7 @@ _Water, Sodium Cocoyl Glycinate, Glycerin, Butylene Glycol, Coco-Glucoside, Diso
 
   
 
-[![](https://1.bp.blogspot.com/-0QCBVbwRkoE/YU_dpRT4CAI/AAAAAAAAJ9Y/gh6T2WxKbWMgGMai-IyS56I-Qp8IPUrdwCLcBGAsYHQ/w480-h640/IMG_4511.heic)
+![](https://1.bp.blogspot.com/-0QCBVbwRkoE/YU_dpRT4CAI/AAAAAAAAJ9Y/gh6T2WxKbWMgGMai-IyS56I-Qp8IPUrdwCLcBGAsYHQ/w480-h640/IMG_4511.heic)
 
   
 
@@ -180,11 +180,11 @@ Since it contains 2% Salicylic Acid, kena berhati hati. Normally doctors suggest
 
   
 
-[![](https://1.bp.blogspot.com/-qKQdbTRp5Ws/YU_dmbUrPpI/AAAAAAAAJ88/vsYQlU4NA8Qcg2Vz7oTEYErsG4bRjnpjwCLcBGAsYHQ/w480-h640/IMG_4504.jpg)
+![](https://1.bp.blogspot.com/-qKQdbTRp5Ws/YU_dmbUrPpI/AAAAAAAAJ88/vsYQlU4NA8Qcg2Vz7oTEYErsG4bRjnpjwCLcBGAsYHQ/w480-h640/IMG_4504.jpg)
 
   
 
-[![](https://1.bp.blogspot.com/-tfakGKZSZ8g/YU_doHY-_EI/AAAAAAAAJ9I/MjDDreAv9ME0Gt5V5Phzbby01gQasxLPwCLcBGAsYHQ/w480-h640/IMG_4507.heic)
+![](https://1.bp.blogspot.com/-tfakGKZSZ8g/YU_doHY-_EI/AAAAAAAAJ9I/MjDDreAv9ME0Gt5V5Phzbby01gQasxLPwCLcBGAsYHQ/w480-h640/IMG_4507.heic)
 
   
 
@@ -194,17 +194,17 @@ Since it contains 2% Salicylic Acid, kena berhati hati. Normally doctors suggest
 
   
 
-[![](https://1.bp.blogspot.com/-lPFLuJK4y3E/YU_dp1jHaNI/AAAAAAAAJ9c/p_9aQgOOI5YF3w3CmYfmAUHSERxZJP9XgCLcBGAsYHQ/w480-h640/IMG_4513.heic)
+![](https://1.bp.blogspot.com/-lPFLuJK4y3E/YU_dp1jHaNI/AAAAAAAAJ9c/p_9aQgOOI5YF3w3CmYfmAUHSERxZJP9XgCLcBGAsYHQ/w480-h640/IMG_4513.heic)
 
   
 
-[![](https://1.bp.blogspot.com/-N2Bpwq6EhpA/YU_dqs9q1DI/AAAAAAAAJ9g/MUL7CH4qn0QjHV_ggJKT01rN-lXN-tuwgCLcBGAsYHQ/w480-h640/IMG_4514.heic)
+![](https://1.bp.blogspot.com/-N2Bpwq6EhpA/YU_dqs9q1DI/AAAAAAAAJ9g/MUL7CH4qn0QjHV_ggJKT01rN-lXN-tuwgCLcBGAsYHQ/w480-h640/IMG_4514.heic)
 
   
 
   
 
-[![](https://1.bp.blogspot.com/-wspG46JzDe0/YU_do2cLrjI/AAAAAAAAJ9Q/b7fGfwUXQNAAjbllhm5WL10UdSg-KcgzACLcBGAsYHQ/w480-h640/IMG_4509.heic)
+![](https://1.bp.blogspot.com/-wspG46JzDe0/YU_do2cLrjI/AAAAAAAAJ9Q/b7fGfwUXQNAAjbllhm5WL10UdSg-KcgzACLcBGAsYHQ/w480-h640/IMG_4509.heic)
 
   
 
@@ -222,16 +222,16 @@ Since it contains 2% Salicylic Acid, kena berhati hati. Normally doctors suggest
 
   
 
-[![](https://lh3.googleusercontent.com/-7RK7gGTDeg4/YVA20MVSOzI/AAAAAAAAJ-s/CefnTuRVjbo_F_WKYPDwLjufd4d2ZLZxgCLcBGAsYHQ/w640-h640/phonto%2B2.jpg)
+![](https://lh3.googleusercontent.com/-7RK7gGTDeg4/YVA20MVSOzI/AAAAAAAAJ-s/CefnTuRVjbo_F_WKYPDwLjufd4d2ZLZxgCLcBGAsYHQ/w640-h640/phonto%2B2.jpg)
 
   
   
 
-[![](https://lh3.googleusercontent.com/-P0q7clbBPRE/YVA20MMkKxI/AAAAAAAAJ-0/VBOK4WoiSSwa0SCLLTAmyf5Qvt8iPvYDACLcBGAsYHQ/w640-h640/IMG_4659%2B2.heic)
+![](https://lh3.googleusercontent.com/-P0q7clbBPRE/YVA20MMkKxI/AAAAAAAAJ-0/VBOK4WoiSSwa0SCLLTAmyf5Qvt8iPvYDACLcBGAsYHQ/w640-h640/IMG_4659%2B2.heic)
 
   
 
-[![](https://lh3.googleusercontent.com/-x89Pe3rw8oQ/YVA20ELzH3I/AAAAAAAAJ-o/kQ_cdg6WAzw2Fq89BZ9lLs0_N317S8BCwCLcBGAsYHQ/w640-h640/IMG_4660%2B2.heic)
+![](https://lh3.googleusercontent.com/-x89Pe3rw8oQ/YVA20ELzH3I/AAAAAAAAJ-o/kQ_cdg6WAzw2Fq89BZ9lLs0_N317S8BCwCLcBGAsYHQ/w640-h640/IMG_4660%2B2.heic)
 
   
 
@@ -239,9 +239,9 @@ Since it contains 2% Salicylic Acid, kena berhati hati. Normally doctors suggest
 
   
 
-[![](https://lh3.googleusercontent.com/-ExU-EwuuHcw/YVA20P-L8uI/AAAAAAAAJ-k/THTUT1uzcvEFeFIFSsDvN72iS8sCk2wuQCLcBGAsYHQ/w640-h640/IMG_4652%2B2.heic)
+![](https://lh3.googleusercontent.com/-ExU-EwuuHcw/YVA20P-L8uI/AAAAAAAAJ-k/THTUT1uzcvEFeFIFSsDvN72iS8sCk2wuQCLcBGAsYHQ/w640-h640/IMG_4652%2B2.heic)
 
-[![](https://lh3.googleusercontent.com/-kJ4VXtGXh-M/YVA20IvwjkI/AAAAAAAAJ-w/1sk3VAsV8fgrcSNetgtVqS7mNCT7G1_0gCLcBGAsYHQ/w640-h640/IMG_4653%2B2.heic)
+![](https://lh3.googleusercontent.com/-kJ4VXtGXh-M/YVA20IvwjkI/AAAAAAAAJ-w/1sk3VAsV8fgrcSNetgtVqS7mNCT7G1_0gCLcBGAsYHQ/w640-h640/IMG_4653%2B2.heic)
 
   
 

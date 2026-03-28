@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://1.bp.blogspot.com/-NOO4X4exDq8/Xa7YTKpiqoI/AAAAAAAAI2Y/NNxoel4SSjcfumXsnEcEoZEQ_JDbYNUWQCLcBGAsYHQ/s640/Screenshot%2B2019-10-22%2Bat%2B6.21.53%2BPM.png)
+![](https://1.bp.blogspot.com/-NOO4X4exDq8/Xa7YTKpiqoI/AAAAAAAAI2Y/NNxoel4SSjcfumXsnEcEoZEQ_JDbYNUWQCLcBGAsYHQ/s640/Screenshot%2B2019-10-22%2Bat%2B6.21.53%2BPM.png)
 
 I've shared about this here: [https://www.instagram.com/p/B2UTYtMnTAs/](https://www.instagram.com/p/B2UTYtMnTAs/)
 
@@ -27,7 +27,7 @@ But I decided to share it on my blog too :)
  3️⃣ Kalau siang, distract dia bila dia minta. “Tak payah la susu, kita main toys ok? Kita minum susu princess ok?” (Susu Dutch Lady yang ada Elsa Anna tu)  
   
 
-[![](https://1.bp.blogspot.com/-kjPZFkPLffA/Xa7ZACB8tdI/AAAAAAAAI2o/7JLFrEREFMs7hW7pgNtQIMQRGbllP2YmACLcBGAsYHQ/s320/ShotType1_540x540.jpg)
+![](https://1.bp.blogspot.com/-kjPZFkPLffA/Xa7ZACB8tdI/AAAAAAAAI2o/7JLFrEREFMs7hW7pgNtQIMQRGbllP2YmACLcBGAsYHQ/s320/ShotType1_540x540.jpg)
 
   
   
@@ -49,7 +49,7 @@ But I decided to share it on my blog too :)
 
   
 
-[![](https://1.bp.blogspot.com/-oQ2geXX3TIE/Xa7YvOCXznI/AAAAAAAAI2g/9Y05wD-0WeYbu_UU1yuWYu8bRJJ7sOosACLcBGAsYHQ/s640/Screenshot%2B2019-10-22%2Bat%2B6.23.46%2BPM.png)
+![](https://1.bp.blogspot.com/-oQ2geXX3TIE/Xa7YvOCXznI/AAAAAAAAI2g/9Y05wD-0WeYbu_UU1yuWYu8bRJJ7sOosACLcBGAsYHQ/s640/Screenshot%2B2019-10-22%2Bat%2B6.23.46%2BPM.png)
 
  And of course, a disclaimer haha.  
   

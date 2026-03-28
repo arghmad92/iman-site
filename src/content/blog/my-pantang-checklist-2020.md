@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://1.bp.blogspot.com/-pFDTIFZBYpo/XobWsHAfr0I/AAAAAAAAJNY/t30a2yGGDD8jcl8uyNT2WuU7pi4VRJ87ACLcBGAsYHQ/s640/97BDE023-F053-4DC1-9FA5-C9FC0F3EBA51.jpg)
+![](https://1.bp.blogspot.com/-pFDTIFZBYpo/XobWsHAfr0I/AAAAAAAAJNY/t30a2yGGDD8jcl8uyNT2WuU7pi4VRJ87ACLcBGAsYHQ/s640/97BDE023-F053-4DC1-9FA5-C9FC0F3EBA51.jpg)
 
  Iman's pantang checklist (2020)
 
@@ -91,7 +91,7 @@ Oh ini part paling penting kalau bersalin normal. I'm nor sure kalau bersalin cz
 Satu benda yang I lupa, bantal donut untuk duduk. Ye lah tengah sakit luka bersalin lepastu nak duduk atas kerusi time makan aduhai sakittt. I duduk atas bantal biasa je tapi alangkah indahnya kalau ada bantal selesa macam ni untuk duduk:  
   
 
-[![](https://1.bp.blogspot.com/-ihDmnkOwNII/Xobcds3WtFI/AAAAAAAAJNo/eCh404SQbYUARjBOYfQ19NBwn7EcCn0agCLcBGAsYHQ/s320/41N5Hkd416L._AC_SX466_.jpg)
+![](https://1.bp.blogspot.com/-ihDmnkOwNII/Xobcds3WtFI/AAAAAAAAJNo/eCh404SQbYUARjBOYfQ19NBwn7EcCn0agCLcBGAsYHQ/s320/41N5Hkd416L._AC_SX466_.jpg)
 
   
   
@@ -133,7 +133,7 @@ Yang ni kira macam best lah kalau ada time pantang.
 So here is the checklist in case you need it too:  
   
 
-[![](https://1.bp.blogspot.com/-MzRD_W5djW8/XobWsD5ui7I/AAAAAAAAJNU/J73fPHgSxoU1OapW3aTGMKO3ze221aB4wCLcBGAsYHQ/s640/phonto.JPG)
+![](https://1.bp.blogspot.com/-MzRD_W5djW8/XobWsD5ui7I/AAAAAAAAJNU/J73fPHgSxoU1OapW3aTGMKO3ze221aB4wCLcBGAsYHQ/s640/phonto.JPG)
 
   
 

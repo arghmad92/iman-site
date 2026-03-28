@@ -12,7 +12,7 @@ I was intrigued when I heard about Savee. This brand is a local brand, made in M
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHYONkK1lhLQ5FEjEhqHX4lPY9d0LkcXQJKdVQas0wrWw6d_8JYi_nNchk4UmBlw_iaSyzT4EJqiMCgpFPT2-SIlYW2uWP1IfBYYbRzOreCeUhPfnAkSSC-HkMiM2KogpSKPqsN07oUx4/s640/Photo+14-05-2018%252C+11+16+52+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHYONkK1lhLQ5FEjEhqHX4lPY9d0LkcXQJKdVQas0wrWw6d_8JYi_nNchk4UmBlw_iaSyzT4EJqiMCgpFPT2-SIlYW2uWP1IfBYYbRzOreCeUhPfnAkSSC-HkMiM2KogpSKPqsN07oUx4/s640/Photo+14-05-2018%252C+11+16+52+PM.jpg)
 
   
 
@@ -22,13 +22,13 @@ I was intrigued when I heard about Savee. This brand is a local brand, made in M
 It is quite hard to get this brand. Dia normally akan buka stall dekat certain malls. Kena rajin tengok bila jadual dia and go serbu! I bought this a few months ago dekat AEON Cheras Selatan. Masks dia semua RM1 each but be careful if you have sensitive skin.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjOa-Gdi9_gmU6OaQ6vT1J-cUTM3cNMxZbC0OVPy4UeY0FCtnZGxAvJMvp4cR822CmrRmb4-133Foj-o6MF-3RfdBCJqCs5ZgDAvjsEiPECioEYAkdM8DrCHYSYW7HE93mvHWCaJ81U5s/s640/Screen+Shot+2018-05-15+at+10.20.04+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjOa-Gdi9_gmU6OaQ6vT1J-cUTM3cNMxZbC0OVPy4UeY0FCtnZGxAvJMvp4cR822CmrRmb4-133Foj-o6MF-3RfdBCJqCs5ZgDAvjsEiPECioEYAkdM8DrCHYSYW7HE93mvHWCaJ81U5s/s640/Screen+Shot+2018-05-15+at+10.20.04+PM.png)
 
   
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwLXfc2jmyzUQwFKCDlrTlcjviZ19GShuyMniKj9exjA931qteRjSW0_Di0g7neObbT1Hr3cq0OnEUBJYKr70vZSHQ9KqL8e7LON031g8y13A03byuvvZND3UYvKIZvjcDzKfsYyMSunNp/s640/Photo+14-05-2018%252C+11+17+02+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwLXfc2jmyzUQwFKCDlrTlcjviZ19GShuyMniKj9exjA931qteRjSW0_Di0g7neObbT1Hr3cq0OnEUBJYKr70vZSHQ9KqL8e7LON031g8y13A03byuvvZND3UYvKIZvjcDzKfsYyMSunNp/s640/Photo+14-05-2018%252C+11+17+02+PM.jpg)
 
 **What it claims**
 
@@ -40,7 +40,7 @@ Based on the website, it claims to helps prevent freckles formation, moisturize 
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Spaorj_l3C7kNWennhwguE-xoKCDPYKgx6d2-AVWtSKDU6_lfCWyOXQUFN6aqtYI2doN5SjrYnlfrH6OBAEvX-vpqRxsP7zgUSlSO80zNlrWENIHmgameVyte8lFrZAB3LDV5k6aeIDP/s640/Photo+14-05-2018%252C+11+17+08+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Spaorj_l3C7kNWennhwguE-xoKCDPYKgx6d2-AVWtSKDU6_lfCWyOXQUFN6aqtYI2doN5SjrYnlfrH6OBAEvX-vpqRxsP7zgUSlSO80zNlrWENIHmgameVyte8lFrZAB3LDV5k6aeIDP/s640/Photo+14-05-2018%252C+11+17+08+PM.jpg)
 
   
 
@@ -52,7 +52,7 @@ Aqua, Glycerin, Yeast Extract, Carbomer, Arginine, Ascorbyl Palmitate, bilberry 
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__pBmZLcTB13n2yesaEBTDd-w6ox73B2LKKueBKdWuzXWk9JJtqyCKQSDHlVktEAo4FEV56oxHpRvanRvjcUGY0MuGmXd-j6SoF26AzSJGORP32oSwnY1WURHfvOSmddsMsx_5D8E7O4N/s640/Screen+Shot+2018-05-15+at+9.51.38+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__pBmZLcTB13n2yesaEBTDd-w6ox73B2LKKueBKdWuzXWk9JJtqyCKQSDHlVktEAo4FEV56oxHpRvanRvjcUGY0MuGmXd-j6SoF26AzSJGORP32oSwnY1WURHfvOSmddsMsx_5D8E7O4N/s640/Screen+Shot+2018-05-15+at+9.51.38+PM.png)
 
   
 
@@ -69,7 +69,7 @@ Other ingredients nampak macam okay, some bunch of extracts. Yeast, bilberry, su
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifTU4Nsw8UhjX70xSUhjGibsbyXCLhDX9P8hQ6UBATMqdo-Ir4cpw7IsH35r_aXbIxoOKSgpZdgXRsKR933aysr5utSX2Kcihox61MZpKgS2Z55mD0lC4KuzDtuo9dfhNWdGzRnO51fETZ/s640/Photo+14-05-2018%252C+11+17+41+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifTU4Nsw8UhjX70xSUhjGibsbyXCLhDX9P8hQ6UBATMqdo-Ir4cpw7IsH35r_aXbIxoOKSgpZdgXRsKR933aysr5utSX2Kcihox61MZpKgS2Z55mD0lC4KuzDtuo9dfhNWdGzRnO51fETZ/s640/Photo+14-05-2018%252C+11+17+41+PM.jpg)
 
   
 
@@ -79,7 +79,7 @@ The texture is quite thick like a gel tapi bila spread out, it's quite thin, alm
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizgNf2p3HZCjX7Xq5Qpe13TQ7Rn6q5bF-8yNBGIXV5YQbrawqVCM9ZHGaa_PG9d7eMRe8QoPKQifKkfVAxWvMSv8KTtvScgUuc0rN3iw_XS7eDoqTdr0cmzvMWNYI0V2m_U8L5xwbg8yxz/s640/Photo+14-05-2018%252C+11+17+15+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizgNf2p3HZCjX7Xq5Qpe13TQ7Rn6q5bF-8yNBGIXV5YQbrawqVCM9ZHGaa_PG9d7eMRe8QoPKQifKkfVAxWvMSv8KTtvScgUuc0rN3iw_XS7eDoqTdr0cmzvMWNYI0V2m_U8L5xwbg8yxz/s640/Photo+14-05-2018%252C+11+17+15+PM.jpg)
 
   
 
@@ -122,7 +122,7 @@ Ada a few serums lagi from Savee which are Anti-Wrinkles, H20, Vitamin C and Blu
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBLAoYidzjNgHP3Rgv0QX0kjX_k-z9tlRyx7TRtnE-h20XVUVa5YcMYVq2hc20Dw5AnwkYRtGZWF1xiaOp5iX4Kqsuwgkrtwdc4dKMYc5A6-yHRWlSFQxjNfLVdx5yQhvy-qDeArZqS4yE/s640/Screen+Shot+2018-05-15+at+10.12.53+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBLAoYidzjNgHP3Rgv0QX0kjX_k-z9tlRyx7TRtnE-h20XVUVa5YcMYVq2hc20Dw5AnwkYRtGZWF1xiaOp5iX4Kqsuwgkrtwdc4dKMYc5A6-yHRWlSFQxjNfLVdx5yQhvy-qDeArZqS4yE/s640/Screen+Shot+2018-05-15+at+10.12.53+PM.png)
 
   
 

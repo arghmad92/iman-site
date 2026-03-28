@@ -12,7 +12,7 @@ Today I am going to do a sheet mask review! I bought this sebab ada banyak good 
 
   
 
-[![](https://2.bp.blogspot.com/-oJOoXG0m3IA/WdxRjJKczrI/AAAAAAAAFF4/9mTNMvMzp1cAhlEw5QG0EcRfaBazCpn6QCLcBGAs/s640/Photo%2B09-10-2017%252C%2B10%2B17%2B46%2BPM.jpg)
+![](https://2.bp.blogspot.com/-oJOoXG0m3IA/WdxRjJKczrI/AAAAAAAAFF4/9mTNMvMzp1cAhlEw5QG0EcRfaBazCpn6QCLcBGAs/s640/Photo%2B09-10-2017%252C%2B10%2B17%2B46%2BPM.jpg)
 
   
   
@@ -57,7 +57,7 @@ Use after cleanser. (And after toner, essence, serum if you have)
 
   
 
-[![](https://3.bp.blogspot.com/-DJCFFvwP9M8/WdxRjPubGQI/AAAAAAAAFGA/5sPxBmja6to5Jn1Mux36QyRZ3eHFVmWOACLcBGAs/s640/Photo%2B09-10-2017%252C%2B10%2B19%2B04%2BPM.jpg)
+![](https://3.bp.blogspot.com/-DJCFFvwP9M8/WdxRjPubGQI/AAAAAAAAFGA/5sPxBmja6to5Jn1Mux36QyRZ3eHFVmWOACLcBGAs/s640/Photo%2B09-10-2017%252C%2B10%2B19%2B04%2BPM.jpg)
 
   
 
@@ -67,7 +67,7 @@ Use after cleanser. (And after toner, essence, serum if you have)
   
 **Material**: Soft and thin tapi tak senang nak koyak. Ada selapis plastik untuk protect the mask so remove the plastic first, then apply dekat muka.  
   
-[![](https://2.bp.blogspot.com/-qC-djYVhjpo/WdxRjFxfW0I/AAAAAAAAFF8/Djjc98Fia-8i7u5UdfrZkg89_aDtKQBfgCLcBGAs/s640/Photo%2B09-10-2017%252C%2B10%2B19%2B39%2BPM.jpg)  
+![](https://2.bp.blogspot.com/-qC-djYVhjpo/WdxRjFxfW0I/AAAAAAAAFF8/Djjc98Fia-8i7u5UdfrZkg89_aDtKQBfgCLcBGAs/s640/Photo%2B09-10-2017%252C%2B10%2B19%2B39%2BPM.jpg)  
   
 **Essence**: Clear, generously soaked tapi tak dripping selekeh menitik nitik bila keluarkan daripada packaging dia.  
   

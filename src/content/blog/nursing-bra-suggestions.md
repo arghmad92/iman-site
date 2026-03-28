@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://1.bp.blogspot.com/-I_aK8OAMFkY/YV8N-eYdpJI/AAAAAAAAKAo/1eLBXtiku5ghOAR8p1356IG4ettJ3QhGwCLcBGAsYHQ/w640-h472/IMG_6169.jpg)
+![](https://1.bp.blogspot.com/-I_aK8OAMFkY/YV8N-eYdpJI/AAAAAAAAKAo/1eLBXtiku5ghOAR8p1356IG4ettJ3QhGwCLcBGAsYHQ/w640-h472/IMG_6169.jpg)
 
   
 
@@ -30,7 +30,7 @@ Apa yang kita kena survey? First of all, the **material** Sebab benda yang kit
 
 **1. [Front Open Clasps Breastfeeding](https://shp.ee/v7eegnb ) | RM12.69**
 
-[![](https://1.bp.blogspot.com/-aamVSySu6lk/YV2_sAcvDBI/AAAAAAAAJ_Y/hajIy45g2P8mIIK0Rog9P0Z9qhGCJyHOQCLcBGAsYHQ/w400-h400/IMG_6025%2B2.JPG)
+![](https://1.bp.blogspot.com/-aamVSySu6lk/YV2_sAcvDBI/AAAAAAAAJ_Y/hajIy45g2P8mIIK0Rog9P0Z9qhGCJyHOQCLcBGAsYHQ/w400-h400/IMG_6025%2B2.JPG)
 
   
 
@@ -44,7 +44,7 @@ This bra is sooo comfy, stretchable, jenis butang dekat depan and the sponge is 
 
   
 
-[![](https://1.bp.blogspot.com/-m1jRR9QCyfk/YV3AWmd9OOI/AAAAAAAAJ_g/yQszj-87m8ArsxuVYD4vsi5zqY8zWBgHwCLcBGAsYHQ/w400-h400/IMG_6026.JPG)
+![](https://1.bp.blogspot.com/-m1jRR9QCyfk/YV3AWmd9OOI/AAAAAAAAJ_g/yQszj-87m8ArsxuVYD4vsi5zqY8zWBgHwCLcBGAsYHQ/w400-h400/IMG_6026.JPG)
 
   
 
@@ -60,7 +60,7 @@ I like the material of this bra, cuma I don't really prefer clip type like this.
 
 **3. [Push Up Nursing Bra](https://shp.ee/qhhcesb) | RM10**
 
-[![](https://1.bp.blogspot.com/-uXSTKXO5c6s/YV3BGp-ADGI/AAAAAAAAJ_o/ZV2lE_WXvXMHQTW8I3FKC-yOkG2By4BewCLcBGAsYHQ/w400-h400/IMG_6027.JPG)
+![](https://1.bp.blogspot.com/-uXSTKXO5c6s/YV3BGp-ADGI/AAAAAAAAJ_o/ZV2lE_WXvXMHQTW8I3FKC-yOkG2By4BewCLcBGAsYHQ/w400-h400/IMG_6027.JPG)
 
 This bra ada clip and boleh selak ketepi juga. Sponge tak removable. Tapi yang best bra ni dia ada 4 hooks dekat belakang, so extra support. 
 
@@ -72,7 +72,7 @@ This bra ada clip and boleh selak ketepi juga. Sponge tak removable. Tapi yang b
 
   
 
-[![](https://1.bp.blogspot.com/-jV7K68JHe94/YV3Cehtb29I/AAAAAAAAJ_w/M1P6xzKcxQ8n3wgySKbi43u2aGObItkwgCLcBGAsYHQ/w400-h400/IMG_6028.JPG)
+![](https://1.bp.blogspot.com/-jV7K68JHe94/YV3Cehtb29I/AAAAAAAAJ_w/M1P6xzKcxQ8n3wgySKbi43u2aGObItkwgCLcBGAsYHQ/w400-h400/IMG_6028.JPG)
 
 I love the material of this bra, selesa sangat. The sponge is removable and dia jenis selak je. No butang, no clip. 
 
@@ -80,7 +80,7 @@ I love the material of this bra, selesa sangat. The sponge is removable and dia 
 
 **5. [Shapee Classic Nursing Bra](https://shp.ee/j9vheqb) | RM39**
 
-[![](https://1.bp.blogspot.com/-ZWHwPVRXasY/YV3DJMUB9vI/AAAAAAAAJ_4/yTWGeslEzTwmH-YfMlklQ0YN_jRXLwbqACLcBGAsYHQ/w400-h400/IMG_6029.JPG)
+![](https://1.bp.blogspot.com/-ZWHwPVRXasY/YV3DJMUB9vI/AAAAAAAAJ_4/yTWGeslEzTwmH-YfMlklQ0YN_jRXLwbqACLcBGAsYHQ/w400-h400/IMG_6029.JPG)
 
   
 
@@ -94,7 +94,7 @@ Material spandex, seamless, lembut and extra support.
 
   
 
-[![](https://1.bp.blogspot.com/-i_G3Q4AYyto/YV3D8bagnaI/AAAAAAAAKAA/32f9gWh8j1UXmrZgvvXnccCa1CXyP-dHgCLcBGAsYHQ/w400-h400/IMG_6030.JPG)
+![](https://1.bp.blogspot.com/-i_G3Q4AYyto/YV3D8bagnaI/AAAAAAAAKAA/32f9gWh8j1UXmrZgvvXnccCa1CXyP-dHgCLcBGAsYHQ/w400-h400/IMG_6030.JPG)
 
   
 
@@ -112,13 +112,13 @@ Material spandex, seamless, lembut and extra support.
 
   
 
-[![](https://1.bp.blogspot.com/-ee7qNwXLDdE/YV3EeCmdR-I/AAAAAAAAKAI/JRUULL_CwFAquYo1SvaD3CvRdcW0-ZLQwCLcBGAsYHQ/w400-h400/IMG_6031.JPG)
+![](https://1.bp.blogspot.com/-ee7qNwXLDdE/YV3EeCmdR-I/AAAAAAAAKAI/JRUULL_CwFAquYo1SvaD3CvRdcW0-ZLQwCLcBGAsYHQ/w400-h400/IMG_6031.JPG)
 
   
 
 **8. [Seamless Nursing Bra](https://shp.ee/xst7mxb) | RM7.60**
 
-[![](https://1.bp.blogspot.com/-ilUFeswINeo/YV3E9aYo2iI/AAAAAAAAKAQ/9z1jBsShHbcuA6Tip8mO-2QQGZzA_BBfQCLcBGAsYHQ/w400-h400/IMG_6032.JPG)
+![](https://1.bp.blogspot.com/-ilUFeswINeo/YV3E9aYo2iI/AAAAAAAAKAQ/9z1jBsShHbcuA6Tip8mO-2QQGZzA_BBfQCLcBGAsYHQ/w400-h400/IMG_6032.JPG)
 
 This actually one of the best selling nursing bra on Shopee with 150k units sold!
 
@@ -128,7 +128,7 @@ This actually one of the best selling nursing bra on Shopee with 150k units sold
 
 **9. [Holabebe Seamless Nursing Bra](https://shp.ee/976ubxb) | RM39.90**
 
-[![](https://1.bp.blogspot.com/-gy17aSF9eDY/YV3FynTZYNI/AAAAAAAAKAY/hiGI959Y10IGD7AKWBulyL9pHBMZN1NXwCLcBGAsYHQ/w400-h400/IMG_6033.JPG)
+![](https://1.bp.blogspot.com/-gy17aSF9eDY/YV3FynTZYNI/AAAAAAAAKAY/hiGI959Y10IGD7AKWBulyL9pHBMZN1NXwCLcBGAsYHQ/w400-h400/IMG_6033.JPG)
 
   
 
@@ -136,7 +136,7 @@ This actually one of the best selling nursing bra on Shopee with 150k units sold
 
   
 
-[![](https://1.bp.blogspot.com/-jNk_cHK_kRc/YV3GivkZN6I/AAAAAAAAKAg/1DeByRWjpQo1UPY-0r_hdG86-TtTKv3mwCLcBGAsYHQ/w400-h400/IMG_6034.JPG)
+![](https://1.bp.blogspot.com/-jNk_cHK_kRc/YV3GivkZN6I/AAAAAAAAKAg/1DeByRWjpQo1UPY-0r_hdG86-TtTKv3mwCLcBGAsYHQ/w400-h400/IMG_6034.JPG)
 
   
 

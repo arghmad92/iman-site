@@ -12,7 +12,7 @@ Maysaa's first flight experience tapi bukan pergi jauh pun. Pi Kelantan je, tu p
 
   
 
-[![](https://4.bp.blogspot.com/-h-EO3_Ocmcg/Wa4BhslLlSI/AAAAAAAAEn0/vzuDxohGhs4Fg2s7riT6XGKeGzosA807QCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B24%2BAM%2B%25281%2529.jpg)
+![](https://4.bp.blogspot.com/-h-EO3_Ocmcg/Wa4BhslLlSI/AAAAAAAAEn0/vzuDxohGhs4Fg2s7riT6XGKeGzosA807QCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B24%2BAM%2B%25281%2529.jpg)
 
   
 
@@ -47,7 +47,7 @@ Also read: [FIRST IMPRESSION: ERGOBABY ORIGINAL CARRIER](http://imanabdulrahim.
 
   
 
-[![](https://3.bp.blogspot.com/-w7ReJu0Ahac/Wa4Bi51qtnI/AAAAAAAAEoE/B-cwmpVHsJMgaz3XScfPBSN6PR0yD9qBgCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B37%2BAM.jpg)
+![](https://3.bp.blogspot.com/-w7ReJu0Ahac/Wa4Bi51qtnI/AAAAAAAAEoE/B-cwmpVHsJMgaz3XScfPBSN6PR0yD9qBgCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B37%2BAM.jpg)
 
   
 
@@ -69,7 +69,7 @@ Managed to grab some food dekat Family Mart. Makan cheesecake ice cream pagi pag
 
   
 
-[![](https://4.bp.blogspot.com/-z9-SkBSDNf8/Wa4BhjNAKcI/AAAAAAAAEnw/rZt76GC28MsQxwSrM0ZlMi_GsliKMIVSwCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B23%2BAM.jpg)
+![](https://4.bp.blogspot.com/-z9-SkBSDNf8/Wa4BhjNAKcI/AAAAAAAAEnw/rZt76GC28MsQxwSrM0ZlMi_GsliKMIVSwCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B23%2BAM.jpg)
 
   
 
@@ -79,7 +79,7 @@ Of course, duduk atas riba Daddy.
 
   
 
-[![](https://3.bp.blogspot.com/-RIiCUWvBEZE/Wa4Bhs0vjEI/AAAAAAAAEn4/P1Idp1zCz2UMRXPYpSmkgHy5qQrhuE_uACLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B24%2BAM.jpg)
+![](https://3.bp.blogspot.com/-RIiCUWvBEZE/Wa4Bhs0vjEI/AAAAAAAAEn4/P1Idp1zCz2UMRXPYpSmkgHy5qQrhuE_uACLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B24%2BAM.jpg)
 
   
 
@@ -101,7 +101,7 @@ On the way balik ke KL, kitorang seat asing asing. 17D and 19D. Ingat nak tukar 
 
   
 
-[![](https://1.bp.blogspot.com/-FBkDXnZepVQ/Wa4Birv7SEI/AAAAAAAAEn8/l9iLW42-zTsQ33_ttSts-CM1XEbUurhtwCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B36%2BAM.jpg)
+![](https://1.bp.blogspot.com/-FBkDXnZepVQ/Wa4Birv7SEI/AAAAAAAAEn8/l9iLW42-zTsQ33_ttSts-CM1XEbUurhtwCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B36%2BAM.jpg)
 
   
 
@@ -109,7 +109,7 @@ So Daddy je lah riba, I observe dari depan je. Selang dua row.
 
   
 
-[![](https://1.bp.blogspot.com/-zuo0EVsZOWM/Wa4Bi57GLJI/AAAAAAAAEoA/oFzFOTD-xlIsHXN654IwR0p59rCsiPHLQCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B42%2BAM.jpg)
+![](https://1.bp.blogspot.com/-zuo0EVsZOWM/Wa4Bi57GLJI/AAAAAAAAEoA/oFzFOTD-xlIsHXN654IwR0p59rCsiPHLQCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B42%2BAM.jpg)
 
   
 
@@ -117,7 +117,7 @@ The whole journey, dari boarding sampai dah landing, Maysaa tidur. Rasanya lah. 
 
   
 
-[![](https://4.bp.blogspot.com/-h-EO3_Ocmcg/Wa4BhslLlSI/AAAAAAAAEn0/vzuDxohGhs4Fg2s7riT6XGKeGzosA807QCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B24%2BAM%2B%25281%2529.jpg)
+![](https://4.bp.blogspot.com/-h-EO3_Ocmcg/Wa4BhslLlSI/AAAAAAAAEn0/vzuDxohGhs4Fg2s7riT6XGKeGzosA807QCLcBGAs/s640/Photo%2B05-09-2017%252C%2B7%2B49%2B24%2BAM%2B%25281%2529.jpg)
 
   
 

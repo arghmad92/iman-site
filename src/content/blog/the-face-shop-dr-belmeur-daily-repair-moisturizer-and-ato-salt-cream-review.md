@@ -12,7 +12,7 @@ Moisturizer for dry skin? Continue reading!
 
   
 
-[![](https://3.bp.blogspot.com/-W5cOOZcewkk/WldOhKczRKI/AAAAAAAAFx4/2YcVj_7Ux2c-M97gGJcFsFdRcDFWOIKjwCLcBGAs/s640/Photo%2B11-01-2018%252C%2B7%2B21%2B35%2BPM.jpg)
+![](https://3.bp.blogspot.com/-W5cOOZcewkk/WldOhKczRKI/AAAAAAAAFx4/2YcVj_7Ux2c-M97gGJcFsFdRcDFWOIKjwCLcBGAs/s640/Photo%2B11-01-2018%252C%2B7%2B21%2B35%2BPM.jpg)
 
   
   
@@ -112,7 +112,7 @@ Yes
 
   
 
-[![](https://3.bp.blogspot.com/-HOAtjjbY9Ow/WldOg8Ml9pI/AAAAAAAAFx0/u3dZz783N5M4QiRvyB7FRDnJGNAS13-XgCLcBGAs/s640/Photo%2B11-01-2018%252C%2B7%2B22%2B51%2BPM.jpg)
+![](https://3.bp.blogspot.com/-HOAtjjbY9Ow/WldOg8Ml9pI/AAAAAAAAFx0/u3dZz783N5M4QiRvyB7FRDnJGNAS13-XgCLcBGAs/s640/Photo%2B11-01-2018%252C%2B7%2B22%2B51%2BPM.jpg)
 
 Left is the moisturizer, right is the Ato Salt Cream. Ato Salt Cream is thicker than moisturizer.
 

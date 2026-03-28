@@ -12,7 +12,7 @@ Selalu tak rasa kulit kering, kadang kadang luar rasa berminyak tapi dalam rasa 
 
   
 
-[![](https://3.bp.blogspot.com/-50yzHGSvu4Q/W357R9Bcx9I/AAAAAAAAHFw/APEEbgrIY-MWCcNnOIvzv42h_6ukysKVACLcBGAs/s640/IMG_1283.JPG)
+![](https://3.bp.blogspot.com/-50yzHGSvu4Q/W357R9Bcx9I/AAAAAAAAHFw/APEEbgrIY-MWCcNnOIvzv42h_6ukysKVACLcBGAs/s640/IMG_1283.JPG)
 
   
 
@@ -68,7 +68,7 @@ Kalau dia tambah hydration, kulit pun rasa balance, maybe boleh kurangkan minyak
 
   
 
-[![](https://2.bp.blogspot.com/-K2GWfdR4TTk/W3JMbppzIAI/AAAAAAAAHFI/1RF7fTCHNw8OIQI46BUvWtl4ldpRXtvtwCLcBGAs/s640/Screenshot%2B2018-08-14%2Bat%2B11.28.36%2BAM.png)
+![](https://2.bp.blogspot.com/-K2GWfdR4TTk/W3JMbppzIAI/AAAAAAAAHFI/1RF7fTCHNw8OIQI46BUvWtl4ldpRXtvtwCLcBGAs/s640/Screenshot%2B2018-08-14%2Bat%2B11.28.36%2BAM.png)
 
   
 
@@ -102,7 +102,7 @@ Antara faktor dia ialah our skin barrier dah terganggu ataupun environment. Dudu
   
 **1\. Hydrating toners**  
   
-[![](https://1.bp.blogspot.com/-mAlGObefRL4/W357SgwkF1I/AAAAAAAAHF0/9vf5dBs4syIR5hDzLNaW3wHD-qr92dCCQCLcBGAs/s640/IMG_1301.JPG)  
+![](https://1.bp.blogspot.com/-mAlGObefRL4/W357SgwkF1I/AAAAAAAAHF0/9vf5dBs4syIR5hDzLNaW3wHD-qr92dCCQCLcBGAs/s640/IMG_1301.JPG)  
   
   
 
@@ -116,7 +116,7 @@ About hydrating toners: [Hydrating toners that I've tried](http://www.imanabdul
 
 **2\. Hydrating essence/serum**
 
-[![](https://3.bp.blogspot.com/-1WxyrAoIY3g/W357REK-XII/AAAAAAAAHFk/SePrvpJE-qcZNHn0i_D8tcQMjIeDp2vdgCLcBGAs/s640/1535015563326.JPEG)
+![](https://3.bp.blogspot.com/-1WxyrAoIY3g/W357REK-XII/AAAAAAAAHFk/SePrvpJE-qcZNHn0i_D8tcQMjIeDp2vdgCLcBGAs/s640/1535015563326.JPEG)
 
   
 
@@ -124,7 +124,7 @@ About hydrating toners: [Hydrating toners that I've tried](http://www.imanabdul
 
   
 
-[![](https://4.bp.blogspot.com/-to60rZm7HfQ/W357RQym80I/AAAAAAAAHFs/TwE8U4GlvbYYUEWAg10ZLajNusbIODojgCLcBGAs/s640/1535015597523.JPEG)
+![](https://4.bp.blogspot.com/-to60rZm7HfQ/W357RQym80I/AAAAAAAAHFs/TwE8U4GlvbYYUEWAg10ZLajNusbIODojgCLcBGAs/s640/1535015597523.JPEG)
 
   
 
@@ -132,7 +132,7 @@ About hydrating toners: [Hydrating toners that I've tried](http://www.imanabdul
 
   
 
-[![](https://4.bp.blogspot.com/-KPe1yTegVGM/W357RIynjXI/AAAAAAAAHFo/PDC5gX5fJ_Ewi3aAd1n_PL21jHFUDYbdACLcBGAs/s640/1535015623308.JPEG)
+![](https://4.bp.blogspot.com/-KPe1yTegVGM/W357RIynjXI/AAAAAAAAHFo/PDC5gX5fJ_Ewi3aAd1n_PL21jHFUDYbdACLcBGAs/s640/1535015623308.JPEG)
 
   
 

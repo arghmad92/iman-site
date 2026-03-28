@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://1.bp.blogspot.com/-FtezZuTZxSo/XykxQMC9biI/AAAAAAAAJbA/oBYecjoTnvsIBQGYXKl75UAflQbJqm0vgCLcBGAsYHQ/s640/D625BE8D-3AA9-4F30-832F-165294A9E2B8-5225D2A9-6972-48DD-AE59-73CE6392E8B4.JPG)
+![](https://1.bp.blogspot.com/-FtezZuTZxSo/XykxQMC9biI/AAAAAAAAJbA/oBYecjoTnvsIBQGYXKl75UAflQbJqm0vgCLcBGAsYHQ/s640/D625BE8D-3AA9-4F30-832F-165294A9E2B8-5225D2A9-6972-48DD-AE59-73CE6392E8B4.JPG)
 
 Safi Micellar Natural Cleansing Oil Review
 
@@ -34,19 +34,19 @@ You can refer to cosdna's website:
 
   
 
-[![](https://1.bp.blogspot.com/-ROf7UdmQVmk/Xyq8Y4yakqI/AAAAAAAAJbc/GK8iu8RnzxIK2AYRwNmg40Ih8pVTucNVwCLcBGAsYHQ/s640/Screenshot%2B2020-08-05%2Bat%2B10.04.00%2BPM.png)
+![](https://1.bp.blogspot.com/-ROf7UdmQVmk/Xyq8Y4yakqI/AAAAAAAAJbc/GK8iu8RnzxIK2AYRwNmg40Ih8pVTucNVwCLcBGAsYHQ/s640/Screenshot%2B2020-08-05%2Bat%2B10.04.00%2BPM.png)
 
 It contains olive oil, similar to Muji Cleansing Oil which I also love. You can read my review here: [Muji Oil Cleansing Review](https://www.imanabdulrahim.com/2018/02/muji-oil-cleansing-review.html)
 
   
 
-[![](https://1.bp.blogspot.com/-aTT55qCbUY0/XykxQERbP6I/AAAAAAAAJbE/HZab8jMJMF8IEvqi0ZLAiNKIpHR6yE1WACLcBGAsYHQ/s640/EDA9F88E-B90C-41D5-AFCF-80077C605C3C-95F07FDE-92E8-4CBA-95F8-CD0BC5B6E479.JPG)
+![](https://1.bp.blogspot.com/-aTT55qCbUY0/XykxQERbP6I/AAAAAAAAJbE/HZab8jMJMF8IEvqi0ZLAiNKIpHR6yE1WACLcBGAsYHQ/s640/EDA9F88E-B90C-41D5-AFCF-80077C605C3C-95F07FDE-92E8-4CBA-95F8-CD0BC5B6E479.JPG)
 
   
 
   
 
-[![](https://1.bp.blogspot.com/-QNa3mQ8OQ4I/XykxQFpfxcI/AAAAAAAAJbI/2u5nUvL_ZSUPfWFt9xk3qjtcGpVjMfK8ACLcBGAsYHQ/s640/C5F015F1-AB61-410E-AE14-031B06C2B5ED-164A77B5-A37F-4175-8913-C1976FBE8DCB.JPG)
+![](https://1.bp.blogspot.com/-QNa3mQ8OQ4I/XykxQFpfxcI/AAAAAAAAJbI/2u5nUvL_ZSUPfWFt9xk3qjtcGpVjMfK8ACLcBGAsYHQ/s640/C5F015F1-AB61-410E-AE14-031B06C2B5ED-164A77B5-A37F-4175-8913-C1976FBE8DCB.JPG)
 
   
 

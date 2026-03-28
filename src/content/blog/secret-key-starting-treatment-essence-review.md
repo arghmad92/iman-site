@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://1.bp.blogspot.com/-20adVY5vLps/XFXIGpX-9HI/AAAAAAAAIKQ/US-Zln1S9mgkSgv4vfCDIzHLbM2-FQauACLcBGAs/s640/A825F7E9-F1C2-4B62-928D-EDF11E2C8A95.JPG)
+![](https://1.bp.blogspot.com/-20adVY5vLps/XFXIGpX-9HI/AAAAAAAAIKQ/US-Zln1S9mgkSgv4vfCDIzHLbM2-FQauACLcBGAs/s640/A825F7E9-F1C2-4B62-928D-EDF11E2C8A95.JPG)
 
 Secret Key Starting Treatment Essence Review
 
@@ -19,7 +19,7 @@ Secret Key Starting Treatment Essence Review
 
   
 
-[![](https://4.bp.blogspot.com/-uculEPB3SSg/XFXIE-C-FQI/AAAAAAAAIKE/-8Vwur0NyXQhENIJECIX55uEtTa3JwUewCLcBGAs/s640/066C4DC5-4489-4C55-A6CA-C47E44C730C1.JPG)
+![](https://4.bp.blogspot.com/-uculEPB3SSg/XFXIE-C-FQI/AAAAAAAAIKE/-8Vwur0NyXQhENIJECIX55uEtTa3JwUewCLcBGAs/s640/066C4DC5-4489-4C55-A6CA-C47E44C730C1.JPG)
 
   
 
@@ -39,13 +39,13 @@ Also read: [https://www.imanabdulrahim.com/2017/09/missha-first-treatment-essen
 
 **What it claims?**
 
-[![](https://3.bp.blogspot.com/-bofZqj8p4fo/XFXIGNIO8DI/AAAAAAAAIKM/ixU-uFnl5Q4a2in8ZE-94Bt26m-EYp-WwCLcBGAs/s640/2E3E9F47-8D8D-42DD-A5F0-131D35EF8D50.JPG)
+![](https://3.bp.blogspot.com/-bofZqj8p4fo/XFXIGNIO8DI/AAAAAAAAIKM/ixU-uFnl5Q4a2in8ZE-94Bt26m-EYp-WwCLcBGAs/s640/2E3E9F47-8D8D-42DD-A5F0-131D35EF8D50.JPG)
 
   
 
 **Ingredients**
 
-[![](https://3.bp.blogspot.com/-YymXg4ZxGLo/XFXIE9tDbuI/AAAAAAAAIKI/nXgxT8iYLrARE1Cl_7Q50sog9_bsp6b3gCLcBGAs/s640/0B001ECA-4B26-4F20-AB65-6F09B531C4FC.JPG)
+![](https://3.bp.blogspot.com/-YymXg4ZxGLo/XFXIE9tDbuI/AAAAAAAAIKI/nXgxT8iYLrARE1Cl_7Q50sog9_bsp6b3gCLcBGAs/s640/0B001ECA-4B26-4F20-AB65-6F09B531C4FC.JPG)
 
  Essence that maintains moisturizing effect to your skin and revitalizing skin rhythm
 
@@ -73,7 +73,7 @@ No noticeable scent that I noticed.
 
 **Texture**
 
-[![](https://1.bp.blogspot.com/-LlkK0-lkwgk/XFXIEm8BjKI/AAAAAAAAIKA/g40esx4KYecQQbEg8sQzq-KO5o2of8TEQCLcBGAs/s640/2D28B211-2263-44B9-8BF9-90932D25B4F5.JPG)
+![](https://1.bp.blogspot.com/-LlkK0-lkwgk/XFXIEm8BjKI/AAAAAAAAIKA/g40esx4KYecQQbEg8sQzq-KO5o2of8TEQCLcBGAs/s640/2D28B211-2263-44B9-8BF9-90932D25B4F5.JPG)
 
  Very runny, almost like water.
 

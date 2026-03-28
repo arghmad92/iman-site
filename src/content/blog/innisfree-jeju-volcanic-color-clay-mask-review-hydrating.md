@@ -14,7 +14,7 @@ When Innisfree launched this color clay mask, I was very excited. I feel like bu
 
   
 
-[![](https://2.bp.blogspot.com/-e-ImRqszcUM/WY05C7cJ2vI/AAAAAAAAER8/slw1KZRbufsJg2VjQzKLFTh5B3HOnSAzwCLcBGAs/s640/Photo%2B11-08-2017%252C%2B12%2B30%2B18%2BPM.jpg)
+![](https://2.bp.blogspot.com/-e-ImRqszcUM/WY05C7cJ2vI/AAAAAAAAER8/slw1KZRbufsJg2VjQzKLFTh5B3HOnSAzwCLcBGAs/s640/Photo%2B11-08-2017%252C%2B12%2B30%2B18%2BPM.jpg)
 
 Innisfree Jeju Volcanic Color Clay Mask
 
@@ -45,7 +45,7 @@ Availability: Innisfree store
 Availability online: Hermo website  
   
 
-[![](https://2.bp.blogspot.com/-9xkkanpzjag/WY05D1vEO9I/AAAAAAAAESI/A_ITBTeCNgkCbK7M6lh3FTrghChOO_rWwCLcBGAs/s640/Photo%2B11-08-2017%252C%2B12%2B32%2B29%2BPM.jpg)
+![](https://2.bp.blogspot.com/-9xkkanpzjag/WY05D1vEO9I/AAAAAAAAESI/A_ITBTeCNgkCbK7M6lh3FTrghChOO_rWwCLcBGAs/s640/Photo%2B11-08-2017%252C%2B12%2B32%2B29%2BPM.jpg)
 
 Innisfree Jeju Volcanic Color Clay Mask  
 
@@ -81,11 +81,11 @@ Blue (Hydrating): Water-gel clay type which contains Jeju lava and hyaluronic ac
 
   
 
-[![](https://4.bp.blogspot.com/-Hr5-VorU7TM/WY0324mQbaI/AAAAAAAAERw/2u8tV5oWZ1YcqO1mR4mD2Fe-kCngB9xUACLcBGAs/s640/Innisfree-jeju-volcanic-color-clay-mask.jpg)
+![](https://4.bp.blogspot.com/-Hr5-VorU7TM/WY0324mQbaI/AAAAAAAAERw/2u8tV5oWZ1YcqO1mR4mD2Fe-kCngB9xUACLcBGAs/s640/Innisfree-jeju-volcanic-color-clay-mask.jpg)
 
 Innisfree Jeju Volcanic Color Clay Mask
 
-[![](https://1.bp.blogspot.com/-9E_iDkRjnjc/WY05DKJPv1I/AAAAAAAAESA/_uePUc9_AwgHZGZnveRgHAH8YFqgnGRkQCLcBGAs/s640/Photo%2B11-08-2017%252C%2B12%2B31%2B28%2BPM.jpg)
+![](https://1.bp.blogspot.com/-9E_iDkRjnjc/WY05DKJPv1I/AAAAAAAAESA/_uePUc9_AwgHZGZnveRgHAH8YFqgnGRkQCLcBGAs/s640/Photo%2B11-08-2017%252C%2B12%2B31%2B28%2BPM.jpg)
 
 Innisfree Jeju Volcanic Color Clay Mask
 
@@ -105,7 +105,7 @@ It's literally blue! The texture is just like the normal clay mask, less drying.
 Very refreshing scent, I LOVE.  
   
 
-[![](https://1.bp.blogspot.com/-2gcNV1mWXZs/WY05DIHK-GI/AAAAAAAAESE/I8WsJmKeHmk59PkCY2nREg41gqHoRA7AACLcBGAs/s640/Photo%2B11-08-2017%252C%2B12%2B32%2B00%2BPM.jpg)
+![](https://1.bp.blogspot.com/-2gcNV1mWXZs/WY05DIHK-GI/AAAAAAAAESE/I8WsJmKeHmk59PkCY2nREg41gqHoRA7AACLcBGAs/s640/Photo%2B11-08-2017%252C%2B12%2B32%2B00%2BPM.jpg)
 
 Innisfree Jeju Volcanic Color Clay Mask
 

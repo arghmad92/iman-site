@@ -74,7 +74,7 @@ The whole family ada! Biasanya balik Terengganu, kitorang duduk rumah Tok Marwan
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0pF7TSXVZywrv2Tx68P7E_EgZHyRPHPvUKC2WXpBnGsqL_nxczVrBUbpk5iug2fU0rdjPxD5Yt1SJx1TJVCngq2zzHn8Yj7k4SDtHmRUAGOPdj4r6vssVajOEhT_hIlaHaIWm7OtrgmY/s640/Photo+Jul+17%252C+08+47+22.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0pF7TSXVZywrv2Tx68P7E_EgZHyRPHPvUKC2WXpBnGsqL_nxczVrBUbpk5iug2fU0rdjPxD5Yt1SJx1TJVCngq2zzHn8Yj7k4SDtHmRUAGOPdj4r6vssVajOEhT_hIlaHaIWm7OtrgmY/s640/Photo+Jul+17%252C+08+47+22.jpg)
 
 Ni pantai belakang dekat belakang rumah, seronok jalan kaki je pergi dengan cousins Marwan. Semua ni kira pangkat pakcik makcik Maysaa.
 
@@ -112,7 +112,7 @@ Raya kedua, tema hijau pulak, sebab nak sama dengan Maysaa. Baju Maysaa ni Nenek
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5f81HSpCWm_KwKpEijm4b0gIAWyEDKHpoZ0Mb32HRPaJ8ibeN3MNnQNaPSsDs7Gf8d_kmXXMMibHBnojgBZnlBK-TKtM2k8p7-wz0s2PJmZZm-pTDCKUapAFZIp76hONpLcp9JAJEbIk/s640/Photo+Jul+17%252C+08+47+22+%25281%2529.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5f81HSpCWm_KwKpEijm4b0gIAWyEDKHpoZ0Mb32HRPaJ8ibeN3MNnQNaPSsDs7Gf8d_kmXXMMibHBnojgBZnlBK-TKtM2k8p7-wz0s2PJmZZm-pTDCKUapAFZIp76hONpLcp9JAJEbIk/s640/Photo+Jul+17%252C+08+47+22+%25281%2529.jpg)
 
 Ni dekat rumah Paksu Maksu Marwan, seronok sebab ramai budak budak. Ramai yang boleh tolong jagakan Maysaa haha.
 
@@ -157,7 +157,7 @@ Malam ke-empat raya barulah A&W kosong sikit tapi still ramai orang beratur, but
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfDThl1sq3PqdhATomnk5khUCow_IMfdaKrz3F1mGWpkcMRpZyYtAsaIMCGLvJeviX8f3nMymYVT2Chr52EEQ1qv8lQq9QGTVT1YFAdYAGrpEbgxBqeAmQlCL7vm9CoM31j_zN7JpVG90/s400/Photo+Jun+28%252C+21+40+40.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfDThl1sq3PqdhATomnk5khUCow_IMfdaKrz3F1mGWpkcMRpZyYtAsaIMCGLvJeviX8f3nMymYVT2Chr52EEQ1qv8lQq9QGTVT1YFAdYAGrpEbgxBqeAmQlCL7vm9CoM31j_zN7JpVG90/s400/Photo+Jun+28%252C+21+40+40.png)
 
 From instastory. Tapi tak tinggal lama pun. 1-2 jam je.
 

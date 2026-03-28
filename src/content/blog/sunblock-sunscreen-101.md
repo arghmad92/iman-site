@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ZxovSCWmo-BK3XggEaUUfy74-QII5ZBjqHcfuUiLTGNWxpOEs3HuOE83Ruajf0BpaGU7tmoVdTiV4lnkpOWh-inUqHd4qDYOtfd9WYF9RkeYtECRjtSjIAyyS79iaGXyHsoC4p44-zQ/s640/Screen+Shot+2017-08-04+at+10.22.48+AM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ZxovSCWmo-BK3XggEaUUfy74-QII5ZBjqHcfuUiLTGNWxpOEs3HuOE83Ruajf0BpaGU7tmoVdTiV4lnkpOWh-inUqHd4qDYOtfd9WYF9RkeYtECRjtSjIAyyS79iaGXyHsoC4p44-zQ/s640/Screen+Shot+2017-08-04+at+10.22.48+AM.png)
 
 I'm gonna share about why we NEED to wear sunscreen, the differences, and macam mana nak pilih sunscreen yang best untuk daily use.
 
@@ -22,7 +22,7 @@ I ada buat poll dekat twitter, about sunscreen.
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVEqHKYD35Jy_dut5XcKuaO0Yv5EkzIIHo4JabI4S4lyuAQuw8URvPgFxmUDsI5Yo5pH9hrmBiqPbqSVHDfOk87JeJZfI9x3yYlnqa_H_ioMZ3i_-rD2nTwBzNdJfCZRkOLC-rYPaAKJg/s640/Screen+Shot+2017-08-06+at+5.01.05+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVEqHKYD35Jy_dut5XcKuaO0Yv5EkzIIHo4JabI4S4lyuAQuw8URvPgFxmUDsI5Yo5pH9hrmBiqPbqSVHDfOk87JeJZfI9x3yYlnqa_H_ioMZ3i_-rD2nTwBzNdJfCZRkOLC-rYPaAKJg/s640/Screen+Shot+2017-08-06+at+5.01.05+PM.png)
 
 Ada 6905 orang yang vote, (okay tak boleh la nak cakap result ni mewakili semua orang), and tak terkejut pun, 42% tak tahu yang kita wajib pakai sunscreen/sunblock SETIAP HARI.
 
@@ -65,7 +65,7 @@ Tapi kalau kulit sensitive, atau acne prone, better pakai physical sunscreen seb
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-YzwTwVL3n8oP4pFJhGHcWgiVE6pi86mmhj-bcADdinVGoHTjMzy1KUWePceiueR5M0tTBV9JXFuYfrffty453ot50VSglnAX535UFhmpROG0cNRuiyBedPehcDPFinhGbzYoHe9UCds/s640/Screen+Shot+2017-08-06+at+5.09.04+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-YzwTwVL3n8oP4pFJhGHcWgiVE6pi86mmhj-bcADdinVGoHTjMzy1KUWePceiueR5M0tTBV9JXFuYfrffty453ot50VSglnAX535UFhmpROG0cNRuiyBedPehcDPFinhGbzYoHe9UCds/s640/Screen+Shot+2017-08-06+at+5.09.04+PM.png)
 
   
 UV**A**: **A**ging - Kena cari PA+++ supaya kulit tak aging (nampak tua, berkedut, pigmentation)  
@@ -77,7 +77,7 @@ Ni contoh pigmentation: 
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukgPstA6pvJfHll-t2ctazTIglqDJFz81YbZqpWpCEuo7mpAGvcTVOgcru0cdNxbia-DT2oeFMLRgl_iHRRA2B5EGG_T8iKCnxzDJ8Yp_XyC9eCi2DzpCEkLFy7T283exYzlmltVXmf8/s640/Screen+Shot+2017-08-06+at+5.28.48+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukgPstA6pvJfHll-t2ctazTIglqDJFz81YbZqpWpCEuo7mpAGvcTVOgcru0cdNxbia-DT2oeFMLRgl_iHRRA2B5EGG_T8iKCnxzDJ8Yp_XyC9eCi2DzpCEkLFy7T283exYzlmltVXmf8/s640/Screen+Shot+2017-08-06+at+5.28.48+PM.png)
 
 Maybe masa muda, tak nampak sangat. Tapi tunggu tua sikit nanti.
 
@@ -87,7 +87,7 @@ Beza suntan dengan sunburn. Sun tan tu kulit jadi gelap. Sun burn, kulit jadi me
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi_CknBx90BSRgf_R_dPbdcjEw3BSRiL0vNnOqXbjrpWjtJazPLAB3tOPjKcXbWjuSkQnKCHh1H0zVqxUTCq-6UbV8uXRCpqM7a0UdP_UgrMG5QcMx3X-SR2m9EbxwuRYq5mIaYoDlHm4/s640/Screen+Shot+2017-08-06+at+5.31.12+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi_CknBx90BSRgf_R_dPbdcjEw3BSRiL0vNnOqXbjrpWjtJazPLAB3tOPjKcXbWjuSkQnKCHh1H0zVqxUTCq-6UbV8uXRCpqM7a0UdP_UgrMG5QcMx3X-SR2m9EbxwuRYq5mIaYoDlHm4/s640/Screen+Shot+2017-08-06+at+5.31.12+PM.png)
 
   
 
@@ -103,7 +103,7 @@ Seeloknya 1/4 tsp atau dua jari.
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVuMiLguoBfXLSwHIwPFHn5WTOM_q4LegsXI-YNb6PVey_AvuQDyD0k6ljWLFcoZAMVVQA_90KceavqH-6-Xv9bgeE48tdMGqgi8DPjE4770qTZ0e0Aj2flKiejgkxoXuI_38daYKqLAg/s640/Screen+Shot+2017-08-06+at+5.32.31+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVuMiLguoBfXLSwHIwPFHn5WTOM_q4LegsXI-YNb6PVey_AvuQDyD0k6ljWLFcoZAMVVQA_90KceavqH-6-Xv9bgeE48tdMGqgi8DPjE4770qTZ0e0Aj2flKiejgkxoXuI_38daYKqLAg/s640/Screen+Shot+2017-08-06+at+5.32.31+PM.png)
 
 Banyak ni. Jangan pakai sikit sikit, nak jimat ke apa. Pakai banyak ni ok. Kalau pakai sikit, nanti tak dapat maximum protection. Kadang kadang ada orang cakap, dia dah pakai sunscreen, tapi kenapa burn lagi? Jawapan dia, maybe dia pakai sikit sangat, so tak dapat maximum protection.
 
@@ -125,7 +125,7 @@ Pilih yang broad spectrum, maksudnya perlindungan daripada UVA & UVB. Macam mana
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvbMmdOPi1sWN9NRhwj70a3H09YnsiyttBRtCFexIg85qr2B7G8yS5aH5QXERuB4Dep_2TewrCp3NKufnSB8bKfhwPDop4i-511-iT9oUKMCilU0_-Q_aUh5ImImfKe9SqvSn-KJpBrw/s640/Screen+Shot+2017-08-06+at+5.39.25+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvbMmdOPi1sWN9NRhwj70a3H09YnsiyttBRtCFexIg85qr2B7G8yS5aH5QXERuB4Dep_2TewrCp3NKufnSB8bKfhwPDop4i-511-iT9oUKMCilU0_-Q_aUh5ImImfKe9SqvSn-KJpBrw/s640/Screen+Shot+2017-08-06+at+5.39.25+PM.png)
 
 Contohnya yang ni, dia ada tulis SPF50 dan PA++++ so dia dah dikira broad spectrum. Settle.
 
@@ -139,7 +139,7 @@ Yang ni semua from drugstore je, either Watsons or Guardian
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKebVDWlsNXgzfsfTZeqSzZRbe-Lbt5xUb9_BUGRRbQnx426_OAW2myZuv6wOmasWnDdUiGGmQazyx2uAzfupcORH0tEnhHo8imbssDz6pDV9dds3-facjepfO9d7T798O14sdn6fNiLI/s640/Screen+Shot+2017-08-06+at+5.54.40+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKebVDWlsNXgzfsfTZeqSzZRbe-Lbt5xUb9_BUGRRbQnx426_OAW2myZuv6wOmasWnDdUiGGmQazyx2uAzfupcORH0tEnhHo8imbssDz6pDV9dds3-facjepfO9d7T798O14sdn6fNiLI/s640/Screen+Shot+2017-08-06+at+5.54.40+PM.png)
 
   
 

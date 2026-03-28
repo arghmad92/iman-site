@@ -12,7 +12,7 @@ I've been eye-ing on Wardah skincare for quite a long time tapi tak terbeli beli
 
   
 
-[![](https://1.bp.blogspot.com/-B_Go0n3g8oM/WsUizotB_qI/AAAAAAAAGMA/1cBh1NK-QO0vpa5owiF9tI_6v5SeRBQ5ACLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B38%2B14%2BAM.jpg)
+![](https://1.bp.blogspot.com/-B_Go0n3g8oM/WsUizotB_qI/AAAAAAAAGMA/1cBh1NK-QO0vpa5owiF9tI_6v5SeRBQ5ACLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B38%2B14%2BAM.jpg)
 
   
   
@@ -24,7 +24,7 @@ I bought this sebenarnya masa emergency, I tengah travel and lost my sunscreen s
 
   
 
-[![](https://4.bp.blogspot.com/-R0nqnXpqGVA/WsUizphYtfI/AAAAAAAAGME/6Q7CA55sQI0Y5eWnjbjWy5C48hVP2253ACLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B38%2B19%2BAM.jpg)
+![](https://4.bp.blogspot.com/-R0nqnXpqGVA/WsUizphYtfI/AAAAAAAAGME/6Q7CA55sQI0Y5eWnjbjWy5C48hVP2253ACLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B38%2B19%2BAM.jpg)
 
   
 
@@ -49,11 +49,11 @@ A floral chemical-ish sunscreen scent... Which I don't really enjoy
 
   
 
-[![](https://4.bp.blogspot.com/-_adxXOHaxVE/WsUizZxH1YI/AAAAAAAAGL8/ulGYkWNSAZEJn4KItxiHNRKQAvR7Tk2ngCLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B38%2B43%2BAM.jpg)
+![](https://4.bp.blogspot.com/-_adxXOHaxVE/WsUizZxH1YI/AAAAAAAAGL8/ulGYkWNSAZEJn4KItxiHNRKQAvR7Tk2ngCLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B38%2B43%2BAM.jpg)
 
   
 
-[![](https://4.bp.blogspot.com/-1g-XYWS5XAU/WsUi07Td2BI/AAAAAAAAGMI/fiMep0oV8BkC4QbBufdTrZf1KapUldBqQCLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B39%2B04%2BAM.jpg)
+![](https://4.bp.blogspot.com/-1g-XYWS5XAU/WsUi07Td2BI/AAAAAAAAGMI/fiMep0oV8BkC4QbBufdTrZf1KapUldBqQCLcBGAs/s640/Photo%2B05-04-2018%252C%2B2%2B39%2B04%2BAM.jpg)
 
   
 
@@ -75,7 +75,7 @@ So anyways, I tried to check at Cosdna, so this is the result:
 
   
 
-[![](https://4.bp.blogspot.com/-R-Kwp7HG8F4/WsUmT3b5CnI/AAAAAAAAGMc/jivenmNFRtMlpC2EzwoG-gubIlShyn3uQCLcBGAs/s640/Screen%2BShot%2B2018-04-05%2Bat%2B3.23.15%2BAM.png)
+![](https://4.bp.blogspot.com/-R-Kwp7HG8F4/WsUmT3b5CnI/AAAAAAAAGMc/jivenmNFRtMlpC2EzwoG-gubIlShyn3uQCLcBGAs/s640/Screen%2BShot%2B2018-04-05%2Bat%2B3.23.15%2BAM.png)
 
   
 

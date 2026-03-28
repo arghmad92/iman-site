@@ -12,7 +12,7 @@ Klairs Freshly Juiced Vitamin Drop is one of my wishlist for a very very very lo
 
   
 
-[![](https://4.bp.blogspot.com/-2yrJ-gwXpvc/Wjcd37RKUBI/AAAAAAAAFlE/O5qfhb36K6k88_D4FI8QF-LHMdyKc1hXACLcBGAs/s640/Photo%2B13-12-2017%252C%2B3%2B03%2B07%2BPM.jpg)
+![](https://4.bp.blogspot.com/-2yrJ-gwXpvc/Wjcd37RKUBI/AAAAAAAAFlE/O5qfhb36K6k88_D4FI8QF-LHMdyKc1hXACLcBGAs/s640/Photo%2B13-12-2017%252C%2B3%2B03%2B07%2BPM.jpg)
 
   
 
@@ -81,7 +81,7 @@ That is why, I apply this after cleanse and before toner. However, ada yang caka
 
   
 
-[![](https://1.bp.blogspot.com/-6iN8UmP1JzE/Wjcd29MH1PI/AAAAAAAAFlA/J-0qrp0DDNQbi_AHbuDTiHC4Z-MDgCpAQCLcBGAs/s640/Photo%2B13-12-2017%252C%2B3%2B02%2B07%2BPM.jpg)
+![](https://1.bp.blogspot.com/-6iN8UmP1JzE/Wjcd29MH1PI/AAAAAAAAFlA/J-0qrp0DDNQbi_AHbuDTiHC4Z-MDgCpAQCLcBGAs/s640/Photo%2B13-12-2017%252C%2B3%2B02%2B07%2BPM.jpg)
 
   
 
@@ -118,7 +118,7 @@ It is in a 35 mL transparent streamlined packaging with a large dropper bottle. 
   
 (**Oxidation**: Vitamin C serum tu bertukar warna jadi dark yellow or orange-ish. Tak bahaya kalau guna, tapi mungkin dah tak berkesan untuk kulit)  
   
-[![](https://1.bp.blogspot.com/-X3Rv0mf3LHU/Wjcd271dozI/AAAAAAAAFk8/jy4Jmeel3FskPmG5iqlnl8xjfmBKmejBACLcBGAs/s640/Photo%2B13-12-2017%252C%2B3%2B01%2B03%2BPM.jpg)  
+![](https://1.bp.blogspot.com/-X3Rv0mf3LHU/Wjcd271dozI/AAAAAAAAFk8/jy4Jmeel3FskPmG5iqlnl8xjfmBKmejBACLcBGAs/s640/Photo%2B13-12-2017%252C%2B3%2B01%2B03%2BPM.jpg)  
   
 
 **The colour/consistency/texture:**   
@@ -137,7 +137,7 @@ I pernah tweet some ingredients yang bagus untuk kulit. One of them is Vitamin C
 
   
 
-[![](https://4.bp.blogspot.com/-r435IXazQT0/WjhxB8VVDNI/AAAAAAAAFlg/DgJonz33dBoLHdIaw35KIOENzeAZqeAjgCLcBGAs/s640/Screen%2BShot%2B2017-12-19%2Bat%2B9.52.56%2BAM.png)
+![](https://4.bp.blogspot.com/-r435IXazQT0/WjhxB8VVDNI/AAAAAAAAFlg/DgJonz33dBoLHdIaw35KIOENzeAZqeAjgCLcBGAs/s640/Screen%2BShot%2B2017-12-19%2Bat%2B9.52.56%2BAM.png)
 
   
 
@@ -155,7 +155,7 @@ Skin concern: Brightening, blemishes
 
   
 
-[![](https://3.bp.blogspot.com/-jyQLA_SMJ9E/Wjcd2kWqNFI/AAAAAAAAFk4/KA5tqE2u69gh3A_XddSh2BHu85QWC_bgwCLcBGAs/s640/Photo%2B13-12-2017%252C%2B3%2B01%2B26%2BPM.jpg)
+![](https://3.bp.blogspot.com/-jyQLA_SMJ9E/Wjcd2kWqNFI/AAAAAAAAFk4/KA5tqE2u69gh3A_XddSh2BHu85QWC_bgwCLcBGAs/s640/Photo%2B13-12-2017%252C%2B3%2B01%2B26%2BPM.jpg)
 
   
 
@@ -175,7 +175,7 @@ I've been using this for 6 weeks already, and I can see the improvement on my sk
 
   
 
-[![](https://2.bp.blogspot.com/-e0VDEMOTLNg/WjhtmiMZzFI/AAAAAAAAFlU/6XTkicQqBkIAcmXkvYQ7_lybz8ObM9IcQCLcBGAs/s640/Photo%2B09-12-2017%252C%2B2%2B51%2B31%2BPM.jpg)
+![](https://2.bp.blogspot.com/-e0VDEMOTLNg/WjhtmiMZzFI/AAAAAAAAFlU/6XTkicQqBkIAcmXkvYQ7_lybz8ObM9IcQCLcBGAs/s640/Photo%2B09-12-2017%252C%2B2%2B51%2B31%2BPM.jpg)
 
   
 

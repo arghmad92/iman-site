@@ -14,7 +14,7 @@ Sharing my thoughts on Maybelline The Powder Mattes Lipstick (Touch of Nude, Alm
 
   
 
-[![](https://1.bp.blogspot.com/-xQIhnkYGSMM/WxpHf4T7nuI/AAAAAAAAGmE/DWmhOgdPmJEQMjM0QdtVXWlwKNRSaggMQCLcBGAs/s640/Photo%2B07-06-2018%252C%2B11%2B13%2B15%2BPM.jpg)
+![](https://1.bp.blogspot.com/-xQIhnkYGSMM/WxpHf4T7nuI/AAAAAAAAGmE/DWmhOgdPmJEQMjM0QdtVXWlwKNRSaggMQCLcBGAs/s640/Photo%2B07-06-2018%252C%2B11%2B13%2B15%2BPM.jpg)
 
   
   
@@ -36,7 +36,7 @@ A normal bullet lipstick with plastic brown cap. Yang sayangnya, plastic wrappin
 
   
 
-[![](https://3.bp.blogspot.com/-qsn5mamamE0/WxpHf5cYeTI/AAAAAAAAGmA/C5bO2HCK6IYKF2_9yQyDpyr-2CmtC9WBgCLcBGAs/s640/Photo%2B07-06-2018%252C%2B11%2B13%2B25%2BPM.jpg)
+![](https://3.bp.blogspot.com/-qsn5mamamE0/WxpHf5cYeTI/AAAAAAAAGmA/C5bO2HCK6IYKF2_9yQyDpyr-2CmtC9WBgCLcBGAs/s640/Photo%2B07-06-2018%252C%2B11%2B13%2B25%2BPM.jpg)
 
   
 
@@ -60,7 +60,7 @@ I have Touch of Nude, Almond Pink and Toasted Brown. 
 
   
 
-[![](https://2.bp.blogspot.com/-8qob5E1Pr9U/WxpHgLBX68I/AAAAAAAAGmI/wr7b0pHUx4A-_5mfps3MxkqEFW3o1DKsQCLcBGAs/s640/Photo%2B08-06-2018%252C%2B3%2B38%2B15%2BPM.jpg)
+![](https://2.bp.blogspot.com/-8qob5E1Pr9U/WxpHgLBX68I/AAAAAAAAGmI/wr7b0pHUx4A-_5mfps3MxkqEFW3o1DKsQCLcBGAs/s640/Photo%2B08-06-2018%252C%2B3%2B38%2B15%2BPM.jpg)
 
   
 

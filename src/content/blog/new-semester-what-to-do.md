@@ -12,7 +12,7 @@ Semester baru, semangat baru lah kan? So let me share what you need to do!
 
   
 
-[![](https://4.bp.blogspot.com/-wb9JwEcB9kw/WbdCc6eSdiI/AAAAAAAAEts/RBEjIXdW5cUO2eAuWGtvFBbE2HBYXAG0wCLcBGAs/s640/Photo%2BFeb%2B06%252C%2B17%2B00%2B38.jpg)
+![](https://4.bp.blogspot.com/-wb9JwEcB9kw/WbdCc6eSdiI/AAAAAAAAEts/RBEjIXdW5cUO2eAuWGtvFBbE2HBYXAG0wCLcBGAs/s640/Photo%2BFeb%2B06%252C%2B17%2B00%2B38.jpg)
 
 "The beginning is always today"
 

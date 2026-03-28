@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![Farm In The City, Seri Kembangan
+![Farm In The City, Seri Kembangan
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJdwHvoJBxo-HWEek3BqkjzU-iq6VtmPJHCgSxSvJ61m9gxMZwEq_ORRCss4GON59C_PCAYTjw6Aige2Hx7Qn11Ah4QCKsXF6GwbbTFnn9v37lOPMa4MX77cPGbE5H2C4cfasvnOTRVk_h/s1600/IMG_1357.JPG)  
 

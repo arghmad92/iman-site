@@ -16,7 +16,7 @@ Also read: [OUR FIRST MRT RIDE TO IKEA CHERAS!](http://imanabdulrahim.blogspot.
 
   
 
-[![](https://4.bp.blogspot.com/-GAe4naTWK2Q/WZpnsZvqXGI/AAAAAAAAEbg/GNL4D7PiU50ISv6ypah2zwyXRxzYlj9hACLcBGAs/s640/Photo%2B16-08-2017%252C%2B8%2B53%2B39%2BPM.jpg)
+![](https://4.bp.blogspot.com/-GAe4naTWK2Q/WZpnsZvqXGI/AAAAAAAAEbg/GNL4D7PiU50ISv6ypah2zwyXRxzYlj9hACLcBGAs/s640/Photo%2B16-08-2017%252C%2B8%2B53%2B39%2BPM.jpg)
 
   
 
@@ -35,7 +35,7 @@ I've been here twice, with my 6 months old baby, just the two of us and I really
 
   
 
-[![](https://4.bp.blogspot.com/-BWl4HH_-bBs/WZpnrC6Kc6I/AAAAAAAAEbY/Cd_mnLerys8b2hqu8jY9vo-FmF1MPD7RACLcBGAs/s640/Photo%2B16-08-2017%252C%2B3%2B54%2B35%2BPM.jpg)
+![](https://4.bp.blogspot.com/-BWl4HH_-bBs/WZpnrC6Kc6I/AAAAAAAAEbY/Cd_mnLerys8b2hqu8jY9vo-FmF1MPD7RACLcBGAs/s640/Photo%2B16-08-2017%252C%2B3%2B54%2B35%2BPM.jpg)
 
   
 
@@ -61,7 +61,7 @@ Since I always go there using a baby carrier, Maysaa sekarang dah berat so I dec
 
   
 
-[![](https://1.bp.blogspot.com/-N3yzckH5BZQ/WZpnrMxwMtI/AAAAAAAAEbc/5SmLjF2kycc6OdhGzc4CMvNVkYJXR_RJACLcBGAs/s640/Photo%2B16-08-2017%252C%2B3%2B03%2B48%2BPM.jpg)
+![](https://1.bp.blogspot.com/-N3yzckH5BZQ/WZpnrMxwMtI/AAAAAAAAEbc/5SmLjF2kycc6OdhGzc4CMvNVkYJXR_RJACLcBGAs/s640/Photo%2B16-08-2017%252C%2B3%2B03%2B48%2BPM.jpg)
 
   
 
@@ -81,13 +81,13 @@ Untuk pinjam, just bagi lesen je. Tak kena bayar. Free.
 
   
 
-[![](https://2.bp.blogspot.com/-rW78eA0f9p0/WZpnrOZvGbI/AAAAAAAAEbU/sQuDWeaJFWcPES-j3qqWQ_jvyhPG4EdkgCLcBGAs/s640/Photo%2B16-08-2017%252C%2B3%2B57%2B35%2BPM.jpg)
+![](https://2.bp.blogspot.com/-rW78eA0f9p0/WZpnrOZvGbI/AAAAAAAAEbU/sQuDWeaJFWcPES-j3qqWQ_jvyhPG4EdkgCLcBGAs/s640/Photo%2B16-08-2017%252C%2B3%2B57%2B35%2BPM.jpg)
 
   
 
   
 
-[![](https://3.bp.blogspot.com/-QepfXddkWm4/WZpmeKoxuUI/AAAAAAAAEbA/Yedsi-MzDrgJjpG1RONJdKIurshca4G8ACLcBGAs/s640/IMG_0400.JPG)
+![](https://3.bp.blogspot.com/-QepfXddkWm4/WZpmeKoxuUI/AAAAAAAAEbA/Yedsi-MzDrgJjpG1RONJdKIurshca4G8ACLcBGAs/s640/IMG_0400.JPG)
 
  There is only one sofa to sit and feed your baby. Tapi ok la, selesa. Tak macam dekat Isetan The Gardens.
 
@@ -99,13 +99,13 @@ Read also: [BABY ROOM ISETAN THE GARDENS MID VALLEY](http://imanabdulrahim.blog
 
   
 
-[![](https://3.bp.blogspot.com/-b27PkrRiQ2k/WZpmeP4KQdI/AAAAAAAAEbI/9XFVj3mq3uAJcX4waCFMigo1z1l27LVXQCLcBGAs/s640/IMG_0399.JPG)
+![](https://3.bp.blogspot.com/-b27PkrRiQ2k/WZpmeP4KQdI/AAAAAAAAEbI/9XFVj3mq3uAJcX4waCFMigo1z1l27LVXQCLcBGAs/s640/IMG_0399.JPG)
 
   
 
   
 
-[![](https://1.bp.blogspot.com/-ruNfw3kpxuQ/WZpmeNYgOxI/AAAAAAAAEbE/JA1MB6ABzNkitIknJBCpUvcCXwIY6-KHQCLcBGAs/s640/IMG_0402.JPG)
+![](https://1.bp.blogspot.com/-ruNfw3kpxuQ/WZpmeNYgOxI/AAAAAAAAEbE/JA1MB6ABzNkitIknJBCpUvcCXwIY6-KHQCLcBGAs/s640/IMG_0402.JPG)
 
   
 
@@ -139,7 +139,7 @@ Lagipun, almost semua malls ada these kind of services (stroller etc) so there's
 
   
 
-[![](https://4.bp.blogspot.com/-tssINGD9S7c/WZpntFzPnYI/AAAAAAAAEbo/9fr7xAJYo2gwvrCDnbFsKkSMCfWNQC0NQCLcBGAs/s640/Photo%2B21-08-2017%252C%2B12%2B54%2B09%2BPM.jpg)
+![](https://4.bp.blogspot.com/-tssINGD9S7c/WZpntFzPnYI/AAAAAAAAEbo/9fr7xAJYo2gwvrCDnbFsKkSMCfWNQC0NQCLcBGAs/s640/Photo%2B21-08-2017%252C%2B12%2B54%2B09%2BPM.jpg)
 
 Last week's lepak lepak session with my girls <3
 

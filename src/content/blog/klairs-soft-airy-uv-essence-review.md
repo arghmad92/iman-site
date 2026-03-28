@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_R5XklVQSKQ8RKfHrLlzu7DBsKTII97NIt1vz6ZiJhI_U8R3EOoCZ1x57jQKfF2weAdS477uWtjwcdvdQcr5IOW-wc0fOPV-1qbcncvBNmtC2GN6TwwfRF_epRkrS9V6JPtPcbp1pu0m/s640/1F7BFB02-363D-45F9-892F-BE53FE0F58DE.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_R5XklVQSKQ8RKfHrLlzu7DBsKTII97NIt1vz6ZiJhI_U8R3EOoCZ1x57jQKfF2weAdS477uWtjwcdvdQcr5IOW-wc0fOPV-1qbcncvBNmtC2GN6TwwfRF_epRkrS9V6JPtPcbp1pu0m/s640/1F7BFB02-363D-45F9-892F-BE53FE0F58DE.jpg)
 
  Sharing my thoughts on Klairs Soft Airy UV Essence Review.
 
@@ -27,7 +27,7 @@ Based on wishtrend's website, it is for all skin types, low irritant daily sun e
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe6c7keKB2b2Wkaq_lmVa37ulwFKN8PO4rG-SZLsHxzo4oLWE3SrjtFOUXfbxniam25iZz0mmcWyInrBCU88yMzzm3kwbdFNr11w3kizK42QeSOuZ7QWngQuBzEjz9DWNimUDmQcEdGlrM/s640/EDD3096C-D8D1-4CF9-89A6-6ED988B32560.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe6c7keKB2b2Wkaq_lmVa37ulwFKN8PO4rG-SZLsHxzo4oLWE3SrjtFOUXfbxniam25iZz0mmcWyInrBCU88yMzzm3kwbdFNr11w3kizK42QeSOuZ7QWngQuBzEjz9DWNimUDmQcEdGlrM/s640/EDD3096C-D8D1-4CF9-89A6-6ED988B32560.jpg)
 
 **  
 Full Ingredients**
@@ -65,7 +65,7 @@ Apply liberally 15 minutes before sun exposure. Reapply every 3 hours when expos
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicf8qUXn_n1n8WNjL8eEBsyFRnpl4Dt_C1cUzfQybLBtXD2fse0ZWYUMgP8v8H3ahw3mPPJN-3iylkAqT-s8dlT-f_lYlkouvjzMkDcZ9JzBwca8ijpzxqp1nG2yYM-SUqhInq_m4uoNQN/s640/45703C6D-30C6-423D-9362-46FDB5FF5CF0.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicf8qUXn_n1n8WNjL8eEBsyFRnpl4Dt_C1cUzfQybLBtXD2fse0ZWYUMgP8v8H3ahw3mPPJN-3iylkAqT-s8dlT-f_lYlkouvjzMkDcZ9JzBwca8ijpzxqp1nG2yYM-SUqhInq_m4uoNQN/s640/45703C6D-30C6-423D-9362-46FDB5FF5CF0.jpg)
 
 It comes in a 80ml white plastic tube with a grey metallic screwable cap. I always love Klairs packaging because it is so simple and straight forward.
 
@@ -79,11 +79,11 @@ A very mild citrus scent.
 
 **Texture and formula**
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tYkX8ate1s1AjNNSMRdtHYUsUZSifC_8Xe_an7ApY2uv6s_7RGq0T-8pfjfamk5K2bwAvEa6yYJL_55GcGWUkjROxOLFpx63NqVxOBWgbj_68NHLifzg0hERar0cWskAaY_mIzEwCr14/s640/3355F5E4-0AE9-49AA-AEA8-3FC9F3204D72.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tYkX8ate1s1AjNNSMRdtHYUsUZSifC_8Xe_an7ApY2uv6s_7RGq0T-8pfjfamk5K2bwAvEa6yYJL_55GcGWUkjROxOLFpx63NqVxOBWgbj_68NHLifzg0hERar0cWskAaY_mIzEwCr14/s640/3355F5E4-0AE9-49AA-AEA8-3FC9F3204D72.jpg)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7_c1dHySoIwLdzCaAGNv0fTTC42WfXIOTBTywVyefCPfIUM7TU69AsuxUkUyCIiiF5LgRB_fKXa_9uzQw35x3gbV1iEZ_S9BTC8PxB-wTxGZ8yyY8llIK2qI2KyMiwUG3zab2o1CsTZqd/s640/CE10C365-50F6-4D01-8F1D-FE15B3D1DCC8.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7_c1dHySoIwLdzCaAGNv0fTTC42WfXIOTBTywVyefCPfIUM7TU69AsuxUkUyCIiiF5LgRB_fKXa_9uzQw35x3gbV1iEZ_S9BTC8PxB-wTxGZ8yyY8llIK2qI2KyMiwUG3zab2o1CsTZqd/s640/CE10C365-50F6-4D01-8F1D-FE15B3D1DCC8.jpg)
 
   
 

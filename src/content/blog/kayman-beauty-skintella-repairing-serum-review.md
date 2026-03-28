@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://1.bp.blogspot.com/-UaHA-MBQMn8/XV0rblAgwcI/AAAAAAAAIyE/DUtWtaa_al0bsvJsIjbD5beq_ODHaFBfACLcBGAs/s640/41C338FB-8B6D-4EAA-B711-3D729D1BDBE2.jpg)
+![](https://1.bp.blogspot.com/-UaHA-MBQMn8/XV0rblAgwcI/AAAAAAAAIyE/DUtWtaa_al0bsvJsIjbD5beq_ODHaFBfACLcBGAs/s640/41C338FB-8B6D-4EAA-B711-3D729D1BDBE2.jpg)
 
   
 
@@ -26,7 +26,7 @@ I did a poll on twitter, tanya nak review yang mana satu dulu? 73% voted for Ka
 
   
 
-[![](https://1.bp.blogspot.com/-iCjGYPjJ6M0/XV0gOJB67zI/AAAAAAAAIx4/OvouG3srmCQSAGsdeywDpLvtZZ8KXJiEwCLcBGAs/s640/Screenshot%2B2019-08-21%2Bat%2B6.42.50%2BPM.png)
+![](https://1.bp.blogspot.com/-iCjGYPjJ6M0/XV0gOJB67zI/AAAAAAAAIx4/OvouG3srmCQSAGsdeywDpLvtZZ8KXJiEwCLcBGAs/s640/Screenshot%2B2019-08-21%2Bat%2B6.42.50%2BPM.png)
 
   
 
@@ -48,7 +48,7 @@ I also tried their Coalface Cleanser and Rosa Glow Treatment essence.
 
   
 
-[![](https://1.bp.blogspot.com/-SxQxym-7wtU/XV0UgnviQrI/AAAAAAAAIxk/C3Fgg7LC9gkXUSHdvm1jcmu6GCN-VKTlACLcBGAs/s640/Screenshot%2B2019-08-21%2Bat%2B5.52.51%2BPM.png)
+![](https://1.bp.blogspot.com/-SxQxym-7wtU/XV0UgnviQrI/AAAAAAAAIxk/C3Fgg7LC9gkXUSHdvm1jcmu6GCN-VKTlACLcBGAs/s640/Screenshot%2B2019-08-21%2Bat%2B5.52.51%2BPM.png)
 
   
 
@@ -56,7 +56,7 @@ Link: [https://www.instagram.com/p/BkjwUdUhWPv/](https://www.instagram.com/p/Bk
 
   
 
-[![](https://1.bp.blogspot.com/-JrTYzCofx9w/XV0Uvva1SYI/AAAAAAAAIxo/28bOXHOqFwUKKWXL-5glVNmZE1I85pVdwCLcBGAs/s640/Screenshot%2B2019-08-21%2Bat%2B5.53.52%2BPM.png)
+![](https://1.bp.blogspot.com/-JrTYzCofx9w/XV0Uvva1SYI/AAAAAAAAIxo/28bOXHOqFwUKKWXL-5glVNmZE1I85pVdwCLcBGAs/s640/Screenshot%2B2019-08-21%2Bat%2B5.53.52%2BPM.png)
 
   
 
@@ -96,11 +96,11 @@ The texture is what I like the most. It has a very thick serum texture, almost l
 
   
 
-[![](https://1.bp.blogspot.com/-08rms4jKPAU/XV1CesbcHVI/AAAAAAAAIyQ/RHpOzsN5ExsXi9b8P5h9N9Kc9kgAWTnkACLcBGAs/s640/6EDC2F60-F9EC-4846-9FC1-9AD5E5ACF64D.jpg)
+![](https://1.bp.blogspot.com/-08rms4jKPAU/XV1CesbcHVI/AAAAAAAAIyQ/RHpOzsN5ExsXi9b8P5h9N9Kc9kgAWTnkACLcBGAs/s640/6EDC2F60-F9EC-4846-9FC1-9AD5E5ACF64D.jpg)
 
   
 
-[![](https://1.bp.blogspot.com/-WOWtmVxNd8M/XV1Ce2yCU4I/AAAAAAAAIyU/hGqcqoRdFtkGTjY5S9Z2WoN-bmNxb_4IwCLcBGAs/s640/491A582F-50B7-40A8-A890-75AACE250AE2.jpg)
+![](https://1.bp.blogspot.com/-WOWtmVxNd8M/XV1Ce2yCU4I/AAAAAAAAIyU/hGqcqoRdFtkGTjY5S9Z2WoN-bmNxb_4IwCLcBGAs/s640/491A582F-50B7-40A8-A890-75AACE250AE2.jpg)
 
   
 

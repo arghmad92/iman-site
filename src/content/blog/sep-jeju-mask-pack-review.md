@@ -12,7 +12,7 @@ Today, I am going to share with you guys about SEP Jeju Mask Pack. The moment I 
 
   
 
-[![](https://4.bp.blogspot.com/-5lKOBQ018lo/WZJ6QQt6d6I/AAAAAAAAEVQ/rSdq7KSPxOcHBGDi5s_snJfQoEtkytsGgCLcBGAs/s640/Photo%2B14-08-2017%252C%2B5%2B58%2B38%2BPM.jpg)
+![](https://4.bp.blogspot.com/-5lKOBQ018lo/WZJ6QQt6d6I/AAAAAAAAEVQ/rSdq7KSPxOcHBGDi5s_snJfQoEtkytsGgCLcBGAs/s640/Photo%2B14-08-2017%252C%2B5%2B58%2B38%2BPM.jpg)
 
   
 
@@ -33,7 +33,7 @@ Availability: All nationwide Watsons stores
 
   
 
-[![](https://1.bp.blogspot.com/-UdrDE4K3s_Y/WZJ6QXc7BXI/AAAAAAAAEVM/UY6djRQiSTUHkvUr6C_UU5wzWwJpDZWMgCLcBGAs/s640/Photo%2B14-08-2017%252C%2B5%2B57%2B58%2BPM.jpg)
+![](https://1.bp.blogspot.com/-UdrDE4K3s_Y/WZJ6QXc7BXI/AAAAAAAAEVM/UY6djRQiSTUHkvUr6C_UU5wzWwJpDZWMgCLcBGAs/s640/Photo%2B14-08-2017%252C%2B5%2B57%2B58%2BPM.jpg)
 
   
 
@@ -81,7 +81,7 @@ The mask comes in a normal mask packaging. The packaging is really vibrant, and 
 
   
 
-[![](https://2.bp.blogspot.com/-OD6Qy6UsgSA/WZJ6Sd2T-FI/AAAAAAAAEVc/BJzVdanGqVY8Il8iRkWL-RZ7V7rz9-jgQCLcBGAs/s640/Photo%2B14-08-2017%252C%2B5%2B59%2B33%2BPM.jpg)  
+![](https://2.bp.blogspot.com/-OD6Qy6UsgSA/WZJ6Sd2T-FI/AAAAAAAAEVc/BJzVdanGqVY8Il8iRkWL-RZ7V7rz9-jgQCLcBGAs/s640/Photo%2B14-08-2017%252C%2B5%2B59%2B33%2BPM.jpg)  
 
   
 
@@ -103,7 +103,7 @@ I love how this mask smells like, a very sweet honey which is quite sticky haha.
 
   
 
-[![](https://1.bp.blogspot.com/--OAz76i8TaU/WZJ6Rc_qDnI/AAAAAAAAEVU/Jr2BhLpcd1M0atbNn2jCixpGefTTHwEFQCLcBGAs/s640/Photo%2B14-08-2017%252C%2B5%2B58%2B59%2BPM.jpg)
+![](https://1.bp.blogspot.com/--OAz76i8TaU/WZJ6Rc_qDnI/AAAAAAAAEVU/Jr2BhLpcd1M0atbNn2jCixpGefTTHwEFQCLcBGAs/s640/Photo%2B14-08-2017%252C%2B5%2B58%2B59%2BPM.jpg)
 
   
 
@@ -122,7 +122,7 @@ I used this mask when I have dry patches. I really moisturizes my skin and I fee
 
 ### **#3 SEP Tangerine Brightening Mask**
 
-[![](https://1.bp.blogspot.com/-Az--QRv6sU8/WZJ6Rqgus_I/AAAAAAAAEVY/DL65FDzTg7s_iS4AZD2uVU8MDVqu23NtgCLcBGAs/s640/Photo%2B14-08-2017%252C%2B5%2B59%2B17%2BPM.jpg)
+![](https://1.bp.blogspot.com/-Az--QRv6sU8/WZJ6Rqgus_I/AAAAAAAAEVY/DL65FDzTg7s_iS4AZD2uVU8MDVqu23NtgCLcBGAs/s640/Photo%2B14-08-2017%252C%2B5%2B59%2B17%2BPM.jpg)
 
   
 
@@ -144,7 +144,7 @@ Baru pakai sekali so taktahu la whether or not it brightens my skin, no signific
 
   
 
-[![](https://3.bp.blogspot.com/-FwrmM824vjo/WZJ6SVVeDoI/AAAAAAAAEVg/vIqThlnStHwssYMnOA3Z3xhial4IuFwlACLcBGAs/s640/Photo%2B14-08-2017%252C%2B8%2B06%2B02%2BPM.jpg)
+![](https://3.bp.blogspot.com/-FwrmM824vjo/WZJ6SVVeDoI/AAAAAAAAEVg/vIqThlnStHwssYMnOA3Z3xhial4IuFwlACLcBGAs/s640/Photo%2B14-08-2017%252C%2B8%2B06%2B02%2BPM.jpg)
 
   
 
@@ -165,11 +165,11 @@ I love how soothing this mask is. Kalau ada redness, memang pakai mask ni, terus
 
   
 
-[![](https://1.bp.blogspot.com/-3opzWWMsrIA/WZJ6S-INzLI/AAAAAAAAEVk/siE-1mfdUHkhGbeYqGvMWHc0kKjjQLLxgCLcBGAs/s640/Photo%2B14-08-2017%252C%2B8%2B06%2B48%2BPM.jpg)
+![](https://1.bp.blogspot.com/-3opzWWMsrIA/WZJ6S-INzLI/AAAAAAAAEVk/siE-1mfdUHkhGbeYqGvMWHc0kKjjQLLxgCLcBGAs/s640/Photo%2B14-08-2017%252C%2B8%2B06%2B48%2BPM.jpg)
 
   
 
-[![](https://2.bp.blogspot.com/-vJdkH2Ffd0I/WZJ6QblbfGI/AAAAAAAAEVI/3vrIez5xO_gEkum_3wr6e2Xc-4bdCyaMwCLcBGAs/s640/Photo%2B14-08-2017%252C%2B10%2B38%2B27%2BAM.jpg)
+![](https://2.bp.blogspot.com/-vJdkH2Ffd0I/WZJ6QblbfGI/AAAAAAAAEVI/3vrIez5xO_gEkum_3wr6e2Xc-4bdCyaMwCLcBGAs/s640/Photo%2B14-08-2017%252C%2B10%2B38%2B27%2BAM.jpg)
 
   
 

@@ -12,7 +12,7 @@ Another sunscreen comparison post! For today, I'm going to compare between Bior
 
   
 
-[![](https://1.bp.blogspot.com/-xCyD3Ai5Ntw/W4X-IKfXujI/AAAAAAAAHJo/c7xHYspYVrcCaM4vGL3uVd9LKaC-SSt6ACLcBGAs/s640/Photo%2B28-08-2018%252C%2B8%2B00%2B16%2BPM.jpg)
+![](https://1.bp.blogspot.com/-xCyD3Ai5Ntw/W4X-IKfXujI/AAAAAAAAHJo/c7xHYspYVrcCaM4vGL3uVd9LKaC-SSt6ACLcBGAs/s640/Photo%2B28-08-2018%252C%2B8%2B00%2B16%2BPM.jpg)
 
   
 
@@ -46,11 +46,11 @@ Kalau harga sekarang dekat Watsons (29/8/2018):
 
   
 
-[![](https://3.bp.blogspot.com/-a-kmUHJWkRU/W4X_Td5xJeI/AAAAAAAAHKA/jJPEyI-p3UQLqNHUTbZR0oWODLd9VZyugCLcBGAs/s640/Screenshot%2B2018-08-29%2Bat%2B10.04.28%2BAM.png)
+![](https://3.bp.blogspot.com/-a-kmUHJWkRU/W4X_Td5xJeI/AAAAAAAAHKA/jJPEyI-p3UQLqNHUTbZR0oWODLd9VZyugCLcBGAs/s640/Screenshot%2B2018-08-29%2Bat%2B10.04.28%2BAM.png)
 
   
 
-[![](https://3.bp.blogspot.com/-N_r5PcwVaCQ/W4X_TZZ2t6I/AAAAAAAAHJ4/8jxM_9gJR4czf2QjJRRIVLKpoK4bHjQ9wCLcBGAs/s640/Screenshot%2B2018-08-29%2Bat%2B10.04.20%2BAM.png)
+![](https://3.bp.blogspot.com/-N_r5PcwVaCQ/W4X_TZZ2t6I/AAAAAAAAHJ4/8jxM_9gJR4czf2QjJRRIVLKpoK4bHjQ9wCLcBGAs/s640/Screenshot%2B2018-08-29%2Bat%2B10.04.20%2BAM.png)
 
   
 
@@ -58,7 +58,7 @@ Kalau harga sekarang dekat Watsons (29/8/2018):
 
   
 
-[![](https://2.bp.blogspot.com/-A5BTu3s-wyM/W4X_Td31JhI/AAAAAAAAHJ8/qhQL_XQwKWYuBhwUfWaiqOhChIlFIWjBgCLcBGAs/s640/Screenshot%2B2018-08-29%2Bat%2B10.04.36%2BAM.png)
+![](https://2.bp.blogspot.com/-A5BTu3s-wyM/W4X_Td31JhI/AAAAAAAAHJ8/qhQL_XQwKWYuBhwUfWaiqOhChIlFIWjBgCLcBGAs/s640/Screenshot%2B2018-08-29%2Bat%2B10.04.36%2BAM.png)
 
   
 
@@ -76,11 +76,11 @@ Kalau harga sekarang dekat Watsons (29/8/2018):
 
 ![](https://4.bp.blogspot.com/-bLTrOapKDGk/W4X-ILyufLI/AAAAAAAAHJk/2guPU6Nd6ccrjDkTaGAVePPJuJYsLFGhACLcBGAs/s640/Photo%2B28-08-2018%252C%2B7%2B59%2B59%2BPM.jpg)
 
-[![](https://2.bp.blogspot.com/--qN5VLM4hvo/W4X-JvoJvuI/AAAAAAAAHJw/loVKaP-5XpYKhq3o2_ndaU6IRrqRaW6-gCLcBGAs/s640/Photo%2B28-08-2018%252C%2B8%2B01%2B36%2BPM.jpg)  
+![](https://2.bp.blogspot.com/--qN5VLM4hvo/W4X-JvoJvuI/AAAAAAAAHJw/loVKaP-5XpYKhq3o2_ndaU6IRrqRaW6-gCLcBGAs/s640/Photo%2B28-08-2018%252C%2B8%2B01%2B36%2BPM.jpg)  
 
   
 
-[![](https://3.bp.blogspot.com/-xl61BScdFpo/W4X-JxXP0BI/AAAAAAAAHJ0/fJdYYLUFe3EL7Toc8Fq0oh7XJ4ZTEUnKQCLcBGAs/s640/Photo%2B28-08-2018%252C%2B8%2B02%2B02%2BPM.jpg)
+![](https://3.bp.blogspot.com/-xl61BScdFpo/W4X-JxXP0BI/AAAAAAAAHJ0/fJdYYLUFe3EL7Toc8Fq0oh7XJ4ZTEUnKQCLcBGAs/s640/Photo%2B28-08-2018%252C%2B8%2B02%2B02%2BPM.jpg)
 
   
 
@@ -96,11 +96,11 @@ All three have the same exact packaging with same quantity. And semua warna biru
 
   
 
-[![](https://4.bp.blogspot.com/-W_2I168W2vs/W4X-H5YJKiI/AAAAAAAAHJg/w3SgLdbHCucUUTlucJ8JBtDIpjx_vEpZgCLcBGAs/s640/Photo%2B28-08-2018%252C%2B8%2B00%2B58%2BPM.jpg)
+![](https://4.bp.blogspot.com/-W_2I168W2vs/W4X-H5YJKiI/AAAAAAAAHJg/w3SgLdbHCucUUTlucJ8JBtDIpjx_vEpZgCLcBGAs/s640/Photo%2B28-08-2018%252C%2B8%2B00%2B58%2BPM.jpg)
 
   
 
-[![](https://2.bp.blogspot.com/-qzWYmwOtfjM/W4X-JL8-vsI/AAAAAAAAHJs/I2DK9RdIrakT-psWsQeB1rFyPWYXVwJigCLcBGAs/s640/Photo%2B28-08-2018%252C%2B8%2B01%2B10%2BPM.jpg)
+![](https://2.bp.blogspot.com/-qzWYmwOtfjM/W4X-JL8-vsI/AAAAAAAAHJs/I2DK9RdIrakT-psWsQeB1rFyPWYXVwJigCLcBGAs/s640/Photo%2B28-08-2018%252C%2B8%2B01%2B10%2BPM.jpg)
 
   
 

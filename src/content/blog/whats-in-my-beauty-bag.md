@@ -12,7 +12,7 @@ I am going to share what is in beauty bag. Pouch yang campak masuk handbag tu je
 
   
 
-[![](https://1.bp.blogspot.com/-jZaigyqnbhM/WaeCdmSfzjI/AAAAAAAAEjk/6pgwNMur2XgwVzZeSStSMbqR11CtEpiGACLcBGAs/s640/Photo%2B31-08-2017%252C%2B11%2B10%2B59%2BAM.jpg)
+![](https://1.bp.blogspot.com/-jZaigyqnbhM/WaeCdmSfzjI/AAAAAAAAEjk/6pgwNMur2XgwVzZeSStSMbqR11CtEpiGACLcBGAs/s640/Photo%2B31-08-2017%252C%2B11%2B10%2B59%2BAM.jpg)
 
   
 
@@ -27,7 +27,7 @@ I am going to share what is in beauty bag. Pouch yang campak masuk handbag tu je
 
   
 
-[![](https://2.bp.blogspot.com/-sTsGvU6QdXc/WaeCdtEhbpI/AAAAAAAAEjc/Int6cr3vwtU482yiqaxGUdmSpLVg042fQCLcBGAs/s640/Photo%2B31-08-2017%252C%2B11%2B11%2B18%2BAM.jpg)
+![](https://2.bp.blogspot.com/-sTsGvU6QdXc/WaeCdtEhbpI/AAAAAAAAEjc/Int6cr3vwtU482yiqaxGUdmSpLVg042fQCLcBGAs/s640/Photo%2B31-08-2017%252C%2B11%2B11%2B18%2BAM.jpg)
 
   
 
@@ -61,7 +61,7 @@ You can also read: [DAILY SKINCARE ROUTINE (SOLAT VERSION)](http://imanabdulrah
 
   
 
-[![](https://1.bp.blogspot.com/-7Y7kWgeBZ6k/WaeCdupxpSI/AAAAAAAAEjg/1dSbBERZ0yocFWjXwFgjEZfhRqpYRUjZQCLcBGAs/s640/Photo%2B31-08-2017%252C%2B11%2B11%2B48%2BAM.jpg)
+![](https://1.bp.blogspot.com/-7Y7kWgeBZ6k/WaeCdupxpSI/AAAAAAAAEjg/1dSbBERZ0yocFWjXwFgjEZfhRqpYRUjZQCLcBGAs/s640/Photo%2B31-08-2017%252C%2B11%2B11%2B48%2BAM.jpg)
 
   
 
@@ -89,11 +89,11 @@ My current fav lipsticks are Tarte Sunkissed (review here, [\[REVIEW\] TARTE COS
 
   
 
-[![](https://4.bp.blogspot.com/-udkyhQ-XORw/WaeCfXYfpTI/AAAAAAAAEjo/nqbD_Bn4ZhYStQt1bJjqlgdHPH0Zkz3fgCLcBGAs/s640/Photo%2B31-08-2017%252C%2B11%2B12%2B12%2BAM.jpg)
+![](https://4.bp.blogspot.com/-udkyhQ-XORw/WaeCfXYfpTI/AAAAAAAAEjo/nqbD_Bn4ZhYStQt1bJjqlgdHPH0Zkz3fgCLcBGAs/s640/Photo%2B31-08-2017%252C%2B11%2B12%2B12%2BAM.jpg)
 
   
 
-[![](https://3.bp.blogspot.com/-ldLz-FXbLMc/WaeCft5krzI/AAAAAAAAEjs/qa8K4ANU-aIrEl5343axhBZ6mFaXiV3VQCLcBGAs/s640/Photo%2B31-08-2017%252C%2B11%2B12%2B35%2BAM.jpg)
+![](https://3.bp.blogspot.com/-ldLz-FXbLMc/WaeCft5krzI/AAAAAAAAEjs/qa8K4ANU-aIrEl5343axhBZ6mFaXiV3VQCLcBGAs/s640/Photo%2B31-08-2017%252C%2B11%2B12%2B35%2BAM.jpg)
 
 Maybelline Touch of Nude Swatch, Tarte Sunkissed Swatch
 

@@ -11,7 +11,7 @@ draft: false
 Macam biasa hobi I masuk Watsons and Guardian tengok tengok barang. Bila masuk Watsons, I teringin nak try these masks sebab tengah Promo Buy 2 Free 1. (Biasalah beli barang time sale je) So I beli 3. Tapi Ni review dua dulu.  
   
 
-[![](https://1.bp.blogspot.com/-Z7clZheFhiw/WfBVfhXjHQI/AAAAAAAAFMU/_1N0LW31zGAlWXBRRPhJGXrlWgjex5CdACLcBGAs/s640/Photo%2B25-10-2017%252C%2B3%2B11%2B22%2BPM.jpg)
+![](https://1.bp.blogspot.com/-Z7clZheFhiw/WfBVfhXjHQI/AAAAAAAAFMU/_1N0LW31zGAlWXBRRPhJGXrlWgjex5CdACLcBGAs/s640/Photo%2B25-10-2017%252C%2B3%2B11%2B22%2BPM.jpg)
 
   
 
@@ -39,7 +39,7 @@ Ada banyak lagi jenis lain contohnya Black Pearl Whitening Mask (biru), Rose Wat
   
   
 
-[![](https://1.bp.blogspot.com/-_mAgOvV6ZnE/WfBOsa8wyEI/AAAAAAAAFME/jyLMQY65yko-dX81im8fDHZ4JUoVlbqeACLcBGAs/s640/2016071512281527925.jpg)
+![](https://1.bp.blogspot.com/-_mAgOvV6ZnE/WfBOsa8wyEI/AAAAAAAAFME/jyLMQY65yko-dX81im8fDHZ4JUoVlbqeACLcBGAs/s640/2016071512281527925.jpg)
 
   
   
@@ -70,7 +70,7 @@ No need to rinse. 
 **2\. Saccharide Isomerate** - Water binding ingredient that retains & intensifies hydration. Lock-in moisture & boost radiance.  
 **3\. Aloe Extract** - Hydrator, replenish moisture  
   
-[![](https://2.bp.blogspot.com/-glHunl8vcNk/WfBVf0yNQ8I/AAAAAAAAFMc/Bdw2znzZYRslZaXfymQNMotfmKq0hzXVgCLcBGAs/s640/Photo%2B25-10-2017%252C%2B3%2B11%2B50%2BPM.jpg)  
+![](https://2.bp.blogspot.com/-glHunl8vcNk/WfBVf0yNQ8I/AAAAAAAAFMc/Bdw2znzZYRslZaXfymQNMotfmKq0hzXVgCLcBGAs/s640/Photo%2B25-10-2017%252C%2B3%2B11%2B50%2BPM.jpg)  
   
   
 
@@ -115,7 +115,7 @@ Yesss
 
   
 
-[![](https://1.bp.blogspot.com/-KnbIyoKfrB8/WfBVf-SYwHI/AAAAAAAAFMY/tzbrfji7w7wZLI0lW9XqSBEeGVmgvWkDACLcBGAs/s640/Photo%2B25-10-2017%252C%2B3%2B12%2B09%2BPM.jpg)
+![](https://1.bp.blogspot.com/-KnbIyoKfrB8/WfBVf-SYwHI/AAAAAAAAFMY/tzbrfji7w7wZLI0lW9XqSBEeGVmgvWkDACLcBGAs/s640/Photo%2B25-10-2017%252C%2B3%2B12%2B09%2BPM.jpg)
 
   
 

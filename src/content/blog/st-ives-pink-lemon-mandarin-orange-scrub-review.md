@@ -12,7 +12,7 @@ St Ives Pink Lemon & Mandarin Orange Scrub Review.
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1D9LV1jON26C1-977-wLIsr48hLb4ApoD4rMw1aYkTObSrvafKMSPkphBtMi9HUx99OYRLHR-IzaleZ65BH-Zhtzj1G15Gte33j1UiHfnhT_cWbbafBgUCTLvZlJb7CO4AF0WNc6IXyJ2/s640/Photo+12-05-2018%252C+5+05+42+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1D9LV1jON26C1-977-wLIsr48hLb4ApoD4rMw1aYkTObSrvafKMSPkphBtMi9HUx99OYRLHR-IzaleZ65BH-Zhtzj1G15Gte33j1UiHfnhT_cWbbafBgUCTLvZlJb7CO4AF0WNc6IXyJ2/s640/Photo+12-05-2018%252C+5+05+42+PM.jpg)
 
   
   
@@ -33,7 +33,7 @@ You can get this at any drugstore, Watsons, Guardian etc for around RM20+-
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQVL4lcV0gHZfZDp5-3pwnPuxru-se9UKbjP-n3515aIo5ZMuGaEC9dz7jv2L8Ny0NH7D_Rlhjg0mrZsi9njNwSlrG7RaaO9G92DncmJjXYy0KnzpjHuPUTD9lfWWZrUUFsg2GK3R0zgZ8/s640/Photo+12-05-2018%252C+5+05+47+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQVL4lcV0gHZfZDp5-3pwnPuxru-se9UKbjP-n3515aIo5ZMuGaEC9dz7jv2L8Ny0NH7D_Rlhjg0mrZsi9njNwSlrG7RaaO9G92DncmJjXYy0KnzpjHuPUTD9lfWWZrUUFsg2GK3R0zgZ8/s640/Photo+12-05-2018%252C+5+05+47+PM.jpg)
 
   
 
@@ -45,7 +45,7 @@ Ingredients:
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCM7LyAZZH2IFZnY4YMbQ2GJUjJl539x9hJgu7w4txD1W2tnG00efDnoq3gefVRoNV8RKojBSTeUCDQIH2ao5YBtiN2Xj3MoQmJiCsSg2ol2sTiNobfTZ1sv_ujuh0uHYcFYv0H_HTPkjF/s640/Screen+Shot+2018-05-12+at+5.19.19+PM.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCM7LyAZZH2IFZnY4YMbQ2GJUjJl539x9hJgu7w4txD1W2tnG00efDnoq3gefVRoNV8RKojBSTeUCDQIH2ao5YBtiN2Xj3MoQmJiCsSg2ol2sTiNobfTZ1sv_ujuh0uHYcFYv0H_HTPkjF/s640/Screen+Shot+2018-05-12+at+5.19.19+PM.png)
 
   
 
@@ -53,7 +53,7 @@ Ni based on cosdna. Methylisothiazolinone tu might be sensitizing for some peop
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2u_AKJ9N_ljSVrtOaQONMiXr3jNmMVaCuHqu0LIg9sgI3URnGHvekk8e9tRT1g3P6eE4HHFl3siFQqmf2IpMh1HnfsFuMBVNWot0-OqOMa-5ifOpjX0b7VRsxRMdDm8yCUgnjT4PBqD09/s640/Photo+12-05-2018%252C+5+05+59+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2u_AKJ9N_ljSVrtOaQONMiXr3jNmMVaCuHqu0LIg9sgI3URnGHvekk8e9tRT1g3P6eE4HHFl3siFQqmf2IpMh1HnfsFuMBVNWot0-OqOMa-5ifOpjX0b7VRsxRMdDm8yCUgnjT4PBqD09/s640/Photo+12-05-2018%252C+5+05+59+PM.jpg)
 
   
   
@@ -80,7 +80,7 @@ Citrus scent
   
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhex-jVHEoIovOlzo0NygCsrfWsxXo38mX4CwqLdkwkR-YtU3ZD7pbdcBQEn9GrHRGrErDGZDELIkiZYHCk2cwwRenm-TnA3cRSswsFKngIuEqp1GEXrMJQgZ0hDKkrtiZFiq6X30YLfyHZ/s640/Photo+12-05-2018%252C+5+06+22+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhex-jVHEoIovOlzo0NygCsrfWsxXo38mX4CwqLdkwkR-YtU3ZD7pbdcBQEn9GrHRGrErDGZDELIkiZYHCk2cwwRenm-TnA3cRSswsFKngIuEqp1GEXrMJQgZ0hDKkrtiZFiq6X30YLfyHZ/s640/Photo+12-05-2018%252C+5+06+22+PM.jpg)
 
   
   

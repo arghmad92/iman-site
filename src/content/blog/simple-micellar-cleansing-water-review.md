@@ -20,7 +20,7 @@ Today, I am going to share my review about SIMPLE Micellar Cleansing Water.
 
   
 
-[![](https://1.bp.blogspot.com/-_799uIC68cc/WZ6X55ndD-I/AAAAAAAAEhE/2Hh0O04JuaIm-cxb-JnZr2uUOCEGUl1QQCLcBGAs/s640/Photo%2B23-08-2017%252C%2B10%2B49%2B15%2BAM.jpg)
+![](https://1.bp.blogspot.com/-_799uIC68cc/WZ6X55ndD-I/AAAAAAAAEhE/2Hh0O04JuaIm-cxb-JnZr2uUOCEGUl1QQCLcBGAs/s640/Photo%2B23-08-2017%252C%2B10%2B49%2B15%2BAM.jpg)
 
   
 
@@ -66,7 +66,7 @@ I love how it contains niacinamide. Niacinamide is really to improve the visibil
 **What it claims?**  
 Our new Simple® Micellar Cleansing Water is our most advanced yet gentle cleanser for your skin. Our unique Simple® Triple-Purified Micellar Water formulation is enriched with multi-vitamins and skin-loving ingredients designed to cleanse effectively whilst leaving your skin feeling hydrated. It actively works to attract and remove make-up and impurities whilst helping to unclog pores. Our Micellar Water won’t leave the skin feeling tight or sticky, but, clean, refreshed and hydrated. As with all Simple® products, it’s caring for even the most sensitive skin.  
   
-[![](https://2.bp.blogspot.com/-nOAgbG8wDsA/WZ6X58IM0BI/AAAAAAAAEhI/KrlCyNC3BX8ordiW0SsrcCJh-Ze83s8GgCLcBGAs/s640/Photo%2B23-08-2017%252C%2B10%2B49%2B23%2BAM.jpg)  
+![](https://2.bp.blogspot.com/-nOAgbG8wDsA/WZ6X58IM0BI/AAAAAAAAEhI/KrlCyNC3BX8ordiW0SsrcCJh-Ze83s8GgCLcBGAs/s640/Photo%2B23-08-2017%252C%2B10%2B49%2B23%2BAM.jpg)  
   
 
 ## SIMPLE Micellar Cleansing Water Review
@@ -99,11 +99,11 @@ Tuang atas cotton pad lepastu swipe dekat muka lembut lembut, jangan kasar kasar
 
 So I tried to remove makeups. Waterproof lipsticks etc.
 
-[![](https://3.bp.blogspot.com/-rOs8vstNpt0/WZ6X5-htCVI/AAAAAAAAEhA/epdY0EUB93QoJbTD7bYqqcF4_QgzuqvSACLcBGAs/s640/Photo%2B23-08-2017%252C%2B3%2B27%2B30%2BPM.jpg)
+![](https://3.bp.blogspot.com/-rOs8vstNpt0/WZ6X5-htCVI/AAAAAAAAEhA/epdY0EUB93QoJbTD7bYqqcF4_QgzuqvSACLcBGAs/s640/Photo%2B23-08-2017%252C%2B3%2B27%2B30%2BPM.jpg)
 
   
 
-[![](https://1.bp.blogspot.com/-OtLUANO4NhA/WZ6X68SsxSI/AAAAAAAAEhM/PbUAOWOk1Qs6LoO5PojFsfAfVoKJwVD6QCLcBGAs/s640/Photo%2B23-08-2017%252C%2B3%2B28%2B07%2BPM.jpg)
+![](https://1.bp.blogspot.com/-OtLUANO4NhA/WZ6X68SsxSI/AAAAAAAAEhM/PbUAOWOk1Qs6LoO5PojFsfAfVoKJwVD6QCLcBGAs/s640/Photo%2B23-08-2017%252C%2B3%2B28%2B07%2BPM.jpg)
 
   
 

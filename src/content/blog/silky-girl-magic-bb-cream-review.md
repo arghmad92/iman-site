@@ -16,7 +16,7 @@ I have tried the Silky Girl Magic BB Cream and here is my review.
 
   
 
-[![](https://4.bp.blogspot.com/-7UxLZPwVNDA/WaQRmOzINjI/AAAAAAAAEho/691uRgznhtMqols96OVIlOvbwp33fgmAQCLcBGAs/s640/Photo%2B28-08-2017%252C%2B8%2B31%2B39%2BPM%2B%25281%2529.jpg)
+![](https://4.bp.blogspot.com/-7UxLZPwVNDA/WaQRmOzINjI/AAAAAAAAEho/691uRgznhtMqols96OVIlOvbwp33fgmAQCLcBGAs/s640/Photo%2B28-08-2017%252C%2B8%2B31%2B39%2BPM%2B%25281%2529.jpg)
 
   
 
@@ -48,7 +48,7 @@ Availability: Guardian, Watsons, Caring Pharmacy
 
   
 
-[![](https://2.bp.blogspot.com/-GrlGyEvCfjY/WaQRmFzhE7I/AAAAAAAAEhs/iaRHpsBGnAgJTXxmEVSGuxy5N40q-ib7QCLcBGAs/s640/Photo%2B28-08-2017%252C%2B8%2B31%2B39%2BPM.jpg)
+![](https://2.bp.blogspot.com/-GrlGyEvCfjY/WaQRmFzhE7I/AAAAAAAAEhs/iaRHpsBGnAgJTXxmEVSGuxy5N40q-ib7QCLcBGAs/s640/Photo%2B28-08-2017%252C%2B8%2B31%2B39%2BPM.jpg)
 
   
 
@@ -78,7 +78,7 @@ It comes with a 20mL light blue squeezable plastic tube. Easy to dispense since 
 
   
 
-[![](https://1.bp.blogspot.com/-3fzV9E-hVWg/WaQRlTz0J6I/AAAAAAAAEhg/nRQkQa8zMCMWR0RIEP9yQzGWhAwWtWjmgCLcBGAs/s640/Photo%2B28-08-2017%252C%2B8%2B31%2B38%2BPM%2B%25282%2529.jpg)
+![](https://1.bp.blogspot.com/-3fzV9E-hVWg/WaQRlTz0J6I/AAAAAAAAEhg/nRQkQa8zMCMWR0RIEP9yQzGWhAwWtWjmgCLcBGAs/s640/Photo%2B28-08-2017%252C%2B8%2B31%2B38%2BPM%2B%25282%2529.jpg)
 
   
 
@@ -94,7 +94,7 @@ Creamy texture that glides smoothly. However, it emphasis my dry patches. It has
 
   
 
-[![](https://4.bp.blogspot.com/-lhmbpGaSsrg/WaQRleBU8sI/AAAAAAAAEhk/qLAy5W71_bExjgRUsTnXp4sIrebDJlCHQCLcBGAs/s640/Photo%2B28-08-2017%252C%2B8%2B31%2B38%2BPM.jpg)
+![](https://4.bp.blogspot.com/-lhmbpGaSsrg/WaQRleBU8sI/AAAAAAAAEhk/qLAy5W71_bExjgRUsTnXp4sIrebDJlCHQCLcBGAs/s640/Photo%2B28-08-2017%252C%2B8%2B31%2B38%2BPM.jpg)
 
   
 
@@ -104,7 +104,7 @@ Medium coverage but buildable
 
   
 
-[![](https://3.bp.blogspot.com/-rl-iU3Yvvfg/WaQR7QAN4OI/AAAAAAAAEhw/E8hxoGiQw0s8osfZJRQ6ES6EkRrjg1acwCLcBGAs/s640/Screen%2BShot%2B2017-08-28%2Bat%2B8.51.32%2BPM.png)
+![](https://3.bp.blogspot.com/-rl-iU3Yvvfg/WaQR7QAN4OI/AAAAAAAAEhw/E8hxoGiQw0s8osfZJRQ6ES6EkRrjg1acwCLcBGAs/s640/Screen%2BShot%2B2017-08-28%2Bat%2B8.51.32%2BPM.png)
 
   
 

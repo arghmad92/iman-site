@@ -12,7 +12,7 @@ This is actually not a new product. Dah release lama dah and I bought this like 
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR89GnulJBgsYyFtPnxzOrp1MRMnrl_KCamPlzR57kyAxxqZ2WyYIfoXTnQYOdW33QntMnvr0y6Es_Q4ItBDIjIadv9LZxjwdrnGhnTZNUWtzl9yjOUg4iqj7ofnWFGu5K8aLOnaXZB6oy/s640/Photo+13-05-2018%252C+4+56+01+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR89GnulJBgsYyFtPnxzOrp1MRMnrl_KCamPlzR57kyAxxqZ2WyYIfoXTnQYOdW33QntMnvr0y6Es_Q4ItBDIjIadv9LZxjwdrnGhnTZNUWtzl9yjOUg4iqj7ofnWFGu5K8aLOnaXZB6oy/s640/Photo+13-05-2018%252C+4+56+01+PM.jpg)
 
   
   
@@ -28,7 +28,7 @@ So the main reason I bought this is because my dark circles are getting worst, a
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzAqoEWiqEkcBP9yiMrFlX4mjHTgGazGSwzoM3LS_q-Z_eF6dhe8kEYudEhTno8slmeNz-yM4OfwjG80-x4gyo4cOfnKoEUuXFvR6AkSnxTPKLZYXJBYwIU-JrJWtoWm4AGUFB-62ufMxK/s640/Photo+13-05-2018%252C+4+56+27+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzAqoEWiqEkcBP9yiMrFlX4mjHTgGazGSwzoM3LS_q-Z_eF6dhe8kEYudEhTno8slmeNz-yM4OfwjG80-x4gyo4cOfnKoEUuXFvR6AkSnxTPKLZYXJBYwIU-JrJWtoWm4AGUFB-62ufMxK/s640/Photo+13-05-2018%252C+4+56+27+PM.jpg)
 
   
 
@@ -65,7 +65,7 @@ It comes with five different shades:
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDuYSAXhtrZqq_NaQ_hm9GY6OZGZJ7JEvgTdPlx-tQvamwLizJnWoVD0Z0TaDcyCVcsbk3l120Eso056ND5oY9sZ1KakkdI7s3fn4ibsZDMQNh1TYTWx9iyo5O6cnq1syI8g9Nqw46G8bb/s640/Photo+13-05-2018%252C+4+56+49+PM.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDuYSAXhtrZqq_NaQ_hm9GY6OZGZJ7JEvgTdPlx-tQvamwLizJnWoVD0Z0TaDcyCVcsbk3l120Eso056ND5oY9sZ1KakkdI7s3fn4ibsZDMQNh1TYTWx9iyo5O6cnq1syI8g9Nqw46G8bb/s640/Photo+13-05-2018%252C+4+56+49+PM.jpg)
 
   
 

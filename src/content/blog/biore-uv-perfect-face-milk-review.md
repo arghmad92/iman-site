@@ -12,7 +12,7 @@ Another sunscreen review! So today, I am going to share my thoughts on Biore UV
 
   
 
-[![](https://4.bp.blogspot.com/-OQwD4pAf4QQ/Wa58pF5Bp0I/AAAAAAAAEpM/-ft-kZG2lNIwYeLtj69r5r6bKs8wX8JLACLcBGAs/s640/Photo%2B29-08-2017%252C%2B6%2B47%2B57%2BPM.jpg)  
+![](https://4.bp.blogspot.com/-OQwD4pAf4QQ/Wa58pF5Bp0I/AAAAAAAAEpM/-ft-kZG2lNIwYeLtj69r5r6bKs8wX8JLACLcBGAs/s640/Photo%2B29-08-2017%252C%2B6%2B47%2B57%2BPM.jpg)  
 
   
 
@@ -64,7 +64,7 @@ Cyclopentasiloxane, Zinc Oxide, Alcohol, Water (Aqua), Dimethicone, Lauryl Metha
 The last step for skincare. Maksudnya lepas cleanser, toner, moisturizer, baru lah apply sunscreen ni. Lepastu continue makeup pulak (primer, foundation etc)
 
   
-[![](https://4.bp.blogspot.com/-wj-wql8IsSE/Wa58p_XI3uI/AAAAAAAAEpU/6BMvTCLIYPsjcqSEoXd_Uj5xepkL-xMEACLcBGAs/s640/Photo%2B29-08-2017%252C%2B6%2B48%2B09%2BPM.jpg)  
+![](https://4.bp.blogspot.com/-wj-wql8IsSE/Wa58p_XI3uI/AAAAAAAAEpU/6BMvTCLIYPsjcqSEoXd_Uj5xepkL-xMEACLcBGAs/s640/Photo%2B29-08-2017%252C%2B6%2B48%2B09%2BPM.jpg)  
   
 
 **The packaging:**
@@ -73,7 +73,7 @@ The product comes in a 30 ml white plastic squeezable tube with a white twisted 
   
   
   
-[![](https://2.bp.blogspot.com/-6CuP-VM-QWE/Wa58pmCEfoI/AAAAAAAAEpQ/Lw5CwSwhelUY5iaZn-thplwy-UmbgX7lgCLcBGAs/s640/Photo%2B29-08-2017%252C%2B6%2B48%2B01%2BPM.jpg)  
+![](https://2.bp.blogspot.com/-6CuP-VM-QWE/Wa58pmCEfoI/AAAAAAAAEpQ/Lw5CwSwhelUY5iaZn-thplwy-UmbgX7lgCLcBGAs/s640/Photo%2B29-08-2017%252C%2B6%2B48%2B01%2BPM.jpg)  
   
 
   
@@ -97,12 +97,12 @@ Although this product contains alcohol and the alcohol is the third ingredient, 
   
 So the first time I applied, it's like a milky texture, tak thick macam lotion, more like essence and it's white. Absorbs quickly and leave my skin feels smooth and matte. However, I don't fancy any matte feeling products, since I have dry skin.  
   
-[![](https://1.bp.blogspot.com/-MKDfxE6fvyQ/Wa58qOA7kLI/AAAAAAAAEpY/JQfJC65jhBk7g4_yDxkCQzfz1i0jTSXIQCLcBGAs/s640/Photo%2B29-08-2017%252C%2B6%2B48%2B23%2BPM.jpg)  
+![](https://1.bp.blogspot.com/-MKDfxE6fvyQ/Wa58qOA7kLI/AAAAAAAAEpY/JQfJC65jhBk7g4_yDxkCQzfz1i0jTSXIQCLcBGAs/s640/Photo%2B29-08-2017%252C%2B6%2B48%2B23%2BPM.jpg)  
   
-[![](https://1.bp.blogspot.com/-rV_-aYw9yqY/Wa58qmoIEuI/AAAAAAAAEpc/Wehv6-5g3CAeSL6VTiR_sTq0uv1H-dP-gCLcBGAs/s640/Photo%2B29-08-2017%252C%2B6%2B48%2B32%2BPM.jpg)  
+![](https://1.bp.blogspot.com/-rV_-aYw9yqY/Wa58qmoIEuI/AAAAAAAAEpc/Wehv6-5g3CAeSL6VTiR_sTq0uv1H-dP-gCLcBGAs/s640/Photo%2B29-08-2017%252C%2B6%2B48%2B32%2BPM.jpg)  
   
 
-[![](https://3.bp.blogspot.com/-7XjNuQ6I6j0/Wa5-C8Zp5zI/AAAAAAAAEps/MEaD7kp3vdM4OeZqU2XkAjdW4AULsi0JgCLcBGAs/s640/Screen%2BShot%2B2017-09-05%2Bat%2B6.35.04%2BPM.png)
+![](https://3.bp.blogspot.com/-7XjNuQ6I6j0/Wa5-C8Zp5zI/AAAAAAAAEps/MEaD7kp3vdM4OeZqU2XkAjdW4AULsi0JgCLcBGAs/s640/Screen%2BShot%2B2017-09-05%2Bat%2B6.35.04%2BPM.png)
 
   
 

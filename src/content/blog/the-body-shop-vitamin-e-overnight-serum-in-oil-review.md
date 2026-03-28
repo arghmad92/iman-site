@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://1.bp.blogspot.com/-uMfHhW4pTxY/WW38ZgDJpWI/AAAAAAAAEEI/kU2bQDjmj5gxsp_VaAFnsrbM0v4q67fwACLcBGAs/s640/Photo%2BJul%2B18%252C%2B18%2B40%2B18.jpg)
+![](https://1.bp.blogspot.com/-uMfHhW4pTxY/WW38ZgDJpWI/AAAAAAAAEEI/kU2bQDjmj5gxsp_VaAFnsrbM0v4q67fwACLcBGAs/s640/Photo%2BJul%2B18%252C%2B18%2B40%2B18.jpg)
 
   
 
@@ -30,7 +30,7 @@ Availability online: [www.thebodyshop.com.my](https://www.thebodyshop.com.my/)
   
   
 
-[![](https://4.bp.blogspot.com/-dnfpXWS38qo/WW38ZQxQqSI/AAAAAAAAEEE/rz3Hf_sOfYIap7oDdG7uhYtC87vPlRGPwCLcBGAs/s640/Photo%2BJul%2B18%252C%2B18%2B51%2B08.jpg)
+![](https://4.bp.blogspot.com/-dnfpXWS38qo/WW38ZQxQqSI/AAAAAAAAEEE/rz3Hf_sOfYIap7oDdG7uhYtC87vPlRGPwCLcBGAs/s640/Photo%2BJul%2B18%252C%2B18%2B51%2B08.jpg)
 
   
 
@@ -61,7 +61,7 @@ I use it during my evening/night skincare routine, after toner and essence, befo
 
   
 
-[![](https://1.bp.blogspot.com/-b0_I9rnVlqI/WW38ZVCXPeI/AAAAAAAAEEA/KnTPfXPUCUUZ6GmcMyoGD-IAcxNpQQa_QCLcBGAs/s640/Photo%2BJul%2B18%252C%2B18%2B51%2B36.jpg)
+![](https://1.bp.blogspot.com/-b0_I9rnVlqI/WW38ZVCXPeI/AAAAAAAAEEA/KnTPfXPUCUUZ6GmcMyoGD-IAcxNpQQa_QCLcBGAs/s640/Photo%2BJul%2B18%252C%2B18%2B51%2B36.jpg)
 
   
 

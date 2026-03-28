@@ -12,7 +12,7 @@ Hari tu I ada tweet about kalau nak buat skin analysis dekat AEON Wellness.
 
   
 
-[![](https://4.bp.blogspot.com/-2MPohdU49JI/WrfKJGjOo3I/AAAAAAAAGHI/lAG--Q1p6lECLUZMala4tmtReua6KT6ngCLcBGAs/s640/Screen%2BShot%2B2018-03-26%2Bat%2B12.11.07%2BAM.png)
+![](https://4.bp.blogspot.com/-2MPohdU49JI/WrfKJGjOo3I/AAAAAAAAGHI/lAG--Q1p6lECLUZMala4tmtReua6KT6ngCLcBGAs/s640/Screen%2BShot%2B2018-03-26%2Bat%2B12.11.07%2BAM.png)
 
   
 
@@ -47,7 +47,7 @@ So basically the beauty advisor guna machine untuk analyze kulit.
 **Hydration -** Untuk kandungan air dalam kulit. Kalau dehydrated (tak cukup air), kena lah makesure your skin is well hydrated. Cari products yang ada hyaluronic acid, glycerin, urea, sorbital. Semua ni boleh bagi hydration untuk kulit.  
   
 
-[![](https://2.bp.blogspot.com/-7QT6vZ-WyP0/WrfQ01wuYXI/AAAAAAAAGHg/fk_Dvebe5bIpa0ZD3KnO2OiDFjYD-0uhQCLcBGAs/s640/Screen%2BShot%2B2018-03-26%2Bat%2B12.40.12%2BAM.png)
+![](https://2.bp.blogspot.com/-7QT6vZ-WyP0/WrfQ01wuYXI/AAAAAAAAGHg/fk_Dvebe5bIpa0ZD3KnO2OiDFjYD-0uhQCLcBGAs/s640/Screen%2BShot%2B2018-03-26%2Bat%2B12.40.12%2BAM.png)
 
   
 
@@ -73,7 +73,7 @@ So basically the beauty advisor guna machine untuk analyze kulit.
 
   
 
-[![](https://2.bp.blogspot.com/-zZcfj2Nykus/WrfN6c8GHKI/AAAAAAAAGHU/zd5LC-lQnmsM8M1GyPV2g9wfjLj9JChOwCLcBGAs/s640/Screen%2BShot%2B2018-03-26%2Bat%2B12.27.35%2BAM.png)
+![](https://2.bp.blogspot.com/-zZcfj2Nykus/WrfN6c8GHKI/AAAAAAAAGHU/zd5LC-lQnmsM8M1GyPV2g9wfjLj9JChOwCLcBGAs/s640/Screen%2BShot%2B2018-03-26%2Bat%2B12.27.35%2BAM.png)
 
   
 

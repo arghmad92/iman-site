@@ -12,7 +12,7 @@ Empties (product yang dah habis) and apa yang I guna sebagai ganti (newbie) in m
 
   
 
-[![](https://2.bp.blogspot.com/-p924hyvurEs/WnHUIrVvB7I/AAAAAAAAF2o/rEDNJ530naAOpbBHKw7FyhlAdj09qDDXgCLcBGAs/s640/Photo%2B31-01-2018%252C%2B10%2B31%2B03%2BPM.jpg)
+![](https://2.bp.blogspot.com/-p924hyvurEs/WnHUIrVvB7I/AAAAAAAAF2o/rEDNJ530naAOpbBHKw7FyhlAdj09qDDXgCLcBGAs/s640/Photo%2B31-01-2018%252C%2B10%2B31%2B03%2BPM.jpg)
 
 Semua ni da habisssss.  
   
@@ -23,7 +23,7 @@ Semua ni da habisssss.
 First of all, my water based cleanser.  
   
 
-[![](https://4.bp.blogspot.com/-1-aS627NXYM/WnHUnNHPCGI/AAAAAAAAF2w/D7iVcAVGnoMb87vzrsYv3YKRKfxz2aNUACLcBGAs/s640/Screen%2BShot%2B2018-01-31%2Bat%2B10.36.58%2BPM.png)
+![](https://4.bp.blogspot.com/-1-aS627NXYM/WnHUnNHPCGI/AAAAAAAAF2w/D7iVcAVGnoMb87vzrsYv3YKRKfxz2aNUACLcBGAs/s640/Screen%2BShot%2B2018-01-31%2Bat%2B10.36.58%2BPM.png)
 
   
 
@@ -55,7 +55,7 @@ Why I bought it: Sebab I rasa Hada Labo sesuai with my skin so why not try anoth
 
 Next is, toner. I've finished my Pixi Glow Tonic already in 2 months ++. Used it 2x/day, sometimes ada jugak skip tapi jarang. My fav.  
   
-[![](https://2.bp.blogspot.com/-VmfsPWjlwAQ/WnHUIUOuzAI/AAAAAAAAF2g/K2eDK_HECeYI8U61fqHtdwZ4WkzgsZRuACLcBGAs/s640/Photo%2B31-01-2018%252C%2B10%2B31%2B26%2BPM.jpg)  
+![](https://2.bp.blogspot.com/-VmfsPWjlwAQ/WnHUIUOuzAI/AAAAAAAAF2g/K2eDK_HECeYI8U61fqHtdwZ4WkzgsZRuACLcBGAs/s640/Photo%2B31-01-2018%252C%2B10%2B31%2B26%2BPM.jpg)  
   
 Already have a backup for this, so tak ada newbie. Repurchased a new Pixi Glow Tonic already. Memang I'm gonna stick to this toner buat masa sekarang.  
   
@@ -69,7 +69,7 @@ Review: [Pixi Glow Tonic Review](http://imanabdulrahim.blogspot.my/2017/12/pixi
 Lastly, is my moisturizer.  
   
 
-[![](https://2.bp.blogspot.com/-cb-b2GtIvpw/WnHWRdcN2UI/AAAAAAAAF3I/JLfovrGz5aMMpTsGkzEIM0LpI0pRvuK8gCLcBGAs/s640/Screen%2BShot%2B2018-01-31%2Bat%2B10.44.04%2BPM.png)
+![](https://2.bp.blogspot.com/-cb-b2GtIvpw/WnHWRdcN2UI/AAAAAAAAF3I/JLfovrGz5aMMpTsGkzEIM0LpI0pRvuK8gCLcBGAs/s640/Screen%2BShot%2B2018-01-31%2Bat%2B10.44.04%2BPM.png)
 
   
 **Empty**: The Face Shop Dr Belmeur Moisturizer  

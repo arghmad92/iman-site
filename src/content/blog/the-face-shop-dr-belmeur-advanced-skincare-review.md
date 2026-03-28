@@ -8,7 +8,7 @@ readTime: "3 min read"
 draft: false
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWHpvI6bnBTc7uErYBwjsLPc3a5yPWuOJnD9q5yrqppVjb4mLC9xPHJhqH4hVr6DvSVNIZ20rHJrP_E8nRy-9Ul0hZwgPmhifLV9IlLRrCD-Tt4I82WGeaHX50vsgAr7C8r4h7oL-zOXnU/s640/9377D8B2-CDB1-4A7F-ACD4-E25980055FDF.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWHpvI6bnBTc7uErYBwjsLPc3a5yPWuOJnD9q5yrqppVjb4mLC9xPHJhqH4hVr6DvSVNIZ20rHJrP_E8nRy-9Ul0hZwgPmhifLV9IlLRrCD-Tt4I82WGeaHX50vsgAr7C8r4h7oL-zOXnU/s640/9377D8B2-CDB1-4A7F-ACD4-E25980055FDF.jpg)
 
 THE FACE SHOP Dr. Belmeur Advanced Skincare Review
 
@@ -53,21 +53,21 @@ I received 3 products from the Dr. Belmeur Advance Cica Recovery range which are
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwlTMeVA6P0xgx1IXXw9iNGnXSq2DIxmbbE4V8EMpeQ2AbIJ7jSbaLO3b2IPBrDf6cizTgyIxQd3qaT-3pZHE0dJTrXCIVdHRPlVHbwBritfgGMiOAQ-8qy6lkYkkb1TL79wcHpL_Gib0G/s640/6E6E6373-7A67-49F8-A9A3-57A5BD93ABA2.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwlTMeVA6P0xgx1IXXw9iNGnXSq2DIxmbbE4V8EMpeQ2AbIJ7jSbaLO3b2IPBrDf6cizTgyIxQd3qaT-3pZHE0dJTrXCIVdHRPlVHbwBritfgGMiOAQ-8qy6lkYkkb1TL79wcHpL_Gib0G/s640/6E6E6373-7A67-49F8-A9A3-57A5BD93ABA2.jpg)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRZ8H6_mx-9WDJkKclPbZBPmoHu1RSz0U_uo_Or5zstf_4z_Fs0htBcVhDtoKpIWsvrJEqYtX3jSyEdzgx26xC7Wp8ouprUMXbohOXoRm1V-5_mMQOGLABgHfXPM687Fo4fTY5Ru660MZX/s640/82952314-2462-4BF8-A342-9C9E71777A73.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRZ8H6_mx-9WDJkKclPbZBPmoHu1RSz0U_uo_Or5zstf_4z_Fs0htBcVhDtoKpIWsvrJEqYtX3jSyEdzgx26xC7Wp8ouprUMXbohOXoRm1V-5_mMQOGLABgHfXPM687Fo4fTY5Ru660MZX/s640/82952314-2462-4BF8-A342-9C9E71777A73.jpg)
 
 It comes with a dropper and the texture is very light.
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWBPS-UBC8lj_Zs21KCooa4QWjEdW_c_HT3n5TRdEmES9YJpMu7VXaZOaUiR49fStlVKNj3pzWb8HlPRQOPDtndUMfuWcRhaiZ_ag5MSCKJtg6Gd71G4eqN3teT_8B9u08wkWHVzPER1H4/s640/69B35548-E05C-49A6-8CA4-9DF2B0E9B0AE.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWBPS-UBC8lj_Zs21KCooa4QWjEdW_c_HT3n5TRdEmES9YJpMu7VXaZOaUiR49fStlVKNj3pzWb8HlPRQOPDtndUMfuWcRhaiZ_ag5MSCKJtg6Gd71G4eqN3teT_8B9u08wkWHVzPER1H4/s640/69B35548-E05C-49A6-8CA4-9DF2B0E9B0AE.jpg)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8t0g92ZiqpIe837H-fBRmM96ScnWbS0LYE2WMFg41CxH_qePWD9jyzvQWDR0F8IYJQ42nnniw2eauH0Rl-UgXVDULWm6gw5eHWdtbZb1g6ZZ0ofUpsqqtGpOwNLRDF0jbXrkUAkMDtpw_/s640/73B21CA6-91AF-43DF-BDD2-9B795420EC5C.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8t0g92ZiqpIe837H-fBRmM96ScnWbS0LYE2WMFg41CxH_qePWD9jyzvQWDR0F8IYJQ42nnniw2eauH0Rl-UgXVDULWm6gw5eHWdtbZb1g6ZZ0ofUpsqqtGpOwNLRDF0jbXrkUAkMDtpw_/s640/73B21CA6-91AF-43DF-BDD2-9B795420EC5C.jpg)
 
 Use this after applying your toner. It absorbs nicely into the skin without any sticky or greasy feeling. I also like the refreshing scent. From the website, they also suggested to use this with a cotton pad. Damp the cotton pad with Dr Belmeur Daily Repair Mineral Salt Toner with a few drop of Dr. Belmeur Cica Peptite Ampoule onto a cotton pad and place it on the affected areas of you skin.  Secondly, you can mix a few drop of Dr. Belmeur Cica Peptite Ampoule  & Dr. Belmeur Advanced Cica Recovery Cream to smothen the cream texture to create emulsion alike texture.
 
@@ -75,11 +75,11 @@ Use this after applying your toner. It absorbs nicely into the skin without any 
 
 **Dr. Belmeur Advance Cica Recovery Serum 50ml (RM165.00)**
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQjH59JYIMdic6LhZbc9vJwoY4aIHcYgiptA_4P38C-5tDJq_cVX4eknEqu5hNgmInz4dadcVuK22DD5DATYsbC8pcxO-ZNL0z-6Di7R0LlSDWbyRmYfpep3ZYyBskzRDNQBbTqHDdylwV/s640/45CDF853-A050-474E-9B75-D57874A7BFD4.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQjH59JYIMdic6LhZbc9vJwoY4aIHcYgiptA_4P38C-5tDJq_cVX4eknEqu5hNgmInz4dadcVuK22DD5DATYsbC8pcxO-ZNL0z-6Di7R0LlSDWbyRmYfpep3ZYyBskzRDNQBbTqHDdylwV/s640/45CDF853-A050-474E-9B75-D57874A7BFD4.jpg)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiNxcmoWo4D3l9UxkMXu2Jelm7dpE7PZkZo9ly7w2o8fa57f2-wwuqzGpuku4Jp6eWJU4-U9F5e8oWu_g8X1cjCJJg6vPuoCGfZWGFMvnrsKuI0YNvnPtHxZrotFgF5LHgJ6xegDWsdTZc/s640/3D69690F-E3D4-48A4-A075-75E18C8F7E8C.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiNxcmoWo4D3l9UxkMXu2Jelm7dpE7PZkZo9ly7w2o8fa57f2-wwuqzGpuku4Jp6eWJU4-U9F5e8oWu_g8X1cjCJJg6vPuoCGfZWGFMvnrsKuI0YNvnPtHxZrotFgF5LHgJ6xegDWsdTZc/s640/3D69690F-E3D4-48A4-A075-75E18C8F7E8C.jpg)
 
 Ingredients
 
@@ -87,13 +87,13 @@ WATER•GLYCERIN•CYCLOPENTASILOXANE•POLYMETHYLSILSESQUIOXANE• CYCLOHEXASIL
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZvFp1pHdHhoRpWpaYEp0OUhKbzF_KARxWSyYEwORy5FpCl5tXFyJqqm6lFrgAjXS28-eI3cdDq_1iJ_I3idtK7hwtbrf0m2qb3fdYHMx4e939zvLM1kUWzhED15pSeTv3eRkjjkgyIPAQ/s640/BB13F322-36B8-4B15-80BB-28C1D9D7654E.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZvFp1pHdHhoRpWpaYEp0OUhKbzF_KARxWSyYEwORy5FpCl5tXFyJqqm6lFrgAjXS28-eI3cdDq_1iJ_I3idtK7hwtbrf0m2qb3fdYHMx4e939zvLM1kUWzhED15pSeTv3eRkjjkgyIPAQ/s640/BB13F322-36B8-4B15-80BB-28C1D9D7654E.jpg)
 
 I love the pump packaging since it's more hygienic and easy to use.
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrI8YwLimil4-LBgnOTssdc_4PytkkDK7mWw9JLUdB73VxXGTCIbqCqiWNZiq_iB06P2UjlHPlMyChtcftG11pVawgCbycEDdZfTS2nc9TgwXWjAbYOX6br-qnsc9Tz4P2i456Aoo-LkW/s640/DB4E7036-D55C-4D17-9F0F-F8DF384E20EA.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrI8YwLimil4-LBgnOTssdc_4PytkkDK7mWw9JLUdB73VxXGTCIbqCqiWNZiq_iB06P2UjlHPlMyChtcftG11pVawgCbycEDdZfTS2nc9TgwXWjAbYOX6br-qnsc9Tz4P2i456Aoo-LkW/s640/DB4E7036-D55C-4D17-9F0F-F8DF384E20EA.jpg)
 
 The texture is quite thick for a serum that I normally use. This is almost like a lotion-light cream texture. If you have oily skin, I think you can use this as moisturizer as well, because of it's light texture. 
 
@@ -105,11 +105,11 @@ The texture is quite thick for a serum that I normally use. This is almost like 
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHT7ng9XEWdHJnNKkr3gIwz9LwagnoH4fnFX7vH6JlPDXJmeUUzNLkdwj62ngqOWicWUwcqzD5aQVCNS2GiFUIw4jbg5hXq8uBQ2RJYCkMmI6hWbnPY-qbab4EybRq1r-43ceXhio_pwuW/s640/91337890-7B72-46F5-8D03-3A4396AB3022.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHT7ng9XEWdHJnNKkr3gIwz9LwagnoH4fnFX7vH6JlPDXJmeUUzNLkdwj62ngqOWicWUwcqzD5aQVCNS2GiFUIw4jbg5hXq8uBQ2RJYCkMmI6hWbnPY-qbab4EybRq1r-43ceXhio_pwuW/s640/91337890-7B72-46F5-8D03-3A4396AB3022.jpg)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLEXPIJhhO2JdHJLwZcfPwIzX0E_yVFbgdarF_KimW9mTHwyTFh6VJx88jZ0OfSFYfN8ayIaNcyPWF2o89mH1YLrstxpb6xLADFBMfhGpcibCvdm3UqL3mFksylhERTqLOz7cEVgG2BWq3/s640/2237FFEC-ADB0-4F57-A2E6-0BEB28C9DB90.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLEXPIJhhO2JdHJLwZcfPwIzX0E_yVFbgdarF_KimW9mTHwyTFh6VJx88jZ0OfSFYfN8ayIaNcyPWF2o89mH1YLrstxpb6xLADFBMfhGpcibCvdm3UqL3mFksylhERTqLOz7cEVgG2BWq3/s640/2237FFEC-ADB0-4F57-A2E6-0BEB28C9DB90.jpg)
 
   
 
@@ -121,11 +121,11 @@ WATER•DIPROPYLENE GLYCOL•GLYCERIN•CYCLOHEXASILOXANE•COCO-CAPRYLATE/CAPRA
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOMYH7fT8vKquO4Hv5nbPBR1YO6R1zRP35nxUpFiwbB5cL4KRq8p-SGsBoznzQmlpyWwxcLD5ZTRLz1xoiA3Kb492j-KHxNmt71yPTnLQ_ucnJ9f0akE5R_R9Akhn4-cY_vRUc_5jW-ZMJ/s640/3A381A97-174A-49AD-9269-353E7A8D22C9.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOMYH7fT8vKquO4Hv5nbPBR1YO6R1zRP35nxUpFiwbB5cL4KRq8p-SGsBoznzQmlpyWwxcLD5ZTRLz1xoiA3Kb492j-KHxNmt71yPTnLQ_ucnJ9f0akE5R_R9Akhn4-cY_vRUc_5jW-ZMJ/s640/3A381A97-174A-49AD-9269-353E7A8D22C9.jpg)
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBBtvdWTji4zMATPohAvxNqVdkEQE8GQoz0h39fC1nKIHN1P8DENP9NEgmMyryHhD-YuimO6MmmC38ky9xL_w7dVkILbvjB91mV-riN-s1g7agkuOVDBg7XPs4wEMYWUqCesD9wwBABw0i/s640/DD4DC56C-4578-4B79-82B5-0C554CA90A1E.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBBtvdWTji4zMATPohAvxNqVdkEQE8GQoz0h39fC1nKIHN1P8DENP9NEgmMyryHhD-YuimO6MmmC38ky9xL_w7dVkILbvjB91mV-riN-s1g7agkuOVDBg7XPs4wEMYWUqCesD9wwBABw0i/s640/DD4DC56C-4578-4B79-82B5-0C554CA90A1E.jpg)
 
 The texture is very thick, almost like a balm and a little goes along the way. I was a bit sceptical when I saw the texture since I'm afraid it is going to be very greasy because it looks so thick. However when I applied it on my skin, it absorbs nicely and makes my skin feeling moisturized without the greasy feeling. This moisturizer has become my everyday moisturizer and I really love how my skin feels.
 
