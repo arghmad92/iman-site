@@ -22,7 +22,8 @@
       "Bash(curl:*)",
       "Bash(grep -v ':0$')",
       "Bash(node -e \":*)",
-      "Bash(node scrape2.mjs)"
+      "Bash(node scrape2.mjs)",
+      "Bash(node scrape3.mjs)"
     ]
   }
 }
