@@ -29,18 +29,14 @@ import Layout from '../layouts/Layout.astro';
     </div>
 
     <div class="quiz-page">
-      <!-- Quiz container -->
+      <!-- Quiz container — all questions on one page -->
       <div id="quizContainer" class="quiz-container">
-        <!-- Progress -->
-        <div class="quiz-progress">
-          <div class="quiz-progress-bar" id="progressBar" style="width:0%"></div>
-        </div>
-        <p class="quiz-step" id="stepLabel">Question 1 of 3</p>
 
         <!-- Q1: Skin Type -->
-        <div class="quiz-question active" data-q="0">
+        <div class="quiz-section">
+          <div class="quiz-q-label">Question 1</div>
           <h2>What is your skin type?</h2>
-          <div class="quiz-options">
+          <div class="quiz-options" id="skinTypeOptions">
             <button class="quiz-opt" data-value="dry">Dry</button>
             <button class="quiz-opt" data-value="oily">Oily</button>
             <button class="quiz-opt" data-value="combo">Combination</button>
@@ -49,10 +45,11 @@ import Layout from '../layouts/Layout.astro';
         </div>
 
         <!-- Q2: Skin Concern (multi-select) -->
-        <div class="quiz-question" data-q="1">
+        <div class="quiz-section">
+          <div class="quiz-q-label">Question 2</div>
           <h2>What is your skin concern?</h2>
           <p class="quiz-hint">Select all that apply</p>
-          <div class="quiz-options quiz-options--multi">
+          <div class="quiz-options quiz-options--multi" id="concernOptions">
             <button class="quiz-opt quiz-opt--multi" data-concern="acne">Acne & Breakouts</button>
             <button class="quiz-opt quiz-opt--multi" data-concern="dryness">Dryness & Dehydration</button>
             <button class="quiz-opt quiz-opt--multi" data-concern="pigmentation">Hyperpigmentation & Dark Spots</button>
@@ -62,17 +59,21 @@ import Layout from '../layouts/Layout.astro';
             <button class="quiz-opt quiz-opt--multi" data-concern="dull">Dull Skin</button>
             <button class="quiz-opt quiz-opt--multi" data-concern="sensitivity">Sensitivity & Redness</button>
           </div>
-          <button class="quiz-next-btn" id="concernNextBtn" disabled>Next</button>
         </div>
 
         <!-- Q3: Pregnant/Breastfeeding -->
-        <div class="quiz-question" data-q="2">
+        <div class="quiz-section">
+          <div class="quiz-q-label">Question 3</div>
           <h2>Are you pregnant or breastfeeding?</h2>
-          <div class="quiz-options">
+          <div class="quiz-options" id="pregnantOptions">
             <button class="quiz-opt" data-value="pregnant_yes">Yes</button>
             <button class="quiz-opt" data-value="pregnant_no">No</button>
           </div>
         </div>
+
+        <!-- Submit button -->
+        <button class="quiz-submit-btn" id="quizSubmitBtn" disabled>Get My Routine</button>
+        <p class="quiz-submit-hint" id="quizSubmitHint">Please answer all 3 questions above</p>
       </div>
 
       <!-- Results (hidden until quiz complete) -->
@@ -133,39 +134,26 @@ import Layout from '../layouts/Layout.astro';
 </Layout>
 
 <script>
-  let currentQ = 0;
-  const totalQ = 3;
   let skinType = '';
   let concerns: string[] = [];
-  let isPregnant = false;
+  let isPregnant: boolean | null = null;
 
-  const questions = document.querySelectorAll('.quiz-question');
-  const progressBar = document.getElementById('progressBar')!;
-  const stepLabel = document.getElementById('stepLabel')!;
+  const submitBtn = document.getElementById('quizSubmitBtn') as HTMLButtonElement;
+  const submitHint = document.getElementById('quizSubmitHint')!;
 
-  function nextQuestion() {
-    currentQ++;
-    if (currentQ >= totalQ) {
-      showResults();
-    } else {
-      questions.forEach(q => q.classList.remove('active'));
-      questions[currentQ].classList.add('active');
-      progressBar.style.width = `${(currentQ / totalQ) * 100}%`;
-      stepLabel.textContent = `Question ${currentQ + 1} of ${totalQ}`;
-    }
+  function checkReady() {
+    const ready = skinType !== '' && concerns.length > 0 && isPregnant !== null;
+    submitBtn.disabled = !ready;
+    submitHint.style.display = ready ? 'none' : '';
   }
 
-  // Q1 & Q3: Single select
-  document.querySelectorAll('.quiz-opt:not(.quiz-opt--multi)').forEach(btn => {
+  // Q1: Skin type (single select within group)
+  document.getElementById('skinTypeOptions')!.querySelectorAll('.quiz-opt').forEach(btn => {
     btn.addEventListener('click', () => {
-      const val = (btn as HTMLElement).dataset.value!;
       btn.parentElement!.querySelectorAll('.quiz-opt').forEach(b => b.classList.remove('selected'));
       btn.classList.add('selected');
-
-      if (currentQ === 0) skinType = val;
-      if (currentQ === 2) isPregnant = val === 'pregnant_yes';
-
-      setTimeout(nextQuestion, 300);
+      skinType = (btn as HTMLElement).dataset.value!;
+      checkReady();
     });
   });
 
@@ -177,12 +165,23 @@ import Layout from '../layouts/Layout.astro';
       document.querySelectorAll('.quiz-opt--multi.selected').forEach(b => {
         concerns.push((b as HTMLElement).dataset.concern!);
       });
-      (document.getElementById('concernNextBtn') as HTMLButtonElement).disabled = concerns.length === 0;
+      checkReady();
     });
   });
 
-  document.getElementById('concernNextBtn')!.addEventListener('click', () => {
-    if (concerns.length > 0) nextQuestion();
+  // Q3: Pregnant (single select within group)
+  document.getElementById('pregnantOptions')!.querySelectorAll('.quiz-opt').forEach(btn => {
+    btn.addEventListener('click', () => {
+      btn.parentElement!.querySelectorAll('.quiz-opt').forEach(b => b.classList.remove('selected'));
+      btn.classList.add('selected');
+      isPregnant = (btn as HTMLElement).dataset.value === 'pregnant_yes';
+      checkReady();
+    });
+  });
+
+  // Submit
+  submitBtn.addEventListener('click', () => {
+    if (skinType && concerns.length > 0 && isPregnant !== null) showResults();
   });
 
   const skinData: Record<string, {
@@ -512,15 +511,12 @@ import Layout from '../layouts/Layout.astro';
   document.getElementById('retakeBtn')!.addEventListener('click', () => {
     skinType = '';
     concerns = [];
-    isPregnant = false;
-    currentQ = 0;
+    isPregnant = null;
     document.getElementById('quizResults')!.style.display = 'none';
     document.getElementById('quizContainer')!.style.display = '';
-    questions.forEach((q, i) => q.classList.toggle('active', i === 0));
     document.querySelectorAll('.quiz-opt').forEach(b => b.classList.remove('selected'));
-    progressBar.style.width = '0%';
-    stepLabel.textContent = 'Question 1 of 3';
-    (document.getElementById('concernNextBtn') as HTMLButtonElement).disabled = true;
+    submitBtn.disabled = true;
+    submitHint.style.display = '';
     document.getElementById('resultInserts')!.innerHTML = '';
     document.getElementById('extraSerums')!.innerHTML = '';
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -564,17 +560,30 @@ import Layout from '../layouts/Layout.astro';
     pointer-events: none; z-index: -1;
   }
 
-  /* Progress */
-  .quiz-progress { height: 4px; background: var(--border); border-radius: 100px; margin-bottom: 0.5rem; overflow: hidden; }
-  .quiz-progress-bar { height: 100%; background: var(--rose-gold); border-radius: 100px; transition: width 0.4s ease; }
-  .quiz-step { font-size: 0.72rem; color: var(--text-muted); margin-bottom: 2rem; letter-spacing: 0.06em; }
+  /* Quiz sections */
+  .quiz-section {
+    padding: 1.5rem; margin-bottom: 1rem;
+    background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(245, 213, 218, 0.4); border-radius: 20px;
+  }
+  .quiz-q-label {
+    font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--rose-gold); font-weight: 600; margin-bottom: 0.5rem;
+  }
+  .quiz-section h2 {
+    font-family: 'Cormorant Garamond', serif; font-size: 1.3rem;
+    color: var(--text-primary); margin-bottom: 1rem; line-height: 1.4;
+  }
 
-  /* Questions */
-  .quiz-question { display: none; }
-  .quiz-question.active { display: block; animation: fadeIn 0.3s ease; }
-  @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; } }
-
-  .quiz-question h2 { font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; color: var(--text-primary); margin-bottom: 1.5rem; line-height: 1.4; }
+  .quiz-submit-btn {
+    width: 100%; padding: 1rem; border-radius: 100px; border: none;
+    background: var(--rose-gold); color: white; font-family: 'DM Sans', sans-serif;
+    font-size: 0.95rem; font-weight: 600; cursor: pointer; transition: all 0.25s;
+    margin-top: 0.5rem;
+  }
+  .quiz-submit-btn:hover:not(:disabled) { background: var(--deep-rose); transform: translateY(-2px); box-shadow: 0 8px 24px rgba(201,132,140,0.25); }
+  .quiz-submit-btn:disabled { background: var(--border); color: var(--text-muted); cursor: not-allowed; }
+  .quiz-submit-hint { font-size: 0.75rem; color: var(--text-muted); text-align: center; margin-top: 0.5rem; font-style: italic; }
 
   .quiz-options { display: flex; flex-direction: column; gap: 0.6rem; }
   .quiz-opt {
@@ -593,13 +602,7 @@ import Layout from '../layouts/Layout.astro';
   .quiz-opt--multi { flex: 0 0 auto; padding: 0.7rem 1rem; font-size: 0.85rem; text-align: center; }
   .quiz-opt--multi.selected { border-color: var(--rose-gold); background: var(--blush); }
 
-  .quiz-next-btn {
-    margin-top: 1rem; width: 100%; padding: 0.9rem; border-radius: 100px;
-    background: var(--rose-gold); color: white; border: none; font-family: 'DM Sans', sans-serif;
-    font-size: 0.88rem; font-weight: 600; cursor: pointer; transition: all 0.2s;
-  }
-  .quiz-next-btn:hover:not(:disabled) { background: var(--deep-rose); }
-  .quiz-next-btn:disabled { background: var(--border); color: var(--text-muted); cursor: not-allowed; }
+  /* (next button removed — single page layout) */
 
   .pregnancy-warning {
     background: rgba(255, 149, 0, 0.08); border: 1px solid rgba(255, 149, 0, 0.25);
