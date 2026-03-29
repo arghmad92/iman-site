@@ -258,7 +258,7 @@ import Layout from '../layouts/Layout.astro';
       night: [
         { step: '1st Cleanser', tip: 'Oil cleanser, cleansing balm, or micellar water to melt away sunscreen' },
         { step: '2nd Cleanser', tip: 'Gentle hydrating cream cleanser' },
-        { step: 'Toner', tip: 'Hydrating toner — pat in layers for deep hydration' },  /* Dry skin keeps layers */
+        { step: 'Toner', tip: 'Hydrating toner' },
         { step: 'Serum', tip: 'Hyaluronic acid or ceramide serum for moisture repair' },
         { step: 'Moisturizer', tip: 'Rich night cream or sleeping mask to lock in hydration' },
       ],
@@ -410,12 +410,9 @@ import Layout from '../layouts/Layout.astro';
 
   function showResults() {
     // Smart routine override: certain concern + skin type combos use a different routine
-    // Dry skin + acne = use combination routine (acne needs lighter products, dry needs hydration)
     let routineType = skinType;
-    let routineNote = '';
     if (skinType === 'dry' && concerns.includes('acne')) {
       routineType = 'combo';
-      routineNote = 'Since you have dry skin with acne concerns, I recommend a combination skin routine — it balances hydration without clogging pores.';
     }
 
     const data = skinData[skinType] || skinData.normal;
@@ -498,13 +495,8 @@ import Layout from '../layouts/Layout.astro';
       ).join('');
     }
 
-    // Routine override note
-    const routineNoteBanner = routineNote
-      ? `<div class="routine-note"><strong>💡 Routine Tip</strong><p>${routineNote}</p></div>`
-      : '';
-
-    // Inject pregnancy banner, concern tags, and routine note
-    document.getElementById('resultInserts')!.innerHTML = pregnancyBanner + concernTags + routineNoteBanner;
+    // Inject pregnancy banner and concern tags
+    document.getElementById('resultInserts')!.innerHTML = pregnancyBanner + concernTags;
 
     // Render routines
     document.getElementById('morningSteps')!.innerHTML = renderRoutine(routineData.morning);
