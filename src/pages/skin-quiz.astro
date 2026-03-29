@@ -1038,9 +1038,72 @@ import Layout from '../layouts/Layout.astro';
     };
     const cLabels = isMs ? concernLabelsMs : concernLabelsEn;
 
+    // Build the same serum override as the display logic
+    const dlIngredientMapEn: Record<string, string> = {
+      acne: 'Niacinamide + Tea Tree to control breakouts and calm inflammation without over-drying your skin',
+      dryness: 'Hyaluronic Acid + Ceramides for deep hydration and to repair your moisture barrier so skin holds water better',
+      pigmentation: 'Vitamin C + Arbutin + Niacinamide to fade dark spots and even out skin tone over time with consistent use',
+      pores: 'Niacinamide + Zinc to tighten the appearance of pores and regulate excess oil that stretches them out',
+      whitehead: 'AHA (Glycolic or Lactic Acid) to gently dissolve dead skin buildup that traps oil and causes clogged pores',
+      aging: 'Retinol + Peptides to boost collagen production and reduce fine lines. Start slow (2-3x/week) to avoid irritation',
+      dull: 'Vitamin C + Arbutin + Niacinamide to brighten and bring back that healthy glow by targeting uneven tone',
+      sensitivity: 'Centella Asiatica + Panthenol to soothe redness, calm irritation, and strengthen your skin barrier',
+    };
+    const dlIngredientMapMs: Record<string, string> = {
+      acne: 'Niacinamide + Tea Tree untuk mengawal jerawat dan meredakan keradangan tanpa mengeringkan kulit',
+      dryness: 'Hyaluronic Acid + Ceramides untuk hidrasi mendalam dan membaiki barrier kelembapan',
+      pigmentation: 'Vitamin C + Arbutin + Niacinamide untuk memudarkan tompok gelap dan menyekatakan tona kulit',
+      pores: 'Niacinamide + Zinc untuk mengetatkan rupa pori dan mengawal minyak berlebihan',
+      whitehead: 'AHA (Glycolic atau Lactic Acid) untuk melarutkan sel kulit mati yang memerangkap minyak',
+      aging: 'Retinol + Peptides untuk merangsang kolagen dan mengurangkan garis halus. Mulakan perlahan (2-3x/minggu)',
+      dull: 'Vitamin C + Arbutin + Niacinamide untuk mencerahkan dan mengembalikan seri kulit yang sihat',
+      sensitivity: 'Centella Asiatica + Panthenol untuk meredakan kemerahan dan mengukuhkan barrier kulit',
+    };
+    const dlPregnantMapEn: Record<string, string> = {
+      acne: 'Niacinamide to control breakouts safely during pregnancy',
+      whitehead: 'Low % Lactic Acid or Niacinamide for pregnancy-safe exfoliation',
+      aging: 'Peptides + Vitamin C for collagen support without retinol',
+      dull: 'Niacinamide + Vitamin C for safe brightening during pregnancy',
+      pigmentation: 'Niacinamide + Vitamin C to fade dark spots safely',
+    };
+    const dlPregnantMapMs: Record<string, string> = {
+      acne: 'Niacinamide untuk mengawal jerawat dengan selamat semasa mengandung',
+      whitehead: 'Low % Lactic Acid atau Niacinamide untuk exfoliation selamat semasa mengandung',
+      aging: 'Peptides + Vitamin C untuk sokongan kolagen tanpa retinol',
+      dull: 'Niacinamide + Vitamin C untuk pencerahan selamat semasa mengandung',
+      pigmentation: 'Niacinamide + Vitamin C untuk memudarkan tompok gelap dengan selamat',
+    };
+    const dlIngMap = isMs ? dlIngredientMapMs : dlIngredientMapEn;
+    const dlPregMap = isMs ? dlPregnantMapMs : dlPregnantMapEn;
+
+    // Build serum tip matching the displayed version
+    let dlSerumTip = isMs
+      ? (routineData.night[3]?.tipMs || 'Pilih serum berdasarkan masalah kulit anda')
+      : (routineData.night[3]?.tip || 'Choose a serum based on your skin concern');
+    let dlSerumTipMs = routineData.night[3]?.tipMs || dlSerumTip;
+    let dlSerumTipEn = routineData.night[3]?.tip || dlSerumTip;
+    if (concerns.length > 0) {
+      const ingredientLines = concerns.map(c => {
+        const ing = (isPregnant && dlPregMap[c]) ? dlPregMap[c] : dlIngMap[c];
+        return ing ? `${cLabels[c] || c}: ${ing}` : '';
+      }).filter(Boolean);
+      const intro = isMs ? 'Gunakan serum dengan bahan-bahan ini berdasarkan masalah kulit anda:' : 'Use serum with these ingredients based on your concerns:';
+      dlSerumTip = intro + '\n' + ingredientLines.join('\n');
+    }
+
+    // Build final night steps with serum override
+    const dlNightSteps = routineData.night.map((r, i) => {
+      if (i === 3) {
+        return { ...r, step: 'Serum', stepMs: 'Serum', tip: dlSerumTip, tipMs: dlSerumTip };
+      }
+      return r;
+    });
+
     const W = 1080;
     const pad = 60;
     const contentW = W - pad * 2;
+    const stepTextX = pad + 50;
+    const stepTextW = contentW - 50;
 
     // Pre-calculate heights
     const canvas = document.createElement('canvas');
@@ -1065,6 +1128,20 @@ import Layout from '../layouts/Layout.astro';
       }
       if (line) lines.push(line);
       return lines;
+    }
+
+    // Helper: calculate step height
+    function calcStepH(tip: string): number {
+      const cleanTip = tip.replace(/<[^>]*>/g, '').replace(/•/g, '').trim();
+      // Split by newlines for multi-line serum tips
+      const paragraphs = cleanTip.split('\n');
+      let totalLines = 0;
+      for (const p of paragraphs) {
+        if (!p.trim()) continue;
+        const lines = wrapText(p.trim(), stepTextW, '300 20px DM Sans, sans-serif');
+        totalLines += lines.length;
+      }
+      return Math.max(totalLines * 26 + 32, 54);
     }
 
     // Calculate total height
@@ -1095,20 +1172,16 @@ import Layout from '../layouts/Layout.astro';
     totalH += 16;
     for (const step of routineData.morning) {
       const tipText = isMs ? step.tipMs : step.tip;
-      const tipLines = wrapText(tipText, contentW - 80, '300 20px DM Sans, sans-serif');
-      totalH += Math.max(tipLines.length * 26 + 30, 50);
-      totalH += 8;
+      totalH += calcStepH(tipText) + 8;
     }
     totalH += 28;
 
     // Night routine
     totalH += 40; // header
     totalH += 16;
-    for (const step of routineData.night) {
+    for (const step of dlNightSteps) {
       const tipText = isMs ? step.tipMs : step.tip;
-      const tipLines = wrapText(tipText, contentW - 80, '300 20px DM Sans, sans-serif');
-      totalH += Math.max(tipLines.length * 26 + 30, 50);
-      totalH += 8;
+      totalH += calcStepH(tipText) + 8;
     }
     totalH += 36;
 
@@ -1207,8 +1280,9 @@ import Layout from '../layouts/Layout.astro';
     // Routine renderer
     function drawRoutine(title: string, emoji: string, steps: typeof routineData.morning) {
       // Header background
-      const headerBg = title.includes('Pagi') || title.includes('Morning') ? '#fff8e1' : '#e8eaf6';
-      const headerBorder = title.includes('Pagi') || title.includes('Morning') ? '#ffe0b2' : '#d1c4e9';
+      const isMorning = title.includes('Pagi') || title.includes('Morning');
+      const headerBg = isMorning ? '#fff8e1' : '#e8eaf6';
+      const headerBorder = isMorning ? '#ffe0b2' : '#d1c4e9';
       ctx.fillStyle = headerBg;
       ctx.beginPath();
       ctx.roundRect(pad, y, contentW, 40, 10);
@@ -1231,36 +1305,39 @@ import Layout from '../layouts/Layout.astro';
         const step = steps[i];
         const stepName = isMs ? step.stepMs : step.step;
         const tipText = isMs ? step.tipMs : step.tip;
-        // Strip HTML from tip
+        // Strip HTML and split by newlines for serum multi-line
         const cleanTip = tipText.replace(/<[^>]*>/g, '').replace(/•/g, '').trim();
-        const tipLines = wrapText(cleanTip, contentW - 80, '300 20px DM Sans, sans-serif');
-        const stepH = Math.max(tipLines.length * 26 + 30, 50);
+        const paragraphs = cleanTip.split('\n').filter(p => p.trim());
 
         // Step number circle
         ctx.fillStyle = '#c9848c';
         ctx.beginPath();
-        ctx.arc(pad + 16, y + 16, 14, 0, Math.PI * 2);
+        ctx.arc(pad + 18, y + 16, 14, 0, Math.PI * 2);
         ctx.fill();
         ctx.fillStyle = '#ffffff';
         ctx.font = '700 14px DM Sans, sans-serif';
         ctx.textAlign = 'center';
-        ctx.fillText(String(i + 1), pad + 16, y + 10);
+        ctx.fillText(String(i + 1), pad + 18, y + 10);
         ctx.textAlign = 'left';
 
         // Step name
         ctx.font = '600 20px DM Sans, sans-serif';
         ctx.fillStyle = '#4a2830';
-        ctx.fillText(stepName, pad + 42, y + 2);
+        ctx.fillText(stepName, stepTextX, y + 2);
 
-        // Tip lines
-        ctx.font = '300 20px DM Sans, sans-serif';
-        ctx.fillStyle = '#9e6b74';
-        let tipY = y + 28;
-        for (const line of tipLines) {
-          ctx.fillText(line, pad + 42, tipY);
-          tipY += 26;
+        // Tip paragraphs
+        let tipY = y + 30;
+        for (const para of paragraphs) {
+          const tipLines = wrapText(para.trim(), stepTextW, '300 20px DM Sans, sans-serif');
+          ctx.font = '300 20px DM Sans, sans-serif';
+          ctx.fillStyle = '#9e6b74';
+          for (const line of tipLines) {
+            ctx.fillText(line, stepTextX, tipY);
+            tipY += 26;
+          }
         }
 
+        const stepH = Math.max(tipY - y, 54);
         y += stepH + 8;
 
         // Divider between steps
@@ -1268,7 +1345,7 @@ import Layout from '../layouts/Layout.astro';
           ctx.strokeStyle = '#f5d5da';
           ctx.lineWidth = 0.5;
           ctx.beginPath();
-          ctx.moveTo(pad + 42, y - 4);
+          ctx.moveTo(stepTextX, y - 4);
           ctx.lineTo(W - pad, y - 4);
           ctx.stroke();
         }
@@ -1276,11 +1353,8 @@ import Layout from '../layouts/Layout.astro';
       y += 28;
     }
 
-    const morningTitle = isMs ? '☀️ Rutin Pagi' : '☀️ Morning Routine';
-    const nightTitle = isMs ? '🌙 Rutin Malam' : '🌙 Night Routine';
-    // Pass emoji separately since we draw it with the title
     drawRoutine(isMs ? 'Rutin Pagi' : 'Morning Routine', '☀️', routineData.morning);
-    drawRoutine(isMs ? 'Rutin Malam' : 'Night Routine', '🌙', routineData.night);
+    drawRoutine(isMs ? 'Rutin Malam' : 'Night Routine', '🌙', dlNightSteps);
 
     // Footer divider
     ctx.strokeStyle = '#f5d5da';
