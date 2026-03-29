@@ -114,20 +114,23 @@
   }
 
   .stat-card {
-    background: var(--cream);
-    border: 1px solid var(--border);
+    background: rgba(254, 240, 243, 0.5);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(245, 213, 218, 0.4);
     border-radius: 16px;
     padding: 1.2rem 0.8rem;
     text-align: center;
     display: flex;
     flex-direction: column;
     gap: 0.3rem;
-    transition: border-color 0.2s, transform 0.2s;
+    transition: border-color 0.2s, transform 0.2s, background 0.2s;
   }
 
   .stat-card:hover {
     border-color: var(--rose-gold);
     transform: translateY(-3px);
+    background: rgba(255, 255, 255, 0.65);
   }
 
   .stat-num {
@@ -190,8 +193,10 @@
     font-size: 0.75rem;
     letter-spacing: 0.06em;
     color: var(--text-secondary);
-    background: var(--cream);
-    border: 1px solid var(--border);
+    background: rgba(254, 240, 243, 0.5);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(245, 213, 218, 0.4);
     padding: 0.35rem 0.9rem;
     border-radius: 100px;
     transition: background 0.2s, border-color 0.2s, color 0.2s;

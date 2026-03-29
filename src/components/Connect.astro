@@ -134,13 +134,15 @@ const colorMap: Record<string, string> = {
     display: flex;
     align-items: flex-start;
     gap: 1rem;
-    background: var(--white);
-    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, 0.45);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(245, 213, 218, 0.4);
     border-radius: 18px;
     padding: 1.4rem 1.2rem;
     position: relative;
     overflow: hidden;
-    transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s;
+    transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s, background 0.25s;
   }
 
   .social-card::before {
@@ -159,6 +161,7 @@ const colorMap: Record<string, string> = {
     transform: translateY(-4px);
     box-shadow: 0 10px 32px rgba(0, 0, 0, 0.06);
     border-color: transparent;
+    background: rgba(255, 255, 255, 0.65);
   }
 
   .social-card:hover::before {

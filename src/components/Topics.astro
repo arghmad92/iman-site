@@ -98,13 +98,15 @@ const colorMap: Record<string, string> = {
   }
 
   .topic-card {
-    background: var(--white);
-    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(245, 213, 218, 0.4);
     border-radius: 24px;
     padding: 2.2rem;
     position: relative;
     overflow: hidden;
-    transition: transform 0.25s, box-shadow 0.25s;
+    transition: transform 0.25s, box-shadow 0.25s, background 0.25s;
   }
 
   .topic-card::before {
@@ -122,6 +124,7 @@ const colorMap: Record<string, string> = {
   .topic-card:hover {
     transform: translateY(-6px);
     box-shadow: 0 16px 48px rgba(0, 0, 0, 0.05);
+    background: rgba(255, 255, 255, 0.7);
   }
 
   .topic-card:hover::before {

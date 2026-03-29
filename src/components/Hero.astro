@@ -163,6 +163,7 @@
     top: -80px;
     right: -100px;
     opacity: 0.6;
+    animation: heroFloat1 14s ease-in-out infinite;
   }
 
   .deco-2 {
@@ -172,6 +173,7 @@
     bottom: 60px;
     right: 200px;
     opacity: 0.5;
+    animation: heroFloat2 18s ease-in-out infinite;
   }
 
   .deco-3 {
@@ -181,6 +183,22 @@
     top: 40%;
     left: -60px;
     opacity: 0.5;
+    animation: heroFloat3 16s ease-in-out infinite;
+  }
+
+  @keyframes heroFloat1 {
+    0%, 100% { transform: translate(0, 0); }
+    50% { transform: translate(-20px, 25px); }
+  }
+
+  @keyframes heroFloat2 {
+    0%, 100% { transform: translate(0, 0); }
+    50% { transform: translate(25px, -20px); }
+  }
+
+  @keyframes heroFloat3 {
+    0%, 100% { transform: translate(0, 0); }
+    50% { transform: translate(15px, -15px); }
   }
 
   .deco-pill {

@@ -123,12 +123,14 @@ function formatDate(dateStr: string) {
   .post-card {
     display: flex;
     flex-direction: column;
-    background: var(--cream);
-    border: 1px solid var(--border);
+    background: rgba(254, 240, 243, 0.5);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(245, 213, 218, 0.4);
     border-radius: 20px;
     overflow: hidden;
     cursor: pointer;
-    transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s;
+    transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s, background 0.25s;
     text-decoration: none;
     color: inherit;
     position: relative;
@@ -149,6 +151,7 @@ function formatDate(dateStr: string) {
     transform: translateY(-6px);
     box-shadow: 0 16px 48px rgba(180, 90, 110, 0.12);
     border-color: var(--rose);
+    background: rgba(255, 255, 255, 0.7);
   }
 
   .post-card:hover::after {

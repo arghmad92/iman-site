@@ -135,6 +135,52 @@ const canonicalUrl = Astro.url.href;
     font-weight: 300;
     -webkit-font-smoothing: antialiased;
     transition: background-color 0.3s, color 0.3s;
+    position: relative;
+  }
+
+  body::before,
+  body::after {
+    content: '';
+    position: fixed;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  body::before {
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(250, 212, 220, 0.35) 0%, transparent 70%);
+    top: 10%;
+    left: -150px;
+    animation: floatOrb1 18s ease-in-out infinite;
+  }
+
+  body::after {
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(circle, rgba(201, 160, 122, 0.2) 0%, transparent 70%);
+    bottom: 15%;
+    right: -120px;
+    animation: floatOrb2 22s ease-in-out infinite;
+  }
+
+  @keyframes floatOrb1 {
+    0%, 100% { transform: translate(0, 0); }
+    50% { transform: translate(40px, 30px); }
+  }
+
+  @keyframes floatOrb2 {
+    0%, 100% { transform: translate(0, 0); }
+    50% { transform: translate(-30px, -40px); }
+  }
+
+  .glass {
+    background: rgba(255, 255, 255, 0.55);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(245, 213, 218, 0.4);
+    border-radius: 20px;
   }
 
   h1, h2, h3, h4 {
