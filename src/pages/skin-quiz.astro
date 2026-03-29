@@ -399,24 +399,78 @@ import Layout from '../layouts/Layout.astro';
       ? `<div class="concern-tags">${concerns.map(c => `<span class="concern-tag">${c.replace(/([A-Z])/g, ' $1').replace(/^./, s => s.toUpperCase())}</span>`).join('')}</div>`
       : '';
 
-    // Inject above morning routine
-    document.getElementById('morningSteps')!.insertAdjacentHTML('beforebegin', pregnancyBanner + concernTags);
+    // Personalise night serum based on concerns + pregnancy
+    const serumMap: Record<string, { name: string; tip: string }> = {
+      acne: { name: 'Acne-fighting Serum', tip: 'Niacinamide + Tea Tree — controls breakouts and reduces inflammation' },
+      dryness: { name: 'Hydrating Serum', tip: 'Hyaluronic Acid + Ceramides — deep hydration and barrier repair' },
+      pigmentation: { name: 'Brightening Serum', tip: 'Vitamin C + Arbutin — fades dark spots and evens skin tone' },
+      pores: { name: 'Pore-refining Serum', tip: 'Niacinamide + Zinc — tightens pores and controls oil' },
+      whitehead: { name: 'Exfoliating Serum', tip: 'AHA (Glycolic/Lactic Acid) — dissolves dead skin and prevents clogging' },
+      aging: { name: 'Anti-aging Serum', tip: 'Retinol + Peptides — boosts collagen and reduces fine lines' },
+      dull: { name: 'Glow Serum', tip: 'Vitamin C + Niacinamide — brightens and adds radiance' },
+      sensitivity: { name: 'Calming Serum', tip: 'Centella Asiatica + Panthenol — soothes redness and repairs barrier' },
+    };
 
-    // Morning routine
-    document.getElementById('morningSteps')!.innerHTML = data.morning.map((r, i) =>
-      `<div class="routine-step">
-        <span class="step-number">${i + 1}</span>
-        <div><strong>${r.step}</strong><p>${r.tip}</p></div>
-      </div>`
-    ).join('');
+    // Pregnancy-safe swaps
+    const pregnantSerumMap: Record<string, { name: string; tip: string }> = {
+      acne: { name: 'Pregnancy-safe Acne Serum', tip: 'Niacinamide — controls breakouts safely during pregnancy' },
+      whitehead: { name: 'Gentle Exfoliating Serum', tip: 'Low % Lactic Acid or Niacinamide — pregnancy-safe option' },
+      aging: { name: 'Pregnancy-safe Anti-aging Serum', tip: 'Peptides + Vitamin C — collagen support without retinol' },
+      dull: { name: 'Gentle Glow Serum', tip: 'Niacinamide + gentle Lactic Acid — safe brightening' },
+    };
 
-    // Night routine
-    document.getElementById('nightSteps')!.innerHTML = data.night.map((r, i) =>
-      `<div class="routine-step">
-        <span class="step-number">${i + 1}</span>
-        <div><strong>${r.step}</strong><p>${r.tip}</p></div>
-      </div>`
-    ).join('');
+    // Build personalised serum recommendation
+    let serumRec = { name: 'Serum', tip: data.night[3]?.tip || 'Choose based on your concern' };
+    if (concerns.length > 0) {
+      const primaryConcern = concerns[0];
+      if (isPregnant && pregnantSerumMap[primaryConcern]) {
+        serumRec = pregnantSerumMap[primaryConcern];
+      } else if (serumMap[primaryConcern]) {
+        serumRec = serumMap[primaryConcern];
+      }
+    }
+
+    // Override serum in night routine
+    const nightSteps = data.night.map((r, i) => i === 3 ? { step: serumRec.name, tip: serumRec.tip } : r);
+
+    // Build routine HTML
+    function renderRoutine(steps: { step: string; tip: string }[], icon: string) {
+      return steps.map((r, i) =>
+        `<div class="routine-step">
+          <div class="step-left">
+            <span class="step-number">${i + 1}</span>
+            <div class="step-line-v"></div>
+          </div>
+          <div class="step-content">
+            <strong>${r.step}</strong>
+            <p>${r.tip}</p>
+          </div>
+        </div>`
+      ).join('');
+    }
+
+    // Inject pregnancy banner and concern tags
+    document.getElementById('morningSteps')!.closest('.result-section')!.insertAdjacentHTML('beforebegin', pregnancyBanner + concernTags);
+
+    // Render routines
+    document.getElementById('morningSteps')!.innerHTML = renderRoutine(data.morning, '☀️');
+    document.getElementById('nightSteps')!.innerHTML = renderRoutine(nightSteps, '🌙');
+
+    // Show extra serum concerns if multiple selected
+    if (concerns.length > 1) {
+      const extraSerums = concerns.slice(1).map(c => {
+        const s = (isPregnant && pregnantSerumMap[c]) ? pregnantSerumMap[c] : serumMap[c];
+        return s ? `<span class="extra-serum"><strong>${s.name}</strong> — ${s.tip}</span>` : '';
+      }).filter(Boolean).join('');
+      if (extraSerums) {
+        document.getElementById('nightSteps')!.insertAdjacentHTML('afterend',
+          `<div class="extra-serums-box">
+            <p class="extra-serums-title">You also selected these concerns — consider alternating these serums:</p>
+            ${extraSerums}
+          </div>`
+        );
+      }
+    }
 
     // Product recommendations
     document.getElementById('productRecs')!.innerHTML = data.products.map(p =>
@@ -553,23 +607,60 @@ import Layout from '../layouts/Layout.astro';
   .result-desc { font-size: 0.9rem; color: var(--text-secondary); line-height: 1.8; font-weight: 300; max-width: 500px; margin: 0 auto; }
 
   .result-section { margin-bottom: 2.5rem; }
-  .result-section h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; color: var(--text-primary); margin-bottom: 1rem; }
+  .result-section h3 {
+    font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; color: var(--text-primary);
+    margin-bottom: 1.2rem; padding-bottom: 0.6rem; border-bottom: 2px solid var(--blush);
+    display: flex; align-items: center; gap: 0.5rem;
+  }
   .result-section h3 em { font-style: italic; color: var(--rose-gold); }
   .result-note { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; font-weight: 300; }
 
-  /* Routine steps */
-  .routine-steps { display: flex; flex-direction: column; gap: 0.8rem; }
+  /* Routine steps — timeline style */
+  .routine-steps { display: flex; flex-direction: column; gap: 0; }
   .routine-step {
-    display: flex; gap: 1rem; align-items: flex-start; padding: 1rem;
-    background: var(--white); border: 1px solid var(--border); border-radius: 14px;
+    display: flex; gap: 0; align-items: stretch;
+  }
+  .step-left {
+    display: flex; flex-direction: column; align-items: center; width: 40px; flex-shrink: 0;
   }
   .step-number {
     width: 32px; height: 32px; border-radius: 50%; background: var(--rose-gold);
     color: white; display: flex; align-items: center; justify-content: center;
-    font-size: 0.82rem; font-weight: 600; flex-shrink: 0;
+    font-size: 0.78rem; font-weight: 700; flex-shrink: 0; z-index: 1;
+    box-shadow: 0 2px 8px rgba(201,132,140,0.2);
   }
-  .routine-step strong { font-size: 0.9rem; color: var(--text-primary); display: block; margin-bottom: 0.2rem; }
-  .routine-step p { font-size: 0.82rem; color: var(--text-muted); font-weight: 300; margin: 0; }
+  .step-line-v {
+    width: 2px; flex: 1; background: var(--border); margin: 0 auto;
+  }
+  .routine-step:last-child .step-line-v { display: none; }
+  .step-content {
+    flex: 1; padding: 0.4rem 0 1.5rem 1rem;
+    border-left: none;
+  }
+  .step-content strong {
+    font-size: 0.92rem; color: var(--text-primary); display: block; margin-bottom: 0.25rem;
+    font-family: 'DM Sans', sans-serif;
+  }
+  .step-content p {
+    font-size: 0.82rem; color: var(--text-muted); font-weight: 300; margin: 0;
+    line-height: 1.6; max-width: 480px;
+  }
+  .routine-step:last-child .step-content { padding-bottom: 0.4rem; }
+
+  /* Extra serums box */
+  .extra-serums-box {
+    background: var(--pink-soft); border: 1px solid var(--border); border-radius: 14px;
+    padding: 1.2rem; margin-top: 1rem;
+  }
+  .extra-serums-title {
+    font-size: 0.78rem; color: var(--text-secondary); margin-bottom: 0.6rem; font-weight: 500;
+  }
+  .extra-serum {
+    display: block; font-size: 0.82rem; color: var(--text-secondary); line-height: 1.6;
+    padding: 0.4rem 0; border-top: 1px solid var(--border); font-weight: 300;
+  }
+  .extra-serum:first-of-type { border-top: none; }
+  .extra-serum strong { color: var(--rose-gold); font-weight: 600; }
 
   /* Product grid */
   .product-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem; }
