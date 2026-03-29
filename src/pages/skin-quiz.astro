@@ -548,19 +548,19 @@ import Layout from '../layouts/Layout.astro';
     document.getElementById('extraSerums')!.innerHTML = '';
 
     // Kayman Beauty product recommendations
-    const kaymanProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
-      cleansing_sherbet: { name: 'HyaluMelon Micellar Water', img: '/kayman/micellar.png', url: 'https://s.shopee.com.my/1qXfvhYiDZ', step: '1st Cleanser' },
-      coalberry: { name: 'CoalBerry Cleanser', img: '/kayman/coalberry.png', url: 'https://s.shopee.com.my/5Ao7tfH7nX', step: 'Cleanser' },
-      coalface: { name: 'CoalFace Soap', img: '/kayman/coalface.png', url: 'https://s.shopee.com.my/4LF0uDIPnn', step: 'Cleanser' },
-      hyalumelon: { name: 'HyaluMelon Mist Toner', img: '/kayman/hyalumelon.png', url: 'https://s.shopee.com.my/gLiXPKeZ2', step: 'Toner' },
-      rosa_glow: { name: 'Rosa Glow Treatment Essence', img: '/kayman/rosa-glow.png', url: 'https://s.shopee.com.my/6fcvgSsXEV', step: 'Essence' },
-      honeyglo: { name: 'HoneyGlo Facial Exfoliant', img: '/kayman/honeyglo.png', url: 'https://s.shopee.com.my/2LTwWUHcGq', step: 'Exfoliant' },
-      skintella_serum: { name: 'Skintella Repairing Serum', img: '/kayman/skintella-serum.png', url: 'https://s.shopee.com.my/gLiXL8JU0', step: 'Serum' },
-      blumarine_ampoule: { name: 'BluMarine Hydrating Ampoule', img: '/kayman/blumarine-ampoule.png', url: 'https://s.shopee.com.my/BPRwRA9mB', step: 'Ampoule' },
-      blumarine_refining: { name: 'BluMarine Refining Serum', img: '/kayman/blumarine-refining.png', url: 'https://s.shopee.com.my/10yYw49NA9', step: 'Serum' },
-      skintella_gel: { name: 'Skintella Moisturizing Gel', img: '/kayman/skintella-gel.png', url: 'https://s.shopee.com.my/900qSdmH1K', step: 'Moisturizer' },
-      blumarine_cream: { name: 'BluMarine Moisturizing Cream', img: '/kayman/blumarine-cream.png', url: 'https://s.shopee.com.my/AACnqqJjjE', step: 'Moisturizer' },
-      suntella: { name: 'Suntella UV Milk SPF50+', img: '/kayman/suntella.png', url: 'https://s.shopee.com.my/9AKGf5Lnc5', step: 'Sunscreen' },
+    const kaymanProducts: Record<string, { brand: string; name: string; img: string; url: string; step: string }> = {
+      cleansing_sherbet: { brand: 'Kayman Beauty', name: 'HyaluMelon Micellar Water', img: '/kayman/micellar.png', url: 'https://s.shopee.com.my/1qXfvhYiDZ', step: '1st Cleanser' },
+      coalberry: { brand: 'Kayman Beauty', name: 'CoalBerry Cleanser', img: '/kayman/coalberry.png', url: 'https://s.shopee.com.my/5Ao7tfH7nX', step: 'Cleanser' },
+      coalface: { brand: 'Kayman Beauty', name: 'CoalFace Soap', img: '/kayman/coalface.png', url: 'https://s.shopee.com.my/4LF0uDIPnn', step: 'Cleanser' },
+      hyalumelon: { brand: 'Kayman Beauty', name: 'HyaluMelon Mist Toner', img: '/kayman/hyalumelon.png', url: 'https://s.shopee.com.my/gLiXPKeZ2', step: 'Toner' },
+      rosa_glow: { brand: 'Kayman Beauty', name: 'Rosa Glow Treatment Essence', img: '/kayman/rosa-glow.png', url: 'https://s.shopee.com.my/6fcvgSsXEV', step: 'Essence' },
+      honeyglo: { brand: 'Kayman Beauty', name: 'HoneyGlo Facial Exfoliant', img: '/kayman/honeyglo.png', url: 'https://s.shopee.com.my/2LTwWUHcGq', step: 'Exfoliant' },
+      skintella_serum: { brand: 'Kayman Beauty', name: 'Skintella Repairing Serum', img: '/kayman/skintella-serum.png', url: 'https://s.shopee.com.my/gLiXL8JU0', step: 'Serum' },
+      blumarine_ampoule: { brand: 'Kayman Beauty', name: 'BluMarine Hydrating Ampoule', img: '/kayman/blumarine-ampoule.png', url: 'https://s.shopee.com.my/BPRwRA9mB', step: 'Ampoule' },
+      blumarine_refining: { brand: 'Kayman Beauty', name: 'BluMarine Refining Serum', img: '/kayman/blumarine-refining.png', url: 'https://s.shopee.com.my/10yYw49NA9', step: 'Serum' },
+      skintella_gel: { brand: 'Kayman Beauty', name: 'Skintella Moisturizing Gel', img: '/kayman/skintella-gel.png', url: 'https://s.shopee.com.my/900qSdmH1K', step: 'Moisturizer' },
+      blumarine_cream: { brand: 'Kayman Beauty', name: 'BluMarine Moisturizing Cream', img: '/kayman/blumarine-cream.png', url: 'https://s.shopee.com.my/AACnqqJjjE', step: 'Moisturizer' },
+      suntella: { brand: 'Kayman Beauty', name: 'Suntella UV Milk SPF50+', img: '/kayman/suntella.png', url: 'https://s.shopee.com.my/9AKGf5Lnc5', step: 'Sunscreen' },
     };
 
     // Build Kayman recs based on skin type + concerns
@@ -649,6 +649,7 @@ import Layout from '../layouts/Layout.astro';
               <div class="kayman-img-wrap">
                 <img src="${p.img}" alt="${p.name}" loading="lazy" />
               </div>
+              <span class="kayman-brand">${p.brand}</span>
               <span class="kayman-name">${p.name}</span>
               <span class="kayman-shop">
                 <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
@@ -661,22 +662,22 @@ import Layout from '../layouts/Layout.astro';
     });
 
     // === Yello Skincare products ===
-    const yelloProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
-      oatmino: { name: 'Oatmino Refreshing Cream Cleanser', img: '/yello/oatmino.png', url: 'https://s.shopee.com.my/AACnuWtITk', step: 'Cleanser' },
-      oatellia: { name: 'Oatellia Exfoliating Gel Cleanser', img: '/yello/oatellia.png', url: 'https://s.shopee.com.my/2g6myl8B2l', step: 'Cleanser' },
-      cynara_essence: { name: 'Cynara Supple Plumping Essence', img: '/yello/cynara-essence.png', url: 'https://s.shopee.com.my/10yYziJCmj', step: 'Essence' },
-      snowmeric: { name: 'Snowmeric Hydra-Boost Brightening Serum', img: '/yello/snowmeric.png', url: 'https://s.shopee.com.my/AUpeJBiQgq', step: 'Serum' },
-      otms: { name: 'Oatmeal Turmeric Mask & Scrub', img: '/yello/otms.png', url: 'https://s.shopee.com.my/9Ux77MqREL', step: 'Mask' },
+    const yelloProducts: Record<string, { brand: string; name: string; img: string; url: string; step: string }> = {
+      oatmino: { brand: 'Yello Skincare', name: 'Oatmino Refreshing Cream Cleanser', img: '/yello/oatmino.png', url: 'https://s.shopee.com.my/AACnuWtITk', step: 'Cleanser' },
+      oatellia: { brand: 'Yello Skincare', name: 'Oatellia Exfoliating Gel Cleanser', img: '/yello/oatellia.png', url: 'https://s.shopee.com.my/2g6myl8B2l', step: 'Cleanser' },
+      cynara_essence: { brand: 'Yello Skincare', name: 'Cynara Supple Plumping Essence', img: '/yello/cynara-essence.png', url: 'https://s.shopee.com.my/10yYziJCmj', step: 'Essence' },
+      snowmeric: { brand: 'Yello Skincare', name: 'Snowmeric Hydra-Boost Brightening Serum', img: '/yello/snowmeric.png', url: 'https://s.shopee.com.my/AUpeJBiQgq', step: 'Serum' },
+      otms: { brand: 'Yello Skincare', name: 'Oatmeal Turmeric Mask & Scrub', img: '/yello/otms.png', url: 'https://s.shopee.com.my/9Ux77MqREL', step: 'Mask' },
     };
 
     // === Cuura products ===
-    const cuuraProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
-      cloud_lift: { name: 'Cloud Lift Hydration Spray', img: '/cuura/cloud-lift.png', url: 'https://s.shopee.com.my/10yZ1Zpwiz', step: 'Toner' },
-      jeju_glow: { name: 'Jeju Glow Serum Infused Mist', img: '/cuura/jeju-glow.png', url: 'https://s.shopee.com.my/qf8pI3NMp', step: 'Essence' },
-      vitamin_potion: { name: 'Vitamin Potion Brightening Serum', img: '/cuura/vitamin-potion.png', url: 'https://s.shopee.com.my/3fzKCNuf2p', step: 'Serum' },
-      pure_beauty_oil: { name: 'Pure Beauty Oil Serum', img: '/cuura/pure-beauty-oil.png', url: 'https://s.shopee.com.my/4frrOBrw9h', step: 'Serum' },
-      brightening_ss: { name: 'Brightening Sunscreen', img: '/cuura/brightening-sunscreen.png', url: 'https://s.shopee.com.my/3Vfu00SBLY', step: 'Sunscreen' },
-      glow_defense: { name: 'Glow Defense Tone Up Sunscreen', img: '/cuura/glow-defense.png', url: 'https://s.shopee.com.my/W2IQVQ4Jk', step: 'Sunscreen' },
+    const cuuraProducts: Record<string, { brand: string; name: string; img: string; url: string; step: string }> = {
+      cloud_lift: { brand: 'Cuura', name: 'Cloud Lift Hydration Spray', img: '/cuura/cloud-lift.png', url: 'https://s.shopee.com.my/10yZ1Zpwiz', step: 'Toner' },
+      jeju_glow: { brand: 'Cuura', name: 'Jeju Glow Serum Infused Mist', img: '/cuura/jeju-glow.png', url: 'https://s.shopee.com.my/qf8pI3NMp', step: 'Essence' },
+      vitamin_potion: { brand: 'Cuura', name: 'Vitamin Potion Brightening Serum', img: '/cuura/vitamin-potion.png', url: 'https://s.shopee.com.my/3fzKCNuf2p', step: 'Serum' },
+      pure_beauty_oil: { brand: 'Cuura', name: 'Pure Beauty Oil Serum', img: '/cuura/pure-beauty-oil.png', url: 'https://s.shopee.com.my/4frrOBrw9h', step: 'Serum' },
+      brightening_ss: { brand: 'Cuura', name: 'Brightening Sunscreen', img: '/cuura/brightening-sunscreen.png', url: 'https://s.shopee.com.my/3Vfu00SBLY', step: 'Sunscreen' },
+      glow_defense: { brand: 'Cuura', name: 'Glow Defense Tone Up Sunscreen', img: '/cuura/glow-defense.png', url: 'https://s.shopee.com.my/W2IQVQ4Jk', step: 'Sunscreen' },
     };
 
     const cuuraRecs: string[] = [];
@@ -707,12 +708,12 @@ import Layout from '../layouts/Layout.astro';
     }
 
     // === TataGaltier products ===
-    const tataProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
-      cherpaire: { name: 'Cherpaire Cleansing Balm', img: '/tata/cherpaire.png', url: 'https://s.shopee.com.my/gLinGF9CH', step: '1st Cleanser' },
-      cella_grail: { name: 'Cella Grail Cleansing Gel', img: '/tata/cella-grail.png', url: 'https://s.shopee.com.my/AUpeVHvlci', step: 'Cleanser' },
-      peach_plump: { name: 'Peach Plump Hydrating Toner', img: '/tata/peach-plump.png', url: 'https://s.shopee.com.my/900qiYwPJu', step: 'Toner' },
-      bulaney: { name: 'Bulaney Treatment Essence', img: '/tata/bulaney.png', url: 'https://s.shopee.com.my/9pZxi9VLUL', step: 'Essence' },
-      honey_milky: { name: 'Honey Milky Treatment Essence', img: '/tata/honey-milky.png', url: 'https://s.shopee.com.my/6fcvwGF2lT', step: 'Essence' },
+    const tataProducts: Record<string, { brand: string; name: string; img: string; url: string; step: string }> = {
+      cherpaire: { brand: 'TataGaltier', name: 'Cherpaire Cleansing Balm', img: '/tata/cherpaire.png', url: 'https://s.shopee.com.my/gLinGF9CH', step: '1st Cleanser' },
+      cella_grail: { brand: 'TataGaltier', name: 'Cella Grail Cleansing Gel', img: '/tata/cella-grail.png', url: 'https://s.shopee.com.my/AUpeVHvlci', step: 'Cleanser' },
+      peach_plump: { brand: 'TataGaltier', name: 'Peach Plump Hydrating Toner', img: '/tata/peach-plump.png', url: 'https://s.shopee.com.my/900qiYwPJu', step: 'Toner' },
+      bulaney: { brand: 'TataGaltier', name: 'Bulaney Treatment Essence', img: '/tata/bulaney.png', url: 'https://s.shopee.com.my/9pZxi9VLUL', step: 'Essence' },
+      honey_milky: { brand: 'TataGaltier', name: 'Honey Milky Treatment Essence', img: '/tata/honey-milky.png', url: 'https://s.shopee.com.my/6fcvwGF2lT', step: 'Essence' },
     };
 
     const tataRecs: string[] = [];
@@ -737,16 +738,16 @@ import Layout from '../layouts/Layout.astro';
     }
 
     // === Nature's Palette products ===
-    const npProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
-      melonica: { name: 'Melonica Jelly Oil Cleanser', img: '/np/melonica.jpg', url: 'https://s.shopee.com.my/50UhySBOjR', step: '1st Cleanser' },
-      hydranica: { name: 'Hydranica Restoring Cleanser', img: '/np/hydranica.jpg', url: 'https://s.shopee.com.my/9Ux7KlovjM', step: 'Cleanser' },
-      ceramica: { name: 'CeraMica Balancing Essence', img: '/np/ceramica.jpg', url: 'https://s.shopee.com.my/6AgfMfsDd8', step: 'Essence' },
-      octa_blu: { name: 'Octa-Blu Skin Refining Serum', img: '/np/octa-blu.jpg', url: 'https://s.shopee.com.my/40cAmZhIS7', step: 'Serum' },
-      peptica: { name: 'Peptica Barrier Recovery Serum', img: '/np/peptica.jpg', url: 'https://s.shopee.com.my/5L7YN6MJWe', step: 'Serum' },
-      vitamin_c: { name: 'Vitamin C Brightening Booster', img: '/np/vitamin-c.jpg', url: 'https://s.shopee.com.my/9Kdh8RKgnr', step: 'Serum' },
-      dewlight: { name: 'DewLight Brightening Moisturiser', img: '/np/dewlight.jpg', url: 'https://s.shopee.com.my/30jdakogcV', step: 'Moisturizer' },
-      dewbright: { name: 'DewBright Brightening Moisturiser', img: '/np/dewbright.jpg', url: 'https://s.shopee.com.my/3qIkaMsV3X', step: 'Moisturizer' },
-      np_sunscreen: { name: 'Daily Airy Barrier Sunscreen SPF50', img: '/np/sunscreen.jpg', url: 'https://s.shopee.com.my/7potLbJYF3', step: 'Sunscreen' },
+    const npProducts: Record<string, { brand: string; name: string; img: string; url: string; step: string }> = {
+      melonica: { brand: "Nature's Palette", name: 'Melonica Jelly Oil Cleanser', img: '/np/melonica.jpg', url: 'https://s.shopee.com.my/50UhySBOjR', step: '1st Cleanser' },
+      hydranica: { brand: "Nature's Palette", name: 'Hydranica Restoring Cleanser', img: '/np/hydranica.jpg', url: 'https://s.shopee.com.my/9Ux7KlovjM', step: 'Cleanser' },
+      ceramica: { brand: "Nature's Palette", name: 'CeraMica Balancing Essence', img: '/np/ceramica.jpg', url: 'https://s.shopee.com.my/6AgfMfsDd8', step: 'Essence' },
+      octa_blu: { brand: "Nature's Palette", name: 'Octa-Blu Skin Refining Serum', img: '/np/octa-blu.jpg', url: 'https://s.shopee.com.my/40cAmZhIS7', step: 'Serum' },
+      peptica: { brand: "Nature's Palette", name: 'Peptica Barrier Recovery Serum', img: '/np/peptica.jpg', url: 'https://s.shopee.com.my/5L7YN6MJWe', step: 'Serum' },
+      vitamin_c: { brand: "Nature's Palette", name: 'Vitamin C Brightening Booster', img: '/np/vitamin-c.jpg', url: 'https://s.shopee.com.my/9Kdh8RKgnr', step: 'Serum' },
+      dewlight: { brand: "Nature's Palette", name: 'DewLight Brightening Moisturiser', img: '/np/dewlight.jpg', url: 'https://s.shopee.com.my/30jdakogcV', step: 'Moisturizer' },
+      dewbright: { brand: "Nature's Palette", name: 'DewBright Brightening Moisturiser', img: '/np/dewbright.jpg', url: 'https://s.shopee.com.my/3qIkaMsV3X', step: 'Moisturizer' },
+      np_sunscreen: { brand: "Nature's Palette", name: 'Daily Airy Barrier Sunscreen SPF50', img: '/np/sunscreen.jpg', url: 'https://s.shopee.com.my/7potLbJYF3', step: 'Sunscreen' },
     };
 
     const npRecs: string[] = [];
@@ -847,6 +848,7 @@ import Layout from '../layouts/Layout.astro';
               <div class="kayman-img-wrap">
                 <img src="${p.img}" alt="${p.name}" loading="lazy" />
               </div>
+              <span class="kayman-brand">${p.brand}</span>
               <span class="kayman-name">${p.name}</span>
               <span class="kayman-shop">
                 <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
@@ -1168,6 +1170,10 @@ import Layout from '../layouts/Layout.astro';
     transition: transform 0.3s;
   }
   .kayman-card:hover .kayman-img-wrap img { transform: scale(1.08); }
+  .kayman-brand {
+    font-size: 0.58rem; color: var(--rose-gold); font-weight: 600;
+    letter-spacing: 0.08em; text-transform: uppercase;
+  }
   .kayman-name {
     font-size: 0.75rem; color: var(--text-primary); font-weight: 500; line-height: 1.3;
   }
