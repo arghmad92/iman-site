@@ -408,12 +408,12 @@ import Layout from '../layouts/Layout.astro';
     const serumMap: Record<string, { name: string; tip: string }> = {
       acne: { name: 'Acne-fighting Serum', tip: 'Niacinamide + Tea Tree — controls breakouts and reduces inflammation' },
       dryness: { name: 'Hydrating Serum', tip: 'Hyaluronic Acid + Ceramides — deep hydration and barrier repair' },
-      pigmentation: { name: 'Brightening Serum', tip: 'Vitamin C + Arbutin — fades dark spots and evens skin tone' },
+      pigmentation: { name: 'Brightening Serum', tip: 'Vitamin C + Arbutin + Niacinamide — fades dark spots and evens skin tone' },
       pores: { name: 'Pore-refining Serum', tip: 'Niacinamide + Zinc — tightens pores and controls oil' },
       whitehead: { name: 'Exfoliating Serum', tip: 'AHA (Glycolic/Lactic Acid) — dissolves dead skin and prevents clogging' },
       aging: { name: 'Anti-aging Serum', tip: 'Retinol + Peptides — boosts collagen and reduces fine lines' },
-      dull: { name: 'Glow Serum', tip: 'Vitamin C + Niacinamide — brightens and adds radiance' },
-      sensitivity: { name: 'Calming Serum', tip: 'Centella Asiatica + Panthenol — soothes redness and repairs barrier' },
+      dull: { name: 'Brightening Serum', tip: 'Vitamin C + Arbutin + Niacinamide — fades dark spots and adds radiance' },
+      sensitivity: { name: 'Calming Serum', tip: 'Centella Asiatica + Panthenol — soothes redness and repairs skin barrier' },
     };
 
     // Pregnancy-safe swaps
@@ -421,7 +421,8 @@ import Layout from '../layouts/Layout.astro';
       acne: { name: 'Pregnancy-safe Acne Serum', tip: 'Niacinamide — controls breakouts safely during pregnancy' },
       whitehead: { name: 'Gentle Exfoliating Serum', tip: 'Low % Lactic Acid or Niacinamide — pregnancy-safe option' },
       aging: { name: 'Pregnancy-safe Anti-aging Serum', tip: 'Peptides + Vitamin C — collagen support without retinol' },
-      dull: { name: 'Gentle Glow Serum', tip: 'Niacinamide + gentle Lactic Acid — safe brightening' },
+      dull: { name: 'Pregnancy-safe Brightening Serum', tip: 'Niacinamide + Vitamin C — safe brightening' },
+      pigmentation: { name: 'Pregnancy-safe Brightening Serum', tip: 'Niacinamide + Vitamin C — fades dark spots safely' },
     };
 
     // Build personalised serum recommendation
