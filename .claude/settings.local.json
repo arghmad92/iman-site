@@ -39,7 +39,9 @@
       "WebFetch(domain:www.cuuraofficial.com)",
       "Bash(cd:*)",
       "WebFetch(domain:tatagaltier.com)",
-      "Bash(grep -iv \"logo\\\\|icon\\\\|banner\\\\|svg\\\\|^alt=\"\"\"\"$\")"
+      "Bash(grep -iv \"logo\\\\|icon\\\\|banner\\\\|svg\\\\|^alt=\"\"\"\"$\")",
+      "WebFetch(domain:naturespalette.co)",
+      "Bash(grep -iv \"logo\\\\|icon\\\\|banner\\\\|svg\\\\|^alt=\"\"\"\"$\\\\|payment\\\\|carousel\")"
     ]
   }
 }

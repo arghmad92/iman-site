@@ -722,6 +722,58 @@ import Layout from '../layouts/Layout.astro';
       addTata('honey_milky');
     }
 
+    // === Nature's Palette products ===
+    const npProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
+      melonica: { name: 'Melonica Jelly Oil Cleanser', img: '/np/melonica.jpg', url: 'https://s.shopee.com.my/50UhySBOjR', step: '1st Cleanser' },
+      hydranica: { name: 'Hydranica Restoring Cleanser', img: '/np/hydranica.jpg', url: 'https://s.shopee.com.my/9Ux7KlovjM', step: 'Cleanser' },
+      ceramica: { name: 'CeraMica Balancing Essence', img: '/np/ceramica.jpg', url: 'https://s.shopee.com.my/6AgfMfsDd8', step: 'Essence' },
+      octa_blu: { name: 'Octa-Blu Skin Refining Serum', img: '/np/octa-blu.jpg', url: 'https://s.shopee.com.my/40cAmZhIS7', step: 'Serum' },
+      peptica: { name: 'Peptica Barrier Recovery Serum', img: '/np/peptica.jpg', url: 'https://s.shopee.com.my/5L7YN6MJWe', step: 'Serum' },
+      vitamin_c: { name: 'Vitamin C Brightening Booster', img: '/np/vitamin-c.jpg', url: 'https://s.shopee.com.my/9Kdh8RKgnr', step: 'Serum' },
+      dewlight: { name: 'DewLight Brightening Moisturiser', img: '/np/dewlight.jpg', url: 'https://s.shopee.com.my/30jdakogcV', step: 'Moisturizer' },
+      dewbright: { name: 'DewBright Brightening Moisturiser', img: '/np/dewbright.jpg', url: 'https://s.shopee.com.my/3qIkaMsV3X', step: 'Moisturizer' },
+      np_sunscreen: { name: 'Daily Airy Barrier Sunscreen SPF50', img: '/np/sunscreen.jpg', url: 'https://s.shopee.com.my/7potLbJYF3', step: 'Sunscreen' },
+    };
+
+    const npRecs: string[] = [];
+    const addedNp = new Set<string>();
+    function addNp(key: string) { if (!addedNp.has(key) && npProducts[key]) { addedNp.add(key); npRecs.push(key); } }
+
+    // 1st Cleanser — all
+    addNp('melonica');
+
+    // 2nd Cleanser — all
+    addNp('hydranica');
+
+    // Essence — by concern
+    if (concerns.some(c => ['dryness', 'sensitivity', 'aging'].includes(c))) {
+      addNp('ceramica');
+    }
+
+    // Serum — by concern
+    if (concerns.some(c => ['acne', 'pores', 'whitehead'].includes(c))) {
+      addNp('octa_blu');
+    }
+    if (concerns.some(c => ['dryness', 'sensitivity'].includes(c))) {
+      addNp('peptica');
+    }
+    if (concerns.some(c => ['pigmentation', 'dull', 'aging'].includes(c))) {
+      addNp('vitamin_c');
+    }
+
+    // Moisturizer — by skin type
+    if (skinType === 'dry' || skinType === 'sensitive') {
+      addNp('dewbright');
+    } else if (skinType === 'normal') {
+      addNp('dewlight');
+      addNp('dewbright');
+    } else {
+      addNp('dewlight');
+    }
+
+    // Sunscreen — all
+    addNp('np_sunscreen');
+
     const yelloRecs: string[] = [];
     const addedYello = new Set<string>();
     function addYello(key: string) { if (!addedYello.has(key) && yelloProducts[key]) { addedYello.add(key); yelloRecs.push(key); } }
@@ -747,10 +799,11 @@ import Layout from '../layouts/Layout.astro';
     }
 
     // === Merge all products (Kayman + Yello + Cuura) into one grouped view ===
-    const allProducts = { ...kaymanProducts, ...tataProducts, ...yelloProducts, ...cuuraProducts };
+    const allProducts = { ...kaymanProducts, ...tataProducts, ...npProducts, ...yelloProducts, ...cuuraProducts };
     const allRecs = [
       ...kaymanRecs.map(k => ({ key: k, source: 'kayman' as const })),
       ...tataRecs.map(k => ({ key: k, source: 'tata' as const })),
+      ...npRecs.map(k => ({ key: k, source: 'np' as const })),
       ...yelloRecs.map(k => ({ key: k, source: 'yello' as const })),
       ...cuuraRecs.map(k => ({ key: k, source: 'cuura' as const })),
     ];
