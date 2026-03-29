@@ -1102,16 +1102,17 @@ import Layout from '../layouts/Layout.astro';
     const W = 1080;
     const pad = 60;
     const contentW = W - pad * 2;
-    const stepTextX = pad + 50;
-    const stepTextW = contentW - 50;
+    const stepTextX = pad + 48;
+    const stepTextW = contentW - 48;
 
-    // Pre-calculate heights
     const canvas = document.createElement('canvas');
     canvas.width = W;
+    // Start with a tall canvas, we'll trim after drawing
+    canvas.height = 8000;
     const ctx = canvas.getContext('2d')!;
     ctx.textBaseline = 'top';
 
-    // Helper: wrap text and return lines
+    // Helper: wrap text
     function wrapText(text: string, maxW: number, font: string): string[] {
       ctx.font = font;
       const words = text.split(' ');
@@ -1130,86 +1131,20 @@ import Layout from '../layouts/Layout.astro';
       return lines;
     }
 
-    // Helper: calculate step height
-    function calcStepH(tip: string): number {
-      const cleanTip = tip.replace(/<[^>]*>/g, '').replace(/•/g, '').trim();
-      // Split by newlines for multi-line serum tips
-      const paragraphs = cleanTip.split('\n');
-      let totalLines = 0;
-      for (const p of paragraphs) {
-        if (!p.trim()) continue;
-        const lines = wrapText(p.trim(), stepTextW, '300 20px DM Sans, sans-serif');
-        totalLines += lines.length;
+    // Helper: get all tip lines (handles newlines in serum tips)
+    function getTipLines(tip: string): string[] {
+      const clean = tip.replace(/<[^>]*>/g, '').replace(/•/g, '').trim();
+      const allLines: string[] = [];
+      for (const para of clean.split('\n')) {
+        if (!para.trim()) continue;
+        allLines.push(...wrapText(para.trim(), stepTextW, '300 19px DM Sans, sans-serif'));
       }
-      return Math.max(totalLines * 26 + 32, 54);
+      return allLines;
     }
-
-    // Calculate total height
-    let totalH = pad; // top padding
-
-    // Header
-    totalH += 50; // logo
-    totalH += 30; // spacing
-
-    // Skin type title
-    totalH += 44;
-    totalH += 16; // spacing
-
-    // Concerns
-    if (concerns.length > 0) {
-      totalH += 36;
-      totalH += 20;
-    }
-
-    // Description
-    const descText = isMs ? data.descMs : data.desc;
-    const descLines = wrapText(descText, contentW, '300 22px DM Sans, sans-serif');
-    totalH += descLines.length * 30;
-    totalH += 36;
-
-    // Morning routine
-    totalH += 40; // header
-    totalH += 16;
-    for (const step of routineData.morning) {
-      const tipText = isMs ? step.tipMs : step.tip;
-      totalH += calcStepH(tipText) + 8;
-    }
-    totalH += 28;
-
-    // Night routine
-    totalH += 40; // header
-    totalH += 16;
-    for (const step of dlNightSteps) {
-      const tipText = isMs ? step.tipMs : step.tip;
-      totalH += calcStepH(tipText) + 8;
-    }
-    totalH += 36;
-
-    // Footer
-    totalH += 60;
-    totalH += pad;
-
-    canvas.height = totalH;
-
-    // Background
-    ctx.fillStyle = '#fef0f3';
-    ctx.fillRect(0, 0, W, totalH);
-
-    // Decorative gradient circles
-    const grd1 = ctx.createRadialGradient(W - 100, 150, 0, W - 100, 150, 250);
-    grd1.addColorStop(0, 'rgba(250, 212, 220, 0.4)');
-    grd1.addColorStop(1, 'rgba(250, 212, 220, 0)');
-    ctx.fillStyle = grd1;
-    ctx.fillRect(0, 0, W, totalH);
-
-    const grd2 = ctx.createRadialGradient(80, totalH - 200, 0, 80, totalH - 200, 200);
-    grd2.addColorStop(0, 'rgba(240, 219, 200, 0.25)');
-    grd2.addColorStop(1, 'rgba(240, 219, 200, 0)');
-    ctx.fillStyle = grd2;
-    ctx.fillRect(0, 0, W, totalH);
 
     let y = pad;
 
+    // === HEADER ===
     // Logo
     ctx.font = 'italic 500 32px Cormorant Garamond, serif';
     ctx.fillStyle = '#4a2830';
@@ -1223,164 +1158,187 @@ import Layout from '../layouts/Layout.astro';
     ctx.fillStyle = '#9e6b74';
     ctx.fillText('blog', pad + logoW + 18, y + 6);
 
-    // "Find Your Glow" tagline
+    // Tagline right-aligned
     ctx.font = '300 18px DM Sans, sans-serif';
     ctx.fillStyle = '#c9848c';
     const tagline = isMs ? 'Panduan Penjagaan Kulit' : 'Skincare Guide';
     const tagW = ctx.measureText(tagline).width;
     ctx.fillText(tagline, W - pad - tagW, y + 10);
-    y += 50 + 30;
+    y += 48;
 
-    // Divider line
-    ctx.strokeStyle = '#f5d5da';
-    ctx.lineWidth = 1;
-    ctx.beginPath();
-    ctx.moveTo(pad, y - 16);
-    ctx.lineTo(W - pad, y - 16);
-    ctx.stroke();
-
-    // Skin type title
-    ctx.font = '400 38px Cormorant Garamond, serif';
-    ctx.fillStyle = '#4a2830';
-    ctx.fillText(isMs ? data.labelMs : data.label, pad, y);
-    y += 44 + 16;
-
-    // Concerns
-    if (concerns.length > 0) {
-      let cx = pad;
-      for (const c of concerns) {
-        const label = cLabels[c] || c;
-        ctx.font = '500 16px DM Sans, sans-serif';
-        const tw = ctx.measureText(label).width;
-        const pillW = tw + 24;
-        const pillH = 28;
-        // Pill background
-        ctx.fillStyle = '#fad4dc';
-        ctx.beginPath();
-        ctx.roundRect(cx, y, pillW, pillH, 14);
-        ctx.fill();
-        // Pill text
-        ctx.fillStyle = '#b5616e';
-        ctx.fillText(label, cx + 12, y + 6);
-        cx += pillW + 8;
-        if (cx > W - pad - 100) { cx = pad; y += 36; }
-      }
-      y += 36 + 20;
-    }
-
-    // Description
-    ctx.font = '300 22px DM Sans, sans-serif';
-    ctx.fillStyle = '#9e6b74';
-    for (const line of descLines) {
-      ctx.fillText(line, pad, y);
-      y += 30;
-    }
-    y += 36;
-
-    // Routine renderer
-    function drawRoutine(title: string, emoji: string, steps: typeof routineData.morning) {
-      // Header background
-      const isMorning = title.includes('Pagi') || title.includes('Morning');
-      const headerBg = isMorning ? '#fff8e1' : '#e8eaf6';
-      const headerBorder = isMorning ? '#ffe0b2' : '#d1c4e9';
-      ctx.fillStyle = headerBg;
-      ctx.beginPath();
-      ctx.roundRect(pad, y, contentW, 40, 10);
-      ctx.fill();
-      ctx.strokeStyle = headerBorder;
-      ctx.lineWidth = 1;
-      ctx.beginPath();
-      ctx.roundRect(pad, y, contentW, 40, 10);
-      ctx.stroke();
-
-      ctx.font = '28px sans-serif';
-      ctx.fillText(emoji, pad + 12, y + 6);
-      ctx.font = '400 22px Cormorant Garamond, serif';
-      ctx.fillStyle = '#4a2830';
-      ctx.fillText(title, pad + 48, y + 10);
-      y += 40 + 16;
-
-      // Steps
-      for (let i = 0; i < steps.length; i++) {
-        const step = steps[i];
-        const stepName = isMs ? step.stepMs : step.step;
-        const tipText = isMs ? step.tipMs : step.tip;
-        // Strip HTML and split by newlines for serum multi-line
-        const cleanTip = tipText.replace(/<[^>]*>/g, '').replace(/•/g, '').trim();
-        const paragraphs = cleanTip.split('\n').filter(p => p.trim());
-
-        // Step number circle
-        ctx.fillStyle = '#c9848c';
-        ctx.beginPath();
-        ctx.arc(pad + 18, y + 16, 14, 0, Math.PI * 2);
-        ctx.fill();
-        ctx.fillStyle = '#ffffff';
-        ctx.font = '700 14px DM Sans, sans-serif';
-        ctx.textAlign = 'center';
-        ctx.fillText(String(i + 1), pad + 18, y + 10);
-        ctx.textAlign = 'left';
-
-        // Step name
-        ctx.font = '600 20px DM Sans, sans-serif';
-        ctx.fillStyle = '#4a2830';
-        ctx.fillText(stepName, stepTextX, y + 2);
-
-        // Tip paragraphs
-        let tipY = y + 30;
-        for (const para of paragraphs) {
-          const tipLines = wrapText(para.trim(), stepTextW, '300 20px DM Sans, sans-serif');
-          ctx.font = '300 20px DM Sans, sans-serif';
-          ctx.fillStyle = '#9e6b74';
-          for (const line of tipLines) {
-            ctx.fillText(line, stepTextX, tipY);
-            tipY += 26;
-          }
-        }
-
-        const stepH = Math.max(tipY - y, 54);
-        y += stepH + 8;
-
-        // Divider between steps
-        if (i < steps.length - 1) {
-          ctx.strokeStyle = '#f5d5da';
-          ctx.lineWidth = 0.5;
-          ctx.beginPath();
-          ctx.moveTo(stepTextX, y - 4);
-          ctx.lineTo(W - pad, y - 4);
-          ctx.stroke();
-        }
-      }
-      y += 28;
-    }
-
-    drawRoutine(isMs ? 'Rutin Pagi' : 'Morning Routine', '☀️', routineData.morning);
-    drawRoutine(isMs ? 'Rutin Malam' : 'Night Routine', '🌙', dlNightSteps);
-
-    // Footer divider
+    // Divider
     ctx.strokeStyle = '#f5d5da';
     ctx.lineWidth = 1;
     ctx.beginPath();
     ctx.moveTo(pad, y);
     ctx.lineTo(W - pad, y);
     ctx.stroke();
-    y += 20;
+    y += 24;
 
-    // Credit
-    ctx.font = '300 18px DM Sans, sans-serif';
+    // === SKIN TYPE TITLE ===
+    ctx.font = '400 36px Cormorant Garamond, serif';
+    ctx.fillStyle = '#4a2830';
+    ctx.fillText(isMs ? data.labelMs : data.label, pad, y);
+    y += 48;
+
+    // === CONCERN PILLS ===
+    if (concerns.length > 0) {
+      let cx = pad;
+      for (const c of concerns) {
+        const label = cLabels[c] || c;
+        ctx.font = '500 15px DM Sans, sans-serif';
+        const tw = ctx.measureText(label).width;
+        const pillW = tw + 24;
+        if (cx + pillW > W - pad) { cx = pad; y += 34; }
+        ctx.fillStyle = '#fad4dc';
+        ctx.beginPath();
+        ctx.roundRect(cx, y, pillW, 28, 14);
+        ctx.fill();
+        ctx.fillStyle = '#b5616e';
+        ctx.fillText(label, cx + 12, y + 7);
+        cx += pillW + 8;
+      }
+      y += 44;
+    }
+
+    // === DESCRIPTION ===
+    const descText = isMs ? data.descMs : data.desc;
+    const descLines = wrapText(descText, contentW, '300 20px DM Sans, sans-serif');
+    ctx.font = '300 20px DM Sans, sans-serif';
+    ctx.fillStyle = '#9e6b74';
+    for (const line of descLines) {
+      ctx.fillText(line, pad, y);
+      y += 28;
+    }
+    y += 32;
+
+    // === ROUTINE RENDERER ===
+    function drawRoutine(title: string, emoji: string, steps: typeof routineData.morning) {
+      const isMorning = title.includes('Pagi') || title.includes('Morning');
+
+      // Header bar
+      ctx.fillStyle = isMorning ? '#fff8e1' : '#e8eaf6';
+      ctx.beginPath();
+      ctx.roundRect(pad, y, contentW, 42, 10);
+      ctx.fill();
+      ctx.strokeStyle = isMorning ? '#ffe0b2' : '#d1c4e9';
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.roundRect(pad, y, contentW, 42, 10);
+      ctx.stroke();
+
+      ctx.font = '26px sans-serif';
+      ctx.fillText(emoji, pad + 14, y + 8);
+      ctx.font = '400 21px Cormorant Garamond, serif';
+      ctx.fillStyle = '#4a2830';
+      ctx.fillText(title, pad + 50, y + 12);
+      y += 58;
+
+      // Steps
+      for (let i = 0; i < steps.length; i++) {
+        const step = steps[i];
+        const stepName = isMs ? step.stepMs : step.step;
+        const tipText = isMs ? step.tipMs : step.tip;
+        const tipLines = getTipLines(tipText);
+
+        const stepStartY = y;
+
+        // Step number circle (vertically centered with step name)
+        ctx.fillStyle = '#c9848c';
+        ctx.beginPath();
+        ctx.arc(pad + 16, y + 12, 13, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.fillStyle = '#ffffff';
+        ctx.font = '700 13px DM Sans, sans-serif';
+        ctx.textAlign = 'center';
+        ctx.fillText(String(i + 1), pad + 16, y + 6);
+        ctx.textAlign = 'left';
+
+        // Step name
+        ctx.font = '600 19px DM Sans, sans-serif';
+        ctx.fillStyle = '#4a2830';
+        ctx.fillText(stepName, stepTextX, y);
+        y += 26;
+
+        // Tip lines
+        ctx.font = '300 19px DM Sans, sans-serif';
+        ctx.fillStyle = '#9e6b74';
+        for (const line of tipLines) {
+          ctx.fillText(line, stepTextX, y);
+          y += 24;
+        }
+
+        y += 10;
+
+        // Divider between steps
+        if (i < steps.length - 1) {
+          ctx.strokeStyle = '#f5d5da';
+          ctx.lineWidth = 0.5;
+          ctx.beginPath();
+          ctx.moveTo(stepTextX, y);
+          ctx.lineTo(W - pad, y);
+          ctx.stroke();
+          y += 10;
+        }
+      }
+      y += 24;
+    }
+
+    drawRoutine(isMs ? 'Rutin Pagi' : 'Morning Routine', '☀️', routineData.morning);
+    drawRoutine(isMs ? 'Rutin Malam' : 'Night Routine', '🌙', dlNightSteps);
+
+    // === FOOTER ===
+    y += 8;
+    ctx.strokeStyle = '#f5d5da';
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(pad, y);
+    ctx.lineTo(W - pad, y);
+    ctx.stroke();
+    y += 24;
+
+    ctx.font = '300 17px DM Sans, sans-serif';
     ctx.fillStyle = '#c4979e';
-    const credit = 'imanabdulrahim.com';
-    ctx.fillText(credit, pad, y);
+    ctx.fillText('imanabdulrahim.com', pad, y);
 
-    ctx.font = 'italic 500 18px Cormorant Garamond, serif';
+    ctx.font = 'italic 500 17px Cormorant Garamond, serif';
     ctx.fillStyle = '#c9848c';
     const brand = 'iman·blog';
     const brandW = ctx.measureText(brand).width;
     ctx.fillText(brand, W - pad - brandW, y);
+    y += pad;
+
+    // === TRIM & RENDER FINAL IMAGE ===
+    // Copy drawn content to a correctly-sized canvas
+    const finalCanvas = document.createElement('canvas');
+    finalCanvas.width = W;
+    finalCanvas.height = y;
+    const fCtx = finalCanvas.getContext('2d')!;
+
+    // Background
+    fCtx.fillStyle = '#fef0f3';
+    fCtx.fillRect(0, 0, W, y);
+
+    // Decorative gradients
+    const grd1 = fCtx.createRadialGradient(W - 100, 150, 0, W - 100, 150, 250);
+    grd1.addColorStop(0, 'rgba(250, 212, 220, 0.35)');
+    grd1.addColorStop(1, 'rgba(250, 212, 220, 0)');
+    fCtx.fillStyle = grd1;
+    fCtx.fillRect(0, 0, W, y);
+
+    const grd2 = fCtx.createRadialGradient(80, y - 200, 0, 80, y - 200, 200);
+    grd2.addColorStop(0, 'rgba(240, 219, 200, 0.2)');
+    grd2.addColorStop(1, 'rgba(240, 219, 200, 0)');
+    fCtx.fillStyle = grd2;
+    fCtx.fillRect(0, 0, W, y);
+
+    // Draw the content on top
+    fCtx.drawImage(canvas, 0, 0);
 
     // Download
     const link = document.createElement('a');
     link.download = `my-skincare-routine-${skinType}.png`;
-    link.href = canvas.toDataURL('image/png');
+    link.href = finalCanvas.toDataURL('image/png');
     link.click();
   });
 </script>
