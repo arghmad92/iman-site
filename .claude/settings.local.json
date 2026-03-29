@@ -41,7 +41,8 @@
       "WebFetch(domain:tatagaltier.com)",
       "Bash(grep -iv \"logo\\\\|icon\\\\|banner\\\\|svg\\\\|^alt=\"\"\"\"$\")",
       "WebFetch(domain:naturespalette.co)",
-      "Bash(grep -iv \"logo\\\\|icon\\\\|banner\\\\|svg\\\\|^alt=\"\"\"\"$\\\\|payment\\\\|carousel\")"
+      "Bash(grep -iv \"logo\\\\|icon\\\\|banner\\\\|svg\\\\|^alt=\"\"\"\"$\\\\|payment\\\\|carousel\")",
+      "WebFetch(domain:www.thepastelsshop.com)"
     ]
   }
 }

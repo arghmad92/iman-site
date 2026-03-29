@@ -437,6 +437,10 @@ import Layout from '../layouts/Layout.astro';
   };
 
   function showResults() {
+    // Bilingual dynamic text
+    const shopText = currentLang === 'ms' ? 'Beli di sini' : 'Shop here';
+    const readReviewText = currentLang === 'ms' ? 'Baca review →' : 'Read review →';
+
     // Smart routine override: certain concern + skin type combos use a different routine
     let routineType = skinType;
     if (skinType === 'dry' && concerns.includes('acne')) {
@@ -454,7 +458,9 @@ import Layout from '../layouts/Layout.astro';
     // Build description with pregnancy warning if needed
     let desc = data.desc;
     if (isPregnant) {
-      desc += '\n\n⚠️ Since you\'re pregnant/breastfeeding, please avoid retinol, salicylic acid (BHA), high-dose vitamin C, and chemical peels. Stick to gentle, pregnancy-safe products. When in doubt, check with your doctor.';
+      desc += currentLang === 'ms'
+        ? '\n\n⚠️ Oleh kerana anda mengandung/menyusu, kami telah menyesuaikan cadangan produk yang selamat untuk anda.'
+        : '\n\n⚠️ Since you\'re pregnant/breastfeeding, we\'ve adjusted the product recommendations to be safe for you.';
     }
     document.getElementById('resultDesc')!.textContent = desc;
 
@@ -462,7 +468,7 @@ import Layout from '../layouts/Layout.astro';
     const pregnancyBanner = isPregnant
       ? `<div class="pregnancy-warning">
           <strong>🤰 ${currentLang === 'ms' ? 'Nota Kehamilan / Penyusuan' : 'Pregnancy / Breastfeeding Note'}</strong>
-          <p>${currentLang === 'ms' ? 'Elakkan: Retinol, BHA (Salicylic Acid), Benzoyl Peroxide, Vitamin C dos tinggi. Gunakan produk lembut dan melembapkan.' : 'Avoid: Retinol, BHA (Salicylic Acid), Benzoyl Peroxide, high-dose Vitamin C. Stick to gentle hydrating products.'} <a href="/posts/skincare-during-pregnant-breastfeeding/">${currentLang === 'ms' ? 'Baca panduan skincare selamat' : 'Read my safe skincare guide here'}</a>.</p>
+          <p>${currentLang === 'ms' ? 'Cadangan produk telah disesuaikan untuk keselamatan anda semasa mengandung/menyusu.' : 'Product recommendations have been adjusted to be safe during pregnancy/breastfeeding.'} <a href="/posts/skincare-during-pregnant-breastfeeding/">${currentLang === 'ms' ? 'Baca panduan skincare selamat' : 'Read my safe skincare guide here'}</a>.</p>
         </div>`
       : '';
 
@@ -827,9 +833,7 @@ import Layout from '../layouts/Layout.astro';
     });
 
     const allStepOrder = ['1st Cleanser', 'Cleanser', 'Toner', 'Essence', 'Exfoliant', 'Serum', 'Ampoule', 'Moisturizer', 'Sunscreen', 'Mask'];
-    const shopText = currentLang === 'ms' ? 'Beli di sini' : 'Shop here';
-    const alsoRecText = currentLang === 'ms' ? 'Turut disyorkan' : 'Also recommended';
-    const readReviewText = currentLang === 'ms' ? 'Baca review →' : '${readReviewText}';
+    // (shopText and readReviewText declared at top of showResults)
 
     let allHTML = '';
     allStepOrder.forEach(step => {
