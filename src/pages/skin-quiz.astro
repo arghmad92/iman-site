@@ -139,6 +139,10 @@ import Layout from '../layouts/Layout.astro';
         </div>
 
         <div class="result-cta">
+          <button class="download-btn" id="downloadBtn" data-en="Download My Routine" data-ms="Muat Turun Rutin Saya">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download My Routine
+          </button>
           <button class="retake-btn" id="retakeBtn" data-en="Retake Quiz" data-ms="Ulang Kuiz">Retake Quiz</button>
           <a href="/posts/?cat=Skincare" class="browse-btn" data-en="Browse All Skincare Posts" data-ms="Lihat Semua Post Skincare">Browse All Skincare Posts</a>
         </div>
@@ -1014,6 +1018,297 @@ import Layout from '../layouts/Layout.astro';
     document.getElementById('extraSerums')!.innerHTML = '';
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
+
+  // Download results as image
+  document.getElementById('downloadBtn')!.addEventListener('click', () => {
+    const isMs = currentLang === 'ms';
+    const data = skinData[skinType] || skinData.normal;
+    const routineType = (skinType === 'dry' && concerns.includes('acne')) ? 'combo' : skinType;
+    const routineData = skinData[routineType] || data;
+
+    const concernLabelsEn: Record<string, string> = {
+      acne: 'Acne', dryness: 'Dryness', pigmentation: 'Pigmentation',
+      pores: 'Large Pores', whitehead: 'Whiteheads', aging: 'Anti-aging',
+      dull: 'Dull Skin', sensitivity: 'Sensitivity',
+    };
+    const concernLabelsMs: Record<string, string> = {
+      acne: 'Jerawat', dryness: 'Kering', pigmentation: 'Pigmentasi',
+      pores: 'Pori Besar', whitehead: 'Whiteheads', aging: 'Anti-penuaan',
+      dull: 'Kulit Kusam', sensitivity: 'Sensitif',
+    };
+    const cLabels = isMs ? concernLabelsMs : concernLabelsEn;
+
+    const W = 1080;
+    const pad = 60;
+    const contentW = W - pad * 2;
+
+    // Pre-calculate heights
+    const canvas = document.createElement('canvas');
+    canvas.width = W;
+    const ctx = canvas.getContext('2d')!;
+    ctx.textBaseline = 'top';
+
+    // Helper: wrap text and return lines
+    function wrapText(text: string, maxW: number, font: string): string[] {
+      ctx.font = font;
+      const words = text.split(' ');
+      const lines: string[] = [];
+      let line = '';
+      for (const word of words) {
+        const test = line ? line + ' ' + word : word;
+        if (ctx.measureText(test).width > maxW && line) {
+          lines.push(line);
+          line = word;
+        } else {
+          line = test;
+        }
+      }
+      if (line) lines.push(line);
+      return lines;
+    }
+
+    // Calculate total height
+    let totalH = pad; // top padding
+
+    // Header
+    totalH += 50; // logo
+    totalH += 30; // spacing
+
+    // Skin type title
+    totalH += 44;
+    totalH += 16; // spacing
+
+    // Concerns
+    if (concerns.length > 0) {
+      totalH += 36;
+      totalH += 20;
+    }
+
+    // Description
+    const descText = isMs ? data.descMs : data.desc;
+    const descLines = wrapText(descText, contentW, '300 22px DM Sans, sans-serif');
+    totalH += descLines.length * 30;
+    totalH += 36;
+
+    // Morning routine
+    totalH += 40; // header
+    totalH += 16;
+    for (const step of routineData.morning) {
+      const tipText = isMs ? step.tipMs : step.tip;
+      const tipLines = wrapText(tipText, contentW - 80, '300 20px DM Sans, sans-serif');
+      totalH += Math.max(tipLines.length * 26 + 30, 50);
+      totalH += 8;
+    }
+    totalH += 28;
+
+    // Night routine
+    totalH += 40; // header
+    totalH += 16;
+    for (const step of routineData.night) {
+      const tipText = isMs ? step.tipMs : step.tip;
+      const tipLines = wrapText(tipText, contentW - 80, '300 20px DM Sans, sans-serif');
+      totalH += Math.max(tipLines.length * 26 + 30, 50);
+      totalH += 8;
+    }
+    totalH += 36;
+
+    // Footer
+    totalH += 60;
+    totalH += pad;
+
+    canvas.height = totalH;
+
+    // Background
+    ctx.fillStyle = '#fef0f3';
+    ctx.fillRect(0, 0, W, totalH);
+
+    // Decorative gradient circles
+    const grd1 = ctx.createRadialGradient(W - 100, 150, 0, W - 100, 150, 250);
+    grd1.addColorStop(0, 'rgba(250, 212, 220, 0.4)');
+    grd1.addColorStop(1, 'rgba(250, 212, 220, 0)');
+    ctx.fillStyle = grd1;
+    ctx.fillRect(0, 0, W, totalH);
+
+    const grd2 = ctx.createRadialGradient(80, totalH - 200, 0, 80, totalH - 200, 200);
+    grd2.addColorStop(0, 'rgba(240, 219, 200, 0.25)');
+    grd2.addColorStop(1, 'rgba(240, 219, 200, 0)');
+    ctx.fillStyle = grd2;
+    ctx.fillRect(0, 0, W, totalH);
+
+    let y = pad;
+
+    // Logo
+    ctx.font = 'italic 500 32px Cormorant Garamond, serif';
+    ctx.fillStyle = '#4a2830';
+    const logoText = 'iman';
+    ctx.fillText(logoText, pad, y);
+    const logoW = ctx.measureText(logoText).width;
+    ctx.fillStyle = '#c9848c';
+    ctx.font = '600 38px Cormorant Garamond, serif';
+    ctx.fillText('·', pad + logoW + 2, y - 4);
+    ctx.font = '300 24px Cormorant Garamond, serif';
+    ctx.fillStyle = '#9e6b74';
+    ctx.fillText('blog', pad + logoW + 18, y + 6);
+
+    // "Find Your Glow" tagline
+    ctx.font = '300 18px DM Sans, sans-serif';
+    ctx.fillStyle = '#c9848c';
+    const tagline = isMs ? 'Panduan Penjagaan Kulit' : 'Skincare Guide';
+    const tagW = ctx.measureText(tagline).width;
+    ctx.fillText(tagline, W - pad - tagW, y + 10);
+    y += 50 + 30;
+
+    // Divider line
+    ctx.strokeStyle = '#f5d5da';
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(pad, y - 16);
+    ctx.lineTo(W - pad, y - 16);
+    ctx.stroke();
+
+    // Skin type title
+    ctx.font = '400 38px Cormorant Garamond, serif';
+    ctx.fillStyle = '#4a2830';
+    ctx.fillText(isMs ? data.labelMs : data.label, pad, y);
+    y += 44 + 16;
+
+    // Concerns
+    if (concerns.length > 0) {
+      let cx = pad;
+      for (const c of concerns) {
+        const label = cLabels[c] || c;
+        ctx.font = '500 16px DM Sans, sans-serif';
+        const tw = ctx.measureText(label).width;
+        const pillW = tw + 24;
+        const pillH = 28;
+        // Pill background
+        ctx.fillStyle = '#fad4dc';
+        ctx.beginPath();
+        ctx.roundRect(cx, y, pillW, pillH, 14);
+        ctx.fill();
+        // Pill text
+        ctx.fillStyle = '#b5616e';
+        ctx.fillText(label, cx + 12, y + 6);
+        cx += pillW + 8;
+        if (cx > W - pad - 100) { cx = pad; y += 36; }
+      }
+      y += 36 + 20;
+    }
+
+    // Description
+    ctx.font = '300 22px DM Sans, sans-serif';
+    ctx.fillStyle = '#9e6b74';
+    for (const line of descLines) {
+      ctx.fillText(line, pad, y);
+      y += 30;
+    }
+    y += 36;
+
+    // Routine renderer
+    function drawRoutine(title: string, emoji: string, steps: typeof routineData.morning) {
+      // Header background
+      const headerBg = title.includes('Pagi') || title.includes('Morning') ? '#fff8e1' : '#e8eaf6';
+      const headerBorder = title.includes('Pagi') || title.includes('Morning') ? '#ffe0b2' : '#d1c4e9';
+      ctx.fillStyle = headerBg;
+      ctx.beginPath();
+      ctx.roundRect(pad, y, contentW, 40, 10);
+      ctx.fill();
+      ctx.strokeStyle = headerBorder;
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.roundRect(pad, y, contentW, 40, 10);
+      ctx.stroke();
+
+      ctx.font = '28px sans-serif';
+      ctx.fillText(emoji, pad + 12, y + 6);
+      ctx.font = '400 22px Cormorant Garamond, serif';
+      ctx.fillStyle = '#4a2830';
+      ctx.fillText(title, pad + 48, y + 10);
+      y += 40 + 16;
+
+      // Steps
+      for (let i = 0; i < steps.length; i++) {
+        const step = steps[i];
+        const stepName = isMs ? step.stepMs : step.step;
+        const tipText = isMs ? step.tipMs : step.tip;
+        // Strip HTML from tip
+        const cleanTip = tipText.replace(/<[^>]*>/g, '').replace(/•/g, '').trim();
+        const tipLines = wrapText(cleanTip, contentW - 80, '300 20px DM Sans, sans-serif');
+        const stepH = Math.max(tipLines.length * 26 + 30, 50);
+
+        // Step number circle
+        ctx.fillStyle = '#c9848c';
+        ctx.beginPath();
+        ctx.arc(pad + 16, y + 16, 14, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.fillStyle = '#ffffff';
+        ctx.font = '700 14px DM Sans, sans-serif';
+        ctx.textAlign = 'center';
+        ctx.fillText(String(i + 1), pad + 16, y + 10);
+        ctx.textAlign = 'left';
+
+        // Step name
+        ctx.font = '600 20px DM Sans, sans-serif';
+        ctx.fillStyle = '#4a2830';
+        ctx.fillText(stepName, pad + 42, y + 2);
+
+        // Tip lines
+        ctx.font = '300 20px DM Sans, sans-serif';
+        ctx.fillStyle = '#9e6b74';
+        let tipY = y + 28;
+        for (const line of tipLines) {
+          ctx.fillText(line, pad + 42, tipY);
+          tipY += 26;
+        }
+
+        y += stepH + 8;
+
+        // Divider between steps
+        if (i < steps.length - 1) {
+          ctx.strokeStyle = '#f5d5da';
+          ctx.lineWidth = 0.5;
+          ctx.beginPath();
+          ctx.moveTo(pad + 42, y - 4);
+          ctx.lineTo(W - pad, y - 4);
+          ctx.stroke();
+        }
+      }
+      y += 28;
+    }
+
+    const morningTitle = isMs ? '☀️ Rutin Pagi' : '☀️ Morning Routine';
+    const nightTitle = isMs ? '🌙 Rutin Malam' : '🌙 Night Routine';
+    // Pass emoji separately since we draw it with the title
+    drawRoutine(isMs ? 'Rutin Pagi' : 'Morning Routine', '☀️', routineData.morning);
+    drawRoutine(isMs ? 'Rutin Malam' : 'Night Routine', '🌙', routineData.night);
+
+    // Footer divider
+    ctx.strokeStyle = '#f5d5da';
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(pad, y);
+    ctx.lineTo(W - pad, y);
+    ctx.stroke();
+    y += 20;
+
+    // Credit
+    ctx.font = '300 18px DM Sans, sans-serif';
+    ctx.fillStyle = '#c4979e';
+    const credit = isMs ? 'Dihasilkan di imanabdulrahim.com/skin-quiz' : 'Generated at imanabdulrahim.com/skin-quiz';
+    ctx.fillText(credit, pad, y);
+
+    ctx.font = 'italic 500 18px Cormorant Garamond, serif';
+    ctx.fillStyle = '#c9848c';
+    const brand = 'iman·blog';
+    const brandW = ctx.measureText(brand).width;
+    ctx.fillText(brand, W - pad - brandW, y);
+
+    // Download
+    const link = document.createElement('a');
+    link.download = `my-skincare-routine-${skinType}.png`;
+    link.href = canvas.toDataURL('image/png');
+    link.click();
+  });
 </script>
 
 <style is:global>
@@ -1343,10 +1638,12 @@ import Layout from '../layouts/Layout.astro';
 
   /* CTA */
   .result-cta { display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap; }
-  .retake-btn, .browse-btn {
+  .retake-btn, .browse-btn, .download-btn {
     padding: 0.8rem 2rem; border-radius: 100px; font-family: 'DM Sans', sans-serif;
     font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: all 0.2s;
   }
+  .download-btn { background: var(--text-primary); color: var(--cream); border: none; display: inline-flex; align-items: center; gap: 0.4rem; }
+  .download-btn:hover { background: var(--rose-gold); transform: translateY(-1px); }
   .retake-btn { background: none; border: 1.5px solid var(--rose-gold); color: var(--rose-gold); }
   .retake-btn:hover { background: var(--rose-gold); color: white; }
   .browse-btn { background: var(--rose-gold); color: white; border: none; display: inline-flex; align-items: center; }
