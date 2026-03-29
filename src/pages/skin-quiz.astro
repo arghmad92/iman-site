@@ -626,12 +626,11 @@ import Layout from '../layouts/Layout.astro';
 
     // === Yello Skincare products ===
     const yelloProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
-      oatmino: { name: 'Oatmino Refreshing Cream Cleanser', img: '/yello/oatmino.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=64', step: 'Cleanser' },
-      oatellia: { name: 'Oatellia Exfoliating Gel Cleanser', img: '/yello/oatellia.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=69', step: 'Cleanser' },
-      cynara_mist: { name: 'Cynara Essence Mist', img: '/yello/cynara-mist.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=70', step: 'Toner' },
-      cynara_essence: { name: 'Cynara Supple Plumping Essence', img: '/yello/cynara-essence.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=80', step: 'Essence' },
-      snowmeric: { name: 'Snowmeric Hydra-Boost Brightening Serum', img: '/yello/snowmeric.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=66', step: 'Serum' },
-      otms: { name: 'Oatmeal Turmeric Mask & Scrub', img: '/yello/otms.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=68', step: 'Mask' },
+      oatmino: { name: 'Oatmino Refreshing Cream Cleanser', img: '/yello/oatmino.png', url: 'https://s.shopee.com.my/AACnuWtITk', step: 'Cleanser' },
+      oatellia: { name: 'Oatellia Exfoliating Gel Cleanser', img: '/yello/oatellia.png', url: 'https://s.shopee.com.my/2g6myl8B2l', step: 'Cleanser' },
+      cynara_essence: { name: 'Cynara Supple Plumping Essence', img: '/yello/cynara-essence.png', url: 'https://s.shopee.com.my/10yYziJCmj', step: 'Essence' },
+      snowmeric: { name: 'Snowmeric Hydra-Boost Brightening Serum', img: '/yello/snowmeric.png', url: 'https://s.shopee.com.my/AUpeJBiQgq', step: 'Serum' },
+      otms: { name: 'Oatmeal Turmeric Mask & Scrub', img: '/yello/otms.png', url: 'https://s.shopee.com.my/9Ux77MqREL', step: 'Mask' },
     };
 
     const yelloRecs: string[] = [];
@@ -642,9 +641,6 @@ import Layout from '../layouts/Layout.astro';
     if (skinType === 'oily') { addYello('oatellia'); }
     else if (skinType === 'combo') { addYello('oatmino'); addYello('oatellia'); }
     else { addYello('oatmino'); }
-
-    // Toner — all skin types
-    addYello('cynara_mist');
 
     // Essence — by concern
     if (concerns.some(c => ['dryness', 'pigmentation', 'dull', 'sensitivity', 'aging'].includes(c))) {
