@@ -394,9 +394,14 @@ import Layout from '../layouts/Layout.astro';
         </div>`
       : '';
 
-    // Concern tags
+    // Concern tags — readable labels
+    const concernLabels: Record<string, string> = {
+      acne: 'Acne & Breakouts', dryness: 'Dryness', pigmentation: 'Pigmentation',
+      pores: 'Large Pores', whitehead: 'Whiteheads', aging: 'Anti-aging',
+      dull: 'Dull Skin', sensitivity: 'Sensitivity',
+    };
     const concernTags = concerns.length > 0
-      ? `<div class="concern-tags">${concerns.map(c => `<span class="concern-tag">${c.replace(/([A-Z])/g, ' $1').replace(/^./, s => s.toUpperCase())}</span>`).join('')}</div>`
+      ? `<div class="concern-tags"><span class="concern-tags-label">Your concerns:</span>${concerns.map(c => `<span class="concern-tag">${concernLabels[c] || c}</span>`).join('')}</div>`
       : '';
 
     // Personalise night serum based on concerns + pregnancy
@@ -590,11 +595,19 @@ import Layout from '../layouts/Layout.astro';
   .pregnancy-warning p { font-size: 0.85rem; color: var(--text-secondary); line-height: 1.7; font-weight: 300; }
   .pregnancy-warning a { color: var(--rose-gold); text-decoration: underline; }
 
-  .concern-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.5rem; }
+  .concern-tags {
+    display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center;
+    margin-bottom: 1.5rem; padding: 1rem; background: var(--white);
+    border: 1px solid var(--border); border-radius: 14px;
+  }
+  .concern-tags-label {
+    font-size: 0.72rem; color: var(--text-muted); font-weight: 600;
+    margin-right: 0.3rem; white-space: nowrap;
+  }
   .concern-tag {
     font-size: 0.7rem; padding: 0.3rem 0.8rem; border-radius: 100px;
     background: var(--blush); color: var(--rose-gold-dark); font-weight: 500;
-    letter-spacing: 0.03em; text-transform: capitalize;
+    letter-spacing: 0.03em;
   }
 
   /* Results */
@@ -615,37 +628,31 @@ import Layout from '../layouts/Layout.astro';
   .result-section h3 em { font-style: italic; color: var(--rose-gold); }
   .result-note { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; font-weight: 300; }
 
-  /* Routine steps — timeline style */
-  .routine-steps { display: flex; flex-direction: column; gap: 0; }
+  /* Routine steps — card style */
+  .routine-steps { display: flex; flex-direction: column; gap: 0.6rem; }
   .routine-step {
-    display: flex; gap: 0; align-items: stretch;
+    display: flex; gap: 0.8rem; align-items: flex-start;
+    padding: 1rem 1.2rem; background: var(--white); border: 1px solid var(--border);
+    border-radius: 14px; transition: border-color 0.2s;
   }
-  .step-left {
-    display: flex; flex-direction: column; align-items: center; width: 40px; flex-shrink: 0;
-  }
+  .routine-step:hover { border-color: var(--rose); }
+  .step-left { display: flex; align-items: flex-start; flex-shrink: 0; }
   .step-number {
-    width: 32px; height: 32px; border-radius: 50%; background: var(--rose-gold);
+    width: 30px; height: 30px; border-radius: 10px; background: var(--rose-gold);
     color: white; display: flex; align-items: center; justify-content: center;
-    font-size: 0.78rem; font-weight: 700; flex-shrink: 0; z-index: 1;
-    box-shadow: 0 2px 8px rgba(201,132,140,0.2);
+    font-size: 0.75rem; font-weight: 700;
+    box-shadow: 0 2px 8px rgba(201,132,140,0.15);
   }
-  .step-line-v {
-    width: 2px; flex: 1; background: var(--border); margin: 0 auto;
-  }
-  .routine-step:last-child .step-line-v { display: none; }
-  .step-content {
-    flex: 1; padding: 0.4rem 0 1.5rem 1rem;
-    border-left: none;
-  }
+  .step-line-v { display: none; }
+  .step-content { flex: 1; min-width: 0; }
   .step-content strong {
-    font-size: 0.92rem; color: var(--text-primary); display: block; margin-bottom: 0.25rem;
-    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem; color: var(--text-primary); display: block; margin-bottom: 0.2rem;
+    font-family: 'DM Sans', sans-serif; font-weight: 600;
   }
   .step-content p {
     font-size: 0.82rem; color: var(--text-muted); font-weight: 300; margin: 0;
-    line-height: 1.6; max-width: 480px;
+    line-height: 1.6;
   }
-  .routine-step:last-child .step-content { padding-bottom: 0.4rem; }
 
   /* Extra serums box */
   .extra-serums-box {
