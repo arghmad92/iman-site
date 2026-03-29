@@ -1,0 +1,479 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Skin Type Quiz — Find Your Perfect Routine | Iman Abdul Rahim" description="Take our skin type quiz to discover your skin type and get personalised skincare product recommendations.">
+  <header class="site-header">
+    <nav>
+      <a href="/" class="logo">
+        <span class="logo-text">iman</span>
+        <span class="logo-dot">·</span>
+        <span class="logo-sub">blog</span>
+      </a>
+      <a href="/" class="back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+        Home
+      </a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Hero -->
+    <div class="quiz-hero">
+      <div class="hero-inner">
+        <p class="section-label">Skincare Quiz</p>
+        <h1 class="quiz-title">What's your <em>skin type?</em></h1>
+        <p class="quiz-sub">Answer 6 simple questions and I'll recommend the best products for your skin — all reviewed on this blog.</p>
+      </div>
+      <div class="deco-a"></div>
+    </div>
+
+    <div class="quiz-page">
+      <!-- Quiz container -->
+      <div id="quizContainer" class="quiz-container">
+        <!-- Progress -->
+        <div class="quiz-progress">
+          <div class="quiz-progress-bar" id="progressBar" style="width:0%"></div>
+        </div>
+        <p class="quiz-step" id="stepLabel">Question 1 of 6</p>
+
+        <!-- Questions (shown one at a time) -->
+        <div class="quiz-question active" data-q="0">
+          <h2>How does your face feel in the morning after washing?</h2>
+          <div class="quiz-options">
+            <button class="quiz-opt" data-value="oily">Oily and shiny, especially T-zone</button>
+            <button class="quiz-opt" data-value="dry">Tight, dry, sometimes flaky</button>
+            <button class="quiz-opt" data-value="combo">Oily T-zone but dry cheeks</button>
+            <button class="quiz-opt" data-value="sensitive">Red, irritated, or stinging</button>
+            <button class="quiz-opt" data-value="normal">Comfortable and balanced</button>
+          </div>
+        </div>
+
+        <div class="quiz-question" data-q="1">
+          <h2>How often do you get breakouts?</h2>
+          <div class="quiz-options">
+            <button class="quiz-opt" data-value="oily">Frequently — especially on forehead and chin</button>
+            <button class="quiz-opt" data-value="dry">Rarely, but skin feels rough</button>
+            <button class="quiz-opt" data-value="combo">Sometimes on T-zone, clear on cheeks</button>
+            <button class="quiz-opt" data-value="sensitive">When I try new products or when stressed</button>
+            <button class="quiz-opt" data-value="normal">Occasionally, nothing major</button>
+          </div>
+        </div>
+
+        <div class="quiz-question" data-q="2">
+          <h2>How does your skin react to new products?</h2>
+          <div class="quiz-options">
+            <button class="quiz-opt" data-value="oily">Gets oilier or causes whiteheads</button>
+            <button class="quiz-opt" data-value="dry">Sometimes burns or peels</button>
+            <button class="quiz-opt" data-value="combo">Depends on the area — mixed reactions</button>
+            <button class="quiz-opt" data-value="sensitive">Often reacts — redness, itching, breakouts</button>
+            <button class="quiz-opt" data-value="normal">Adjusts fine with most products</button>
+          </div>
+        </div>
+
+        <div class="quiz-question" data-q="3">
+          <h2>How visible are your pores?</h2>
+          <div class="quiz-options">
+            <button class="quiz-opt" data-value="oily">Very visible, especially on nose and cheeks</button>
+            <button class="quiz-opt" data-value="dry">Barely visible, skin looks flat</button>
+            <button class="quiz-opt" data-value="combo">Visible on nose/forehead, fine on cheeks</button>
+            <button class="quiz-opt" data-value="sensitive">Some visible, but skin looks uneven</button>
+            <button class="quiz-opt" data-value="normal">Small and even across face</button>
+          </div>
+        </div>
+
+        <div class="quiz-question" data-q="4">
+          <h2>By midday, how does your face look?</h2>
+          <div class="quiz-options">
+            <button class="quiz-opt" data-value="oily">Shiny all over — need blotting paper</button>
+            <button class="quiz-opt" data-value="dry">Feels tight, maybe some dry patches</button>
+            <button class="quiz-opt" data-value="combo">Shiny T-zone, normal/dry cheeks</button>
+            <button class="quiz-opt" data-value="sensitive">Some redness or irritation</button>
+            <button class="quiz-opt" data-value="normal">Pretty much the same as morning</button>
+          </div>
+        </div>
+
+        <div class="quiz-question" data-q="5">
+          <h2>What's your biggest skin concern?</h2>
+          <div class="quiz-options">
+            <button class="quiz-opt" data-value="oily">Excess oil, blackheads, large pores</button>
+            <button class="quiz-opt" data-value="dry">Dryness, flakiness, dull skin</button>
+            <button class="quiz-opt" data-value="combo">Can't find products that work for whole face</button>
+            <button class="quiz-opt" data-value="sensitive">Redness, irritation, product reactions</button>
+            <button class="quiz-opt" data-value="normal">Maintaining healthy skin, anti-aging</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Results (hidden until quiz complete) -->
+      <div id="quizResults" class="quiz-results" style="display:none">
+        <div class="result-card">
+          <p class="section-label">Your Skin Type</p>
+          <h2 class="result-type" id="resultType"></h2>
+          <p class="result-desc" id="resultDesc"></p>
+        </div>
+
+        <div class="result-section">
+          <h3>Your <em>Recommended Routine</em></h3>
+          <div id="routineSteps" class="routine-steps"></div>
+        </div>
+
+        <div class="result-section">
+          <h3>Products I've <em>Reviewed</em></h3>
+          <p class="result-note">These are products I've personally tried and reviewed on this blog:</p>
+          <div id="productRecs" class="product-grid"></div>
+        </div>
+
+        <div class="result-section">
+          <h3>Helpful <em>Guides</em></h3>
+          <div id="guideLinks" class="guide-grid"></div>
+        </div>
+
+        <div class="result-cta">
+          <button class="retake-btn" id="retakeBtn">Retake Quiz</button>
+          <a href="/posts/?cat=Skincare" class="browse-btn">Browse All Skincare Posts</a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="post-footer">
+    <p>&copy; {new Date().getFullYear()} Iman Abdul Rahim &mdash; <a href="/">Back to home</a></p>
+  </footer>
+</Layout>
+
+<script>
+  const answers: string[] = [];
+  let currentQ = 0;
+  const totalQ = 6;
+
+  const questions = document.querySelectorAll('.quiz-question');
+  const progressBar = document.getElementById('progressBar')!;
+  const stepLabel = document.getElementById('stepLabel')!;
+
+  // Handle option clicks
+  document.querySelectorAll('.quiz-opt').forEach(btn => {
+    btn.addEventListener('click', () => {
+      answers[currentQ] = (btn as HTMLElement).dataset.value!;
+
+      // Highlight selected
+      btn.parentElement!.querySelectorAll('.quiz-opt').forEach(b => b.classList.remove('selected'));
+      btn.classList.add('selected');
+
+      // Next question after brief delay
+      setTimeout(() => {
+        currentQ++;
+        if (currentQ >= totalQ) {
+          showResults();
+        } else {
+          questions.forEach(q => q.classList.remove('active'));
+          questions[currentQ].classList.add('active');
+          progressBar.style.width = `${(currentQ / totalQ) * 100}%`;
+          stepLabel.textContent = `Question ${currentQ + 1} of ${totalQ}`;
+        }
+      }, 300);
+    });
+  });
+
+  function getSkinType(): string {
+    const counts: Record<string, number> = { oily: 0, dry: 0, combo: 0, sensitive: 0, normal: 0 };
+    answers.forEach(a => { if (counts[a] !== undefined) counts[a]++; });
+    return Object.entries(counts).sort((a, b) => b[1] - a[1])[0][0];
+  }
+
+  const skinData: Record<string, {
+    label: string;
+    desc: string;
+    routine: { step: string; tip: string }[];
+    products: { name: string; slug: string; category: string }[];
+    guides: { title: string; slug: string }[];
+  }> = {
+    oily: {
+      label: 'Oily Skin',
+      desc: 'Your skin produces excess sebum, especially on the T-zone. You likely have visible pores and are prone to blackheads and breakouts. The good news? Oily skin ages slower! Focus on oil control without over-stripping.',
+      routine: [
+        { step: 'Low pH Cleanser', tip: 'Gentle cleansing without stripping natural oils' },
+        { step: 'BHA/AHA Toner', tip: 'Controls oil and unclogs pores' },
+        { step: 'Lightweight Moisturizer', tip: 'Gel-type or water-based, non-comedogenic' },
+        { step: 'Sunscreen (Non-greasy)', tip: 'Gel or watery essence formula' },
+      ],
+      products: [
+        { name: 'CosRx AHA/BHA Clarifying Treatment Toner', slug: 'cosrx-ahabha-clarifying-treatment-toner-review', category: 'Toner' },
+        { name: 'Innisfree Daily UV Protection Essence Sensitive', slug: 'innisfree-daily-uv-protection-essence-sensitive-review', category: 'Sunscreen' },
+        { name: 'Biore UV Aqua Rich Watery Essence', slug: 'biore-uv-aqua-rich-watery-essence-review', category: 'Sunscreen' },
+        { name: 'Pixi Glow Tonic', slug: 'pixi-glow-tonic-review', category: 'Toner' },
+        { name: 'Canmake Mermaid Skin Gel UV', slug: 'canmake-mermaid-skin-gel-uv-review', category: 'Sunscreen' },
+        { name: 'The Ordinary Niacinamide 10% + Zinc 1%', slug: 'the-ordinary-niacinamide-10-zinc-1-review', category: 'Serum' },
+      ],
+      guides: [
+        { title: 'Skincare 101: Low pH Cleanser', slug: 'skincare-101-low-ph-cleanser' },
+        { title: 'Macam Mana Nak Kecilkan Pori', slug: 'macam-mana-nak-kecilkan-pori-pores' },
+        { title: 'AHA & BHA Exfoliation Guide', slug: 'exfoliate-aha-bha' },
+        { title: 'How to Treat Acne', slug: 'how-i-treat-acne-acne-skincare-routine' },
+      ],
+    },
+    dry: {
+      label: 'Dry Skin',
+      desc: 'Your skin lacks moisture and natural oils, often feeling tight or flaky. You need hydration-focused products with ceramides and hyaluronic acid. Avoid harsh cleansers and alcohol-based toners.',
+      routine: [
+        { step: 'Cream/Oil Cleanser', tip: 'Hydrating first cleanser to avoid stripping' },
+        { step: 'Hydrating Toner', tip: 'Layer for extra moisture (7-skin method)' },
+        { step: 'Rich Moisturizer', tip: 'Cream with ceramides, not gel' },
+        { step: 'Sunscreen (Moisturizing)', tip: 'Cream-type with hydrating ingredients' },
+      ],
+      products: [
+        { name: 'CeraVe Hydrating Cleanser', slug: 'cerave-hydrating-cleanser-review', category: 'Cleanser' },
+        { name: 'CeraVe Moisturizing Cream', slug: 'cerave-moisturizing-cream-review', category: 'Moisturizer' },
+        { name: 'Hada Labo Gokujyun Hydrating Lotion', slug: 'hada-labo-gokujyun-hydrating-lotion-review', category: 'Toner' },
+        { name: 'Dr. Jart+ Ceramidin Cream', slug: 'dr-jart-ceramidin-cream-review', category: 'Moisturizer' },
+        { name: 'The Ordinary Hyaluronic Acid 2% + B5', slug: 'the-ordinary-hyaluronic-acid-2-b5-review', category: 'Serum' },
+        { name: 'Laneige Lip Sleeping Mask', slug: 'laneige-lip-sleeping-mask-review', category: 'Lip Care' },
+      ],
+      guides: [
+        { title: 'Why Hydration is Important', slug: 'why-hydration-is-important-and-how-to-keep-your-skin-hydrated' },
+        { title: 'Moisturizers with Ceramide', slug: 'moisturizers-with-ceramide-that-i-have-tried' },
+        { title: 'Skincare 101: Sheet Mask', slug: 'skincare-101-sheet-mask' },
+        { title: 'My Skincare Routine (Dry Skin)', slug: 'my-current-skincare-routine-2017-dry-skin' },
+      ],
+    },
+    combo: {
+      label: 'Combination Skin',
+      desc: 'You have the best of both worlds — oily T-zone (forehead, nose, chin) but normal-to-dry cheeks. The key is using lightweight products that balance both areas without over-moisturizing or over-drying.',
+      routine: [
+        { step: 'Gentle Low pH Cleanser', tip: 'Balances without stripping or adding oil' },
+        { step: 'Balancing Toner', tip: 'Hydrating but not heavy' },
+        { step: 'Lightweight Moisturizer', tip: 'Gel-cream hybrid — moisturizes without grease' },
+        { step: 'Sunscreen (Lightweight)', tip: 'Gel or essence type' },
+      ],
+      products: [
+        { name: 'Hada Labo Gokujyun Foaming Wash', slug: 'hada-labo-gokujyun-foaming-wash-review', category: 'Cleanser' },
+        { name: 'Klairs Supple Preparation Facial Toner', slug: 'klairs-supple-preparation-facial-toner-review', category: 'Toner' },
+        { name: 'Sunplay Skin Aqua UV Moisture Gel', slug: 'sunplay-skin-aqua-uv-whitening-moisture-gel-spf50-pa-review', category: 'Sunscreen' },
+        { name: 'Primera Essence Miracle Seed', slug: 'primera-essence-miracle-seed-review', category: 'Essence' },
+        { name: 'Purito Comfy Water Sun Block', slug: 'purito-comfy-water-sun-block-spf50-pa-review', category: 'Sunscreen' },
+        { name: 'The Inkey List Moisturizer', slug: 'the-inkey-list-moisturizer-review', category: 'Moisturizer' },
+      ],
+      guides: [
+        { title: 'Skincare Routine for Combo/Acne Prone', slug: 'my-skincare-routine-for-combinationacne-prone-skin' },
+        { title: 'How to Create a Simple Routine', slug: 'how-to-create-a-simple-skincare-routine' },
+        { title: 'Skincare 101: Double Cleansing', slug: 'skincare-101-double-cleansing-method' },
+        { title: 'Skincare 101: How to Choose a Cleanser', slug: 'skincare-101-how-to-choose-a-facial-cleanser' },
+      ],
+    },
+    sensitive: {
+      label: 'Sensitive Skin',
+      desc: 'Your skin is easily irritated by products, weather, or stress. Redness, stinging, and reactions are common. Stick to fragrance-free, minimal-ingredient products and always patch test. Less is more!',
+      routine: [
+        { step: 'Fragrance-Free Gentle Cleanser', tip: 'Minimal ingredients, no SLS' },
+        { step: 'Calming Toner', tip: 'Centella, aloe, or chamomile-based' },
+        { step: 'Barrier Repair Moisturizer', tip: 'Ceramides and soothing ingredients' },
+        { step: 'Mineral Sunscreen', tip: 'Physical/mineral filter, less irritating' },
+      ],
+      products: [
+        { name: 'Etude House Soon Jung pH 5.5 Relief Toner', slug: 'etude-house-soon-jung-ph55-relief-toner-review', category: 'Toner' },
+        { name: 'CeraVe Moisturizing Cream', slug: 'cerave-moisturizing-cream-review', category: 'Moisturizer' },
+        { name: 'Centella Cream Comparison', slug: 'centella-cream-comparison-iunik-apieu-althea', category: 'Moisturizer' },
+        { name: 'Innisfree Daily UV Protection (Sensitive)', slug: 'innisfree-daily-uv-protection-essence-sensitive-review', category: 'Sunscreen' },
+        { name: 'The Face Shop Dr. Belmeur', slug: 'the-face-shop-dr-belmeur-daily-repair-moisturizer-and-ato-salt-cream-review', category: 'Moisturizer' },
+        { name: 'Holika Holika Good Cera Cream', slug: 'holika-holika-good-cera-super-ceramide-cream-review', category: 'Moisturizer' },
+      ],
+      guides: [
+        { title: 'Soothing Ingredients Guide', slug: 'soothing-ingredients' },
+        { title: 'Skincare 101: Patch Test', slug: 'skincare-101-patch-test-how-to-patch-test' },
+        { title: 'Skincare 101: Skin Barrier', slug: 'skincare-101-skin-barrier' },
+        { title: 'Benda Yang Patut Dielakkan', slug: 'benda-yang-patut-dielakkan-untuk-kulit-muka' },
+      ],
+    },
+    normal: {
+      label: 'Normal Skin',
+      desc: 'Lucky you! Your skin is well-balanced — not too oily, not too dry. Focus on maintaining what you have with a simple routine, good sun protection, and preventive anti-aging care.',
+      routine: [
+        { step: 'Gentle Cleanser', tip: 'Any gentle formula that you enjoy' },
+        { step: 'Hydrating Toner or Essence', tip: 'Adds a layer of hydration' },
+        { step: 'Moisturizer', tip: 'Light to medium weight, your preference' },
+        { step: 'Sunscreen (Daily)', tip: 'The most important step — protect your skin' },
+      ],
+      products: [
+        { name: 'Klairs Freshly Juiced Vitamin Drop', slug: 'klairs-freshly-juiced-vitamin-drop-review', category: 'Serum' },
+        { name: 'Pyunkang Yul Essence Toner', slug: 'pyunkang-yul-essence-toner-review', category: 'Toner' },
+        { name: 'Missha First Treatment Essence', slug: 'missha-first-treatment-essence', category: 'Essence' },
+        { name: 'CosRx Advanced Snail 96 Mucin', slug: 'cosrx-advanced-snail-96-mucin-power-essence-review', category: 'Essence' },
+        { name: 'Supergoop Unseen Sunscreen SPF40', slug: 'supergoop-unseen-sunscreen-broad-spectrum-spf40', category: 'Sunscreen' },
+        { name: 'The Ordinary Lactic Acid 5%', slug: 'the-ordinary-lactic-acid-5-ha-review', category: 'Exfoliant' },
+      ],
+      guides: [
+        { title: 'Skincare 101: Basic Routine (Drugstore)', slug: 'skincare-101-basic-skincare-routine-drugstore-version' },
+        { title: 'How to Choose Vitamin C Serum', slug: 'how-to-choose-vitamin-c-serum-for-your-skincare-routine' },
+        { title: 'Brightening Ingredients', slug: 'brightening-ingredients' },
+        { title: 'Sunblock/Sunscreen 101', slug: 'sunblock-sunscreen-101' },
+      ],
+    },
+  };
+
+  function showResults() {
+    const type = getSkinType();
+    const data = skinData[type];
+
+    document.getElementById('quizContainer')!.style.display = 'none';
+    document.getElementById('quizResults')!.style.display = '';
+
+    document.getElementById('resultType')!.textContent = data.label;
+    document.getElementById('resultDesc')!.textContent = data.desc;
+
+    // Routine steps
+    document.getElementById('routineSteps')!.innerHTML = data.routine.map((r, i) =>
+      `<div class="routine-step">
+        <span class="step-number">${i + 1}</span>
+        <div><strong>${r.step}</strong><p>${r.tip}</p></div>
+      </div>`
+    ).join('');
+
+    // Product recommendations
+    document.getElementById('productRecs')!.innerHTML = data.products.map(p =>
+      `<a href="/posts/${p.slug}/" class="product-card">
+        <span class="product-cat">${p.category}</span>
+        <span class="product-name">${p.name}</span>
+        <span class="product-link">Read review →</span>
+      </a>`
+    ).join('');
+
+    // Guide links
+    document.getElementById('guideLinks')!.innerHTML = data.guides.map(g =>
+      `<a href="/posts/${g.slug}/" class="guide-card">
+        <span class="guide-title">${g.title}</span>
+        <span class="guide-arrow">→</span>
+      </a>`
+    ).join('');
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  document.getElementById('retakeBtn')!.addEventListener('click', () => {
+    answers.length = 0;
+    currentQ = 0;
+    document.getElementById('quizResults')!.style.display = 'none';
+    document.getElementById('quizContainer')!.style.display = '';
+    questions.forEach((q, i) => q.classList.toggle('active', i === 0));
+    document.querySelectorAll('.quiz-opt').forEach(b => b.classList.remove('selected'));
+    progressBar.style.width = '0%';
+    stepLabel.textContent = 'Question 1 of 6';
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+</script>
+
+<style>
+  :global([data-theme="dark"]) .site-header { background: rgba(26, 15, 17, 0.95); }
+  :global([data-theme="dark"]) .logo-text { color: #f0dce0; }
+  :global([data-theme="dark"]) .logo-sub { color: #8a5a63; }
+
+  .site-header { position: fixed; top: 0; left: 0; right: 0; z-index: 100; background: rgba(254, 240, 243, 0.9); backdrop-filter: blur(16px); border-bottom: 1px solid var(--border); }
+  .site-header nav { max-width: 1100px; margin: 0 auto; padding: 1.1rem 2rem; display: flex; align-items: center; justify-content: space-between; }
+  .logo { display: flex; align-items: baseline; gap: 2px; font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; }
+  .logo-text { color: var(--text-primary); font-style: italic; font-weight: 500; }
+  .logo-dot { color: var(--rose-gold); font-size: 1.6rem; line-height: 1; }
+  .logo-sub { color: var(--text-muted); font-weight: 300; font-size: 1rem; letter-spacing: 0.08em; }
+  .back-link { display: flex; align-items: center; gap: 0.4rem; font-size: 0.82rem; color: var(--text-secondary); transition: color 0.2s; }
+  .back-link:hover { color: var(--text-primary); }
+
+  .quiz-hero { padding: 8rem 2rem 4rem; background: var(--cream); position: relative; overflow: hidden; }
+  .hero-inner { max-width: 700px; margin: 0 auto; position: relative; z-index: 1; }
+  .section-label { font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--rose-gold); margin-bottom: 0.8rem; font-weight: 500; }
+  .quiz-title { font-family: 'Cormorant Garamond', serif; font-size: clamp(2rem, 5vw, 3rem); color: var(--text-primary); margin-bottom: 0.8rem; }
+  .quiz-title em { font-style: italic; color: var(--rose-gold); }
+  .quiz-sub { font-size: 0.95rem; color: var(--text-secondary); font-weight: 300; line-height: 1.8; }
+  .deco-a { position: absolute; width: 280px; height: 280px; border-radius: 50%; background: radial-gradient(circle, var(--blush), transparent 70%); top: -40px; right: -60px; opacity: 0.5; }
+
+  .quiz-page { max-width: 700px; margin: 0 auto; padding: 2rem 2rem 4rem; }
+
+  /* Progress */
+  .quiz-progress { height: 4px; background: var(--border); border-radius: 100px; margin-bottom: 0.5rem; overflow: hidden; }
+  .quiz-progress-bar { height: 100%; background: var(--rose-gold); border-radius: 100px; transition: width 0.4s ease; }
+  .quiz-step { font-size: 0.72rem; color: var(--text-muted); margin-bottom: 2rem; letter-spacing: 0.06em; }
+
+  /* Questions */
+  .quiz-question { display: none; }
+  .quiz-question.active { display: block; animation: fadeIn 0.3s ease; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; } }
+
+  .quiz-question h2 { font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; color: var(--text-primary); margin-bottom: 1.5rem; line-height: 1.4; }
+
+  .quiz-options { display: flex; flex-direction: column; gap: 0.6rem; }
+  .quiz-opt {
+    padding: 1rem 1.2rem; background: var(--white); border: 1.5px solid var(--border);
+    border-radius: 14px; font-family: 'DM Sans', sans-serif; font-size: 0.9rem;
+    color: var(--text-secondary); cursor: pointer; transition: all 0.2s; text-align: left;
+    font-weight: 300; line-height: 1.5;
+  }
+  .quiz-opt:hover { border-color: var(--rose); background: var(--petal); color: var(--text-primary); }
+  .quiz-opt.selected { border-color: var(--rose-gold); background: var(--blush); color: var(--text-primary); font-weight: 500; }
+
+  /* Results */
+  .quiz-results { animation: fadeIn 0.4s ease; }
+  .result-card {
+    background: linear-gradient(135deg, var(--blush), var(--petal));
+    border-radius: 20px; padding: 2.5rem; text-align: center; margin-bottom: 2rem;
+  }
+  .result-type { font-family: 'Cormorant Garamond', serif; font-size: 2rem; color: var(--text-primary); margin-bottom: 0.8rem; }
+  .result-desc { font-size: 0.9rem; color: var(--text-secondary); line-height: 1.8; font-weight: 300; max-width: 500px; margin: 0 auto; }
+
+  .result-section { margin-bottom: 2.5rem; }
+  .result-section h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; color: var(--text-primary); margin-bottom: 1rem; }
+  .result-section h3 em { font-style: italic; color: var(--rose-gold); }
+  .result-note { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; font-weight: 300; }
+
+  /* Routine steps */
+  .routine-steps { display: flex; flex-direction: column; gap: 0.8rem; }
+  .routine-step {
+    display: flex; gap: 1rem; align-items: flex-start; padding: 1rem;
+    background: var(--white); border: 1px solid var(--border); border-radius: 14px;
+  }
+  .step-number {
+    width: 32px; height: 32px; border-radius: 50%; background: var(--rose-gold);
+    color: white; display: flex; align-items: center; justify-content: center;
+    font-size: 0.82rem; font-weight: 600; flex-shrink: 0;
+  }
+  .routine-step strong { font-size: 0.9rem; color: var(--text-primary); display: block; margin-bottom: 0.2rem; }
+  .routine-step p { font-size: 0.82rem; color: var(--text-muted); font-weight: 300; margin: 0; }
+
+  /* Product grid */
+  .product-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem; }
+  .product-card {
+    display: flex; flex-direction: column; gap: 0.3rem; padding: 1.2rem;
+    background: var(--white); border: 1px solid var(--border); border-radius: 14px;
+    transition: all 0.2s; color: inherit;
+  }
+  .product-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(180,90,110,0.1); border-color: var(--rose); }
+  .product-cat { font-size: 0.62rem; color: var(--rose-gold); font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; }
+  .product-name { font-size: 0.88rem; color: var(--text-primary); font-weight: 400; line-height: 1.4; flex-grow: 1; }
+  .product-link { font-size: 0.75rem; color: var(--rose-gold); font-weight: 500; margin-top: 0.3rem; }
+
+  /* Guide grid */
+  .guide-grid { display: flex; flex-direction: column; gap: 0.5rem; }
+  .guide-card {
+    display: flex; justify-content: space-between; align-items: center; padding: 0.9rem 1.2rem;
+    background: var(--white); border: 1px solid var(--border); border-radius: 12px;
+    transition: all 0.2s; color: inherit;
+  }
+  .guide-card:hover { border-color: var(--rose); transform: translateX(4px); }
+  .guide-title { font-size: 0.88rem; color: var(--text-primary); font-weight: 400; }
+  .guide-arrow { color: var(--rose-gold); font-weight: 500; }
+
+  /* CTA */
+  .result-cta { display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap; }
+  .retake-btn, .browse-btn {
+    padding: 0.8rem 2rem; border-radius: 100px; font-family: 'DM Sans', sans-serif;
+    font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: all 0.2s;
+  }
+  .retake-btn { background: none; border: 1.5px solid var(--rose-gold); color: var(--rose-gold); }
+  .retake-btn:hover { background: var(--rose-gold); color: white; }
+  .browse-btn { background: var(--rose-gold); color: white; border: none; display: inline-flex; align-items: center; }
+  .browse-btn:hover { background: var(--deep-rose); }
+
+  .post-footer { text-align: center; padding: 2rem; background: var(--footer-bg); font-size: 0.82rem; color: rgba(255,255,255,0.4); font-weight: 300; }
+  .post-footer a { color: var(--rose); }
+
+  @media (max-width: 640px) {
+    .product-grid { grid-template-columns: 1fr; }
+    .quiz-page { padding: 1.5rem 1.2rem 3rem; }
+  }
+</style>

@@ -23,7 +23,15 @@
       "Bash(grep -v ':0$')",
       "Bash(node -e \":*)",
       "Bash(node scrape2.mjs)",
-      "Bash(node scrape3.mjs)"
+      "Bash(node scrape3.mjs)",
+      "Bash(git init:*)",
+      "Bash(.gitignore:*)",
+      "Bash(export PATH=\"$HOME/.local/bin:$PATH\")",
+      "Bash(gh repo:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(gh run:*)"
     ]
   }
 }
