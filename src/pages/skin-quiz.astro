@@ -568,46 +568,49 @@ import Layout from '../layouts/Layout.astro';
     const addedKayman = new Set<string>();
     function addKayman(key: string) { if (!addedKayman.has(key) && kaymanProducts[key]) { addedKayman.add(key); kaymanRecs.push(key); } }
 
-    // 1st Cleanser . all skin types
+    // 1st Cleanser . all skin types, all concerns
     addKayman('cleansing_sherbet');
 
-    // 2nd Cleanser . by skin type
-    if (skinType === 'oily') { addKayman('coalface'); }
-    else if (skinType === 'combo') { addKayman('coalberry'); addKayman('coalface'); }
-    else { addKayman('coalberry'); }
+    // Cleanser . CoalBerry for all (gentle default)
+    addKayman('coalberry');
+    // CoalFace Soap ONLY if (oily OR combo) AND (acne OR pores OR whitehead)
+    if ((skinType === 'oily' || skinType === 'combo') && concerns.some(c => ['acne', 'pores', 'whitehead'].includes(c))) {
+      addKayman('coalface');
+    }
 
     // Toner . all
     addKayman('hyalumelon');
 
-    // Essence . by concern
-    if (concerns.some(c => ['dryness', 'pigmentation', 'aging', 'dull', 'sensitivity'].includes(c))) {
+    // Essence . Rosa Glow ONLY if concern includes dryness/pigmentation/dull/sensitivity/aging
+    if (concerns.some(c => ['dryness', 'pigmentation', 'dull', 'sensitivity', 'aging'].includes(c))) {
       addKayman('rosa_glow');
     }
 
-    // Exfoliant . by concern (skip for dryness and sensitivity)
-    if (concerns.some(c => ['acne', 'pigmentation', 'pores', 'whitehead', 'aging', 'dull'].includes(c))) {
+    // Exfoliant . HoneyGlo ONLY if concern includes acne/pores/whitehead/dull/pigmentation
+    if (concerns.some(c => ['acne', 'pores', 'whitehead', 'dull', 'pigmentation'].includes(c))) {
       addKayman('honeyglo');
     }
 
-    // Serum . by concern
-    if (concerns.some(c => ['acne', 'sensitivity', 'pigmentation', 'aging', 'dull'].includes(c))) {
+    // Serum . Skintella ONLY if concern includes sensitivity/acne
+    if (concerns.some(c => ['sensitivity', 'acne'].includes(c))) {
       addKayman('skintella_serum');
     }
+    // BluMarine Refining ONLY if concern includes acne/pores/whitehead
     if (concerns.some(c => ['acne', 'pores', 'whitehead'].includes(c))) {
       addKayman('blumarine_refining');
     }
-    if (concerns.some(c => ['dryness'].includes(c))) {
+    // BluMarine Ampoule ONLY if concern includes dryness
+    if (concerns.includes('dryness')) {
       addKayman('blumarine_ampoule');
     }
 
-    // Moisturizer . by skin type
+    // Moisturizer . Skintella Gel ONLY if oily/combo (all concerns)
+    if (skinType === 'oily' || skinType === 'combo') {
+      addKayman('skintella_gel');
+    }
+    // BluMarine Cream ONLY if dry/sensitive (all concerns)
     if (skinType === 'dry' || skinType === 'sensitive') {
       addKayman('blumarine_cream');
-    } else if (skinType === 'normal') {
-      addKayman('skintella_gel');
-      addKayman('blumarine_cream');
-    } else {
-      addKayman('skintella_gel');
     }
 
     // Sunscreen . all
@@ -684,27 +687,96 @@ import Layout from '../layouts/Layout.astro';
     const addedCuura = new Set<string>();
     function addCuura(key: string) { if (!addedCuura.has(key) && cuuraProducts[key]) { addedCuura.add(key); cuuraRecs.push(key); } }
 
-    // Toner . all skin types
-    addCuura('cloud_lift');
+    // Toner . Cloud Lift ONLY if concern includes dryness/sensitivity
+    if (concerns.some(c => ['dryness', 'sensitivity'].includes(c))) {
+      addCuura('cloud_lift');
+    }
 
-    // Essence . by concern
+    // Essence . Jeju Glow ONLY if concern includes dull/pigmentation
     if (concerns.some(c => ['dull', 'pigmentation'].includes(c))) {
       addCuura('jeju_glow');
     }
 
-    // Serum . by concern
-    if (concerns.some(c => ['dull', 'pigmentation', 'dryness'].includes(c))) {
+    // Serum . Vitamin Potion ONLY if concern includes dull/pigmentation
+    if (concerns.some(c => ['dull', 'pigmentation'].includes(c))) {
       addCuura('vitamin_potion');
     }
+    // Pure Beauty Oil ONLY if concern includes aging/dryness
     if (concerns.some(c => ['aging', 'dryness'].includes(c))) {
       addCuura('pure_beauty_oil');
     }
 
-    // Sunscreen . by skin type
-    if (skinType === 'oily' || skinType === 'combo') {
-      addCuura('glow_defense');
-    } else {
+    // Sunscreen . Brightening SS all skin types, ONLY if concern includes dull/pigmentation
+    if (concerns.some(c => ['dull', 'pigmentation'].includes(c))) {
       addCuura('brightening_ss');
+    }
+    // Glow Defense ONLY if (oily/combo) AND concern includes dull/pigmentation
+    if ((skinType === 'oily' || skinType === 'combo') && concerns.some(c => ['dull', 'pigmentation'].includes(c))) {
+      addCuura('glow_defense');
+    }
+
+    // === The Pastels Shop products ===
+    const pastelsProducts: Record<string, { brand: string; name: string; img: string; url: string; step: string }> = {
+      ps_micellar: { brand: 'The Pastels Shop', name: 'Skin Reset Micellar Water', img: '/pastels/micellar.jpg', url: 'https://s.shopee.com.my/8ARjnij1DQ', step: '1st Cleanser' },
+      ps_jicama: { brand: 'The Pastels Shop', name: 'JICAMA Gentle Gel Cleanser', img: '/pastels/jicama.jpg', url: 'https://s.shopee.com.my/2BAWefowM2', step: 'Cleanser' },
+      ps_sa: { brand: 'The Pastels Shop', name: 'SA Daily Exfoliating Cleanser', img: '/pastels/sa-exfoliating.jpg', url: 'https://s.shopee.com.my/9Ux7O8RTyU', step: 'Cleanser' },
+      ps_lama: { brand: 'The Pastels Shop', name: 'LA-MA Daily Exfoliating Toner', img: '/pastels/la-ma.jpg', url: 'https://s.shopee.com.my/1gEG4pZ3l5', step: 'Toner' },
+      ps_bakuchiol: { brand: 'The Pastels Shop', name: 'Bakuchiol Solution', img: '/pastels/bakuchiol.jpg', url: 'https://s.shopee.com.my/7AZCcuwEtF', step: 'Serum' },
+      ps_ultra_light: { brand: 'The Pastels Shop', name: 'TAA Ultra Light Moisturiser', img: '/pastels/ultra-light.jpg', url: 'https://s.shopee.com.my/10yZHZ7Ovy', step: 'Moisturizer' },
+      ps_cera_a: { brand: 'The Pastels Shop', name: 'Cera-A Retinol Moisturiser', img: '/pastels/cera-a-retinol.jpg', url: 'https://s.shopee.com.my/2qQDRvlFaT', step: 'Moisturizer' },
+      ps_holo: { brand: 'The Pastels Shop', name: 'Holo Peptide Moisturiser', img: '/pastels/holo-peptide.jpg', url: 'https://s.shopee.com.my/6AgfR2wSEm', step: 'Moisturizer' },
+      ps_invisible: { brand: 'The Pastels Shop', name: 'Invisible Sunscreen SPF50', img: '/pastels/invisible-sunscreen.jpg', url: 'https://s.shopee.com.my/W2Iga6FJI', step: 'Sunscreen' },
+      ps_matte: { brand: 'The Pastels Shop', name: 'Matte Relief Physical SPF50', img: '/pastels/matte-relief.jpg', url: 'https://s.shopee.com.my/2qQDSt6295', step: 'Sunscreen' },
+      ps_glow_moist: { brand: 'The Pastels Shop', name: 'Glow Moist Tinted SPF30', img: '/pastels/glow-moist.jpg', url: 'https://s.shopee.com.my/7VC31TaODg', step: 'Sunscreen' },
+    };
+
+    const pastelsRecs: string[] = [];
+    const addedPastels = new Set<string>();
+    function addPastels(key: string) { if (!addedPastels.has(key) && pastelsProducts[key]) { addedPastels.add(key); pastelsRecs.push(key); } }
+
+    // 1st Cleanser - all
+    addPastels('ps_micellar');
+
+    // Cleanser - JICAMA for all, SA only if acne/pores/whitehead AND oily/combo AND NOT pregnant
+    addPastels('ps_jicama');
+    if ((skinType === 'oily' || skinType === 'combo') && concerns.some(c => ['acne', 'pores', 'whitehead'].includes(c)) && !isPregnant) {
+      addPastels('ps_sa');
+    }
+
+    // Toner - LA-MA only if oily/combo AND acne/pores/whitehead/dull/pigmentation AND NOT pregnant
+    if ((skinType === 'oily' || skinType === 'combo') && concerns.some(c => ['acne', 'pores', 'whitehead', 'dull', 'pigmentation'].includes(c)) && !isPregnant) {
+      addPastels('ps_lama');
+    }
+
+    // Serum - Bakuchiol only for aging concern
+    if (concerns.includes('aging')) {
+      addPastels('ps_bakuchiol');
+    }
+
+    // Moisturizer - by skin type
+    if (skinType === 'oily' || skinType === 'combo') {
+      addPastels('ps_ultra_light');
+    } else {
+      addPastels('ps_holo');
+    }
+    // Cera-A Retinol only for aging AND not pregnant
+    if (concerns.includes('aging') && !isPregnant) {
+      addPastels('ps_cera_a');
+    }
+
+    // Sunscreen - by skin type
+    if (skinType === 'oily') {
+      addPastels('ps_matte');
+    } else if (skinType === 'dry') {
+      if (concerns.some(c => ['dull', 'pigmentation'].includes(c))) {
+        addPastels('ps_glow_moist');
+      } else {
+        addPastels('ps_invisible');
+      }
+    } else if (skinType === 'sensitive') {
+      addPastels('ps_matte');
+    } else {
+      addPastels('ps_invisible');
     }
 
     // === TataGaltier products ===
@@ -720,19 +792,22 @@ import Layout from '../layouts/Layout.astro';
     const addedTata = new Set<string>();
     function addTata(key: string) { if (!addedTata.has(key) && tataProducts[key]) { addedTata.add(key); tataRecs.push(key); } }
 
-    // 1st Cleanser . all skin types
+    // 1st Cleanser . all (always)
     addTata('cherpaire');
 
-    // Cleanser . all skin types
+    // Cleanser . all (always)
     addTata('cella_grail');
 
-    // Toner . all skin types
-    addTata('peach_plump');
+    // Toner . Peach Plump ONLY if concern includes dryness
+    if (concerns.includes('dryness')) {
+      addTata('peach_plump');
+    }
 
-    // Essence . by concern
+    // Essence . Bulaney ONLY if concern includes acne/pores/sensitivity
     if (concerns.some(c => ['acne', 'pores', 'sensitivity'].includes(c))) {
       addTata('bulaney');
     }
+    // Honey Milky ONLY if concern includes dryness/dull/pigmentation/aging
     if (concerns.some(c => ['dryness', 'dull', 'pigmentation', 'aging'].includes(c))) {
       addTata('honey_milky');
     }
@@ -776,14 +851,13 @@ import Layout from '../layouts/Layout.astro';
       addNp('vitamin_c');
     }
 
-    // Moisturizer . by skin type
-    if (skinType === 'dry' || skinType === 'sensitive') {
-      addNp('dewbright');
-    } else if (skinType === 'normal') {
+    // Moisturizer . DewLight ONLY if (oily/combo/normal) AND concern includes dull/pigmentation
+    if ((skinType === 'oily' || skinType === 'combo' || skinType === 'normal') && concerns.some(c => ['dull', 'pigmentation'].includes(c))) {
       addNp('dewlight');
+    }
+    // DewBright ONLY if (dry/normal/sensitive) AND concern includes dull/pigmentation
+    if ((skinType === 'dry' || skinType === 'normal' || skinType === 'sensitive') && concerns.some(c => ['dull', 'pigmentation'].includes(c))) {
       addNp('dewbright');
-    } else {
-      addNp('dewlight');
     }
 
     // Sunscreen . all
@@ -793,32 +867,35 @@ import Layout from '../layouts/Layout.astro';
     const addedYello = new Set<string>();
     function addYello(key: string) { if (!addedYello.has(key) && yelloProducts[key]) { addedYello.add(key); yelloRecs.push(key); } }
 
-    // Cleanser . by skin type
-    if (skinType === 'oily') { addYello('oatellia'); }
-    else if (skinType === 'combo') { addYello('oatmino'); addYello('oatellia'); }
-    else { addYello('oatmino'); }
+    // Cleanser . Oatmino all skin types, all concerns (always show as gentle default)
+    addYello('oatmino');
+    // Oatellia ONLY if (oily/combo) AND (acne/pores/whitehead)
+    if ((skinType === 'oily' || skinType === 'combo') && concerns.some(c => ['acne', 'pores', 'whitehead'].includes(c))) {
+      addYello('oatellia');
+    }
 
-    // Essence . by concern
-    if (concerns.some(c => ['dryness', 'pigmentation', 'dull', 'sensitivity', 'aging'].includes(c))) {
+    // Essence . Cynara ONLY if concern includes dryness/dull/pigmentation/aging
+    if (concerns.some(c => ['dryness', 'dull', 'pigmentation', 'aging'].includes(c))) {
       addYello('cynara_essence');
     }
 
-    // Serum . by concern
-    if (concerns.some(c => ['pigmentation', 'dull', 'dryness', 'aging'].includes(c))) {
+    // Serum . Snowmeric ONLY if concern includes pigmentation/dull
+    if (concerns.some(c => ['pigmentation', 'dull'].includes(c))) {
       addYello('snowmeric');
     }
 
-    // Mask . by concern (skip for dryness and sensitivity)
+    // Mask . OTMS ONLY if concern includes acne/pores/whitehead/dull/pigmentation
     if (concerns.some(c => ['acne', 'pores', 'whitehead', 'dull', 'pigmentation'].includes(c))) {
       addYello('otms');
     }
 
-    // === Merge all products (Kayman + Yello + Cuura) into one grouped view ===
-    const allProducts = { ...kaymanProducts, ...tataProducts, ...npProducts, ...yelloProducts, ...cuuraProducts };
+    // === Merge all products into one grouped view ===
+    const allProducts = { ...kaymanProducts, ...tataProducts, ...npProducts, ...pastelsProducts, ...yelloProducts, ...cuuraProducts };
     const allRecs = [
       ...kaymanRecs.map(k => ({ key: k, source: 'kayman' as const })),
       ...tataRecs.map(k => ({ key: k, source: 'tata' as const })),
       ...npRecs.map(k => ({ key: k, source: 'np' as const })),
+      ...pastelsRecs.map(k => ({ key: k, source: 'pastels' as const })),
       ...yelloRecs.map(k => ({ key: k, source: 'yello' as const })),
       ...cuuraRecs.map(k => ({ key: k, source: 'cuura' as const })),
     ];
