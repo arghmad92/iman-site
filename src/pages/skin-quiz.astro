@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="Find Your Glow — Skincare Suggestion | Iman Abdul Rahim" description="Find your glow — answer 3 simple questions and get personalised skincare product recommendations.">
+<Layout title="Find Your Glow . Skincare Suggestion | Iman Abdul Rahim" description="Find your glow . answer 3 simple questions and get personalised skincare product recommendations.">
   <header class="site-header">
     <nav>
       <a href="/" class="logo">
@@ -37,7 +37,7 @@ import Layout from '../layouts/Layout.astro';
     </div>
 
     <div class="quiz-page">
-      <!-- Quiz container — all questions on one page -->
+      <!-- Quiz container . all questions on one page -->
       <div id="quizContainer" class="quiz-container">
 
         <!-- Q1: Skin Type -->
@@ -87,7 +87,7 @@ import Layout from '../layouts/Layout.astro';
       <!-- Results (hidden until quiz complete) -->
       <div id="quizResults" class="quiz-results" style="display:none">
         <div class="result-card">
-          <p class="section-label">Your Skin Type</p>
+          <p class="section-label" data-en="Your Skin Type" data-ms="Jenis Kulit Anda">Your Skin Type</p>
           <h2 class="result-type" id="resultType"></h2>
           <p class="result-desc" id="resultDesc"></p>
         </div>
@@ -135,7 +135,7 @@ import Layout from '../layouts/Layout.astro';
         </div>
 
         <div class="quiz-disclaimer">
-          <p data-en="This is a general skincare guidance only and is not a substitute for professional advice. Product recommendations are based on general skin type guidelines — individual results may vary." data-ms="Ini hanyalah panduan penjagaan kulit umum dan bukan pengganti nasihat profesional. Cadangan produk berdasarkan garis panduan jenis kulit umum — hasil mungkin berbeza.">This is a general skincare guidance only and is not a substitute for professional advice. Product recommendations are based on general skin type guidelines — individual results may vary.</p>
+          <p data-en="This is a general skincare guidance only and is not a substitute for professional advice. Product recommendations are based on general skin type guidelines . individual results may vary." data-ms="Ini hanyalah panduan penjagaan kulit umum dan bukan pengganti nasihat profesional. Cadangan produk berdasarkan garis panduan jenis kulit umum . hasil mungkin berbeza.">This is a general skincare guidance only and is not a substitute for professional advice. Product recommendations are based on general skin type guidelines . individual results may vary.</p>
         </div>
 
         <div class="result-cta">
@@ -247,7 +247,7 @@ import Layout from '../layouts/Layout.astro';
       label: 'Oily Skin',
       desc: 'Your skin produces excess sebum, especially on the T-zone. You likely have visible pores and are prone to blackheads and breakouts. The good news? Oily skin ages slower! Focus on oil control without over-stripping.',
       morning: [
-        { step: 'Cleanser', tip: 'Gentle low pH cleanser — controls oil without stripping' },
+        { step: 'Cleanser', tip: 'Gentle low pH cleanser . controls oil without stripping' },
         { step: 'Toner', tip: 'BHA/AHA toner to control oil and unclog pores' },
         { step: 'Moisturizer', tip: 'Lightweight gel-type, non-comedogenic' },
         { step: 'Sunscreen', tip: 'Non-greasy gel or watery essence formula' },
@@ -257,7 +257,7 @@ import Layout from '../layouts/Layout.astro';
         { step: '2nd Cleanser', tip: 'Low pH water-based cleanser for deep cleanse' },
         { step: 'Toner', tip: 'Hydrating toner' },
         { step: 'Serum', tip: 'Niacinamide serum to control sebum and refine pores' },
-        { step: 'Moisturizer', tip: 'Lightweight gel moisturizer — hydrate without clogging' },
+        { step: 'Moisturizer', tip: 'Lightweight gel moisturizer . hydrate without clogging' },
       ],
       products: [
         { name: 'CosRx AHA/BHA Clarifying Treatment Toner', slug: 'cosrx-ahabha-clarifying-treatment-toner-review', category: 'Toner' },
@@ -278,7 +278,7 @@ import Layout from '../layouts/Layout.astro';
       label: 'Dry Skin',
       desc: 'Your skin lacks moisture and natural oils, often feeling tight or flaky. You need hydration-focused products. Avoid harsh cleansers and alcohol-based toners.',
       morning: [
-        { step: 'Cleanser', tip: 'Gentle cream or milk cleanser — no foaming' },
+        { step: 'Cleanser', tip: 'Gentle cream or milk cleanser . no foaming' },
         { step: 'Toner', tip: 'Hydrating toner' },
         { step: 'Moisturizer', tip: 'Rich cream for deep hydration' },
         { step: 'Sunscreen', tip: 'Moisturizing cream-type sunscreen' },
@@ -307,11 +307,11 @@ import Layout from '../layouts/Layout.astro';
     },
     combo: {
       label: 'Combination Skin',
-      desc: 'You have the best of both worlds — oily T-zone (forehead, nose, chin) but normal-to-dry cheeks. The key is using lightweight products that balance both areas without over-moisturizing or over-drying.',
+      desc: 'You have the best of both worlds . oily T-zone (forehead, nose, chin) but normal-to-dry cheeks. The key is using lightweight products that balance both areas without over-moisturizing or over-drying.',
       morning: [
-        { step: 'Cleanser', tip: 'Gentle low pH cleanser — balances without stripping' },
-        { step: 'Toner', tip: 'Balancing toner — hydrating but not heavy' },
-        { step: 'Moisturizer', tip: 'Gel-cream hybrid — moisturizes without grease' },
+        { step: 'Cleanser', tip: 'Gentle low pH cleanser . balances without stripping' },
+        { step: 'Toner', tip: 'Balancing toner . hydrating but not heavy' },
+        { step: 'Moisturizer', tip: 'Gel-cream hybrid . moisturizes without grease' },
         { step: 'Sunscreen', tip: 'Lightweight gel or essence type' },
       ],
       night: [
@@ -319,7 +319,7 @@ import Layout from '../layouts/Layout.astro';
         { step: '2nd Cleanser', tip: 'Gentle low pH foaming or gel cleanser' },
         { step: 'Toner', tip: 'Hydrating toner' },
         { step: 'Serum', tip: 'Niacinamide or lightweight hydrating serum' },
-        { step: 'Moisturizer', tip: 'Gel-cream — not too heavy, not too light' },
+        { step: 'Moisturizer', tip: 'Gel-cream . not too heavy, not too light' },
       ],
       products: [
         { name: 'Hada Labo Gokujyun Foaming Wash', slug: 'hada-labo-gokujyun-foaming-wash-review', category: 'Cleanser' },
@@ -340,17 +340,17 @@ import Layout from '../layouts/Layout.astro';
       label: 'Sensitive Skin',
       desc: 'Your skin is easily irritated by products, weather, or stress. Redness, stinging, and reactions are common. Stick to fragrance-free, minimal-ingredient products and always patch test. Less is more!',
       morning: [
-        { step: 'Cleanser', tip: 'Fragrance-free gentle cleanser — minimal ingredients, no SLS' },
+        { step: 'Cleanser', tip: 'Fragrance-free gentle cleanser . minimal ingredients, no SLS' },
         { step: 'Toner', tip: 'Calming toner with centella, aloe, or chamomile' },
         { step: 'Moisturizer', tip: 'Barrier repair cream with ceramides' },
-        { step: 'Sunscreen', tip: 'Mineral/physical sunscreen — less irritating than chemical' },
+        { step: 'Sunscreen', tip: 'Mineral/physical sunscreen . less irritating than chemical' },
       ],
       night: [
         { step: '1st Cleanser', tip: 'Gentle micellar water or mild cleansing balm' },
         { step: '2nd Cleanser', tip: 'Fragrance-free, pH-balanced gentle cleanser' },
         { step: 'Toner', tip: 'Hydrating toner' },
         { step: 'Serum', tip: 'Centella or ceramide serum to calm and repair' },
-        { step: 'Moisturizer', tip: 'Rich barrier repair cream — ceramides are your best friend' },
+        { step: 'Moisturizer', tip: 'Rich barrier repair cream . ceramides are your best friend' },
       ],
       products: [
         { name: 'Etude House Soon Jung pH 5.5 Relief Toner', slug: 'etude-house-soon-jung-ph55-relief-toner-review', category: 'Toner' },
@@ -369,12 +369,12 @@ import Layout from '../layouts/Layout.astro';
     },
     normal: {
       label: 'Normal Skin',
-      desc: 'Lucky you! Your skin is well-balanced — not too oily, not too dry. Focus on maintaining what you have with a simple routine, good sun protection, and preventive anti-aging care.',
+      desc: 'Lucky you! Your skin is well-balanced . not too oily, not too dry. Focus on maintaining what you have with a simple routine, good sun protection, and preventive anti-aging care.',
       morning: [
         { step: 'Cleanser', tip: 'Any gentle formula you enjoy' },
         { step: 'Toner', tip: 'Hydrating toner or essence for an extra boost' },
-        { step: 'Moisturizer', tip: 'Light to medium weight — your preference' },
-        { step: 'Sunscreen', tip: 'The most important step — protect your skin daily' },
+        { step: 'Moisturizer', tip: 'Light to medium weight . your preference' },
+        { step: 'Sunscreen', tip: 'The most important step . protect your skin daily' },
       ],
       night: [
         { step: '1st Cleanser', tip: 'Oil cleanser, cleansing balm, or micellar water' },
@@ -461,40 +461,47 @@ import Layout from '../layouts/Layout.astro';
     // Show pregnancy banner if applicable
     const pregnancyBanner = isPregnant
       ? `<div class="pregnancy-warning">
-          <strong>🤰 Pregnancy/Breastfeeding Note</strong>
-          <p>Avoid: Retinol, BHA (Salicylic Acid), Benzoyl Peroxide, high-dose Vitamin C. Stick to gentle hydrating products. I've written about this — <a href="/posts/skincare-during-pregnant-breastfeeding/">read my safe skincare guide here</a>.</p>
+          <strong>🤰 ${currentLang === 'ms' ? 'Nota Kehamilan / Penyusuan' : 'Pregnancy / Breastfeeding Note'}</strong>
+          <p>${currentLang === 'ms' ? 'Elakkan: Retinol, BHA (Salicylic Acid), Benzoyl Peroxide, Vitamin C dos tinggi. Gunakan produk lembut dan melembapkan.' : 'Avoid: Retinol, BHA (Salicylic Acid), Benzoyl Peroxide, high-dose Vitamin C. Stick to gentle hydrating products.'} <a href="/posts/skincare-during-pregnant-breastfeeding/">${currentLang === 'ms' ? 'Baca panduan skincare selamat' : 'Read my safe skincare guide here'}</a>.</p>
         </div>`
       : '';
 
-    // Concern tags — readable labels
-    const concernLabels: Record<string, string> = {
+    // Concern tags . readable labels (bilingual)
+    const concernLabelsEn: Record<string, string> = {
       acne: 'Acne & Breakouts', dryness: 'Dryness', pigmentation: 'Pigmentation',
       pores: 'Large Pores', whitehead: 'Whiteheads', aging: 'Anti-aging',
       dull: 'Dull Skin', sensitivity: 'Sensitivity',
     };
+    const concernLabelsMs: Record<string, string> = {
+      acne: 'Jerawat', dryness: 'Kering', pigmentation: 'Pigmentasi',
+      pores: 'Pori Besar', whitehead: 'Whiteheads', aging: 'Anti-penuaan',
+      dull: 'Kulit Kusam', sensitivity: 'Sensitif',
+    };
+    const concernLabels = currentLang === 'ms' ? concernLabelsMs : concernLabelsEn;
+    const yourConcernsLabel = currentLang === 'ms' ? 'Masalah kulit anda:' : 'Your concerns:';
     const concernTags = concerns.length > 0
-      ? `<div class="concern-tags"><span class="concern-tags-label">Your concerns:</span>${concerns.map(c => `<span class="concern-tag">${concernLabels[c] || c}</span>`).join('')}</div>`
+      ? `<div class="concern-tags"><span class="concern-tags-label">${yourConcernsLabel}</span>${concerns.map(c => `<span class="concern-tag">${concernLabels[c] || c}</span>`).join('')}</div>`
       : '';
 
     // Ingredient recommendations per concern
     const ingredientMap: Record<string, string> = {
-      acne: 'Niacinamide + Tea Tree — controls breakouts and reduces inflammation',
-      dryness: 'Hyaluronic Acid + Ceramides — deep hydration and barrier repair',
-      pigmentation: 'Vitamin C + Arbutin + Niacinamide — fades dark spots and evens skin tone',
-      pores: 'Niacinamide + Zinc — tightens pores and controls oil',
-      whitehead: 'AHA (Glycolic/Lactic Acid) — dissolves dead skin and prevents clogging',
-      aging: 'Retinol + Peptides — boosts collagen and reduces fine lines',
-      dull: 'Vitamin C + Arbutin + Niacinamide — brightens and adds radiance',
-      sensitivity: 'Centella Asiatica + Panthenol — soothes redness and repairs skin barrier',
+      acne: 'Niacinamide + Tea Tree . controls breakouts and reduces inflammation',
+      dryness: 'Hyaluronic Acid + Ceramides . deep hydration and barrier repair',
+      pigmentation: 'Vitamin C + Arbutin + Niacinamide . fades dark spots and evens skin tone',
+      pores: 'Niacinamide + Zinc . tightens pores and controls oil',
+      whitehead: 'AHA (Glycolic/Lactic Acid) . dissolves dead skin and prevents clogging',
+      aging: 'Retinol + Peptides . boosts collagen and reduces fine lines',
+      dull: 'Vitamin C + Arbutin + Niacinamide . brightens and adds radiance',
+      sensitivity: 'Centella Asiatica + Panthenol . soothes redness and repairs skin barrier',
     };
 
     // Pregnancy-safe ingredient swaps
     const pregnantIngredientMap: Record<string, string> = {
-      acne: 'Niacinamide — controls breakouts safely during pregnancy',
-      whitehead: 'Low % Lactic Acid or Niacinamide — pregnancy-safe exfoliation',
-      aging: 'Peptides + Vitamin C — collagen support without retinol',
-      dull: 'Niacinamide + Vitamin C — safe brightening',
-      pigmentation: 'Niacinamide + Vitamin C — fades dark spots safely',
+      acne: 'Niacinamide . controls breakouts safely during pregnancy',
+      whitehead: 'Low % Lactic Acid or Niacinamide . pregnancy-safe exfoliation',
+      aging: 'Peptides + Vitamin C . collagen support without retinol',
+      dull: 'Niacinamide + Vitamin C . safe brightening',
+      pigmentation: 'Niacinamide + Vitamin C . fades dark spots safely',
     };
 
     // Build serum step with all concern ingredients listed underneath
@@ -504,7 +511,8 @@ import Layout from '../layouts/Layout.astro';
         const ing = (isPregnant && pregnantIngredientMap[c]) ? pregnantIngredientMap[c] : ingredientMap[c];
         return ing ? `<span class="serum-ingredient">• ${concernLabels[c] || c}: ${ing}</span>` : '';
       }).filter(Boolean).join('');
-      serumTip = `Use serum with these ingredients based on your concerns:${ingredientLines ? `<div class="serum-ingredients">${ingredientLines}</div>` : ''}`;
+      const serumIntro = currentLang === 'ms' ? 'Gunakan serum dengan bahan-bahan ini berdasarkan masalah kulit anda:' : 'Use serum with these ingredients based on your concerns:';
+      serumTip = `${serumIntro}${ingredientLines ? `<div class="serum-ingredients">${ingredientLines}</div>` : ''}`;
     }
 
     // Override serum in night routine
@@ -530,7 +538,7 @@ import Layout from '../layouts/Layout.astro';
     document.getElementById('morningSteps')!.innerHTML = renderRoutine(routineData.morning);
     document.getElementById('nightSteps')!.innerHTML = renderRoutine(nightSteps);
 
-    // Clear extra serums (no longer needed — all in serum step)
+    // Clear extra serums (no longer needed . all in serum step)
     document.getElementById('extraSerums')!.innerHTML = '';
 
     // Kayman Beauty product recommendations
@@ -554,28 +562,28 @@ import Layout from '../layouts/Layout.astro';
     const addedKayman = new Set<string>();
     function addKayman(key: string) { if (!addedKayman.has(key) && kaymanProducts[key]) { addedKayman.add(key); kaymanRecs.push(key); } }
 
-    // 1st Cleanser — all skin types
+    // 1st Cleanser . all skin types
     addKayman('cleansing_sherbet');
 
-    // 2nd Cleanser — by skin type
+    // 2nd Cleanser . by skin type
     if (skinType === 'oily') { addKayman('coalface'); }
     else if (skinType === 'combo') { addKayman('coalberry'); addKayman('coalface'); }
     else { addKayman('coalberry'); }
 
-    // Toner — all
+    // Toner . all
     addKayman('hyalumelon');
 
-    // Essence — by concern
+    // Essence . by concern
     if (concerns.some(c => ['dryness', 'pigmentation', 'aging', 'dull', 'sensitivity'].includes(c))) {
       addKayman('rosa_glow');
     }
 
-    // Exfoliant — by concern (skip for dryness and sensitivity)
+    // Exfoliant . by concern (skip for dryness and sensitivity)
     if (concerns.some(c => ['acne', 'pigmentation', 'pores', 'whitehead', 'aging', 'dull'].includes(c))) {
       addKayman('honeyglo');
     }
 
-    // Serum — by concern
+    // Serum . by concern
     if (concerns.some(c => ['acne', 'sensitivity', 'pigmentation', 'aging', 'dull'].includes(c))) {
       addKayman('skintella_serum');
     }
@@ -586,7 +594,7 @@ import Layout from '../layouts/Layout.astro';
       addKayman('blumarine_ampoule');
     }
 
-    // Moisturizer — by skin type
+    // Moisturizer . by skin type
     if (skinType === 'dry' || skinType === 'sensitive') {
       addKayman('blumarine_cream');
     } else if (skinType === 'normal') {
@@ -596,7 +604,7 @@ import Layout from '../layouts/Layout.astro';
       addKayman('skintella_gel');
     }
 
-    // Sunscreen — all
+    // Sunscreen . all
     addKayman('suntella');
 
     // Group products by step/type
@@ -638,7 +646,7 @@ import Layout from '../layouts/Layout.astro';
               <span class="kayman-name">${p.name}</span>
               <span class="kayman-shop">
                 <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-                Shop here
+                ${shopText}
               </span>
             </a>`;
           }).join('')}
@@ -669,15 +677,15 @@ import Layout from '../layouts/Layout.astro';
     const addedCuura = new Set<string>();
     function addCuura(key: string) { if (!addedCuura.has(key) && cuuraProducts[key]) { addedCuura.add(key); cuuraRecs.push(key); } }
 
-    // Toner — all skin types
+    // Toner . all skin types
     addCuura('cloud_lift');
 
-    // Essence — by concern
+    // Essence . by concern
     if (concerns.some(c => ['dull', 'pigmentation'].includes(c))) {
       addCuura('jeju_glow');
     }
 
-    // Serum — by concern
+    // Serum . by concern
     if (concerns.some(c => ['dull', 'pigmentation', 'dryness'].includes(c))) {
       addCuura('vitamin_potion');
     }
@@ -685,7 +693,7 @@ import Layout from '../layouts/Layout.astro';
       addCuura('pure_beauty_oil');
     }
 
-    // Sunscreen — by skin type
+    // Sunscreen . by skin type
     if (skinType === 'oily' || skinType === 'combo') {
       addCuura('glow_defense');
     } else {
@@ -705,16 +713,16 @@ import Layout from '../layouts/Layout.astro';
     const addedTata = new Set<string>();
     function addTata(key: string) { if (!addedTata.has(key) && tataProducts[key]) { addedTata.add(key); tataRecs.push(key); } }
 
-    // 1st Cleanser — all skin types
+    // 1st Cleanser . all skin types
     addTata('cherpaire');
 
-    // Cleanser — all skin types
+    // Cleanser . all skin types
     addTata('cella_grail');
 
-    // Toner — all skin types
+    // Toner . all skin types
     addTata('peach_plump');
 
-    // Essence — by concern
+    // Essence . by concern
     if (concerns.some(c => ['acne', 'pores', 'sensitivity'].includes(c))) {
       addTata('bulaney');
     }
@@ -739,18 +747,18 @@ import Layout from '../layouts/Layout.astro';
     const addedNp = new Set<string>();
     function addNp(key: string) { if (!addedNp.has(key) && npProducts[key]) { addedNp.add(key); npRecs.push(key); } }
 
-    // 1st Cleanser — all
+    // 1st Cleanser . all
     addNp('melonica');
 
-    // 2nd Cleanser — all
+    // 2nd Cleanser . all
     addNp('hydranica');
 
-    // Essence — by concern
+    // Essence . by concern
     if (concerns.some(c => ['dryness', 'sensitivity', 'aging'].includes(c))) {
       addNp('ceramica');
     }
 
-    // Serum — by concern
+    // Serum . by concern
     if (concerns.some(c => ['acne', 'pores', 'whitehead'].includes(c))) {
       addNp('octa_blu');
     }
@@ -761,7 +769,7 @@ import Layout from '../layouts/Layout.astro';
       addNp('vitamin_c');
     }
 
-    // Moisturizer — by skin type
+    // Moisturizer . by skin type
     if (skinType === 'dry' || skinType === 'sensitive') {
       addNp('dewbright');
     } else if (skinType === 'normal') {
@@ -771,29 +779,29 @@ import Layout from '../layouts/Layout.astro';
       addNp('dewlight');
     }
 
-    // Sunscreen — all
+    // Sunscreen . all
     addNp('np_sunscreen');
 
     const yelloRecs: string[] = [];
     const addedYello = new Set<string>();
     function addYello(key: string) { if (!addedYello.has(key) && yelloProducts[key]) { addedYello.add(key); yelloRecs.push(key); } }
 
-    // Cleanser — by skin type
+    // Cleanser . by skin type
     if (skinType === 'oily') { addYello('oatellia'); }
     else if (skinType === 'combo') { addYello('oatmino'); addYello('oatellia'); }
     else { addYello('oatmino'); }
 
-    // Essence — by concern
+    // Essence . by concern
     if (concerns.some(c => ['dryness', 'pigmentation', 'dull', 'sensitivity', 'aging'].includes(c))) {
       addYello('cynara_essence');
     }
 
-    // Serum — by concern
+    // Serum . by concern
     if (concerns.some(c => ['pigmentation', 'dull', 'dryness', 'aging'].includes(c))) {
       addYello('snowmeric');
     }
 
-    // Mask — by concern (skip for dryness and sensitivity)
+    // Mask . by concern (skip for dryness and sensitivity)
     if (concerns.some(c => ['acne', 'pores', 'whitehead', 'dull', 'pigmentation'].includes(c))) {
       addYello('otms');
     }
@@ -819,6 +827,9 @@ import Layout from '../layouts/Layout.astro';
     });
 
     const allStepOrder = ['1st Cleanser', 'Cleanser', 'Toner', 'Essence', 'Exfoliant', 'Serum', 'Ampoule', 'Moisturizer', 'Sunscreen', 'Mask'];
+    const shopText = currentLang === 'ms' ? 'Beli di sini' : 'Shop here';
+    const alsoRecText = currentLang === 'ms' ? 'Turut disyorkan' : 'Also recommended';
+    const readReviewText = currentLang === 'ms' ? 'Baca review →' : '${readReviewText}';
 
     let allHTML = '';
     allStepOrder.forEach(step => {
@@ -835,7 +846,7 @@ import Layout from '../layouts/Layout.astro';
               <span class="kayman-name">${p.name}</span>
               <span class="kayman-shop">
                 <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-                Shop here
+                ${shopText}
               </span>
             </a>`;
           }).join('')}
@@ -850,7 +861,7 @@ import Layout from '../layouts/Layout.astro';
       `<a href="/posts/${p.slug}/" class="product-card">
         <span class="product-cat">${p.category}</span>
         <span class="product-name">${p.name}</span>
-        <span class="product-link">Read review →</span>
+        <span class="product-link">${readReviewText}</span>
       </a>`
     ).join('');
 
@@ -998,7 +1009,7 @@ import Layout from '../layouts/Layout.astro';
   .quiz-opt--multi { flex: 0 0 auto; padding: 0.7rem 1rem; font-size: 0.85rem; text-align: center; }
   .quiz-opt--multi.selected { border-color: var(--rose-gold); background: var(--blush); }
 
-  /* (next button removed — single page layout) */
+  /* (next button removed . single page layout) */
 
   .routine-note {
     background: rgba(232, 234, 246, 0.5); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
@@ -1069,7 +1080,7 @@ import Layout from '../layouts/Layout.astro';
   }
   .result-heading em { font-style: italic; color: var(--rose-gold); }
 
-  /* Routine steps — combined card */
+  /* Routine steps . combined card */
   .routine-steps {
     display: flex; flex-direction: column; gap: 0;
     background: rgba(255, 255, 255, 0.55); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
