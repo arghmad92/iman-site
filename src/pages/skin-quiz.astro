@@ -83,24 +83,39 @@ import Layout from '../layouts/Layout.astro';
           <p class="result-desc" id="resultDesc"></p>
         </div>
 
+        <div id="resultInserts"></div>
+
         <div class="result-section">
-          <h3>Morning <em>Routine</em> ☀️</h3>
+          <div class="routine-header routine-header--morning">
+            <span class="routine-emoji">☀️</span>
+            <div>
+              <h3>Morning Routine</h3>
+              <p class="routine-subtitle">Start your day with these steps</p>
+            </div>
+          </div>
           <div id="morningSteps" class="routine-steps"></div>
         </div>
 
         <div class="result-section">
-          <h3>Night <em>Routine</em> 🌙</h3>
+          <div class="routine-header routine-header--night">
+            <span class="routine-emoji">🌙</span>
+            <div>
+              <h3>Night Routine</h3>
+              <p class="routine-subtitle">Wind down and repair your skin</p>
+            </div>
+          </div>
           <div id="nightSteps" class="routine-steps"></div>
+          <div id="extraSerums"></div>
         </div>
 
         <div class="result-section">
-          <h3>Products I've <em>Reviewed</em></h3>
-          <p class="result-note">These are products I've personally tried and reviewed on this blog:</p>
+          <h3 class="result-heading">Products I've <em>Reviewed</em></h3>
+          <p class="result-note">Products I've personally tried and reviewed on this blog:</p>
           <div id="productRecs" class="product-grid"></div>
         </div>
 
         <div class="result-section">
-          <h3>Helpful <em>Guides</em></h3>
+          <h3 class="result-heading">Helpful <em>Guides</em></h3>
           <div id="guideLinks" class="guide-grid"></div>
         </div>
 
@@ -440,42 +455,43 @@ import Layout from '../layouts/Layout.astro';
     const nightSteps = data.night.map((r, i) => i === 3 ? { step: serumRec.name, tip: serumRec.tip } : r);
 
     // Build routine HTML
-    function renderRoutine(steps: { step: string; tip: string }[], icon: string) {
+    function renderRoutine(steps: { step: string; tip: string }[]) {
       return steps.map((r, i) =>
         `<div class="routine-step">
-          <div class="step-left">
-            <span class="step-number">${i + 1}</span>
-            <div class="step-line-v"></div>
-          </div>
-          <div class="step-content">
-            <strong>${r.step}</strong>
-            <p>${r.tip}</p>
+          <span class="step-num">${i + 1}</span>
+          <div class="step-body">
+            <span class="step-name">${r.step}</span>
+            <span class="step-tip">${r.tip}</span>
           </div>
         </div>`
       ).join('');
     }
 
     // Inject pregnancy banner and concern tags
-    document.getElementById('morningSteps')!.closest('.result-section')!.insertAdjacentHTML('beforebegin', pregnancyBanner + concernTags);
+    document.getElementById('resultInserts')!.innerHTML = pregnancyBanner + concernTags;
 
     // Render routines
-    document.getElementById('morningSteps')!.innerHTML = renderRoutine(data.morning, '☀️');
-    document.getElementById('nightSteps')!.innerHTML = renderRoutine(nightSteps, '🌙');
+    document.getElementById('morningSteps')!.innerHTML = renderRoutine(data.morning);
+    document.getElementById('nightSteps')!.innerHTML = renderRoutine(nightSteps);
 
     // Show extra serum concerns if multiple selected
+    const extraSerumsEl = document.getElementById('extraSerums')!;
     if (concerns.length > 1) {
       const extraSerums = concerns.slice(1).map(c => {
         const s = (isPregnant && pregnantSerumMap[c]) ? pregnantSerumMap[c] : serumMap[c];
-        return s ? `<span class="extra-serum"><strong>${s.name}</strong> — ${s.tip}</span>` : '';
+        return s ? `<div class="extra-serum-card">
+          <span class="extra-serum-name">${s.name}</span>
+          <span class="extra-serum-tip">${s.tip}</span>
+        </div>` : '';
       }).filter(Boolean).join('');
       if (extraSerums) {
-        document.getElementById('nightSteps')!.insertAdjacentHTML('afterend',
-          `<div class="extra-serums-box">
-            <p class="extra-serums-title">You also selected these concerns — consider alternating these serums:</p>
-            ${extraSerums}
-          </div>`
-        );
+        extraSerumsEl.innerHTML = `<div class="extra-serums-box">
+          <p class="extra-serums-title">Also consider alternating these serums for your other concerns:</p>
+          <div class="extra-serum-list">${extraSerums}</div>
+        </div>`;
       }
+    } else {
+      extraSerumsEl.innerHTML = '';
     }
 
     // Product recommendations
@@ -523,8 +539,8 @@ import Layout from '../layouts/Layout.astro';
     progressBar.style.width = '0%';
     stepLabel.textContent = 'Question 1 of 3';
     (document.getElementById('concernNextBtn') as HTMLButtonElement).disabled = true;
-    // Remove injected elements
-    document.querySelectorAll('.pregnancy-warning, .concern-tags').forEach(el => el.remove());
+    document.getElementById('resultInserts')!.innerHTML = '';
+    document.getElementById('extraSerums')!.innerHTML = '';
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 </script>
@@ -621,54 +637,60 @@ import Layout from '../layouts/Layout.astro';
   .result-desc { font-size: 0.9rem; color: var(--text-secondary); line-height: 1.8; font-weight: 300; max-width: 500px; margin: 0 auto; }
 
   .result-section { margin-bottom: 2.5rem; }
-  .result-section h3 {
-    font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; color: var(--text-primary);
-    margin-bottom: 1.2rem; padding-bottom: 0.6rem; border-bottom: 2px solid var(--blush);
-    display: flex; align-items: center; gap: 0.5rem;
-  }
-  .result-section h3 em { font-style: italic; color: var(--rose-gold); }
   .result-note { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; font-weight: 300; }
 
-  /* Routine steps — card style */
-  .routine-steps { display: flex; flex-direction: column; gap: 0.6rem; }
+  /* Routine header */
+  .routine-header {
+    display: flex; align-items: center; gap: 0.8rem;
+    padding: 1rem 1.2rem; border-radius: 14px; margin-bottom: 1rem;
+  }
+  .routine-header--morning { background: linear-gradient(135deg, #fff8e1, #fff3e0); border: 1px solid #ffe0b2; }
+  .routine-header--night { background: linear-gradient(135deg, #e8eaf6, #ede7f6); border: 1px solid #d1c4e9; }
+  .routine-emoji { font-size: 1.8rem; line-height: 1; }
+  .routine-header h3 {
+    font-family: 'Cormorant Garamond', serif; font-size: 1.2rem;
+    color: var(--text-primary); margin: 0; padding: 0; border: none;
+  }
+  .routine-subtitle { font-size: 0.75rem; color: var(--text-muted); font-weight: 300; margin-top: 0.1rem; }
+
+  .result-heading {
+    font-family: 'Cormorant Garamond', serif; font-size: 1.3rem;
+    color: var(--text-primary); margin-bottom: 1rem;
+    padding-bottom: 0.5rem; border-bottom: 2px solid var(--blush);
+  }
+  .result-heading em { font-style: italic; color: var(--rose-gold); }
+
+  /* Routine steps */
+  .routine-steps { display: flex; flex-direction: column; gap: 0.5rem; }
   .routine-step {
-    display: flex; gap: 0.8rem; align-items: flex-start;
-    padding: 1rem 1.2rem; background: var(--white); border: 1px solid var(--border);
-    border-radius: 14px; transition: border-color 0.2s;
+    display: flex; align-items: flex-start; gap: 0.8rem;
+    padding: 0.9rem 1rem; background: var(--white); border: 1px solid var(--border);
+    border-radius: 12px; transition: all 0.2s;
   }
-  .routine-step:hover { border-color: var(--rose); }
-  .step-left { display: flex; align-items: flex-start; flex-shrink: 0; }
-  .step-number {
-    width: 30px; height: 30px; border-radius: 10px; background: var(--rose-gold);
+  .routine-step:hover { border-color: var(--rose); transform: translateX(4px); }
+  .step-num {
+    width: 28px; height: 28px; border-radius: 8px; background: var(--rose-gold);
     color: white; display: flex; align-items: center; justify-content: center;
-    font-size: 0.75rem; font-weight: 700;
-    box-shadow: 0 2px 8px rgba(201,132,140,0.15);
+    font-size: 0.72rem; font-weight: 700; flex-shrink: 0;
   }
-  .step-line-v { display: none; }
-  .step-content { flex: 1; min-width: 0; }
-  .step-content strong {
-    font-size: 0.9rem; color: var(--text-primary); display: block; margin-bottom: 0.2rem;
-    font-family: 'DM Sans', sans-serif; font-weight: 600;
-  }
-  .step-content p {
-    font-size: 0.82rem; color: var(--text-muted); font-weight: 300; margin: 0;
-    line-height: 1.6;
-  }
+  .step-body { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.15rem; }
+  .step-name { font-size: 0.88rem; color: var(--text-primary); font-weight: 600; }
+  .step-tip { font-size: 0.78rem; color: var(--text-muted); font-weight: 300; line-height: 1.5; }
 
   /* Extra serums box */
   .extra-serums-box {
     background: var(--pink-soft); border: 1px solid var(--border); border-radius: 14px;
     padding: 1.2rem; margin-top: 1rem;
   }
-  .extra-serums-title {
-    font-size: 0.78rem; color: var(--text-secondary); margin-bottom: 0.6rem; font-weight: 500;
+  .extra-serums-title { font-size: 0.78rem; color: var(--text-secondary); margin-bottom: 0.8rem; font-weight: 500; }
+  .extra-serum-list { display: flex; flex-direction: column; gap: 0.5rem; }
+  .extra-serum-card {
+    display: flex; flex-direction: column; gap: 0.15rem;
+    padding: 0.7rem 0.9rem; background: var(--white); border: 1px solid var(--border);
+    border-radius: 10px;
   }
-  .extra-serum {
-    display: block; font-size: 0.82rem; color: var(--text-secondary); line-height: 1.6;
-    padding: 0.4rem 0; border-top: 1px solid var(--border); font-weight: 300;
-  }
-  .extra-serum:first-of-type { border-top: none; }
-  .extra-serum strong { color: var(--rose-gold); font-weight: 600; }
+  .extra-serum-name { font-size: 0.85rem; color: var(--rose-gold); font-weight: 600; }
+  .extra-serum-tip { font-size: 0.78rem; color: var(--text-muted); font-weight: 300; line-height: 1.5; }
 
   /* Product grid */
   .product-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem; }
