@@ -21,12 +21,16 @@ import Layout from '../layouts/Layout.astro';
     <!-- Hero -->
     <div class="quiz-hero">
       <div class="hero-inner">
-        <p class="section-label">Skincare Suggestion</p>
-        <h1 class="quiz-title">Find your <em>glow.</em></h1>
-        <p class="quiz-sub">Answer 3 simple questions and I'll suggest the best products for your skin.</p>
+        <div class="lang-toggle">
+          <button class="lang-btn active" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="ms">BM</button>
+        </div>
+        <p class="section-label" data-en="Skincare Suggestion" data-ms="Cadangan Penjagaan Kulit">Skincare Suggestion</p>
+        <h1 class="quiz-title" data-en="Find your <em>glow.</em>" data-ms="Cari <em>cahaya</em> kulit anda.">Find your <em>glow.</em></h1>
+        <p class="quiz-sub" data-en="Answer 3 simple questions and I'll suggest the best products for your skin." data-ms="Jawab 3 soalan mudah dan saya akan cadangkan produk terbaik untuk kulit anda.">Answer 3 simple questions and I'll suggest the best products for your skin.</p>
         <div class="quiz-counter">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-          <span id="quizCount">—</span> people have taken this quiz
+          <span id="quizCount">—</span> <span data-en="people have taken this quiz" data-ms="orang telah mengambil kuiz ini">people have taken this quiz</span>
         </div>
       </div>
       <div class="deco-a"></div>
@@ -38,46 +42,46 @@ import Layout from '../layouts/Layout.astro';
 
         <!-- Q1: Skin Type -->
         <div class="quiz-section">
-          <div class="quiz-q-label">Question 1</div>
-          <h2>What is your skin type?</h2>
+          <div class="quiz-q-label" data-en="Question 1" data-ms="Soalan 1">Question 1</div>
+          <h2 data-en="What is your skin type?" data-ms="Apakah jenis kulit anda?">What is your skin type?</h2>
           <div class="quiz-options" id="skinTypeOptions">
-            <button class="quiz-opt" data-value="dry">Dry</button>
-            <button class="quiz-opt" data-value="oily">Oily</button>
-            <button class="quiz-opt" data-value="combo">Combination</button>
-            <button class="quiz-opt" data-value="normal">Normal</button>
+            <button class="quiz-opt" data-value="dry" data-en="Dry" data-ms="Kering">Dry</button>
+            <button class="quiz-opt" data-value="oily" data-en="Oily" data-ms="Berminyak">Oily</button>
+            <button class="quiz-opt" data-value="combo" data-en="Combination" data-ms="Kombinasi">Combination</button>
+            <button class="quiz-opt" data-value="normal" data-en="Normal" data-ms="Normal">Normal</button>
           </div>
         </div>
 
         <!-- Q2: Skin Concern (multi-select) -->
         <div class="quiz-section">
-          <div class="quiz-q-label">Question 2</div>
-          <h2>What is your skin concern?</h2>
-          <p class="quiz-hint">Select all that apply</p>
+          <div class="quiz-q-label" data-en="Question 2" data-ms="Soalan 2">Question 2</div>
+          <h2 data-en="What is your skin concern?" data-ms="Apakah masalah kulit anda?">What is your skin concern?</h2>
+          <p class="quiz-hint" data-en="Select all that apply" data-ms="Pilih semua yang berkenaan">Select all that apply</p>
           <div class="quiz-options quiz-options--multi" id="concernOptions">
-            <button class="quiz-opt quiz-opt--multi" data-concern="acne">Acne & Breakouts</button>
-            <button class="quiz-opt quiz-opt--multi" data-concern="dryness">Dryness & Dehydration</button>
-            <button class="quiz-opt quiz-opt--multi" data-concern="pigmentation">Hyperpigmentation & Dark Spots</button>
-            <button class="quiz-opt quiz-opt--multi" data-concern="pores">Large Pores & Blackheads</button>
-            <button class="quiz-opt quiz-opt--multi" data-concern="whitehead">Whiteheads</button>
-            <button class="quiz-opt quiz-opt--multi" data-concern="aging">Anti-aging & Fine Lines</button>
-            <button class="quiz-opt quiz-opt--multi" data-concern="dull">Dull Skin</button>
-            <button class="quiz-opt quiz-opt--multi" data-concern="sensitivity">Sensitivity & Redness</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="acne" data-en="Acne & Breakouts" data-ms="Jerawat & Breakouts">Acne & Breakouts</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="dryness" data-en="Dryness & Dehydration" data-ms="Kering & Dehidrasi">Dryness & Dehydration</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="pigmentation" data-en="Hyperpigmentation & Dark Spots" data-ms="Hiperpigmentasi & Bintik Gelap">Hyperpigmentation & Dark Spots</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="pores" data-en="Large Pores & Blackheads" data-ms="Pori Besar & Blackheads">Large Pores & Blackheads</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="whitehead" data-en="Whiteheads" data-ms="Whiteheads">Whiteheads</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="aging" data-en="Anti-aging & Fine Lines" data-ms="Anti-penuaan & Garis Halus">Anti-aging & Fine Lines</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="dull" data-en="Dull Skin" data-ms="Kulit Kusam">Dull Skin</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="sensitivity" data-en="Sensitivity & Redness" data-ms="Sensitif & Kemerahan">Sensitivity & Redness</button>
           </div>
         </div>
 
         <!-- Q3: Pregnant/Breastfeeding -->
         <div class="quiz-section">
-          <div class="quiz-q-label">Question 3</div>
-          <h2>Are you pregnant or breastfeeding?</h2>
+          <div class="quiz-q-label" data-en="Question 3" data-ms="Soalan 3">Question 3</div>
+          <h2 data-en="Are you pregnant or breastfeeding?" data-ms="Adakah anda mengandung atau menyusu?">Are you pregnant or breastfeeding?</h2>
           <div class="quiz-options" id="pregnantOptions">
-            <button class="quiz-opt" data-value="pregnant_yes">Yes</button>
-            <button class="quiz-opt" data-value="pregnant_no">No</button>
+            <button class="quiz-opt" data-value="pregnant_yes" data-en="Yes" data-ms="Ya">Yes</button>
+            <button class="quiz-opt" data-value="pregnant_no" data-en="No" data-ms="Tidak">No</button>
           </div>
         </div>
 
         <!-- Submit button -->
-        <button class="quiz-submit-btn" id="quizSubmitBtn" disabled>Get My Routine</button>
-        <p class="quiz-submit-hint" id="quizSubmitHint">Please answer all 3 questions above</p>
+        <button class="quiz-submit-btn" id="quizSubmitBtn" disabled data-en="Get My Routine" data-ms="Dapatkan Rutin Saya">Get My Routine</button>
+        <p class="quiz-submit-hint" id="quizSubmitHint" data-en="Please answer all 3 questions above" data-ms="Sila jawab semua 3 soalan di atas">Please answer all 3 questions above</p>
       </div>
 
       <!-- Results (hidden until quiz complete) -->
@@ -94,8 +98,8 @@ import Layout from '../layouts/Layout.astro';
           <div class="routine-header routine-header--morning">
             <span class="routine-emoji">☀️</span>
             <div>
-              <h3>Morning Routine</h3>
-              <p class="routine-subtitle">Start your day with these steps</p>
+              <h3 data-en="Morning Routine" data-ms="Rutin Pagi">Morning Routine</h3>
+              <p class="routine-subtitle" data-en="Start your day with these steps" data-ms="Mulakan hari anda dengan langkah ini">Start your day with these steps</p>
             </div>
           </div>
           <div id="morningSteps" class="routine-steps"></div>
@@ -105,8 +109,8 @@ import Layout from '../layouts/Layout.astro';
           <div class="routine-header routine-header--night">
             <span class="routine-emoji">🌙</span>
             <div>
-              <h3>Night Routine</h3>
-              <p class="routine-subtitle">Wind down and repair your skin</p>
+              <h3 data-en="Night Routine" data-ms="Rutin Malam">Night Routine</h3>
+              <p class="routine-subtitle" data-en="Wind down and repair your skin" data-ms="Berehat dan pulihkan kulit anda">Wind down and repair your skin</p>
             </div>
           </div>
           <div id="nightSteps" class="routine-steps"></div>
@@ -114,29 +118,29 @@ import Layout from '../layouts/Layout.astro';
         </div>
 
         <div class="result-section">
-          <h3 class="result-heading">Recommended <em>Products</em></h3>
-          <p class="result-note">Products tailored for your skin type and concerns. <span class="shop-hint">Tap any product to shop</span></p>
+          <h3 class="result-heading" data-en="Recommended <em>Products</em>" data-ms="Produk <em>Disyorkan</em>">Recommended <em>Products</em></h3>
+          <p class="result-note" data-en="Products tailored for your skin type and concerns. <span class='shop-hint'>Tap any product to shop</span>" data-ms="Produk yang sesuai untuk jenis kulit dan masalah anda. <span class='shop-hint'>Tekan mana-mana produk untuk beli</span>">Products tailored for your skin type and concerns. <span class="shop-hint">Tap any product to shop</span></p>
           <div id="allProductRecs"></div>
         </div>
 
         <div class="result-section">
-          <h3 class="result-heading">Products I've <em>Reviewed</em></h3>
-          <p class="result-note">Products I've personally tried and reviewed on this blog:</p>
+          <h3 class="result-heading" data-en="Products I've <em>Reviewed</em>" data-ms="Produk Yang Saya <em>Review</em>">Products I've <em>Reviewed</em></h3>
+          <p class="result-note" data-en="Products I've personally tried and reviewed on this blog:" data-ms="Produk yang saya dah cuba dan review di blog ini:">Products I've personally tried and reviewed on this blog:</p>
           <div id="productRecs" class="product-grid"></div>
         </div>
 
         <div class="result-section">
-          <h3 class="result-heading">Helpful <em>Guides</em></h3>
+          <h3 class="result-heading" data-en="Helpful <em>Guides</em>" data-ms="Panduan <em>Berguna</em>">Helpful <em>Guides</em></h3>
           <div id="guideLinks" class="guide-grid"></div>
         </div>
 
         <div class="quiz-disclaimer">
-          <p>This is a general skincare guidance only and is not a substitute for professional advice. Product recommendations are based on general skin type guidelines — individual results may vary.</p>
+          <p data-en="This is a general skincare guidance only and is not a substitute for professional advice. Product recommendations are based on general skin type guidelines — individual results may vary." data-ms="Ini hanyalah panduan penjagaan kulit umum dan bukan pengganti nasihat profesional. Cadangan produk berdasarkan garis panduan jenis kulit umum — hasil mungkin berbeza.">This is a general skincare guidance only and is not a substitute for professional advice. Product recommendations are based on general skin type guidelines — individual results may vary.</p>
         </div>
 
         <div class="result-cta">
-          <button class="retake-btn" id="retakeBtn">Retake Quiz</button>
-          <a href="/posts/?cat=Skincare" class="browse-btn">Browse All Skincare Posts</a>
+          <button class="retake-btn" id="retakeBtn" data-en="Retake Quiz" data-ms="Ulang Kuiz">Retake Quiz</button>
+          <a href="/posts/?cat=Skincare" class="browse-btn" data-en="Browse All Skincare Posts" data-ms="Lihat Semua Post Skincare">Browse All Skincare Posts</a>
         </div>
       </div>
     </div>
@@ -151,6 +155,20 @@ import Layout from '../layouts/Layout.astro';
   let skinType = '';
   let concerns: string[] = [];
   let isPregnant: boolean | null = null;
+  let currentLang = 'en';
+
+  // Language toggle
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentLang = (btn as HTMLElement).dataset.lang || 'en';
+      document.querySelectorAll('[data-en][data-ms]').forEach(el => {
+        const text = (el as HTMLElement).dataset[currentLang] || (el as HTMLElement).dataset.en || '';
+        (el as HTMLElement).innerHTML = text;
+      });
+    });
+  });
 
   const submitBtn = document.getElementById('quizSubmitBtn') as HTMLButtonElement;
   const submitHint = document.getElementById('quizSubmitHint')!;
@@ -820,6 +838,22 @@ import Layout from '../layouts/Layout.astro';
   }
   .quiz-counter svg { color: var(--rose-gold); opacity: 0.7; }
   #quizCount { font-weight: 700; color: var(--rose-gold); font-family: 'DM Sans', sans-serif; }
+
+  .lang-toggle {
+    display: inline-flex; gap: 0; margin-bottom: 1rem;
+    background: rgba(255,255,255,0.5); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(245,213,218,0.4); border-radius: 100px; overflow: hidden;
+  }
+  .lang-btn {
+    padding: 0.4rem 1rem; border: none; background: none;
+    font-family: 'DM Sans', sans-serif; font-size: 0.75rem; font-weight: 600;
+    color: var(--text-muted); cursor: pointer; transition: all 0.2s;
+    letter-spacing: 0.06em;
+  }
+  .lang-btn.active {
+    background: var(--rose-gold); color: white;
+  }
+  .lang-btn:hover:not(.active) { color: var(--text-primary); }
 
   .deco-a { position: absolute; width: 280px; height: 280px; border-radius: 50%; background: radial-gradient(circle, var(--blush), transparent 70%); top: -40px; right: -60px; opacity: 0.5; }
 
