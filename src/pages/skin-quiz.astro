@@ -409,7 +409,17 @@ import Layout from '../layouts/Layout.astro';
   };
 
   function showResults() {
+    // Smart routine override: certain concern + skin type combos use a different routine
+    // Dry skin + acne = use combination routine (acne needs lighter products, dry needs hydration)
+    let routineType = skinType;
+    let routineNote = '';
+    if (skinType === 'dry' && concerns.includes('acne')) {
+      routineType = 'combo';
+      routineNote = 'Since you have dry skin with acne concerns, I recommend a combination skin routine — it balances hydration without clogging pores.';
+    }
+
     const data = skinData[skinType] || skinData.normal;
+    const routineData = skinData[routineType] || data;
 
     document.getElementById('quizContainer')!.style.display = 'none';
     document.getElementById('quizResults')!.style.display = '';
@@ -463,7 +473,7 @@ import Layout from '../layouts/Layout.astro';
     };
 
     // Build serum step with all concern ingredients listed underneath
-    let serumTip = data.night[3]?.tip || 'Choose a serum based on your skin concern';
+    let serumTip = routineData.night[3]?.tip || 'Choose a serum based on your skin concern';
     if (concerns.length > 0) {
       const ingredientLines = concerns.map(c => {
         const ing = (isPregnant && pregnantIngredientMap[c]) ? pregnantIngredientMap[c] : ingredientMap[c];
@@ -473,7 +483,7 @@ import Layout from '../layouts/Layout.astro';
     }
 
     // Override serum in night routine
-    const nightSteps = data.night.map((r, i) => i === 3 ? { step: 'Serum', tip: serumTip } : r);
+    const nightSteps = routineData.night.map((r, i) => i === 3 ? { step: 'Serum', tip: serumTip } : r);
 
     // Build routine HTML (tip can contain HTML for serum ingredients)
     function renderRoutine(steps: { step: string; tip: string }[]) {
@@ -488,11 +498,16 @@ import Layout from '../layouts/Layout.astro';
       ).join('');
     }
 
-    // Inject pregnancy banner and concern tags
-    document.getElementById('resultInserts')!.innerHTML = pregnancyBanner + concernTags;
+    // Routine override note
+    const routineNoteBanner = routineNote
+      ? `<div class="routine-note"><strong>💡 Routine Tip</strong><p>${routineNote}</p></div>`
+      : '';
+
+    // Inject pregnancy banner, concern tags, and routine note
+    document.getElementById('resultInserts')!.innerHTML = pregnancyBanner + concernTags + routineNoteBanner;
 
     // Render routines
-    document.getElementById('morningSteps')!.innerHTML = renderRoutine(data.morning);
+    document.getElementById('morningSteps')!.innerHTML = renderRoutine(routineData.morning);
     document.getElementById('nightSteps')!.innerHTML = renderRoutine(nightSteps);
 
     // Clear extra serums (no longer needed — all in serum step)
@@ -636,6 +651,14 @@ import Layout from '../layouts/Layout.astro';
   .quiz-opt--multi.selected { border-color: var(--rose-gold); background: var(--blush); }
 
   /* (next button removed — single page layout) */
+
+  .routine-note {
+    background: rgba(232, 234, 246, 0.5); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(179, 157, 219, 0.3); border-radius: 14px;
+    padding: 1.2rem; margin-bottom: 1.5rem;
+  }
+  .routine-note strong { display: block; margin-bottom: 0.3rem; color: #5c6bc0; font-size: 0.88rem; }
+  .routine-note p { font-size: 0.82rem; color: var(--text-secondary); line-height: 1.7; font-weight: 300; margin: 0; }
 
   .pregnancy-warning {
     background: rgba(255, 149, 0, 0.08); border: 1px solid rgba(255, 149, 0, 0.25);
