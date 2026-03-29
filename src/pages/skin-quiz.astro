@@ -637,6 +637,43 @@ import Layout from '../layouts/Layout.astro';
       otms: { name: 'Oatmeal Turmeric Mask & Scrub', img: '/yello/otms.png', url: 'https://s.shopee.com.my/9Ux77MqREL', step: 'Mask' },
     };
 
+    // === Cuura products ===
+    const cuuraProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
+      cloud_lift: { name: 'Cloud Lift Hydration Spray', img: '/cuura/cloud-lift.png', url: 'https://s.shopee.com.my/10yZ1Zpwiz', step: 'Toner' },
+      jeju_glow: { name: 'Jeju Glow Serum Infused Mist', img: '/cuura/jeju-glow.png', url: 'https://s.shopee.com.my/qf8pI3NMp', step: 'Essence' },
+      vitamin_potion: { name: 'Vitamin Potion Brightening Serum', img: '/cuura/vitamin-potion.png', url: 'https://s.shopee.com.my/3fzKCNuf2p', step: 'Serum' },
+      pure_beauty_oil: { name: 'Pure Beauty Oil Serum', img: '/cuura/pure-beauty-oil.png', url: 'https://s.shopee.com.my/4frrOBrw9h', step: 'Serum' },
+      brightening_ss: { name: 'Brightening Sunscreen', img: '/cuura/brightening-sunscreen.png', url: 'https://s.shopee.com.my/3Vfu00SBLY', step: 'Sunscreen' },
+      glow_defense: { name: 'Glow Defense Tone Up Sunscreen', img: '/cuura/glow-defense.png', url: 'https://s.shopee.com.my/W2IQVQ4Jk', step: 'Sunscreen' },
+    };
+
+    const cuuraRecs: string[] = [];
+    const addedCuura = new Set<string>();
+    function addCuura(key: string) { if (!addedCuura.has(key) && cuuraProducts[key]) { addedCuura.add(key); cuuraRecs.push(key); } }
+
+    // Toner — all skin types
+    addCuura('cloud_lift');
+
+    // Essence — by concern
+    if (concerns.some(c => ['dull', 'pigmentation'].includes(c))) {
+      addCuura('jeju_glow');
+    }
+
+    // Serum — by concern
+    if (concerns.some(c => ['dull', 'pigmentation', 'dryness'].includes(c))) {
+      addCuura('vitamin_potion');
+    }
+    if (concerns.some(c => ['aging', 'dryness'].includes(c))) {
+      addCuura('pure_beauty_oil');
+    }
+
+    // Sunscreen — by skin type
+    if (skinType === 'oily' || skinType === 'combo') {
+      addCuura('glow_defense');
+    } else {
+      addCuura('brightening_ss');
+    }
+
     const yelloRecs: string[] = [];
     const addedYello = new Set<string>();
     function addYello(key: string) { if (!addedYello.has(key) && yelloProducts[key]) { addedYello.add(key); yelloRecs.push(key); } }
@@ -661,9 +698,13 @@ import Layout from '../layouts/Layout.astro';
       addYello('otms');
     }
 
-    // === Merge all products (Kayman + Yello) into one grouped view ===
-    const allProducts = { ...kaymanProducts, ...yelloProducts };
-    const allRecs = [...kaymanRecs.map(k => ({ key: k, source: 'kayman' as const })), ...yelloRecs.map(k => ({ key: k, source: 'yello' as const }))];
+    // === Merge all products (Kayman + Yello + Cuura) into one grouped view ===
+    const allProducts = { ...kaymanProducts, ...yelloProducts, ...cuuraProducts };
+    const allRecs = [
+      ...kaymanRecs.map(k => ({ key: k, source: 'kayman' as const })),
+      ...yelloRecs.map(k => ({ key: k, source: 'yello' as const })),
+      ...cuuraRecs.map(k => ({ key: k, source: 'cuura' as const })),
+    ];
 
     // Group by step
     const allGrouped: Record<string, { key: string; source: string }[]> = {};

@@ -35,7 +35,9 @@
       "WebFetch(domain:kaymanbeauty.com)",
       "Bash(ls \"/Users/nuruliman/Project Claude/public/kayman/suntella\"*)",
       "WebFetch(domain:shopee.com.my)",
-      "WebFetch(domain:www.yelloskincare.com)"
+      "WebFetch(domain:www.yelloskincare.com)",
+      "WebFetch(domain:www.cuuraofficial.com)",
+      "Bash(cd:*)"
     ]
   }
 }
