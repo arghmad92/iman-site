@@ -116,8 +116,7 @@ import Layout from '../layouts/Layout.astro';
         <div class="result-section">
           <h3 class="result-heading">Recommended <em>Products</em></h3>
           <p class="result-note">Products tailored for your skin type and concerns. <span class="shop-hint">Tap any product to shop</span></p>
-          <div id="kaymanRecs"></div>
-          <div id="yelloRecs" style="margin-top:1.5rem"></div>
+          <div id="allProductRecs"></div>
         </div>
 
         <div class="result-section">
@@ -590,6 +589,7 @@ import Layout from '../layouts/Layout.astro';
       'Ampoule': 'Ampoule',
       'Moisturizer': 'Moisturizer',
       'Sunscreen': 'Sunscreen',
+      'Mask': 'Mask & Scrub',
     };
 
     // Group recs by step
@@ -624,9 +624,7 @@ import Layout from '../layouts/Layout.astro';
       </div>`;
     });
 
-    document.getElementById('kaymanRecs')!.innerHTML = kaymanHTML;
-
-    // === Yello Skincare product recommendations ===
+    // === Yello Skincare products ===
     const yelloProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
       oatmino: { name: 'Oatmino Refreshing Cream Cleanser', img: '/yello/oatmino.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=64', step: 'Cleanser' },
       oatellia: { name: 'Oatellia Exfoliating Gel Cleanser', img: '/yello/oatellia.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=69', step: 'Cleanser' },
@@ -663,23 +661,30 @@ import Layout from '../layouts/Layout.astro';
       addYello('otms');
     }
 
-    // Group and render Yello products
-    const yelloGrouped: Record<string, string[]> = {};
-    yelloRecs.forEach(key => {
-      const step = yelloProducts[key].step;
-      if (!yelloGrouped[step]) yelloGrouped[step] = [];
-      yelloGrouped[step].push(key);
+    // === Merge all products (Kayman + Yello) into one grouped view ===
+    const allProducts = { ...kaymanProducts, ...yelloProducts };
+    const allRecs = [...kaymanRecs.map(k => ({ key: k, source: 'kayman' as const })), ...yelloRecs.map(k => ({ key: k, source: 'yello' as const }))];
+
+    // Group by step
+    const allGrouped: Record<string, { key: string; source: string }[]> = {};
+    allRecs.forEach(item => {
+      const p = allProducts[item.key];
+      if (!p) return;
+      const step = p.step;
+      if (!allGrouped[step]) allGrouped[step] = [];
+      allGrouped[step].push(item);
     });
 
-    const yelloStepOrder = ['Cleanser', 'Toner', 'Essence', 'Serum', 'Mask'];
-    let yelloHTML = '';
-    yelloStepOrder.forEach(step => {
-      if (!yelloGrouped[step] || yelloGrouped[step].length === 0) return;
-      yelloHTML += `<div class="kayman-group">
-        <div class="kayman-group-label">${step}</div>
+    const allStepOrder = ['1st Cleanser', 'Cleanser', 'Toner', 'Essence', 'Exfoliant', 'Serum', 'Ampoule', 'Moisturizer', 'Sunscreen', 'Mask'];
+
+    let allHTML = '';
+    allStepOrder.forEach(step => {
+      if (!allGrouped[step] || allGrouped[step].length === 0) return;
+      allHTML += `<div class="kayman-group">
+        <div class="kayman-group-label">${stepLabels[step] || step}</div>
         <div class="kayman-group-items">
-          ${yelloGrouped[step].map(key => {
-            const p = yelloProducts[key];
+          ${allGrouped[step].map(item => {
+            const p = allProducts[item.key];
             return `<a href="${p.url}" target="_blank" rel="noopener" class="kayman-card">
               <div class="kayman-img-wrap">
                 <img src="${p.img}" alt="${p.name}" loading="lazy" />
@@ -695,10 +700,7 @@ import Layout from '../layouts/Layout.astro';
       </div>`;
     });
 
-    if (yelloHTML) {
-      document.getElementById('yelloRecs')!.innerHTML =
-        `<div class="brand-divider"><span>Also recommended</span></div>` + yelloHTML;
-    }
+    document.getElementById('allProductRecs')!.innerHTML = allHTML;
 
     // Blog product recommendations
     document.getElementById('productRecs')!.innerHTML = data.products.map(p =>
