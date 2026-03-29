@@ -419,49 +419,48 @@ import Layout from '../layouts/Layout.astro';
       ? `<div class="concern-tags"><span class="concern-tags-label">Your concerns:</span>${concerns.map(c => `<span class="concern-tag">${concernLabels[c] || c}</span>`).join('')}</div>`
       : '';
 
-    // Personalise night serum based on concerns + pregnancy
-    const serumMap: Record<string, { name: string; tip: string }> = {
-      acne: { name: 'Acne-fighting Serum', tip: 'Niacinamide + Tea Tree — controls breakouts and reduces inflammation' },
-      dryness: { name: 'Hydrating Serum', tip: 'Hyaluronic Acid + Ceramides — deep hydration and barrier repair' },
-      pigmentation: { name: 'Brightening Serum', tip: 'Vitamin C + Arbutin + Niacinamide — fades dark spots and evens skin tone' },
-      pores: { name: 'Pore-refining Serum', tip: 'Niacinamide + Zinc — tightens pores and controls oil' },
-      whitehead: { name: 'Exfoliating Serum', tip: 'AHA (Glycolic/Lactic Acid) — dissolves dead skin and prevents clogging' },
-      aging: { name: 'Anti-aging Serum', tip: 'Retinol + Peptides — boosts collagen and reduces fine lines' },
-      dull: { name: 'Brightening Serum', tip: 'Vitamin C + Arbutin + Niacinamide — fades dark spots and adds radiance' },
-      sensitivity: { name: 'Calming Serum', tip: 'Centella Asiatica + Panthenol — soothes redness and repairs skin barrier' },
+    // Ingredient recommendations per concern
+    const ingredientMap: Record<string, string> = {
+      acne: 'Niacinamide + Tea Tree — controls breakouts and reduces inflammation',
+      dryness: 'Hyaluronic Acid + Ceramides — deep hydration and barrier repair',
+      pigmentation: 'Vitamin C + Arbutin + Niacinamide — fades dark spots and evens skin tone',
+      pores: 'Niacinamide + Zinc — tightens pores and controls oil',
+      whitehead: 'AHA (Glycolic/Lactic Acid) — dissolves dead skin and prevents clogging',
+      aging: 'Retinol + Peptides — boosts collagen and reduces fine lines',
+      dull: 'Vitamin C + Arbutin + Niacinamide — brightens and adds radiance',
+      sensitivity: 'Centella Asiatica + Panthenol — soothes redness and repairs skin barrier',
     };
 
-    // Pregnancy-safe swaps
-    const pregnantSerumMap: Record<string, { name: string; tip: string }> = {
-      acne: { name: 'Pregnancy-safe Acne Serum', tip: 'Niacinamide — controls breakouts safely during pregnancy' },
-      whitehead: { name: 'Gentle Exfoliating Serum', tip: 'Low % Lactic Acid or Niacinamide — pregnancy-safe option' },
-      aging: { name: 'Pregnancy-safe Anti-aging Serum', tip: 'Peptides + Vitamin C — collagen support without retinol' },
-      dull: { name: 'Pregnancy-safe Brightening Serum', tip: 'Niacinamide + Vitamin C — safe brightening' },
-      pigmentation: { name: 'Pregnancy-safe Brightening Serum', tip: 'Niacinamide + Vitamin C — fades dark spots safely' },
+    // Pregnancy-safe ingredient swaps
+    const pregnantIngredientMap: Record<string, string> = {
+      acne: 'Niacinamide — controls breakouts safely during pregnancy',
+      whitehead: 'Low % Lactic Acid or Niacinamide — pregnancy-safe exfoliation',
+      aging: 'Peptides + Vitamin C — collagen support without retinol',
+      dull: 'Niacinamide + Vitamin C — safe brightening',
+      pigmentation: 'Niacinamide + Vitamin C — fades dark spots safely',
     };
 
-    // Build personalised serum recommendation
-    let serumRec = { name: 'Serum', tip: data.night[3]?.tip || 'Choose based on your concern' };
+    // Build serum step with all concern ingredients listed underneath
+    let serumTip = data.night[3]?.tip || 'Choose a serum based on your skin concern';
     if (concerns.length > 0) {
-      const primaryConcern = concerns[0];
-      if (isPregnant && pregnantSerumMap[primaryConcern]) {
-        serumRec = pregnantSerumMap[primaryConcern];
-      } else if (serumMap[primaryConcern]) {
-        serumRec = serumMap[primaryConcern];
-      }
+      const ingredientLines = concerns.map(c => {
+        const ing = (isPregnant && pregnantIngredientMap[c]) ? pregnantIngredientMap[c] : ingredientMap[c];
+        return ing ? `<span class="serum-ingredient">• ${concernLabels[c] || c}: ${ing}</span>` : '';
+      }).filter(Boolean).join('');
+      serumTip = `Use serum with these ingredients based on your concerns:${ingredientLines ? `<div class="serum-ingredients">${ingredientLines}</div>` : ''}`;
     }
 
     // Override serum in night routine
-    const nightSteps = data.night.map((r, i) => i === 3 ? { step: serumRec.name, tip: serumRec.tip } : r);
+    const nightSteps = data.night.map((r, i) => i === 3 ? { step: 'Serum', tip: serumTip } : r);
 
-    // Build routine HTML
+    // Build routine HTML (tip can contain HTML for serum ingredients)
     function renderRoutine(steps: { step: string; tip: string }[]) {
       return steps.map((r, i) =>
         `<div class="routine-step">
           <span class="step-num">${i + 1}</span>
           <div class="step-body">
             <span class="step-name">${r.step}</span>
-            <span class="step-tip">${r.tip}</span>
+            <div class="step-tip">${r.tip}</div>
           </div>
         </div>`
       ).join('');
@@ -474,25 +473,8 @@ import Layout from '../layouts/Layout.astro';
     document.getElementById('morningSteps')!.innerHTML = renderRoutine(data.morning);
     document.getElementById('nightSteps')!.innerHTML = renderRoutine(nightSteps);
 
-    // Show extra serum concerns if multiple selected
-    const extraSerumsEl = document.getElementById('extraSerums')!;
-    if (concerns.length > 1) {
-      const extraSerums = concerns.slice(1).map(c => {
-        const s = (isPregnant && pregnantSerumMap[c]) ? pregnantSerumMap[c] : serumMap[c];
-        return s ? `<div class="extra-serum-card">
-          <span class="extra-serum-name">${s.name}</span>
-          <span class="extra-serum-tip">${s.tip}</span>
-        </div>` : '';
-      }).filter(Boolean).join('');
-      if (extraSerums) {
-        extraSerumsEl.innerHTML = `<div class="extra-serums-box">
-          <p class="extra-serums-title">Also consider alternating these serums for your other concerns:</p>
-          <div class="extra-serum-list">${extraSerums}</div>
-        </div>`;
-      }
-    } else {
-      extraSerumsEl.innerHTML = '';
-    }
+    // Clear extra serums (no longer needed — all in serum step)
+    document.getElementById('extraSerums')!.innerHTML = '';
 
     // Product recommendations
     document.getElementById('productRecs')!.innerHTML = data.products.map(p =>
@@ -681,6 +663,16 @@ import Layout from '../layouts/Layout.astro';
   .step-body { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.1rem; }
   .step-name { font-size: 0.88rem; color: var(--text-primary); font-weight: 600; }
   .step-tip { font-size: 0.78rem; color: var(--text-muted); font-weight: 300; line-height: 1.5; }
+
+  /* Serum ingredients list inside step */
+  .serum-ingredients {
+    display: flex; flex-direction: column; gap: 0.3rem; margin-top: 0.5rem;
+    padding-top: 0.5rem; border-top: 1px dashed var(--border);
+  }
+  .serum-ingredient {
+    font-size: 0.78rem; color: var(--text-secondary); line-height: 1.5;
+    padding: 0.3rem 0;
+  }
 
   /* Extra serums box */
   .extra-serums-box {
