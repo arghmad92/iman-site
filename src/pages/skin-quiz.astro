@@ -117,6 +117,7 @@ import Layout from '../layouts/Layout.astro';
           <h3 class="result-heading">Recommended <em>Products</em></h3>
           <p class="result-note">Products tailored for your skin type and concerns. <span class="shop-hint">Tap any product to shop</span></p>
           <div id="kaymanRecs"></div>
+          <div id="yelloRecs" style="margin-top:1.5rem"></div>
         </div>
 
         <div class="result-section">
@@ -625,6 +626,80 @@ import Layout from '../layouts/Layout.astro';
 
     document.getElementById('kaymanRecs')!.innerHTML = kaymanHTML;
 
+    // === Yello Skincare product recommendations ===
+    const yelloProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
+      oatmino: { name: 'Oatmino Refreshing Cream Cleanser', img: '/yello/oatmino.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=64', step: 'Cleanser' },
+      oatellia: { name: 'Oatellia Exfoliating Gel Cleanser', img: '/yello/oatellia.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=69', step: 'Cleanser' },
+      cynara_mist: { name: 'Cynara Essence Mist', img: '/yello/cynara-mist.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=70', step: 'Toner' },
+      cynara_essence: { name: 'Cynara Supple Plumping Essence', img: '/yello/cynara-essence.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=80', step: 'Essence' },
+      snowmeric: { name: 'Snowmeric Hydra-Boost Brightening Serum', img: '/yello/snowmeric.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=66', step: 'Serum' },
+      otms: { name: 'Oatmeal Turmeric Mask & Scrub', img: '/yello/otms.png', url: 'https://www.yelloskincare.com/index.php?route=product/product&product_id=68', step: 'Mask' },
+    };
+
+    const yelloRecs: string[] = [];
+    const addedYello = new Set<string>();
+    function addYello(key: string) { if (!addedYello.has(key) && yelloProducts[key]) { addedYello.add(key); yelloRecs.push(key); } }
+
+    // Cleanser — by skin type
+    if (skinType === 'oily') { addYello('oatellia'); }
+    else if (skinType === 'combo') { addYello('oatmino'); addYello('oatellia'); }
+    else { addYello('oatmino'); }
+
+    // Toner — all skin types
+    addYello('cynara_mist');
+
+    // Essence — by concern
+    if (concerns.some(c => ['dryness', 'pigmentation', 'dull', 'sensitivity', 'aging'].includes(c))) {
+      addYello('cynara_essence');
+    }
+
+    // Serum — by concern
+    if (concerns.some(c => ['pigmentation', 'dull', 'dryness', 'aging'].includes(c))) {
+      addYello('snowmeric');
+    }
+
+    // Mask — by concern (skip for dryness and sensitivity)
+    if (concerns.some(c => ['acne', 'pores', 'whitehead', 'dull', 'pigmentation'].includes(c))) {
+      addYello('otms');
+    }
+
+    // Group and render Yello products
+    const yelloGrouped: Record<string, string[]> = {};
+    yelloRecs.forEach(key => {
+      const step = yelloProducts[key].step;
+      if (!yelloGrouped[step]) yelloGrouped[step] = [];
+      yelloGrouped[step].push(key);
+    });
+
+    const yelloStepOrder = ['Cleanser', 'Toner', 'Essence', 'Serum', 'Mask'];
+    let yelloHTML = '';
+    yelloStepOrder.forEach(step => {
+      if (!yelloGrouped[step] || yelloGrouped[step].length === 0) return;
+      yelloHTML += `<div class="kayman-group">
+        <div class="kayman-group-label">${step}</div>
+        <div class="kayman-group-items">
+          ${yelloGrouped[step].map(key => {
+            const p = yelloProducts[key];
+            return `<a href="${p.url}" target="_blank" rel="noopener" class="kayman-card">
+              <div class="kayman-img-wrap">
+                <img src="${p.img}" alt="${p.name}" loading="lazy" />
+              </div>
+              <span class="kayman-name">${p.name}</span>
+              <span class="kayman-shop">
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+                Shop here
+              </span>
+            </a>`;
+          }).join('')}
+        </div>
+      </div>`;
+    });
+
+    if (yelloHTML) {
+      document.getElementById('yelloRecs')!.innerHTML =
+        `<div class="brand-divider"><span>Also recommended</span></div>` + yelloHTML;
+    }
+
     // Blog product recommendations
     document.getElementById('productRecs')!.innerHTML = data.products.map(p =>
       `<a href="/posts/${p.slug}/" class="product-card">
@@ -931,6 +1006,17 @@ import Layout from '../layouts/Layout.astro';
   }
   .kayman-shop svg { opacity: 0.7; }
   .kayman-card:hover .kayman-shop svg { opacity: 1; stroke: white; }
+
+  .brand-divider {
+    display: flex; align-items: center; gap: 1rem; margin-bottom: 1.2rem;
+  }
+  .brand-divider::before, .brand-divider::after {
+    content: ''; flex: 1; height: 1px; background: var(--border);
+  }
+  .brand-divider span {
+    font-size: 0.7rem; color: var(--text-muted); font-weight: 500;
+    letter-spacing: 0.1em; text-transform: uppercase; white-space: nowrap;
+  }
 
   /* Blog product grid */
   .product-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem; }
