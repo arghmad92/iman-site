@@ -513,18 +513,18 @@ import Layout from '../layouts/Layout.astro';
 
     // Kayman Beauty product recommendations
     const kaymanProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
-      cleansing_sherbet: { name: 'Skintella Cleansing Sherbet', img: 'https://kaymanbeauty.com/cdn/shop/files/56_6802ba45-2999-4cd2-84e2-22e5b6fd67f9.png?v=1760423498', url: 'https://kaymanbeauty.com/products/skintella-cleansing-sherbet', step: '1st Cleanser' },
-      coalberry: { name: 'CoalBerry Cleanser', img: 'https://kaymanbeauty.com/cdn/shop/files/1_4720e0d8-0e02-4d1d-8298-3e03f0542cfa.png?v=1760427248', url: 'https://kaymanbeauty.com/products/coalberry-cleanser', step: 'Cleanser' },
-      coalface: { name: 'CoalFace Soap', img: 'https://kaymanbeauty.com/cdn/shop/files/53.png?v=1760427425', url: 'https://kaymanbeauty.com/products/coalface-soap', step: 'Cleanser' },
-      hyalumelon: { name: 'HyaluMelon Mist Toner', img: 'https://kaymanbeauty.com/cdn/shop/files/63_0b9e2398-b7d1-4715-be68-7d6abebded97.png?v=1760426809', url: 'https://kaymanbeauty.com/products/hyalumelon-mist-toner', step: 'Toner' },
-      rosa_glow: { name: 'Rosa Glow Treatment Essence', img: 'https://kaymanbeauty.com/cdn/shop/files/24_9da58c48-2c7f-4531-b950-18f265e72300.png?v=1760427320', url: 'https://kaymanbeauty.com/products/rosa-glow-treatment-essence', step: 'Essence' },
-      honeyglo: { name: 'HoneyGlo Facial Exfoliant', img: 'https://kaymanbeauty.com/cdn/shop/files/50_4d6c05c7-32e8-402e-bf78-6b035f212898.png?v=1767343054', url: 'https://kaymanbeauty.com/products/honeyglo-facial-exfoliant', step: 'Exfoliant' },
-      skintella_serum: { name: 'Skintella Repairing Serum', img: 'https://kaymanbeauty.com/cdn/shop/files/59_7e7cb258-235c-4daa-abf1-a13991e33405.png?v=1760427404', url: 'https://kaymanbeauty.com/products/skintella-repairing-serum', step: 'Serum' },
-      blumarine_ampoule: { name: 'BluMarine Hydrating Ampoule', img: 'https://kaymanbeauty.com/cdn/shop/files/BluMarineAmpouleKaymanBeauty.png', url: 'https://kaymanbeauty.com/products/blumarine-hydrating-ampoule', step: 'Ampoule' },
-      blumarine_refining: { name: 'BluMarine Refining Serum', img: 'https://kaymanbeauty.com/cdn/shop/files/BluMarineRefiningSerumKaymanBeauty.png', url: 'https://kaymanbeauty.com/products/blumarine-refining-serum', step: 'Serum' },
-      skintella_gel: { name: 'Skintella Moisturizing Gel', img: 'https://kaymanbeauty.com/cdn/shop/files/7_003a2a37-7987-459c-9893-ab26ff94f108.png?v=1760426914', url: 'https://kaymanbeauty.com/products/skintella-moisturizing-gel', step: 'Moisturizer' },
-      blumarine_cream: { name: 'BluMarine Moisturizing Cream', img: 'https://kaymanbeauty.com/cdn/shop/files/BluMarineCreamKaymanBeauty.png', url: 'https://kaymanbeauty.com/products/blumarine-moisturizing-cream', step: 'Moisturizer' },
-      suntella: { name: 'Suntella UV Milk SPF50+', img: 'https://kaymanbeauty.com/cdn/shop/products/suntella-uv-milk-3.jpg?v=1767343095', url: 'https://kaymanbeauty.com/products/suntella-uv-milk', step: 'Sunscreen' },
+      cleansing_sherbet: { name: 'Skintella Cleansing Sherbet', img: '/kayman/cleansing-sherbet.png', url: 'https://kaymanbeauty.com/products/skintella-cleansing-sherbet', step: '1st Cleanser' },
+      coalberry: { name: 'CoalBerry Cleanser', img: '/kayman/coalberry.png', url: 'https://kaymanbeauty.com/products/coalberry-cleanser', step: 'Cleanser' },
+      coalface: { name: 'CoalFace Soap', img: '/kayman/coalface.png', url: 'https://kaymanbeauty.com/products/coalface-soap', step: 'Cleanser' },
+      hyalumelon: { name: 'HyaluMelon Mist Toner', img: '/kayman/hyalumelon.png', url: 'https://kaymanbeauty.com/products/hyalumelon-mist-toner', step: 'Toner' },
+      rosa_glow: { name: 'Rosa Glow Treatment Essence', img: '/kayman/rosa-glow.png', url: 'https://kaymanbeauty.com/products/rosa-glow-treatment-essence', step: 'Essence' },
+      honeyglo: { name: 'HoneyGlo Facial Exfoliant', img: '/kayman/honeyglo.png', url: 'https://kaymanbeauty.com/products/honeyglo-facial-exfoliant', step: 'Exfoliant' },
+      skintella_serum: { name: 'Skintella Repairing Serum', img: '/kayman/skintella-serum.png', url: 'https://kaymanbeauty.com/products/skintella-repairing-serum', step: 'Serum' },
+      blumarine_ampoule: { name: 'BluMarine Hydrating Ampoule', img: '/kayman/blumarine-ampoule.png', url: 'https://kaymanbeauty.com/products/blumarine-hydrating-ampoule', step: 'Ampoule' },
+      blumarine_refining: { name: 'BluMarine Refining Serum', img: '/kayman/blumarine-refining.png', url: 'https://kaymanbeauty.com/products/blumarine-refining-serum', step: 'Serum' },
+      skintella_gel: { name: 'Skintella Moisturizing Gel', img: '/kayman/skintella-gel.png', url: 'https://kaymanbeauty.com/products/skintella-moisturizing-gel', step: 'Moisturizer' },
+      blumarine_cream: { name: 'BluMarine Moisturizing Cream', img: '/kayman/blumarine-cream.png', url: 'https://kaymanbeauty.com/products/blumarine-moisturizing-cream', step: 'Moisturizer' },
+      suntella: { name: 'Suntella UV Milk SPF50+', img: '/kayman/suntella.jpg', url: 'https://kaymanbeauty.com/products/suntella-uv-milk', step: 'Sunscreen' },
     };
 
     // Build Kayman recs based on skin type + concerns
