@@ -35,72 +35,42 @@ import Layout from '../layouts/Layout.astro';
         <div class="quiz-progress">
           <div class="quiz-progress-bar" id="progressBar" style="width:0%"></div>
         </div>
-        <p class="quiz-step" id="stepLabel">Question 1 of 6</p>
+        <p class="quiz-step" id="stepLabel">Question 1 of 3</p>
 
-        <!-- Questions (shown one at a time) -->
+        <!-- Q1: Skin Type -->
         <div class="quiz-question active" data-q="0">
-          <h2>How does your face feel in the morning after washing?</h2>
+          <h2>What is your skin type?</h2>
           <div class="quiz-options">
-            <button class="quiz-opt" data-value="oily">Oily and shiny, especially T-zone</button>
-            <button class="quiz-opt" data-value="dry">Tight, dry, sometimes flaky</button>
-            <button class="quiz-opt" data-value="combo">Oily T-zone but dry cheeks</button>
-            <button class="quiz-opt" data-value="sensitive">Red, irritated, or stinging</button>
-            <button class="quiz-opt" data-value="normal">Comfortable and balanced</button>
+            <button class="quiz-opt" data-value="dry">Dry</button>
+            <button class="quiz-opt" data-value="oily">Oily</button>
+            <button class="quiz-opt" data-value="combo">Combination</button>
+            <button class="quiz-opt" data-value="normal">Normal</button>
           </div>
         </div>
 
+        <!-- Q2: Skin Concern (multi-select) -->
         <div class="quiz-question" data-q="1">
-          <h2>How often do you get breakouts?</h2>
-          <div class="quiz-options">
-            <button class="quiz-opt" data-value="oily">Frequently — especially on forehead and chin</button>
-            <button class="quiz-opt" data-value="dry">Rarely, but skin feels rough</button>
-            <button class="quiz-opt" data-value="combo">Sometimes on T-zone, clear on cheeks</button>
-            <button class="quiz-opt" data-value="sensitive">When I try new products or when stressed</button>
-            <button class="quiz-opt" data-value="normal">Occasionally, nothing major</button>
+          <h2>What is your skin concern?</h2>
+          <p class="quiz-hint">Select all that apply</p>
+          <div class="quiz-options quiz-options--multi">
+            <button class="quiz-opt quiz-opt--multi" data-concern="acne">Acne & Breakouts</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="dryness">Dryness & Dehydration</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="pigmentation">Hyperpigmentation & Dark Spots</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="pores">Large Pores & Blackheads</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="whitehead">Whiteheads</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="aging">Anti-aging & Fine Lines</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="dull">Dull Skin</button>
+            <button class="quiz-opt quiz-opt--multi" data-concern="sensitivity">Sensitivity & Redness</button>
           </div>
+          <button class="quiz-next-btn" id="concernNextBtn" disabled>Next</button>
         </div>
 
+        <!-- Q3: Pregnant/Breastfeeding -->
         <div class="quiz-question" data-q="2">
-          <h2>How does your skin react to new products?</h2>
+          <h2>Are you pregnant or breastfeeding?</h2>
           <div class="quiz-options">
-            <button class="quiz-opt" data-value="oily">Gets oilier or causes whiteheads</button>
-            <button class="quiz-opt" data-value="dry">Sometimes burns or peels</button>
-            <button class="quiz-opt" data-value="combo">Depends on the area — mixed reactions</button>
-            <button class="quiz-opt" data-value="sensitive">Often reacts — redness, itching, breakouts</button>
-            <button class="quiz-opt" data-value="normal">Adjusts fine with most products</button>
-          </div>
-        </div>
-
-        <div class="quiz-question" data-q="3">
-          <h2>How visible are your pores?</h2>
-          <div class="quiz-options">
-            <button class="quiz-opt" data-value="oily">Very visible, especially on nose and cheeks</button>
-            <button class="quiz-opt" data-value="dry">Barely visible, skin looks flat</button>
-            <button class="quiz-opt" data-value="combo">Visible on nose/forehead, fine on cheeks</button>
-            <button class="quiz-opt" data-value="sensitive">Some visible, but skin looks uneven</button>
-            <button class="quiz-opt" data-value="normal">Small and even across face</button>
-          </div>
-        </div>
-
-        <div class="quiz-question" data-q="4">
-          <h2>By midday, how does your face look?</h2>
-          <div class="quiz-options">
-            <button class="quiz-opt" data-value="oily">Shiny all over — need blotting paper</button>
-            <button class="quiz-opt" data-value="dry">Feels tight, maybe some dry patches</button>
-            <button class="quiz-opt" data-value="combo">Shiny T-zone, normal/dry cheeks</button>
-            <button class="quiz-opt" data-value="sensitive">Some redness or irritation</button>
-            <button class="quiz-opt" data-value="normal">Pretty much the same as morning</button>
-          </div>
-        </div>
-
-        <div class="quiz-question" data-q="5">
-          <h2>What's your biggest skin concern?</h2>
-          <div class="quiz-options">
-            <button class="quiz-opt" data-value="oily">Excess oil, blackheads, large pores</button>
-            <button class="quiz-opt" data-value="dry">Dryness, flakiness, dull skin</button>
-            <button class="quiz-opt" data-value="combo">Can't find products that work for whole face</button>
-            <button class="quiz-opt" data-value="sensitive">Redness, irritation, product reactions</button>
-            <button class="quiz-opt" data-value="normal">Maintaining healthy skin, anti-aging</button>
+            <button class="quiz-opt" data-value="pregnant_yes">Yes</button>
+            <button class="quiz-opt" data-value="pregnant_no">No</button>
           </div>
         </div>
       </div>
@@ -143,43 +113,57 @@ import Layout from '../layouts/Layout.astro';
 </Layout>
 
 <script>
-  const answers: string[] = [];
   let currentQ = 0;
-  const totalQ = 6;
+  const totalQ = 3;
+  let skinType = '';
+  let concerns: string[] = [];
+  let isPregnant = false;
 
   const questions = document.querySelectorAll('.quiz-question');
   const progressBar = document.getElementById('progressBar')!;
   const stepLabel = document.getElementById('stepLabel')!;
 
-  // Handle option clicks
-  document.querySelectorAll('.quiz-opt').forEach(btn => {
-    btn.addEventListener('click', () => {
-      answers[currentQ] = (btn as HTMLElement).dataset.value!;
+  function nextQuestion() {
+    currentQ++;
+    if (currentQ >= totalQ) {
+      showResults();
+    } else {
+      questions.forEach(q => q.classList.remove('active'));
+      questions[currentQ].classList.add('active');
+      progressBar.style.width = `${(currentQ / totalQ) * 100}%`;
+      stepLabel.textContent = `Question ${currentQ + 1} of ${totalQ}`;
+    }
+  }
 
-      // Highlight selected
+  // Q1 & Q3: Single select
+  document.querySelectorAll('.quiz-opt:not(.quiz-opt--multi)').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const val = (btn as HTMLElement).dataset.value!;
       btn.parentElement!.querySelectorAll('.quiz-opt').forEach(b => b.classList.remove('selected'));
       btn.classList.add('selected');
 
-      // Next question after brief delay
-      setTimeout(() => {
-        currentQ++;
-        if (currentQ >= totalQ) {
-          showResults();
-        } else {
-          questions.forEach(q => q.classList.remove('active'));
-          questions[currentQ].classList.add('active');
-          progressBar.style.width = `${(currentQ / totalQ) * 100}%`;
-          stepLabel.textContent = `Question ${currentQ + 1} of ${totalQ}`;
-        }
-      }, 300);
+      if (currentQ === 0) skinType = val;
+      if (currentQ === 2) isPregnant = val === 'pregnant_yes';
+
+      setTimeout(nextQuestion, 300);
     });
   });
 
-  function getSkinType(): string {
-    const counts: Record<string, number> = { oily: 0, dry: 0, combo: 0, sensitive: 0, normal: 0 };
-    answers.forEach(a => { if (counts[a] !== undefined) counts[a]++; });
-    return Object.entries(counts).sort((a, b) => b[1] - a[1])[0][0];
-  }
+  // Q2: Multi-select concerns
+  document.querySelectorAll('.quiz-opt--multi').forEach(btn => {
+    btn.addEventListener('click', () => {
+      btn.classList.toggle('selected');
+      concerns = [];
+      document.querySelectorAll('.quiz-opt--multi.selected').forEach(b => {
+        concerns.push((b as HTMLElement).dataset.concern!);
+      });
+      (document.getElementById('concernNextBtn') as HTMLButtonElement).disabled = concerns.length === 0;
+    });
+  });
+
+  document.getElementById('concernNextBtn')!.addEventListener('click', () => {
+    if (concerns.length > 0) nextQuestion();
+  });
 
   const skinData: Record<string, {
     label: string;
@@ -310,15 +294,72 @@ import Layout from '../layouts/Layout.astro';
     },
   };
 
+  // Concern-specific extra guides
+  const concernGuides: Record<string, { title: string; slug: string }[]> = {
+    acne: [
+      { title: 'How I Treat Acne', slug: 'how-i-treat-acne-acne-skincare-routine' },
+      { title: 'How to Reduce Acne Scars', slug: 'how-to-reduce-acne-scars' },
+    ],
+    dryness: [
+      { title: 'Why Hydration is Important', slug: 'why-hydration-is-important-and-how-to-keep-your-skin-hydrated' },
+      { title: 'Hydrating During Ramadhan', slug: 'how-to-keep-your-skin-stay-hydrated-during-ramadhan' },
+    ],
+    pigmentation: [
+      { title: 'Brightening Ingredients', slug: 'brightening-ingredients' },
+      { title: 'How to Choose Vitamin C Serum', slug: 'how-to-choose-vitamin-c-serum-for-your-skincare-routine' },
+    ],
+    pores: [
+      { title: 'Macam Mana Nak Kecilkan Pori', slug: 'macam-mana-nak-kecilkan-pori-pores' },
+      { title: 'AHA & BHA Exfoliation', slug: 'exfoliate-aha-bha' },
+    ],
+    whitehead: [
+      { title: 'Whitehead and Blackhead Guide', slug: 'whitehead-and-blackhead' },
+      { title: 'AHA & BHA Exfoliation', slug: 'exfoliate-aha-bha' },
+    ],
+    aging: [
+      { title: 'Brightening Ingredients', slug: 'brightening-ingredients' },
+      { title: 'Vitamins in Skincare', slug: 'vitamins-in-skincare' },
+    ],
+    dull: [
+      { title: 'Macam Mana Nak Kurangkan Kulit Kusam', slug: 'macam-mana-nak-kurangkan-kulit-kusam' },
+      { title: 'Brightening Ingredients', slug: 'brightening-ingredients' },
+    ],
+    sensitivity: [
+      { title: 'Soothing Ingredients Guide', slug: 'soothing-ingredients' },
+      { title: 'Skincare 101: Skin Barrier', slug: 'skincare-101-skin-barrier' },
+    ],
+  };
+
   function showResults() {
-    const type = getSkinType();
-    const data = skinData[type];
+    const data = skinData[skinType] || skinData.normal;
 
     document.getElementById('quizContainer')!.style.display = 'none';
     document.getElementById('quizResults')!.style.display = '';
 
     document.getElementById('resultType')!.textContent = data.label;
-    document.getElementById('resultDesc')!.textContent = data.desc;
+
+    // Build description with pregnancy warning if needed
+    let desc = data.desc;
+    if (isPregnant) {
+      desc += '\n\n⚠️ Since you\'re pregnant/breastfeeding, please avoid retinol, salicylic acid (BHA), high-dose vitamin C, and chemical peels. Stick to gentle, pregnancy-safe products. When in doubt, check with your doctor.';
+    }
+    document.getElementById('resultDesc')!.textContent = desc;
+
+    // Show pregnancy banner if applicable
+    const pregnancyBanner = isPregnant
+      ? `<div class="pregnancy-warning">
+          <strong>🤰 Pregnancy/Breastfeeding Note</strong>
+          <p>Avoid: Retinol, BHA (Salicylic Acid), Benzoyl Peroxide, high-dose Vitamin C. Stick to gentle hydrating products. I've written about this — <a href="/posts/skincare-during-pregnant-breastfeeding/">read my safe skincare guide here</a>.</p>
+        </div>`
+      : '';
+
+    // Concern tags
+    const concernTags = concerns.length > 0
+      ? `<div class="concern-tags">${concerns.map(c => `<span class="concern-tag">${c.replace(/([A-Z])/g, ' $1').replace(/^./, s => s.toUpperCase())}</span>`).join('')}</div>`
+      : '';
+
+    // Inject above routine
+    document.getElementById('routineSteps')!.insertAdjacentHTML('beforebegin', pregnancyBanner + concernTags);
 
     // Routine steps
     document.getElementById('routineSteps')!.innerHTML = data.routine.map((r, i) =>
@@ -337,8 +378,21 @@ import Layout from '../layouts/Layout.astro';
       </a>`
     ).join('');
 
-    // Guide links
-    document.getElementById('guideLinks')!.innerHTML = data.guides.map(g =>
+    // Combine skin type guides + concern-specific guides (deduplicated)
+    const allGuides = [...data.guides];
+    const slugSet = new Set(allGuides.map(g => g.slug));
+    concerns.forEach(c => {
+      (concernGuides[c] || []).forEach(g => {
+        if (!slugSet.has(g.slug)) { allGuides.push(g); slugSet.add(g.slug); }
+      });
+    });
+    if (isPregnant) {
+      if (!slugSet.has('skincare-during-pregnant-breastfeeding')) {
+        allGuides.unshift({ title: 'Skincare During Pregnant/Breastfeeding', slug: 'skincare-during-pregnant-breastfeeding' });
+      }
+    }
+
+    document.getElementById('guideLinks')!.innerHTML = allGuides.map(g =>
       `<a href="/posts/${g.slug}/" class="guide-card">
         <span class="guide-title">${g.title}</span>
         <span class="guide-arrow">→</span>
@@ -349,14 +403,19 @@ import Layout from '../layouts/Layout.astro';
   }
 
   document.getElementById('retakeBtn')!.addEventListener('click', () => {
-    answers.length = 0;
+    skinType = '';
+    concerns = [];
+    isPregnant = false;
     currentQ = 0;
     document.getElementById('quizResults')!.style.display = 'none';
     document.getElementById('quizContainer')!.style.display = '';
     questions.forEach((q, i) => q.classList.toggle('active', i === 0));
     document.querySelectorAll('.quiz-opt').forEach(b => b.classList.remove('selected'));
     progressBar.style.width = '0%';
-    stepLabel.textContent = 'Question 1 of 6';
+    stepLabel.textContent = 'Question 1 of 3';
+    (document.getElementById('concernNextBtn') as HTMLButtonElement).disabled = true;
+    // Remove injected elements
+    document.querySelectorAll('.pregnancy-warning, .concern-tags').forEach(el => el.remove());
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 </script>
@@ -406,6 +465,34 @@ import Layout from '../layouts/Layout.astro';
   }
   .quiz-opt:hover { border-color: var(--rose); background: var(--petal); color: var(--text-primary); }
   .quiz-opt.selected { border-color: var(--rose-gold); background: var(--blush); color: var(--text-primary); font-weight: 500; }
+
+  .quiz-hint { font-size: 0.82rem; color: var(--text-muted); margin-bottom: 1rem; font-style: italic; }
+  .quiz-options--multi { flex-wrap: wrap; flex-direction: row; gap: 0.5rem; }
+  .quiz-opt--multi { flex: 0 0 auto; padding: 0.7rem 1rem; font-size: 0.85rem; text-align: center; }
+  .quiz-opt--multi.selected { border-color: var(--rose-gold); background: var(--blush); }
+
+  .quiz-next-btn {
+    margin-top: 1rem; width: 100%; padding: 0.9rem; border-radius: 100px;
+    background: var(--rose-gold); color: white; border: none; font-family: 'DM Sans', sans-serif;
+    font-size: 0.88rem; font-weight: 600; cursor: pointer; transition: all 0.2s;
+  }
+  .quiz-next-btn:hover:not(:disabled) { background: var(--deep-rose); }
+  .quiz-next-btn:disabled { background: var(--border); color: var(--text-muted); cursor: not-allowed; }
+
+  .pregnancy-warning {
+    background: rgba(255, 149, 0, 0.08); border: 1px solid rgba(255, 149, 0, 0.25);
+    border-radius: 14px; padding: 1.2rem; margin-bottom: 1.5rem;
+  }
+  .pregnancy-warning strong { display: block; margin-bottom: 0.4rem; color: #e68a00; font-size: 0.9rem; }
+  .pregnancy-warning p { font-size: 0.85rem; color: var(--text-secondary); line-height: 1.7; font-weight: 300; }
+  .pregnancy-warning a { color: var(--rose-gold); text-decoration: underline; }
+
+  .concern-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.5rem; }
+  .concern-tag {
+    font-size: 0.7rem; padding: 0.3rem 0.8rem; border-radius: 100px;
+    background: var(--blush); color: var(--rose-gold-dark); font-weight: 500;
+    letter-spacing: 0.03em; text-transform: capitalize;
+  }
 
   /* Results */
   .quiz-results { animation: fadeIn 0.4s ease; }
