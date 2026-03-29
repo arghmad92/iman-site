@@ -84,8 +84,13 @@ import Layout from '../layouts/Layout.astro';
         </div>
 
         <div class="result-section">
-          <h3>Your <em>Recommended Routine</em></h3>
-          <div id="routineSteps" class="routine-steps"></div>
+          <h3>Morning <em>Routine</em> ☀️</h3>
+          <div id="morningSteps" class="routine-steps"></div>
+        </div>
+
+        <div class="result-section">
+          <h3>Night <em>Routine</em> 🌙</h3>
+          <div id="nightSteps" class="routine-steps"></div>
         </div>
 
         <div class="result-section">
@@ -168,18 +173,26 @@ import Layout from '../layouts/Layout.astro';
   const skinData: Record<string, {
     label: string;
     desc: string;
-    routine: { step: string; tip: string }[];
+    morning: { step: string; tip: string }[];
+    night: { step: string; tip: string }[];
     products: { name: string; slug: string; category: string }[];
     guides: { title: string; slug: string }[];
   }> = {
     oily: {
       label: 'Oily Skin',
       desc: 'Your skin produces excess sebum, especially on the T-zone. You likely have visible pores and are prone to blackheads and breakouts. The good news? Oily skin ages slower! Focus on oil control without over-stripping.',
-      routine: [
-        { step: 'Low pH Cleanser', tip: 'Gentle cleansing without stripping natural oils' },
-        { step: 'BHA/AHA Toner', tip: 'Controls oil and unclogs pores' },
-        { step: 'Lightweight Moisturizer', tip: 'Gel-type or water-based, non-comedogenic' },
-        { step: 'Sunscreen (Non-greasy)', tip: 'Gel or watery essence formula' },
+      morning: [
+        { step: 'Cleanser', tip: 'Gentle low pH cleanser — controls oil without stripping' },
+        { step: 'Toner', tip: 'BHA/AHA toner to control oil and unclog pores' },
+        { step: 'Moisturizer', tip: 'Lightweight gel-type, non-comedogenic' },
+        { step: 'Sunscreen', tip: 'Non-greasy gel or watery essence formula' },
+      ],
+      night: [
+        { step: '1st Cleanser', tip: 'Oil-based cleanser, cleansing balm, or micellar water to remove sunscreen & makeup' },
+        { step: '2nd Cleanser', tip: 'Low pH water-based cleanser for deep cleanse' },
+        { step: 'Toner', tip: 'BHA toner to exfoliate and minimize pores' },
+        { step: 'Serum', tip: 'Niacinamide serum to control sebum and refine pores' },
+        { step: 'Moisturizer', tip: 'Lightweight gel moisturizer — hydrate without clogging' },
       ],
       products: [
         { name: 'CosRx AHA/BHA Clarifying Treatment Toner', slug: 'cosrx-ahabha-clarifying-treatment-toner-review', category: 'Toner' },
@@ -199,11 +212,18 @@ import Layout from '../layouts/Layout.astro';
     dry: {
       label: 'Dry Skin',
       desc: 'Your skin lacks moisture and natural oils, often feeling tight or flaky. You need hydration-focused products with ceramides and hyaluronic acid. Avoid harsh cleansers and alcohol-based toners.',
-      routine: [
-        { step: 'Cream/Oil Cleanser', tip: 'Hydrating first cleanser to avoid stripping' },
-        { step: 'Hydrating Toner', tip: 'Layer for extra moisture (7-skin method)' },
-        { step: 'Rich Moisturizer', tip: 'Cream with ceramides, not gel' },
-        { step: 'Sunscreen (Moisturizing)', tip: 'Cream-type with hydrating ingredients' },
+      morning: [
+        { step: 'Cleanser', tip: 'Gentle cream or milk cleanser — no foaming' },
+        { step: 'Toner', tip: 'Hydrating toner — layer 2-3 times for extra moisture' },
+        { step: 'Moisturizer', tip: 'Rich cream with ceramides and hyaluronic acid' },
+        { step: 'Sunscreen', tip: 'Moisturizing cream-type sunscreen' },
+      ],
+      night: [
+        { step: '1st Cleanser', tip: 'Oil cleanser, cleansing balm, or micellar water to melt away sunscreen' },
+        { step: '2nd Cleanser', tip: 'Gentle hydrating cream cleanser' },
+        { step: 'Toner', tip: 'Hydrating toner — pat in layers for deep hydration' },
+        { step: 'Serum', tip: 'Hyaluronic acid or ceramide serum for moisture repair' },
+        { step: 'Moisturizer', tip: 'Rich night cream or sleeping mask to lock in hydration' },
       ],
       products: [
         { name: 'CeraVe Hydrating Cleanser', slug: 'cerave-hydrating-cleanser-review', category: 'Cleanser' },
@@ -223,11 +243,18 @@ import Layout from '../layouts/Layout.astro';
     combo: {
       label: 'Combination Skin',
       desc: 'You have the best of both worlds — oily T-zone (forehead, nose, chin) but normal-to-dry cheeks. The key is using lightweight products that balance both areas without over-moisturizing or over-drying.',
-      routine: [
-        { step: 'Gentle Low pH Cleanser', tip: 'Balances without stripping or adding oil' },
-        { step: 'Balancing Toner', tip: 'Hydrating but not heavy' },
-        { step: 'Lightweight Moisturizer', tip: 'Gel-cream hybrid — moisturizes without grease' },
-        { step: 'Sunscreen (Lightweight)', tip: 'Gel or essence type' },
+      morning: [
+        { step: 'Cleanser', tip: 'Gentle low pH cleanser — balances without stripping' },
+        { step: 'Toner', tip: 'Balancing toner — hydrating but not heavy' },
+        { step: 'Moisturizer', tip: 'Gel-cream hybrid — moisturizes without grease' },
+        { step: 'Sunscreen', tip: 'Lightweight gel or essence type' },
+      ],
+      night: [
+        { step: '1st Cleanser', tip: 'Oil cleanser, cleansing balm, or micellar water' },
+        { step: '2nd Cleanser', tip: 'Gentle low pH foaming or gel cleanser' },
+        { step: 'Toner', tip: 'Hydrating toner on cheeks, BHA toner on T-zone' },
+        { step: 'Serum', tip: 'Niacinamide or lightweight hydrating serum' },
+        { step: 'Moisturizer', tip: 'Gel-cream — not too heavy, not too light' },
       ],
       products: [
         { name: 'Hada Labo Gokujyun Foaming Wash', slug: 'hada-labo-gokujyun-foaming-wash-review', category: 'Cleanser' },
@@ -247,11 +274,18 @@ import Layout from '../layouts/Layout.astro';
     sensitive: {
       label: 'Sensitive Skin',
       desc: 'Your skin is easily irritated by products, weather, or stress. Redness, stinging, and reactions are common. Stick to fragrance-free, minimal-ingredient products and always patch test. Less is more!',
-      routine: [
-        { step: 'Fragrance-Free Gentle Cleanser', tip: 'Minimal ingredients, no SLS' },
-        { step: 'Calming Toner', tip: 'Centella, aloe, or chamomile-based' },
-        { step: 'Barrier Repair Moisturizer', tip: 'Ceramides and soothing ingredients' },
-        { step: 'Mineral Sunscreen', tip: 'Physical/mineral filter, less irritating' },
+      morning: [
+        { step: 'Cleanser', tip: 'Fragrance-free gentle cleanser — minimal ingredients, no SLS' },
+        { step: 'Toner', tip: 'Calming toner with centella, aloe, or chamomile' },
+        { step: 'Moisturizer', tip: 'Barrier repair cream with ceramides' },
+        { step: 'Sunscreen', tip: 'Mineral/physical sunscreen — less irritating than chemical' },
+      ],
+      night: [
+        { step: '1st Cleanser', tip: 'Gentle micellar water or mild cleansing balm' },
+        { step: '2nd Cleanser', tip: 'Fragrance-free, pH-balanced gentle cleanser' },
+        { step: 'Toner', tip: 'Calming, soothing toner — avoid alcohol-based' },
+        { step: 'Serum', tip: 'Centella or ceramide serum to calm and repair' },
+        { step: 'Moisturizer', tip: 'Rich barrier repair cream — ceramides are your best friend' },
       ],
       products: [
         { name: 'Etude House Soon Jung pH 5.5 Relief Toner', slug: 'etude-house-soon-jung-ph55-relief-toner-review', category: 'Toner' },
@@ -271,11 +305,18 @@ import Layout from '../layouts/Layout.astro';
     normal: {
       label: 'Normal Skin',
       desc: 'Lucky you! Your skin is well-balanced — not too oily, not too dry. Focus on maintaining what you have with a simple routine, good sun protection, and preventive anti-aging care.',
-      routine: [
-        { step: 'Gentle Cleanser', tip: 'Any gentle formula that you enjoy' },
-        { step: 'Hydrating Toner or Essence', tip: 'Adds a layer of hydration' },
-        { step: 'Moisturizer', tip: 'Light to medium weight, your preference' },
-        { step: 'Sunscreen (Daily)', tip: 'The most important step — protect your skin' },
+      morning: [
+        { step: 'Cleanser', tip: 'Any gentle formula you enjoy' },
+        { step: 'Toner', tip: 'Hydrating toner or essence for an extra boost' },
+        { step: 'Moisturizer', tip: 'Light to medium weight — your preference' },
+        { step: 'Sunscreen', tip: 'The most important step — protect your skin daily' },
+      ],
+      night: [
+        { step: '1st Cleanser', tip: 'Oil cleanser, cleansing balm, or micellar water' },
+        { step: '2nd Cleanser', tip: 'Gentle water-based cleanser' },
+        { step: 'Toner', tip: 'Hydrating toner or essence' },
+        { step: 'Serum', tip: 'Vitamin C, niacinamide, or retinol for maintenance' },
+        { step: 'Moisturizer', tip: 'Medium-weight moisturizer to seal everything in' },
       ],
       products: [
         { name: 'Klairs Freshly Juiced Vitamin Drop', slug: 'klairs-freshly-juiced-vitamin-drop-review', category: 'Serum' },
@@ -358,11 +399,19 @@ import Layout from '../layouts/Layout.astro';
       ? `<div class="concern-tags">${concerns.map(c => `<span class="concern-tag">${c.replace(/([A-Z])/g, ' $1').replace(/^./, s => s.toUpperCase())}</span>`).join('')}</div>`
       : '';
 
-    // Inject above routine
-    document.getElementById('routineSteps')!.insertAdjacentHTML('beforebegin', pregnancyBanner + concernTags);
+    // Inject above morning routine
+    document.getElementById('morningSteps')!.insertAdjacentHTML('beforebegin', pregnancyBanner + concernTags);
 
-    // Routine steps
-    document.getElementById('routineSteps')!.innerHTML = data.routine.map((r, i) =>
+    // Morning routine
+    document.getElementById('morningSteps')!.innerHTML = data.morning.map((r, i) =>
+      `<div class="routine-step">
+        <span class="step-number">${i + 1}</span>
+        <div><strong>${r.step}</strong><p>${r.tip}</p></div>
+      </div>`
+    ).join('');
+
+    // Night routine
+    document.getElementById('nightSteps')!.innerHTML = data.night.map((r, i) =>
       `<div class="routine-step">
         <span class="step-number">${i + 1}</span>
         <div><strong>${r.step}</strong><p>${r.tip}</p></div>
