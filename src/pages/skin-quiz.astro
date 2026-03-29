@@ -114,6 +114,12 @@ import Layout from '../layouts/Layout.astro';
         </div>
 
         <div class="result-section">
+          <h3 class="result-heading">Recommended <em>Products</em></h3>
+          <p class="result-note">Kayman Beauty products tailored for your skin type and concerns:</p>
+          <div id="kaymanRecs" class="kayman-grid"></div>
+        </div>
+
+        <div class="result-section">
           <h3 class="result-heading">Products I've <em>Reviewed</em></h3>
           <p class="result-note">Products I've personally tried and reviewed on this blog:</p>
           <div id="productRecs" class="product-grid"></div>
@@ -505,7 +511,84 @@ import Layout from '../layouts/Layout.astro';
     // Clear extra serums (no longer needed — all in serum step)
     document.getElementById('extraSerums')!.innerHTML = '';
 
-    // Product recommendations
+    // Kayman Beauty product recommendations
+    const kaymanProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
+      cleansing_sherbet: { name: 'Skintella Cleansing Sherbet', img: 'https://kaymanbeauty.com/cdn/shop/files/56_6802ba45-2999-4cd2-84e2-22e5b6fd67f9.png?v=1760423498', url: 'https://kaymanbeauty.com/products/skintella-cleansing-sherbet', step: '1st Cleanser' },
+      coalberry: { name: 'CoalBerry Cleanser', img: 'https://kaymanbeauty.com/cdn/shop/files/1_4720e0d8-0e02-4d1d-8298-3e03f0542cfa.png?v=1760427248', url: 'https://kaymanbeauty.com/products/coalberry-cleanser', step: 'Cleanser' },
+      coalface: { name: 'CoalFace Soap', img: 'https://kaymanbeauty.com/cdn/shop/files/53.png?v=1760427425', url: 'https://kaymanbeauty.com/products/coalface-soap', step: 'Cleanser' },
+      hyalumelon: { name: 'HyaluMelon Mist Toner', img: 'https://kaymanbeauty.com/cdn/shop/files/63_0b9e2398-b7d1-4715-be68-7d6abebded97.png?v=1760426809', url: 'https://kaymanbeauty.com/products/hyalumelon-mist-toner', step: 'Toner' },
+      rosa_glow: { name: 'Rosa Glow Treatment Essence', img: 'https://kaymanbeauty.com/cdn/shop/files/24_9da58c48-2c7f-4531-b950-18f265e72300.png?v=1760427320', url: 'https://kaymanbeauty.com/products/rosa-glow-treatment-essence', step: 'Essence' },
+      honeyglo: { name: 'HoneyGlo Facial Exfoliant', img: 'https://kaymanbeauty.com/cdn/shop/files/50_4d6c05c7-32e8-402e-bf78-6b035f212898.png?v=1767343054', url: 'https://kaymanbeauty.com/products/honeyglo-facial-exfoliant', step: 'Exfoliant' },
+      skintella_serum: { name: 'Skintella Repairing Serum', img: 'https://kaymanbeauty.com/cdn/shop/files/59_7e7cb258-235c-4daa-abf1-a13991e33405.png?v=1760427404', url: 'https://kaymanbeauty.com/products/skintella-repairing-serum', step: 'Serum' },
+      blumarine_ampoule: { name: 'BluMarine Hydrating Ampoule', img: 'https://kaymanbeauty.com/cdn/shop/files/BluMarineAmpouleKaymanBeauty.png', url: 'https://kaymanbeauty.com/products/blumarine-hydrating-ampoule', step: 'Ampoule' },
+      blumarine_refining: { name: 'BluMarine Refining Serum', img: 'https://kaymanbeauty.com/cdn/shop/files/BluMarineRefiningSerumKaymanBeauty.png', url: 'https://kaymanbeauty.com/products/blumarine-refining-serum', step: 'Serum' },
+      skintella_gel: { name: 'Skintella Moisturizing Gel', img: 'https://kaymanbeauty.com/cdn/shop/files/7_003a2a37-7987-459c-9893-ab26ff94f108.png?v=1760426914', url: 'https://kaymanbeauty.com/products/skintella-moisturizing-gel', step: 'Moisturizer' },
+      blumarine_cream: { name: 'BluMarine Moisturizing Cream', img: 'https://kaymanbeauty.com/cdn/shop/files/BluMarineCreamKaymanBeauty.png', url: 'https://kaymanbeauty.com/products/blumarine-moisturizing-cream', step: 'Moisturizer' },
+      suntella: { name: 'Suntella UV Milk SPF50+', img: 'https://kaymanbeauty.com/cdn/shop/products/suntella-uv-milk-3.jpg?v=1767343095', url: 'https://kaymanbeauty.com/products/suntella-uv-milk', step: 'Sunscreen' },
+    };
+
+    // Build Kayman recs based on skin type + concerns
+    const kaymanRecs: string[] = [];
+    const addedKayman = new Set<string>();
+    function addKayman(key: string) { if (!addedKayman.has(key) && kaymanProducts[key]) { addedKayman.add(key); kaymanRecs.push(key); } }
+
+    // 1st Cleanser — all skin types
+    addKayman('cleansing_sherbet');
+
+    // 2nd Cleanser — by skin type
+    if (skinType === 'oily') { addKayman('coalface'); }
+    else if (skinType === 'combo') { addKayman('coalberry'); addKayman('coalface'); }
+    else { addKayman('coalberry'); }
+
+    // Toner — all
+    addKayman('hyalumelon');
+
+    // Essence — by concern
+    if (concerns.some(c => ['dryness', 'pigmentation', 'aging', 'dull', 'sensitivity'].includes(c))) {
+      addKayman('rosa_glow');
+    }
+
+    // Exfoliant — by concern (skip for dryness and sensitivity)
+    if (concerns.some(c => ['acne', 'pigmentation', 'pores', 'whitehead', 'aging', 'dull'].includes(c))) {
+      addKayman('honeyglo');
+    }
+
+    // Serum — by concern
+    if (concerns.some(c => ['acne', 'sensitivity', 'pigmentation', 'aging', 'dull'].includes(c))) {
+      addKayman('skintella_serum');
+    }
+    if (concerns.some(c => ['acne', 'pores', 'whitehead'].includes(c))) {
+      addKayman('blumarine_refining');
+    }
+    if (concerns.some(c => ['dryness'].includes(c))) {
+      addKayman('blumarine_ampoule');
+    }
+
+    // Moisturizer — by skin type
+    if (skinType === 'dry' || skinType === 'sensitive') {
+      addKayman('blumarine_cream');
+    } else if (skinType === 'normal') {
+      addKayman('skintella_gel');
+      addKayman('blumarine_cream');
+    } else {
+      addKayman('skintella_gel');
+    }
+
+    // Sunscreen — all
+    addKayman('suntella');
+
+    document.getElementById('kaymanRecs')!.innerHTML = kaymanRecs.map(key => {
+      const p = kaymanProducts[key];
+      return `<a href="${p.url}" target="_blank" rel="noopener" class="kayman-card">
+        <div class="kayman-img-wrap">
+          <img src="${p.img}" alt="${p.name}" loading="lazy" />
+        </div>
+        <span class="kayman-step">${p.step}</span>
+        <span class="kayman-name">${p.name}</span>
+      </a>`;
+    }).join('');
+
+    // Blog product recommendations
     document.getElementById('productRecs')!.innerHTML = data.products.map(p =>
       `<a href="/posts/${p.slug}/" class="product-card">
         <span class="product-cat">${p.category}</span>
@@ -762,7 +845,44 @@ import Layout from '../layouts/Layout.astro';
   .extra-serum-name { font-size: 0.85rem; color: var(--rose-gold); font-weight: 600; }
   .extra-serum-tip { font-size: 0.78rem; color: var(--text-muted); font-weight: 300; line-height: 1.5; }
 
-  /* Product grid */
+  /* Kayman product grid */
+  .kayman-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+  }
+  .kayman-card {
+    display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
+    padding: 1.2rem 0.8rem;
+    background: rgba(255,255,255,0.6); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(245,213,218,0.4); border-radius: 16px;
+    transition: all 0.25s; color: inherit; text-align: center;
+  }
+  .kayman-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(180,90,110,0.1);
+    border-color: var(--rose);
+    background: rgba(255,255,255,0.85);
+  }
+  .kayman-img-wrap {
+    width: 90px; height: 90px; display: flex; align-items: center; justify-content: center;
+  }
+  .kayman-img-wrap img {
+    max-width: 100%; max-height: 100%; object-fit: contain;
+    transition: transform 0.3s;
+  }
+  .kayman-card:hover .kayman-img-wrap img { transform: scale(1.08); }
+  .kayman-step {
+    font-size: 0.6rem; letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--rose-gold); font-weight: 600;
+  }
+  .kayman-name {
+    font-size: 0.78rem; color: var(--text-primary); font-weight: 500; line-height: 1.3;
+  }
+
+  @media (max-width: 480px) {
+    .kayman-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  /* Blog product grid */
   .product-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem; }
   .product-card {
     display: flex; flex-direction: column; gap: 0.3rem; padding: 1.2rem;
