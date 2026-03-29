@@ -37,7 +37,9 @@
       "WebFetch(domain:shopee.com.my)",
       "WebFetch(domain:www.yelloskincare.com)",
       "WebFetch(domain:www.cuuraofficial.com)",
-      "Bash(cd:*)"
+      "Bash(cd:*)",
+      "WebFetch(domain:tatagaltier.com)",
+      "Bash(grep -iv \"logo\\\\|icon\\\\|banner\\\\|svg\\\\|^alt=\"\"\"\"$\")"
     ]
   }
 }

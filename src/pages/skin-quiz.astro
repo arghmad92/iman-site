@@ -692,6 +692,36 @@ import Layout from '../layouts/Layout.astro';
       addCuura('brightening_ss');
     }
 
+    // === TataGaltier products ===
+    const tataProducts: Record<string, { name: string; img: string; url: string; step: string }> = {
+      cherpaire: { name: 'Cherpaire Cleansing Balm', img: '/tata/cherpaire.png', url: 'https://s.shopee.com.my/gLinGF9CH', step: '1st Cleanser' },
+      cella_grail: { name: 'Cella Grail Cleansing Gel', img: '/tata/cella-grail.png', url: 'https://s.shopee.com.my/AUpeVHvlci', step: 'Cleanser' },
+      peach_plump: { name: 'Peach Plump Hydrating Toner', img: '/tata/peach-plump.png', url: 'https://s.shopee.com.my/900qiYwPJu', step: 'Toner' },
+      bulaney: { name: 'Bulaney Treatment Essence', img: '/tata/bulaney.png', url: 'https://s.shopee.com.my/9pZxi9VLUL', step: 'Essence' },
+      honey_milky: { name: 'Honey Milky Treatment Essence', img: '/tata/honey-milky.png', url: 'https://s.shopee.com.my/6fcvwGF2lT', step: 'Essence' },
+    };
+
+    const tataRecs: string[] = [];
+    const addedTata = new Set<string>();
+    function addTata(key: string) { if (!addedTata.has(key) && tataProducts[key]) { addedTata.add(key); tataRecs.push(key); } }
+
+    // 1st Cleanser — all skin types
+    addTata('cherpaire');
+
+    // Cleanser — all skin types
+    addTata('cella_grail');
+
+    // Toner — all skin types
+    addTata('peach_plump');
+
+    // Essence — by concern
+    if (concerns.some(c => ['acne', 'pores', 'sensitivity'].includes(c))) {
+      addTata('bulaney');
+    }
+    if (concerns.some(c => ['dryness', 'dull', 'pigmentation', 'aging'].includes(c))) {
+      addTata('honey_milky');
+    }
+
     const yelloRecs: string[] = [];
     const addedYello = new Set<string>();
     function addYello(key: string) { if (!addedYello.has(key) && yelloProducts[key]) { addedYello.add(key); yelloRecs.push(key); } }
@@ -717,9 +747,10 @@ import Layout from '../layouts/Layout.astro';
     }
 
     // === Merge all products (Kayman + Yello + Cuura) into one grouped view ===
-    const allProducts = { ...kaymanProducts, ...yelloProducts, ...cuuraProducts };
+    const allProducts = { ...kaymanProducts, ...tataProducts, ...yelloProducts, ...cuuraProducts };
     const allRecs = [
       ...kaymanRecs.map(k => ({ key: k, source: 'kayman' as const })),
+      ...tataRecs.map(k => ({ key: k, source: 'tata' as const })),
       ...yelloRecs.map(k => ({ key: k, source: 'yello' as const })),
       ...cuuraRecs.map(k => ({ key: k, source: 'cuura' as const })),
     ];
