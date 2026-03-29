@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="Skin Type Quiz — Find Your Perfect Routine | Iman Abdul Rahim" description="Take our skin type quiz to discover your skin type and get personalised skincare product recommendations.">
+<Layout title="Find Your Glow — Skincare Quiz | Iman Abdul Rahim" description="Find your glow — answer 3 simple questions and get personalised skincare product recommendations.">
   <header class="site-header">
     <nav>
       <a href="/" class="logo">
@@ -22,7 +22,7 @@ import Layout from '../layouts/Layout.astro';
     <div class="quiz-hero">
       <div class="hero-inner">
         <p class="section-label">Skincare Quiz</p>
-        <h1 class="quiz-title">Find your perfect <em>skincare routine.</em></h1>
+        <h1 class="quiz-title">Find your <em>glow.</em></h1>
         <p class="quiz-sub">Answer 3 simple questions and I'll recommend the best products for your skin — all personally reviewed on this blog.</p>
         <div class="quiz-counter">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
@@ -128,6 +128,10 @@ import Layout from '../layouts/Layout.astro';
         <div class="result-section">
           <h3 class="result-heading">Helpful <em>Guides</em></h3>
           <div id="guideLinks" class="guide-grid"></div>
+        </div>
+
+        <div class="quiz-disclaimer">
+          <p>This is a general skincare guidance only and is not a substitute for professional advice. Product recommendations are based on general skin type guidelines — individual results may vary.</p>
         </div>
 
         <div class="result-cta">
@@ -1040,6 +1044,16 @@ import Layout from '../layouts/Layout.astro';
   .guide-card:hover { border-color: var(--rose); transform: translateX(4px); background: rgba(255, 255, 255, 0.8); }
   .guide-title { font-size: 0.88rem; color: var(--text-primary); font-weight: 400; }
   .guide-arrow { color: var(--rose-gold); font-weight: 500; }
+
+  /* Disclaimer */
+  .quiz-disclaimer {
+    text-align: center; padding: 1rem; margin-bottom: 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+  .quiz-disclaimer p {
+    font-size: 0.7rem; color: var(--text-muted); font-weight: 300;
+    line-height: 1.6; font-style: italic; max-width: 500px; margin: 0 auto;
+  }
 
   /* CTA */
   .result-cta { display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap; }
