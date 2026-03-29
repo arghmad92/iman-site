@@ -254,7 +254,7 @@ import Layout from '../layouts/Layout.astro';
       ],
       night: [
         { step: 'First Cleanser', tip: 'Use either oil-based cleanser, cleansing balm, or micellar water to break down sunscreen, makeup or sebum buildup from the day.' },
-        { step: '2nd Cleanser', tip: 'Use a gentle low pH cleanser to finish off the double cleanse. This ensures your skin is truly clean and ready to absorb your night treatments.' },
+        { step: 'Second Cleanser', tip: 'Use a gentle low pH cleanser to finish off the double cleanse. This ensures your skin is truly clean and ready to absorb your night treatments.' },
         { step: 'Toner', tip: 'Use lightweight and gentle toner.' },
         { step: 'Serum', tip: 'Niacinamide (Vitamin B3) serum to regulate sebum, minimize pores, and fade post-acne marks. Your skin repairs at night, so serums work best here.' },
         { step: 'Moisturizer', tip: 'Lightweight gel moisturizer to lock everything in.' },
@@ -285,7 +285,7 @@ import Layout from '../layouts/Layout.astro';
       ],
       night: [
         { step: 'First Cleanser', tip: 'Use either oil-based cleanser, cleansing balm, or micellar water to break down sunscreen, makeup or sebum buildup from the day.' },
-        { step: '2nd Cleanser', tip: 'Use a gentle low pH cleanser to finish off the double cleanse. This ensures your skin is truly clean and ready to absorb your night treatments.' },
+        { step: 'Second Cleanser', tip: 'Use a gentle low pH cleanser to finish off the double cleanse. This ensures your skin is truly clean and ready to absorb your night treatments.' },
         { step: 'Toner', tip: 'Use hydrating toner again for extra moisture. You can even do 2-3 layers for a deeper boost.' },
         { step: 'Serum', tip: 'Hyaluronic acid or ceramide serum for moisture repair. HA pulls moisture into your skin while ceramides fix the gaps in your barrier that cause water loss.' },
         { step: 'Moisturizer', tip: 'Rich night cream or moisturizer to seal everything in.' },
@@ -316,7 +316,7 @@ import Layout from '../layouts/Layout.astro';
       ],
       night: [
         { step: 'First Cleanser', tip: 'Use either oil-based cleanser, cleansing balm, or micellar water to break down sunscreen, makeup or sebum buildup from the day.' },
-        { step: '2nd Cleanser', tip: 'Use a gentle low pH gel or mild foam cleanser to finish off the double cleanse. This ensures your skin is truly clean and ready to absorb your night treatments.' },
+        { step: 'Second Cleanser', tip: 'Use a gentle low pH gel or mild foam cleanser to finish off the double cleanse. This ensures your skin is truly clean and ready to absorb your night treatments.' },
         { step: 'Toner', tip: 'Use a balancing, hydrating toner to even out moisture levels across your skin.' },
         { step: 'Serum', tip: 'Niacinamide does double duty for combo skin: controls oil on your T-zone while strengthening the barrier on drier areas. Hyaluronic acid is also great for overall balance.' },
         { step: 'Moisturizer', tip: 'Gel-cream that\'s not too heavy, not too light.' },
@@ -347,7 +347,7 @@ import Layout from '../layouts/Layout.astro';
       ],
       night: [
         { step: 'First Cleanser', tip: 'Use either oil-based cleanser, mild cleansing balm, or gentle micellar water to break down sunscreen, makeup or sebum buildup from the day.' },
-        { step: '2nd Cleanser', tip: 'Use a gentle low pH cleanser to finish off the double cleanse. This ensures your skin is truly clean and ready to absorb your night treatments.' },
+        { step: 'Second Cleanser', tip: 'Use a gentle low pH cleanser to finish off the double cleanse. This ensures your skin is truly clean and ready to absorb your night treatments.' },
         { step: 'Toner', tip: 'Use calming and hydrating toner.' },
         { step: 'Serum', tip: 'Centella or ceramide serum to calm and repair. Centella (cica) is known for reducing redness, while ceramides strengthen your skin barrier from within.' },
         { step: 'Moisturizer', tip: 'Use a rich barrier repair cream. A strong moisture barrier is your best defence against irritation, so this step is especially important for sensitive skin.' },
@@ -378,7 +378,7 @@ import Layout from '../layouts/Layout.astro';
       ],
       night: [
         { step: 'First Cleanser', tip: 'Use either oil-based cleanser, cleansing balm, or micellar water to break down sunscreen, makeup or sebum buildup from the day.' },
-        { step: '2nd Cleanser', tip: 'Any gentle formula you enjoy to finish off the double cleanse. This ensures your skin is truly clean and ready to absorb your night treatments.' },
+        { step: 'Second Cleanser', tip: 'Any gentle formula you enjoy to finish off the double cleanse. This ensures your skin is truly clean and ready to absorb your night treatments.' },
         { step: 'Toner', tip: 'Use hydrating toner again for extra moisture. You can even do 2-3 layers for a deeper boost.' },
         { step: 'Serum', tip: 'Vitamin C for brightening, niacinamide for even tone, or retinol for anti-aging. Since your skin is balanced, you can focus on prevention and maintenance.' },
         { step: 'Moisturizer', tip: 'Light to medium-weight cream or lotion based on your preference to seal everything in.' },
@@ -832,7 +832,7 @@ import Layout from '../layouts/Layout.astro';
     // First Cleanser . all
     addNp('melonica');
 
-    // 2nd Cleanser . all
+    // Second Cleanser . all
     addNp('hydranica');
 
     // Essence . by concern
@@ -1330,5 +1330,127 @@ import Layout from '../layouts/Layout.astro';
   @media (max-width: 640px) {
     .product-grid { grid-template-columns: 1fr; }
     .quiz-page { padding: 1.5rem 1.2rem 3rem; }
+  }
+
+  /* Dark mode overrides */
+  [data-theme="dark"] .quiz-counter {
+    background: rgba(46, 21, 25, 0.6);
+    border-color: rgba(61, 32, 40, 0.6);
+  }
+  [data-theme="dark"] .lang-toggle {
+    background: rgba(46, 21, 25, 0.6);
+    border-color: rgba(61, 32, 40, 0.6);
+  }
+  [data-theme="dark"] .quiz-section {
+    background: rgba(46, 21, 25, 0.5);
+    border-color: rgba(61, 32, 40, 0.6);
+  }
+  [data-theme="dark"] .quiz-opt {
+    background: rgba(46, 21, 25, 0.5);
+    border-color: rgba(61, 32, 40, 0.6);
+    color: var(--text-secondary);
+  }
+  [data-theme="dark"] .quiz-opt:hover {
+    background: rgba(61, 32, 40, 0.6);
+    border-color: var(--rose);
+    color: var(--text-primary);
+  }
+  [data-theme="dark"] .quiz-opt.selected {
+    background: rgba(122, 61, 71, 0.35);
+    border-color: var(--rose-gold);
+    color: var(--text-primary);
+  }
+  [data-theme="dark"] .quiz-opt--multi.selected {
+    background: rgba(122, 61, 71, 0.35);
+  }
+  [data-theme="dark"] .result-card {
+    background: linear-gradient(135deg, rgba(46, 21, 25, 0.6), rgba(38, 18, 23, 0.5));
+    border-color: rgba(61, 32, 40, 0.6);
+  }
+  [data-theme="dark"] .routine-header--morning {
+    background: rgba(60, 50, 20, 0.4);
+    border-color: rgba(80, 65, 30, 0.5);
+  }
+  [data-theme="dark"] .routine-header--night {
+    background: rgba(35, 30, 55, 0.4);
+    border-color: rgba(55, 45, 75, 0.5);
+  }
+  [data-theme="dark"] .routine-steps {
+    background: rgba(46, 21, 25, 0.5);
+    border-color: rgba(61, 32, 40, 0.6);
+  }
+  [data-theme="dark"] .routine-step:hover {
+    background: rgba(61, 32, 40, 0.5);
+  }
+  [data-theme="dark"] .step-tip {
+    color: var(--text-secondary);
+  }
+  [data-theme="dark"] .concern-tags {
+    background: rgba(46, 21, 25, 0.5);
+    border-color: rgba(61, 32, 40, 0.6);
+  }
+  [data-theme="dark"] .routine-note {
+    background: rgba(35, 30, 55, 0.4);
+    border-color: rgba(55, 45, 75, 0.4);
+  }
+  [data-theme="dark"] .routine-note strong {
+    color: #9fa8da;
+  }
+  [data-theme="dark"] .pregnancy-warning {
+    background: rgba(60, 40, 10, 0.3);
+    border-color: rgba(80, 55, 15, 0.4);
+  }
+  [data-theme="dark"] .pregnancy-warning strong {
+    color: #ffb74d;
+  }
+  [data-theme="dark"] .extra-serums-box {
+    background: rgba(46, 21, 25, 0.4);
+    border-color: rgba(61, 32, 40, 0.5);
+  }
+  [data-theme="dark"] .extra-serum-card {
+    background: rgba(33, 21, 26, 0.6);
+    border-color: rgba(61, 32, 40, 0.5);
+  }
+  [data-theme="dark"] .kayman-card {
+    background: rgba(46, 21, 25, 0.5);
+    border-color: rgba(61, 32, 40, 0.5);
+  }
+  [data-theme="dark"] .kayman-card:hover {
+    background: rgba(61, 32, 40, 0.6);
+    border-color: var(--rose);
+  }
+  [data-theme="dark"] .kayman-shop {
+    background: rgba(61, 32, 40, 0.4);
+  }
+  [data-theme="dark"] .kayman-group-label {
+    border-bottom-color: rgba(61, 32, 40, 0.5);
+  }
+  [data-theme="dark"] .product-card {
+    background: rgba(46, 21, 25, 0.5);
+    border-color: rgba(61, 32, 40, 0.5);
+  }
+  [data-theme="dark"] .product-card:hover {
+    background: rgba(61, 32, 40, 0.6);
+    border-color: var(--rose);
+  }
+  [data-theme="dark"] .guide-card {
+    background: rgba(46, 21, 25, 0.5);
+    border-color: rgba(61, 32, 40, 0.5);
+  }
+  [data-theme="dark"] .guide-card:hover {
+    background: rgba(61, 32, 40, 0.6);
+    border-color: var(--rose);
+  }
+  [data-theme="dark"] .quiz-page::before {
+    background: radial-gradient(circle, rgba(122, 61, 71, 0.15), transparent 70%);
+  }
+  [data-theme="dark"] .quiz-page::after {
+    background: radial-gradient(circle, rgba(100, 80, 50, 0.12), transparent 70%);
+  }
+  [data-theme="dark"] .deco-a {
+    background: radial-gradient(circle, rgba(46, 21, 25, 0.4), transparent 70%);
+  }
+  [data-theme="dark"] .site-header {
+    background: rgba(26, 15, 17, 0.95);
   }
 </style>
