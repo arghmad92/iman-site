@@ -171,6 +171,11 @@ import Layout from '../layouts/Layout.astro';
         const text = (el as HTMLElement).dataset[currentLang] || (el as HTMLElement).dataset.en || '';
         (el as HTMLElement).innerHTML = text;
       });
+      // If results are visible, re-render them in the new language
+      const resultsEl = document.getElementById('quizResults');
+      if (resultsEl && resultsEl.style.display !== 'none') {
+        showResults();
+      }
     });
   });
 
