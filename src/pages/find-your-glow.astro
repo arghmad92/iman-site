@@ -94,6 +94,13 @@ import Layout from '../layouts/Layout.astro';
 
         <div id="resultInserts"></div>
 
+        <div class="download-inline">
+          <button class="download-btn-sm" id="downloadBtnTop" data-en="Save my routine" data-ms="Simpan rutin saya">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Save my routine
+          </button>
+        </div>
+
         <div class="result-section">
           <div class="routine-header routine-header--morning">
             <span class="routine-emoji">☀️</span>
@@ -139,10 +146,6 @@ import Layout from '../layouts/Layout.astro';
         </div>
 
         <div class="result-cta">
-          <button class="download-btn" id="downloadBtn" data-en="Download My Routine" data-ms="Muat Turun Rutin Saya">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-            Download My Routine
-          </button>
           <button class="retake-btn" id="retakeBtn" data-en="Retake Quiz" data-ms="Ulang Kuiz">Retake Quiz</button>
           <a href="/posts/?cat=Skincare" class="browse-btn" data-en="Browse All Skincare Posts" data-ms="Lihat Semua Post Skincare">Browse All Skincare Posts</a>
         </div>
@@ -1028,7 +1031,7 @@ import Layout from '../layouts/Layout.astro';
   });
 
   // Download results as image
-  document.getElementById('downloadBtn')!.addEventListener('click', () => {
+  document.getElementById('downloadBtnTop')!.addEventListener('click', () => {
     const isMs = currentLang === 'ms';
     const data = skinData[skinType] || skinData.normal;
     const routineType = (skinType === 'dry' && concerns.includes('acne')) ? 'combo' : skinType;
@@ -1682,8 +1685,36 @@ import Layout from '../layouts/Layout.astro';
     padding: 0.8rem 2rem; border-radius: 100px; font-family: 'DM Sans', sans-serif;
     font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: all 0.2s;
   }
-  .download-btn { background: var(--text-primary); color: var(--cream); border: none; display: inline-flex; align-items: center; gap: 0.4rem; }
-  .download-btn:hover { background: var(--rose-gold); transform: translateY(-1px); }
+  .download-inline {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  .download-btn-sm {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.5rem 1.2rem;
+    border-radius: 100px;
+    border: 1px solid var(--border);
+    background: none;
+    color: var(--text-secondary);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .download-btn-sm:hover {
+    border-color: var(--rose-gold);
+    color: var(--rose-gold);
+  }
+  .download-btn-sm svg {
+    opacity: 0.6;
+  }
+  .download-btn-sm:hover svg {
+    opacity: 1;
+  }
   .retake-btn { background: none; border: 1.5px solid var(--rose-gold); color: var(--rose-gold); }
   .retake-btn:hover { background: var(--rose-gold); color: white; }
   .browse-btn { background: var(--rose-gold); color: white; border: none; display: inline-flex; align-items: center; }
