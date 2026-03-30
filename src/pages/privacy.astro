@@ -1,0 +1,192 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Privacy Policy | Iman Abdul Rahim" description="Privacy policy for imanabdulrahim.com — how we collect, use, and protect your information.">
+  <main class="privacy-page">
+    <div class="privacy-inner">
+      <a href="/" class="back-link">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+        Back to home
+      </a>
+
+      <h1 class="privacy-title">Privacy Policy</h1>
+      <p class="privacy-updated">Last updated: 30 March 2026</p>
+
+      <section class="privacy-section">
+        <h2>Who we are</h2>
+        <p>This website, imanabdulrahim.com, is a personal blog by Iman Abdul Rahim covering beauty, parenting, and lifestyle topics. This privacy policy explains how we collect, use, and protect your information when you visit our website.</p>
+      </section>
+
+      <section class="privacy-section">
+        <h2>Information we collect</h2>
+        <ul>
+          <li><strong>Newsletter subscription:</strong> If you subscribe to our newsletter, we collect your email address through Formspree. We use this solely to send you blog updates.</li>
+          <li><strong>Quiz data:</strong> The "Find Your Glow" skincare quiz processes your answers locally in your browser. No personal data is sent to our servers.</li>
+          <li><strong>Analytics and cookies:</strong> We use third-party services that may collect anonymous usage data:
+            <ul>
+              <li><strong>Google AdSense</strong> serves ads and may use cookies to personalise ads based on your browsing. You can opt out at <a href="https://adssettings.google.com" target="_blank" rel="noopener">Google Ad Settings</a>.</li>
+              <li><strong>CounterAPI</strong> tracks anonymous page visit counts only.</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+
+      <section class="privacy-section">
+        <h2>Cookies</h2>
+        <p>Cookies are small files stored on your device. Third-party services like Google AdSense may set cookies to serve relevant ads. You can manage cookies through your browser settings.</p>
+      </section>
+
+      <section class="privacy-section">
+        <h2>Third-party advertising</h2>
+        <p>We use Google AdSense to display ads. Google may use cookies and web beacons to serve ads based on your visits to this and other websites. For more information, see <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google's Privacy Policy</a>.</p>
+      </section>
+
+      <section class="privacy-section">
+        <h2>Your rights</h2>
+        <ul>
+          <li>Unsubscribe from our newsletter at any time</li>
+          <li>Clear cookies through your browser settings</li>
+          <li>Opt out of personalised ads at <a href="https://adssettings.google.com" target="_blank" rel="noopener">Google Ad Settings</a></li>
+        </ul>
+      </section>
+
+      <section class="privacy-section">
+        <h2>Children's privacy</h2>
+        <p>This website is not directed at children under 13. We do not knowingly collect personal information from children.</p>
+      </section>
+
+      <section class="privacy-section">
+        <h2>Changes to this policy</h2>
+        <p>We may update this policy from time to time. Changes will be posted on this page with an updated date.</p>
+      </section>
+
+      <section class="privacy-section">
+        <h2>Contact</h2>
+        <p>If you have questions about this privacy policy, email us at <a href="mailto:iman.abdrahim@yahoo.com">iman.abdrahim@yahoo.com</a>.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="post-footer">
+    <p>&copy; {new Date().getFullYear()} Iman Abdul Rahim &mdash; <a href="/">Back to home</a></p>
+  </footer>
+</Layout>
+
+<style>
+  .privacy-page {
+    padding: 6rem 2rem 4rem;
+    background: var(--cream);
+    min-height: calc(100vh - 100px);
+  }
+
+  .privacy-inner {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    transition: color 0.2s;
+    margin-bottom: 2rem;
+  }
+  .back-link:hover { color: var(--text-primary); }
+
+  .privacy-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2rem, 4vw, 2.6rem);
+    color: var(--text-primary);
+    margin-bottom: 0.3rem;
+  }
+
+  .privacy-updated {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    margin-bottom: 2.5rem;
+    font-weight: 300;
+  }
+
+  .privacy-section {
+    margin-bottom: 2rem;
+  }
+
+  .privacy-section h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.3rem;
+    color: var(--text-primary);
+    margin-bottom: 0.6rem;
+  }
+
+  .privacy-section p {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    line-height: 1.8;
+    font-weight: 300;
+  }
+
+  .privacy-section ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  .privacy-section li {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    line-height: 1.8;
+    font-weight: 300;
+    padding-left: 1rem;
+    position: relative;
+  }
+
+  .privacy-section li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.65rem;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--rose-gold);
+  }
+
+  .privacy-section li strong {
+    color: var(--text-primary);
+    font-weight: 500;
+  }
+
+  .privacy-section ul ul {
+    margin-top: 0.5rem;
+    padding-left: 0.5rem;
+  }
+
+  .privacy-section ul ul li::before {
+    background: var(--border);
+  }
+
+  .privacy-section a {
+    color: var(--rose-gold);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .privacy-section a:hover {
+    color: var(--deep-rose);
+  }
+
+  .post-footer {
+    text-align: center;
+    padding: 2rem;
+    background: var(--footer-bg);
+    font-size: 0.82rem;
+    color: rgba(255,255,255,0.4);
+    font-weight: 300;
+  }
+  .post-footer a { color: var(--rose); }
+</style>
