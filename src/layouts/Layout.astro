@@ -11,7 +11,7 @@ const {
   image,
 } = Astro.props;
 
-const siteUrl = 'https://imanabdulrahim.pages.dev';
+const siteUrl = 'https://imanabdulrahim.com';
 const ogImage = image
   ? (image.startsWith('http') ? image : `${siteUrl}${image}`)
   : `${siteUrl}/og-default.jpg`;
@@ -54,6 +54,17 @@ const canonicalUrl = Astro.url.href;
     />
     <title>{title}</title>
 
+    <!-- JSON-LD Structured Data -->
+    {Astro.url.pathname === '/' && (
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Iman Abdul Rahim",
+        "url": siteUrl,
+        "description": "Beauty, parenting & lifestyle blog by Iman Abdul Rahim"
+      })} />
+    )}
+
     <!-- Dark mode: apply before render to prevent flash -->
     <script is:inline>
       (function () {
@@ -64,6 +75,7 @@ const canonicalUrl = Astro.url.href;
         }
       })();
     </script>
+    <slot name="head" />
   </head>
   <body>
     <slot />

@@ -42,7 +42,12 @@
       "Bash(grep -iv \"logo\\\\|icon\\\\|banner\\\\|svg\\\\|^alt=\"\"\"\"$\")",
       "WebFetch(domain:naturespalette.co)",
       "Bash(grep -iv \"logo\\\\|icon\\\\|banner\\\\|svg\\\\|^alt=\"\"\"\"$\\\\|payment\\\\|carousel\")",
-      "WebFetch(domain:www.thepastelsshop.com)"
+      "WebFetch(domain:www.thepastelsshop.com)",
+      "Bash(npx astro:*)",
+      "Bash(xargs -I {} gh run watch {} --exit-status)",
+      "Bash(grep -r og: /Users/nuruliman/KroniBola/src --include=*.astro -l)",
+      "Bash(ls /Users/nuruliman/KroniBola/public/og-default.*)",
+      "Bash(ls:*)"
     ]
   }
 }
