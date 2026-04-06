@@ -3,7 +3,10 @@ import { getCollection } from 'astro:content';
 
 const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
   .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
-  .slice(0, 6);
+  .slice(0, 7);
+
+const featured = allPosts[0];
+const rest = allPosts.slice(1);
 
 const categoryColorMap: Record<string, string> = {
   Skincare: 'var(--blush)',
@@ -22,16 +25,41 @@ function formatDate(dateStr: string) {
 
 <section id="posts" class="posts">
   <div class="posts-inner">
-    <div class="posts-header">
-      <p class="section-label">Latest Posts</p>
-      <h2 class="posts-heading">Stories worth<br /><em>reading.</em></h2>
+    <div class="posts-header-row">
+      <div>
+        <p class="section-label">Latest Posts</p>
+        <h2 class="posts-heading">Stories worth<br /><em>reading.</em></h2>
+      </div>
+      <a href="/posts/" class="view-all-btn">
+        View all posts
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
     </div>
-    <a href="/posts/" class="view-all-link">
-      View all posts — archive
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+
+    <!-- Featured post -->
+    <a href={`/posts/${featured.slug}/`} class="featured-card" style={`--cat-color: ${categoryColorMap[featured.data.category] ?? 'var(--blush)'}`}>
+      {featured.data.image && (
+        <div class="featured-img-wrap">
+          <img src={featured.data.image} alt={featured.data.title} class="featured-img" loading="lazy" />
+        </div>
+      )}
+      <div class="featured-body">
+        <div class="featured-top">
+          <span class="post-category">{featured.data.category}</span>
+          <span class="post-read-time">{featured.data.readTime}</span>
+        </div>
+        <h3 class="featured-title">{featured.data.title}</h3>
+        <p class="featured-excerpt">{featured.data.excerpt}</p>
+        <div class="featured-bottom">
+          <span class="post-date">{formatDate(featured.data.date)}</span>
+          <span class="read-link">Read article <span class="post-arrow">→</span></span>
+        </div>
+      </div>
     </a>
+
+    <!-- Post grid -->
     <div class="posts-grid">
-      {allPosts.map((post) => (
+      {rest.map((post) => (
         <a
           href={`/posts/${post.slug}/`}
           class="post-card"
@@ -53,7 +81,6 @@ function formatDate(dateStr: string) {
               <span class="post-read-time">{post.data.readTime}</span>
             </div>
             <h3 class="post-title">{post.data.title}</h3>
-            <p class="post-excerpt">{post.data.excerpt}</p>
             <div class="post-bottom">
               <span class="post-date">{formatDate(post.data.date)}</span>
               <span class="post-arrow">→</span>
@@ -67,7 +94,7 @@ function formatDate(dateStr: string) {
 
 <style>
   .posts {
-    padding: 6rem 2rem;
+    padding: 7rem 2rem;
     background: var(--white);
   }
 
@@ -76,23 +103,12 @@ function formatDate(dateStr: string) {
     margin: 0 auto;
   }
 
-  .posts-header {
-    margin-bottom: 1.5rem;
+  .posts-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 3rem;
   }
-
-  .view-all-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.3rem;
-    font-size: 0.78rem;
-    letter-spacing: 0.06em;
-    color: var(--rose-gold);
-    text-decoration: none;
-    margin-bottom: 2.5rem;
-    transition: color 0.2s;
-  }
-
-  .view-all-link:hover { color: var(--deep-rose); }
 
   .section-label {
     font-size: 0.72rem;
@@ -114,6 +130,162 @@ function formatDate(dateStr: string) {
     color: var(--rose-gold);
   }
 
+  .view-all-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.82rem;
+    letter-spacing: 0.04em;
+    color: var(--text-secondary);
+    text-decoration: none;
+    padding: 0.7rem 1.4rem;
+    border: 1.5px solid var(--border);
+    border-radius: 100px;
+    transition: all 0.25s;
+    flex-shrink: 0;
+  }
+
+  .view-all-btn svg {
+    transition: transform 0.25s;
+  }
+
+  .view-all-btn:hover {
+    border-color: var(--rose-gold);
+    color: var(--text-primary);
+  }
+
+  .view-all-btn:hover svg {
+    transform: translateX(3px);
+  }
+
+  /* Featured card */
+  .featured-card {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    background: rgba(254, 240, 243, 0.4);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(245, 213, 218, 0.4);
+    border-radius: 24px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    margin-bottom: 2rem;
+    transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
+  }
+
+  .featured-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 56px rgba(180, 90, 110, 0.1);
+    border-color: var(--rose);
+  }
+
+  .featured-img-wrap {
+    height: 100%;
+    min-height: 340px;
+    overflow: hidden;
+  }
+
+  .featured-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+  }
+
+  .featured-card:hover .featured-img {
+    transform: scale(1.04);
+  }
+
+  .featured-body {
+    padding: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  .featured-top {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+  }
+
+  .featured-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.8rem;
+    color: var(--text-primary);
+    line-height: 1.3;
+    font-weight: 500;
+  }
+
+  .featured-excerpt {
+    font-size: 0.92rem;
+    color: var(--text-secondary);
+    line-height: 1.8;
+    font-weight: 300;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .featured-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    margin-top: auto;
+  }
+
+  .read-link {
+    font-size: 0.82rem;
+    color: var(--rose-gold);
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    transition: color 0.2s;
+  }
+
+  .featured-card:hover .read-link {
+    color: var(--deep-rose);
+  }
+
+  .featured-card:hover .read-link .post-arrow {
+    transform: translateX(4px);
+    color: var(--deep-rose);
+  }
+
+  /* Shared styles */
+  .post-category {
+    font-size: 0.66rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    background: var(--cat-color);
+    padding: 0.22rem 0.7rem;
+    border-radius: 100px;
+    font-weight: 500;
+    color: var(--text-primary);
+  }
+
+  .post-read-time {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+  }
+
+  .post-date {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+  }
+
+  .post-arrow {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    transition: transform 0.2s, color 0.2s;
+  }
+
+  /* Post grid */
   .posts-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -123,7 +295,7 @@ function formatDate(dateStr: string) {
   .post-card {
     display: flex;
     flex-direction: column;
-    background: rgba(254, 240, 243, 0.5);
+    background: rgba(254, 240, 243, 0.4);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border: 1px solid rgba(245, 213, 218, 0.4);
@@ -149,7 +321,7 @@ function formatDate(dateStr: string) {
 
   .post-card:hover {
     transform: translateY(-6px);
-    box-shadow: 0 16px 48px rgba(180, 90, 110, 0.12);
+    box-shadow: 0 16px 48px rgba(180, 90, 110, 0.1);
     border-color: var(--rose);
     background: rgba(255, 255, 255, 0.7);
   }
@@ -158,10 +330,15 @@ function formatDate(dateStr: string) {
     transform: scaleX(1);
   }
 
+  .post-card:hover .post-arrow {
+    transform: translateX(4px);
+    color: var(--rose-gold);
+  }
+
   /* Thumbnail */
   .post-thumb-wrap {
     width: 100%;
-    height: 200px;
+    height: 180px;
     overflow: hidden;
     flex-shrink: 0;
   }
@@ -182,7 +359,7 @@ function formatDate(dateStr: string) {
     display: flex;
     flex-direction: column;
     gap: 0.8rem;
-    padding: 1.5rem;
+    padding: 1.4rem;
     flex-grow: 1;
   }
 
@@ -192,40 +369,13 @@ function formatDate(dateStr: string) {
     justify-content: space-between;
   }
 
-  .post-category {
-    font-size: 0.66rem;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    background: var(--cat-color);
-    padding: 0.22rem 0.7rem;
-    border-radius: 100px;
-    font-weight: 500;
-    color: var(--text-primary);
-  }
-
-  .post-read-time {
-    font-size: 0.7rem;
-    color: var(--text-muted);
-  }
-
   .post-title {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1.15rem;
+    font-size: 1.1rem;
     color: var(--text-primary);
     line-height: 1.4;
     font-weight: 500;
     flex-grow: 1;
-  }
-
-  .post-excerpt {
-    font-size: 0.85rem;
-    color: var(--text-secondary);
-    line-height: 1.75;
-    font-weight: 300;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
   }
 
   .post-bottom {
@@ -237,27 +387,18 @@ function formatDate(dateStr: string) {
     border-top: 1px solid var(--border);
   }
 
-  .post-date {
-    font-size: 0.7rem;
-    color: var(--text-muted);
-  }
-
-  .post-arrow {
-    font-size: 1.1rem;
-    color: var(--text-muted);
-    transition: transform 0.2s, color 0.2s;
-  }
-
-  .post-card:hover .post-arrow {
-    transform: translateX(4px);
-    color: var(--rose-gold);
-  }
-
   @media (max-width: 900px) {
     .posts-grid { grid-template-columns: repeat(2, 1fr); }
+    .featured-card { grid-template-columns: 1fr; }
+    .featured-img-wrap { min-height: 240px; }
   }
 
   @media (max-width: 580px) {
     .posts-grid { grid-template-columns: 1fr; }
+    .posts-header-row {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1.5rem;
+    }
   }
 </style>
