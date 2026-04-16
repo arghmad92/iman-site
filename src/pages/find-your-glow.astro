@@ -1158,27 +1158,27 @@ import Layout from '../layouts/Layout.astro';
     // === HEADER ===
     // Logo
     ctx.font = 'italic 500 32px Cormorant Garamond, serif';
-    ctx.fillStyle = '#4a2830';
+    ctx.fillStyle = '#3a2820';
     const logoText = 'iman';
     ctx.fillText(logoText, pad, y);
     const logoW = ctx.measureText(logoText).width;
-    ctx.fillStyle = '#c9848c';
+    ctx.fillStyle = '#c08878';
     ctx.font = '600 38px Cormorant Garamond, serif';
     ctx.fillText('·', pad + logoW + 2, y - 4);
     ctx.font = '300 24px Cormorant Garamond, serif';
-    ctx.fillStyle = '#9e6b74';
+    ctx.fillStyle = '#8e6b60';
     ctx.fillText('blog', pad + logoW + 18, y + 6);
 
     // Tagline right-aligned
     ctx.font = '300 18px DM Sans, sans-serif';
-    ctx.fillStyle = '#c9848c';
+    ctx.fillStyle = '#c08878';
     const tagline = isMs ? 'Panduan Penjagaan Kulit' : 'Skincare Guide';
     const tagW = ctx.measureText(tagline).width;
     ctx.fillText(tagline, W - pad - tagW, y + 10);
     y += 48;
 
     // Divider
-    ctx.strokeStyle = '#f5d5da';
+    ctx.strokeStyle = '#f0d8d0';
     ctx.lineWidth = 1;
     ctx.beginPath();
     ctx.moveTo(pad, y);
@@ -1188,7 +1188,7 @@ import Layout from '../layouts/Layout.astro';
 
     // === SKIN TYPE TITLE ===
     ctx.font = '400 36px Cormorant Garamond, serif';
-    ctx.fillStyle = '#4a2830';
+    ctx.fillStyle = '#3a2820';
     ctx.fillText(isMs ? data.labelMs : data.label, pad, y);
     y += 48;
 
@@ -1201,11 +1201,11 @@ import Layout from '../layouts/Layout.astro';
         const tw = ctx.measureText(label).width;
         const pillW = tw + 24;
         if (cx + pillW > W - pad) { cx = pad; y += 34; }
-        ctx.fillStyle = '#fad4dc';
+        ctx.fillStyle = '#f5d5d0';
         ctx.beginPath();
         ctx.roundRect(cx, y, pillW, 28, 14);
         ctx.fill();
-        ctx.fillStyle = '#b5616e';
+        ctx.fillStyle = '#a8525c';
         ctx.fillText(label, cx + 12, y + 7);
         cx += pillW + 8;
       }
@@ -1216,7 +1216,7 @@ import Layout from '../layouts/Layout.astro';
     const descText = isMs ? data.descMs : data.desc;
     const descLines = wrapText(descText, contentW, '300 20px DM Sans, sans-serif');
     ctx.font = '300 20px DM Sans, sans-serif';
-    ctx.fillStyle = '#9e6b74';
+    ctx.fillStyle = '#8e6b60';
     for (const line of descLines) {
       ctx.fillText(line, pad, y);
       y += 28;
@@ -1227,12 +1227,12 @@ import Layout from '../layouts/Layout.astro';
     function drawRoutine(title: string, emoji: string, steps: typeof routineData.morning) {
       const isMorning = title.includes('Pagi') || title.includes('Morning');
 
-      // Header bar
-      ctx.fillStyle = isMorning ? '#fff8e1' : '#e8eaf6';
+      // Header bar — warm tones matching blog palette
+      ctx.fillStyle = isMorning ? '#fef6e8' : '#eee8f0';
       ctx.beginPath();
       ctx.roundRect(pad, y, contentW, 42, 10);
       ctx.fill();
-      ctx.strokeStyle = isMorning ? '#ffe0b2' : '#d1c4e9';
+      ctx.strokeStyle = isMorning ? '#f0d8c0' : '#d8c8d8';
       ctx.lineWidth = 1;
       ctx.beginPath();
       ctx.roundRect(pad, y, contentW, 42, 10);
@@ -1241,7 +1241,7 @@ import Layout from '../layouts/Layout.astro';
       ctx.font = '26px sans-serif';
       ctx.fillText(emoji, pad + 14, y + 8);
       ctx.font = '400 21px Cormorant Garamond, serif';
-      ctx.fillStyle = '#4a2830';
+      ctx.fillStyle = '#3a2820';
       ctx.fillText(title, pad + 50, y + 12);
       y += 58;
 
@@ -1255,7 +1255,7 @@ import Layout from '../layouts/Layout.astro';
         const stepStartY = y;
 
         // Step number circle (vertically centered with step name)
-        ctx.fillStyle = '#c9848c';
+        ctx.fillStyle = '#c08878';
         ctx.beginPath();
         ctx.arc(pad + 16, y + 12, 13, 0, Math.PI * 2);
         ctx.fill();
@@ -1267,13 +1267,13 @@ import Layout from '../layouts/Layout.astro';
 
         // Step name
         ctx.font = '600 19px DM Sans, sans-serif';
-        ctx.fillStyle = '#4a2830';
+        ctx.fillStyle = '#3a2820';
         ctx.fillText(stepName, stepTextX, y);
         y += 26;
 
         // Tip lines
         ctx.font = '300 19px DM Sans, sans-serif';
-        ctx.fillStyle = '#9e6b74';
+        ctx.fillStyle = '#8e6b60';
         for (const line of tipLines) {
           ctx.fillText(line, stepTextX, y);
           y += 24;
@@ -1283,7 +1283,7 @@ import Layout from '../layouts/Layout.astro';
 
         // Divider between steps
         if (i < steps.length - 1) {
-          ctx.strokeStyle = '#f5d5da';
+          ctx.strokeStyle = '#f0d8d0';
           ctx.lineWidth = 0.5;
           ctx.beginPath();
           ctx.moveTo(stepTextX, y);
@@ -1300,7 +1300,7 @@ import Layout from '../layouts/Layout.astro';
 
     // === FOOTER ===
     y += 8;
-    ctx.strokeStyle = '#f5d5da';
+    ctx.strokeStyle = '#f0d8d0';
     ctx.lineWidth = 1;
     ctx.beginPath();
     ctx.moveTo(pad, y);
@@ -1309,11 +1309,11 @@ import Layout from '../layouts/Layout.astro';
     y += 24;
 
     ctx.font = '300 17px DM Sans, sans-serif';
-    ctx.fillStyle = '#c4979e';
+    ctx.fillStyle = '#bb9a8e';
     ctx.fillText('imanabdulrahim.com', pad, y);
 
     ctx.font = 'italic 500 17px Cormorant Garamond, serif';
-    ctx.fillStyle = '#c9848c';
+    ctx.fillStyle = '#c08878';
     const brand = 'iman·blog';
     const brandW = ctx.measureText(brand).width;
     ctx.fillText(brand, W - pad - brandW, y);
@@ -1326,20 +1326,21 @@ import Layout from '../layouts/Layout.astro';
     finalCanvas.height = y;
     const fCtx = finalCanvas.getContext('2d')!;
 
-    // Background
-    fCtx.fillStyle = '#fef0f3';
+    // Background — warm cream to match blog palette
+    fCtx.fillStyle = '#faf4f0';
     fCtx.fillRect(0, 0, W, y);
 
-    // Decorative gradients
+    // Decorative blush gradient (top-right)
     const grd1 = fCtx.createRadialGradient(W - 100, 150, 0, W - 100, 150, 250);
-    grd1.addColorStop(0, 'rgba(250, 212, 220, 0.35)');
-    grd1.addColorStop(1, 'rgba(250, 212, 220, 0)');
+    grd1.addColorStop(0, 'rgba(245, 213, 208, 0.35)');
+    grd1.addColorStop(1, 'rgba(245, 213, 208, 0)');
     fCtx.fillStyle = grd1;
     fCtx.fillRect(0, 0, W, y);
 
+    // Decorative sage gradient (bottom-left)
     const grd2 = fCtx.createRadialGradient(80, y - 200, 0, 80, y - 200, 200);
-    grd2.addColorStop(0, 'rgba(240, 219, 200, 0.2)');
-    grd2.addColorStop(1, 'rgba(240, 219, 200, 0)');
+    grd2.addColorStop(0, 'rgba(168, 181, 160, 0.2)');
+    grd2.addColorStop(1, 'rgba(168, 181, 160, 0)');
     fCtx.fillStyle = grd2;
     fCtx.fillRect(0, 0, W, y);
 
