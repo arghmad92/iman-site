@@ -1,11 +1,11 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
   return posts.map((post) => ({
-    params: { slug: post.slug },
+    params: { slug: post.id },
     props: { post },
   }));
 }
@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 
 const isExternal = !!post.data.externalUrl;
-const { Content, headings } = isExternal ? { Content: null, headings: [] } : await post.render();
+const { Content, headings } = isExternal ? { Content: null, headings: [] } : await render(post);
 
 const categoryColorMap: Record<string, string> = {
   Skincare: '#fad4dc',
@@ -27,13 +27,13 @@ const catColor = categoryColorMap[post.data.category] ?? '#fad4dc';
 // Adjacent posts for prev/next nav
 const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
   .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
-const idx = allPosts.findIndex((p) => p.slug === post.slug);
+const idx = allPosts.findIndex((p) => p.id === post.id);
 const prev = idx < allPosts.length - 1 ? allPosts[idx + 1] : null;
 const next = idx > 0 ? allPosts[idx - 1] : null;
 
 // Related posts: same category, exclude current
 const related = allPosts
-  .filter((p) => p.slug !== post.slug && p.data.category === post.data.category)
+  .filter((p) => p.id !== post.id && p.data.category === post.data.category)
   .slice(0, 3);
 
 // TOC: h2 and h3 headings only
@@ -41,7 +41,7 @@ const tocHeadings = headings.filter((h) => h.depth <= 3);
 
 // Social share URLs
 const siteUrl = 'https://imanabdulrahim.com';
-const postUrl = `${siteUrl}/posts/${post.slug}/`;
+const postUrl = `${siteUrl}/posts/${post.id}/`;
 const shareTitle = encodeURIComponent(post.data.title);
 const shareUrl = encodeURIComponent(postUrl);
 const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(post.data.title + ' ' + postUrl)}`;
@@ -237,7 +237,7 @@ const breadcrumbSchema = {
           <h2 class="related-heading">More in <em>{post.data.category}</em></h2>
           <div class="related-grid">
             {related.map((p) => (
-              <a href={`/posts/${p.slug}/`} class="related-card">
+              <a href={`/posts/${p.id}/`} class="related-card">
                 {p.data.image && (
                   <div class="related-img-wrap">
                     <img src={p.data.image} alt={p.data.title} loading="lazy" class="related-img" />
@@ -257,7 +257,7 @@ const breadcrumbSchema = {
 
     <nav class="post-nav">
       {prev ? (
-        <a href={`/posts/${prev.slug}/`} class="post-nav-link prev">
+        <a href={`/posts/${prev.id}/`} class="post-nav-link prev">
           <span class="nav-label">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
             Previous
@@ -266,7 +266,7 @@ const breadcrumbSchema = {
         </a>
       ) : <div />}
       {next ? (
-        <a href={`/posts/${next.slug}/`} class="post-nav-link next">
+        <a href={`/posts/${next.id}/`} class="post-nav-link next">
           <span class="nav-label">
             Next
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
@@ -283,7 +283,7 @@ const breadcrumbSchema = {
 </Layout>
 )}
 
-<script define:vars={{ slug: post.slug }}>
+<script define:vars={{ slug: post.id }}>
   // Reading progress bar
   const bar = document.getElementById('readingBar');
   const article = document.getElementById('postArticle');

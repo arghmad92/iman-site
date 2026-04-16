@@ -1,34 +1,49 @@
 ---
+const rotatingWords = ['Beauty', 'Parenting', 'Lifestyle', 'Skincare', 'Motherhood'];
 ---
 
 <section id="home" class="hero">
+  <!-- Editorial sidebar -->
+  <aside class="hero-sidebar" aria-hidden="true">
+    <span class="hero-sidebar-text">EST. 2015 · KUALA LUMPUR · MY</span>
+  </aside>
+
   <div class="hero-inner">
     <div class="hero-content">
-      <div class="hero-badge">Beauty · Parenting · Lifestyle</div>
-      <h1 class="hero-name">
-        Iman<br />
-        <em>Abdul Rahim</em>
+      <div class="hero-badge reveal">
+        <span class="badge-static">I write about</span>
+        <span class="badge-rotator" id="heroRotator" aria-live="polite">
+          <span class="rotator-word">Beauty</span>
+        </span>
+      </div>
+      <h1 class="hero-name reveal">
+        <span class="hero-name-row">Iman</span>
+        <em class="hero-name-row">Abdul Rahim</em>
       </h1>
-      <p class="hero-tagline">
+      <p class="hero-tagline reveal">
         Hello, welcome! I'm a content creator from Malaysia sharing honest stories
         about beauty, skincare, motherhood, and the everyday moments in between.
       </p>
-      <div class="hero-actions">
-        <a href="#posts" class="btn-primary">
-          Read My Posts
+      <div class="hero-actions reveal">
+        <a href="#posts" class="btn-primary magnetic" data-magnetic>
+          <span class="btn-label">Read My Posts</span>
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
         </a>
         <a href="#about" class="btn-ghost">About Me</a>
       </div>
     </div>
-    <div class="hero-photo">
+
+    <div class="hero-photo reveal-scale">
       <div class="hero-photo-frame">
-        <img src="/raya-34.jpeg" alt="Iman Abdul Rahim" loading="eager" />
+        <img src="/raya-34.jpeg" alt="Iman Abdul Rahim" loading="eager" class="hero-photo-img" />
+        <div class="hero-photo-tag">✦ 2026</div>
       </div>
       <div class="hero-photo-accent"></div>
+      <div class="hero-photo-ring"></div>
     </div>
   </div>
-  <div class="hero-scroll">
+
+  <div class="hero-scroll reveal">
     <span>scroll</span>
     <svg width="16" height="24" viewBox="0 0 16 24" fill="none">
       <rect x="1" y="1" width="14" height="22" rx="7" stroke="currentColor" stroke-width="1.5"/>
@@ -38,7 +53,8 @@
       </circle>
     </svg>
   </div>
-  <div class="hero-deco">
+
+  <div class="hero-deco" aria-hidden="true">
     <div class="deco-circle deco-1"></div>
     <div class="deco-circle deco-2"></div>
   </div>
@@ -55,6 +71,26 @@
     padding: 7rem 2rem 3rem;
   }
 
+  /* Rotated sidebar text */
+  .hero-sidebar {
+    position: absolute;
+    left: 2rem;
+    top: 50%;
+    transform: translateY(-50%) rotate(-90deg);
+    transform-origin: left center;
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  .hero-sidebar-text {
+    font-size: 0.65rem;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    white-space: nowrap;
+    font-weight: 500;
+  }
+
   .hero-inner {
     max-width: 1100px;
     margin: 0 auto;
@@ -62,35 +98,70 @@
     position: relative;
     z-index: 1;
     display: grid;
-    grid-template-columns: 1.1fr 0.9fr;
+    grid-template-columns: 1.15fr 0.85fr;
     gap: 4rem;
     align-items: center;
   }
 
+  /* Typewriter / rotator badge */
   .hero-badge {
-    display: inline-block;
-    font-size: 0.68rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.72rem;
     letter-spacing: 0.2em;
     text-transform: uppercase;
     color: var(--text-secondary);
     background: var(--blush);
-    padding: 0.4rem 1.1rem;
+    padding: 0.5rem 1.2rem;
     border-radius: 100px;
     margin-bottom: 2rem;
+    border: 1px solid rgba(224, 154, 159, 0.25);
+  }
+
+  .badge-static {
+    color: var(--text-secondary);
+  }
+
+  .badge-rotator {
+    display: inline-block;
+    min-width: 88px;
+    text-align: left;
+    color: var(--deep-rose);
+    font-weight: 600;
+    position: relative;
+  }
+
+  .rotator-word {
+    display: inline-block;
+    animation: rotatorFade 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  @keyframes rotatorFade {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
   }
 
   .hero-name {
-    font-size: clamp(3.5rem, 8vw, 6rem);
+    font-size: clamp(3.5rem, 8vw, 6.2rem);
     line-height: 1.0;
     color: var(--text-primary);
     letter-spacing: -0.03em;
     margin-bottom: 1.8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15em;
+  }
+
+  .hero-name-row {
+    display: block;
   }
 
   .hero-name em {
     font-style: italic;
     color: var(--rose-gold);
     font-weight: 300;
+    margin-left: 0.6em;
   }
 
   .hero-tagline {
@@ -119,21 +190,24 @@
     font-size: 0.85rem;
     font-weight: 400;
     letter-spacing: 0.05em;
-    transition: background 0.25s, transform 0.2s;
+    transition: background 0.3s, color 0.3s, transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s;
+    box-shadow: 0 6px 18px rgba(58, 40, 32, 0.12);
+    position: relative;
+    will-change: transform;
   }
 
   .btn-primary svg {
-    transition: transform 0.25s;
+    transition: transform 0.3s;
   }
 
   .btn-primary:hover {
-    background: var(--rose-gold);
-    color: var(--text-primary);
-    transform: translateY(-2px);
+    background: var(--plum);
+    color: var(--cream);
+    box-shadow: 0 10px 28px rgba(74, 30, 46, 0.25);
   }
 
   .btn-primary:hover svg {
-    transform: translateX(3px);
+    transform: translateX(4px);
   }
 
   .btn-ghost {
@@ -146,11 +220,11 @@
     font-weight: 400;
     letter-spacing: 0.05em;
     color: var(--text-secondary);
-    transition: border-color 0.25s, color 0.25s, transform 0.2s;
+    transition: border-color 0.3s, color 0.3s, transform 0.3s;
   }
 
   .btn-ghost:hover {
-    border-color: var(--rose-gold);
+    border-color: var(--sage);
     color: var(--text-primary);
     transform: translateY(-2px);
   }
@@ -167,17 +241,40 @@
     z-index: 2;
     border-radius: 200px 200px 24px 24px;
     overflow: hidden;
-    box-shadow: 0 24px 64px rgba(180, 90, 110, 0.12);
+    box-shadow: 0 24px 64px rgba(180, 90, 110, 0.15);
     max-width: 380px;
     width: 100%;
   }
 
-  .hero-photo-frame img {
+  .hero-photo-img {
     width: 100%;
     height: 520px;
     object-fit: cover;
     object-position: center top;
     display: block;
+    animation: kenBurns 22s ease-in-out infinite alternate;
+  }
+
+  @keyframes kenBurns {
+    0%   { transform: scale(1) translate(0, 0); }
+    100% { transform: scale(1.08) translate(-1%, -2%); }
+  }
+
+  .hero-photo-tag {
+    position: absolute;
+    top: 1.2rem;
+    right: 1.2rem;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
+    color: var(--cream);
+    background: rgba(58, 40, 32, 0.4);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    padding: 0.3rem 0.7rem;
+    border-radius: 100px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    z-index: 3;
   }
 
   .hero-photo-accent {
@@ -187,10 +284,23 @@
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background: var(--blush);
-    opacity: 0.5;
+    background: var(--sage-light);
+    opacity: 0.6;
     z-index: 1;
     animation: heroFloat2 18s ease-in-out infinite;
+  }
+
+  .hero-photo-ring {
+    position: absolute;
+    top: -20px;
+    left: -20px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 1px solid var(--rose-gold);
+    opacity: 0.35;
+    z-index: 1;
+    animation: heroFloat1 14s ease-in-out infinite;
   }
 
   /* Scroll indicator */
@@ -234,12 +344,12 @@
   }
 
   .deco-2 {
-    width: 200px;
-    height: 200px;
-    background: radial-gradient(circle, var(--petal) 0%, transparent 70%);
+    width: 220px;
+    height: 220px;
+    background: radial-gradient(circle, var(--sage-light) 0%, transparent 70%);
     top: 50%;
-    left: -60px;
-    opacity: 0.4;
+    left: 20%;
+    opacity: 0.35;
     animation: heroFloat3 16s ease-in-out infinite;
   }
 
@@ -256,6 +366,10 @@
   @keyframes heroFloat3 {
     0%, 100% { transform: translate(0, 0); }
     50% { transform: translate(15px, -15px); }
+  }
+
+  @media (max-width: 1024px) {
+    .hero-sidebar { display: none; }
   }
 
   @media (max-width: 800px) {
@@ -277,7 +391,7 @@
       max-width: 280px;
     }
 
-    .hero-photo-frame img {
+    .hero-photo-img {
       height: 380px;
     }
 
@@ -296,6 +410,11 @@
 
     .hero-name {
       font-size: clamp(3rem, 14vw, 4.5rem);
+      align-items: center;
+    }
+
+    .hero-name em {
+      margin-left: 0;
     }
 
     .deco-1 {
@@ -305,3 +424,34 @@
     }
   }
 </style>
+
+<script>
+  // ─────── Rotating badge words ───────
+  const words = ['Beauty', 'Parenting', 'Lifestyle', 'Skincare', 'Motherhood'];
+  const rotator = document.getElementById('heroRotator');
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  if (rotator && !prefersReducedMotion) {
+    let i = 0;
+    setInterval(() => {
+      i = (i + 1) % words.length;
+      rotator.innerHTML = `<span class="rotator-word">${words[i]}</span>`;
+    }, 2600);
+  }
+
+  // ─────── Magnetic button effect ───────
+  const magneticButtons = document.querySelectorAll<HTMLElement>('[data-magnetic]');
+  if (!prefersReducedMotion) {
+    magneticButtons.forEach((btn) => {
+      btn.addEventListener('mousemove', (e) => {
+        const rect = btn.getBoundingClientRect();
+        const x = e.clientX - rect.left - rect.width / 2;
+        const y = e.clientY - rect.top - rect.height / 2;
+        btn.style.transform = `translate(${x * 0.15}px, ${y * 0.15}px) translateY(-2px)`;
+      });
+      btn.addEventListener('mouseleave', () => {
+        btn.style.transform = '';
+      });
+    });
+  }
+</script>

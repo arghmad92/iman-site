@@ -1,27 +1,27 @@
 ---
 const topics = [
   {
-    icon: '✦',
     title: 'Beauty & Skincare',
     color: 'blush',
+    size: 'large',
     description:
       'From everyday makeup looks to targeted skincare routines — exfoliation, sunscreen picks, acne scar reduction, and pregnancy-safe beauty tips.',
-    tags: ['Makeup', 'Sunscreen', 'Exfoliation', 'Acne Scars', 'Pregnancy-safe'],
+    tags: ['Makeup', 'Sunscreen', 'Exfoliation', 'Acne Scars'],
   },
   {
-    icon: '◇',
     title: 'Parenting & Motherhood',
     color: 'petal',
+    size: 'medium',
     description:
       'Honest stories about pregnancy, the newborn phase, baby product reviews, and everything a first-time mum wishes she had known sooner.',
-    tags: ['Pregnancy', 'Newborn', 'Baby Products', 'First-time Mum'],
+    tags: ['Pregnancy', 'Newborn', 'Baby Products'],
   },
   {
-    icon: '○',
     title: 'Lifestyle',
-    color: 'gold',
+    color: 'sage',
+    size: 'small',
     description:
-      'Study tips, food discoveries, and the quiet everyday moments that make life beautiful. A mix of practical and personal.',
+      'Study tips, food discoveries, and the quiet everyday moments that make life beautiful.',
     tags: ['Study Tips', 'Food', 'Daily Life'],
   },
 ];
@@ -29,30 +29,80 @@ const topics = [
 const colorMap: Record<string, string> = {
   blush: 'var(--blush)',
   petal: 'var(--petal)',
-  gold: 'var(--gold-light)',
+  sage: 'var(--sage-light)',
 };
 ---
 
 <section id="topics" class="topics">
   <div class="topics-inner">
-    <div class="topics-header">
+    <div class="topics-header reveal">
       <p class="section-label">What I Write About</p>
       <h2 class="topics-heading">Three pillars,<br /><em>one honest voice.</em></h2>
     </div>
-    <div class="topics-grid">
-      {topics.map((topic, i) => (
-        <div class="topic-card" style={`--card-accent: ${colorMap[topic.color]}`}>
-          <div class="topic-icon">{topic.icon}</div>
-          <div class="topic-number">0{i + 1}</div>
-          <h3 class="topic-title">{topic.title}</h3>
-          <p class="topic-desc">{topic.description}</p>
-          <div class="topic-tags">
-            {topic.tags.map(tag => (
-              <span class="topic-tag">{tag}</span>
-            ))}
-          </div>
+
+    <div class="topics-bento stagger">
+      <!-- Card 1 — Large -->
+      <article class="topic-card topic-large" style={`--card-accent: ${colorMap[topics[0].color]}`}>
+        <div class="topic-illustration">
+          <!-- Line-art lipstick icon -->
+          <svg width="58" height="58" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M22 8 L38 8 L34 20 L26 20 Z" fill="var(--deep-rose)" fill-opacity="0.12"/>
+            <rect x="22" y="20" width="20" height="6" rx="1"/>
+            <rect x="24" y="26" width="16" height="30" rx="2"/>
+            <line x1="28" y1="34" x2="36" y2="34"/>
+            <line x1="28" y1="40" x2="36" y2="40"/>
+            <circle cx="50" cy="16" r="2.5" fill="var(--rose-gold)" fill-opacity="0.3"/>
+            <circle cx="14" cy="46" r="2" fill="var(--rose-gold)" fill-opacity="0.3"/>
+          </svg>
         </div>
-      ))}
+        <div class="topic-number">01</div>
+        <h3 class="topic-title">{topics[0].title}</h3>
+        <p class="topic-desc">{topics[0].description}</p>
+        <div class="topic-tags">
+          {topics[0].tags.map(tag => <span class="topic-tag">{tag}</span>)}
+        </div>
+      </article>
+
+      <!-- Card 2 — Medium -->
+      <article class="topic-card topic-medium" style={`--card-accent: ${colorMap[topics[1].color]}`}>
+        <div class="topic-illustration">
+          <!-- Line-art baby bottle icon -->
+          <svg width="52" height="52" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M24 10 L40 10 L40 16 L24 16 Z" fill="var(--rose-gold)" fill-opacity="0.15"/>
+            <path d="M22 16 L42 16 L42 52 Q42 58 36 58 L28 58 Q22 58 22 52 Z"/>
+            <line x1="26" y1="28" x2="38" y2="28"/>
+            <line x1="26" y1="34" x2="38" y2="34"/>
+            <line x1="26" y1="40" x2="38" y2="40"/>
+            <path d="M28 10 L28 6 Q28 4 30 4 L34 4 Q36 4 36 6 L36 10" fill="none"/>
+          </svg>
+        </div>
+        <div class="topic-number">02</div>
+        <h3 class="topic-title">{topics[1].title}</h3>
+        <p class="topic-desc">{topics[1].description}</p>
+        <div class="topic-tags">
+          {topics[1].tags.map(tag => <span class="topic-tag">{tag}</span>)}
+        </div>
+      </article>
+
+      <!-- Card 3 — Small -->
+      <article class="topic-card topic-small" style={`--card-accent: ${colorMap[topics[2].color]}`}>
+        <div class="topic-illustration">
+          <!-- Line-art coffee cup icon -->
+          <svg width="46" height="46" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M14 24 L14 46 Q14 52 20 52 L38 52 Q44 52 44 46 L44 24 Z" fill="var(--sage)" fill-opacity="0.15"/>
+            <path d="M44 28 L50 28 Q54 28 54 34 L54 38 Q54 44 50 44 L44 44"/>
+            <path d="M22 14 Q24 10 22 6" stroke-opacity="0.6"/>
+            <path d="M28 14 Q30 10 28 6" stroke-opacity="0.6"/>
+            <path d="M34 14 Q36 10 34 6" stroke-opacity="0.6"/>
+          </svg>
+        </div>
+        <div class="topic-number">03</div>
+        <h3 class="topic-title">{topics[2].title}</h3>
+        <p class="topic-desc">{topics[2].description}</p>
+        <div class="topic-tags">
+          {topics[2].tags.map(tag => <span class="topic-tag">{tag}</span>)}
+        </div>
+      </article>
     </div>
   </div>
 </section>
@@ -61,6 +111,8 @@ const colorMap: Record<string, string> = {
   .topics {
     padding: 6rem 2rem;
     background: var(--cream);
+    position: relative;
+    overflow: hidden;
   }
 
   .topics-inner {
@@ -91,22 +143,39 @@ const colorMap: Record<string, string> = {
     color: var(--rose-gold);
   }
 
-  .topics-grid {
+  /* ─────────── Bento Grid ─────────── */
+  .topics-bento {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
+    grid-template-columns: 1.3fr 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 1.2rem;
+    align-items: stretch;
   }
 
   .topic-card {
-    background: rgba(255, 255, 255, 0.5);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    border: 1px solid rgba(245, 213, 218, 0.4);
+    background: var(--white);
+    border: 1px solid var(--border);
     border-radius: 24px;
     padding: 2.2rem;
     position: relative;
     overflow: hidden;
-    transition: transform 0.25s, box-shadow 0.25s, background 0.25s;
+    transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s, border-color 0.35s, background 0.35s;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Subtle background shape */
+  .topic-card::after {
+    content: '';
+    position: absolute;
+    top: -40%;
+    right: -30%;
+    width: 60%;
+    height: 120%;
+    background: radial-gradient(circle, var(--card-accent) 0%, transparent 60%);
+    opacity: 0.45;
+    pointer-events: none;
+    transition: opacity 0.4s, transform 0.6s ease;
   }
 
   .topic-card::before {
@@ -118,41 +187,64 @@ const colorMap: Record<string, string> = {
     height: 4px;
     background: var(--card-accent);
     opacity: 0;
-    transition: opacity 0.25s;
+    transition: opacity 0.3s;
   }
 
   .topic-card:hover {
     transform: translateY(-6px);
-    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.05);
-    background: rgba(255, 255, 255, 0.7);
+    box-shadow: 0 24px 56px rgba(58, 40, 32, 0.08);
+    border-color: var(--rose-gold);
   }
 
   .topic-card:hover::before {
     opacity: 1;
   }
 
-  .topic-icon {
-    font-size: 1.2rem;
-    color: var(--text-muted);
-    margin-bottom: 1rem;
+  .topic-card:hover::after {
+    opacity: 0.7;
+    transform: scale(1.15) rotate(12deg);
+  }
+
+  /* Size variants — small margins to create asymmetry */
+  .topic-large {
+    margin-top: 0;
+  }
+
+  .topic-medium {
+    margin-top: 2rem;
+  }
+
+  .topic-small {
+    margin-top: 4rem;
+  }
+
+  .topic-illustration {
+    color: var(--text-primary);
+    margin-bottom: 1.4rem;
+    opacity: 0.9;
+    position: relative;
+    z-index: 1;
   }
 
   .topic-number {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 4rem;
+    font-size: 4.2rem;
     font-weight: 300;
     color: var(--card-accent);
     line-height: 1;
     position: absolute;
-    top: 1.5rem;
+    top: 1.6rem;
     right: 1.8rem;
-    opacity: 0.35;
+    opacity: 0.55;
+    z-index: 0;
   }
 
   .topic-title {
-    font-size: 1.25rem;
+    font-size: 1.3rem;
     color: var(--text-primary);
     margin-bottom: 0.9rem;
+    position: relative;
+    z-index: 1;
   }
 
   .topic-desc {
@@ -161,31 +253,60 @@ const colorMap: Record<string, string> = {
     line-height: 1.8;
     font-weight: 300;
     margin-bottom: 1.4rem;
+    position: relative;
+    z-index: 1;
+    flex-grow: 1;
   }
 
   .topic-tags {
     display: flex;
     flex-wrap: wrap;
     gap: 0.4rem;
+    position: relative;
+    z-index: 1;
   }
 
   .topic-tag {
     font-size: 0.68rem;
     letter-spacing: 0.06em;
-    color: var(--text-muted);
+    color: var(--text-secondary);
     background: var(--cream);
-    padding: 0.25rem 0.7rem;
+    padding: 0.3rem 0.75rem;
     border-radius: 100px;
     border: 1px solid var(--border);
+    transition: background 0.2s, border-color 0.2s;
   }
 
-  @media (max-width: 860px) {
-    .topics-grid {
+  .topic-card:hover .topic-tag {
+    background: var(--white);
+    border-color: var(--rose-gold);
+  }
+
+  @media (max-width: 960px) {
+    .topics-bento {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .topic-large {
+      grid-column: 1 / -1;
+    }
+
+    .topic-medium, .topic-small {
+      margin-top: 0;
+    }
+  }
+
+  @media (max-width: 620px) {
+    .topics-bento {
       grid-template-columns: 1fr;
     }
 
+    .topic-large {
+      grid-column: auto;
+    }
+
     .topic-number {
-      font-size: 3rem;
+      font-size: 3.2rem;
     }
   }
 </style>

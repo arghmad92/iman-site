@@ -10,7 +10,7 @@ const blogPosts = (await getCollection('blog', ({ data }) => !data.draft))
 const allPosts = blogPosts.map((p) => ({
   title: p.data.title,
   date: p.data.date,
-  url: p.data.externalUrl || `/posts/${p.slug}/`,
+  url: p.data.externalUrl || `/posts/${p.id}/`,
   category: p.data.category as Category,
   isLocal: !p.data.externalUrl,
 }));

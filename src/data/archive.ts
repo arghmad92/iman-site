@@ -343,14 +343,14 @@ export const archiveOnlyPosts: ArchivePost[] = archivePosts
 export const categories: Category[] = ['Skincare', 'Beauty', 'Motherhood', 'Parenting', 'Lifestyle'];
 
 // Merge content collection posts with archive posts (call from .astro files)
-export function mergeWithCollection(collectionPosts: { slug: string; data: { title: string; date: string; category: string } }[]): ArchivePost[] {
+export function mergeWithCollection(collectionPosts: { id: string; data: { title: string; date: string; category: string } }[]): ArchivePost[] {
   const localPosts: ArchivePost[] = collectionPosts.map((p) => ({
     title: p.data.title,
     date: p.data.date,
-    url: `/posts/${p.slug}/`,
+    url: `/posts/${p.id}/`,
     category: p.data.category as Category,
     isLocal: true,
-    localSlug: p.slug,
+    localSlug: p.id,
   }));
 
   return [

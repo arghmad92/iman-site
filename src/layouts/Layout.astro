@@ -79,11 +79,26 @@ const canonicalUrl = Astro.url.href;
     <slot name="head" />
   </head>
   <body>
+    <!-- Reading progress bar -->
+    <div class="scroll-progress" id="scrollProgress" aria-hidden="true"></div>
+
     <slot />
 
-    <!-- Back to top button -->
+    <!-- Back to top button with progress ring -->
     <button class="back-to-top" id="backToTop" aria-label="Back to top">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <svg class="btt-ring" width="48" height="48" viewBox="0 0 48 48">
+        <circle cx="24" cy="24" r="21" fill="none" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+        <circle
+          class="btt-ring-fill"
+          cx="24" cy="24" r="21"
+          fill="none" stroke="currentColor" stroke-width="2"
+          stroke-linecap="round"
+          stroke-dasharray="132"
+          stroke-dashoffset="132"
+          transform="rotate(-90 24 24)"
+        />
+      </svg>
+      <svg class="btt-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
         <polyline points="18 15 12 9 6 15"/>
       </svg>
     </button>
@@ -92,42 +107,48 @@ const canonicalUrl = Astro.url.href;
 
 <style is:global>
   :root {
-    --cream: #fef0f3;
-    --blush: #fad4dc;
-    --petal: #fde8ec;
-    --rose: #e8a0ad;
-    --rose-gold: #c9848c;
-    --gold: #c9a07a;
-    --gold-light: #f0dbc8;
-    --deep-rose: #b5616e;
-    --text-primary: #4a2830;
-    --text-secondary: #9e6b74;
-    --text-muted: #c4979e;
-    --border: #f5d5da;
+    --cream: #faf4f0;
+    --blush: #f5d5d0;
+    --petal: #fae4e4;
+    --rose: #e39a9f;
+    --rose-gold: #c08878;
+    --gold: #b8935a;
+    --gold-light: #efdcc4;
+    --deep-rose: #a8525c;
+    --sage: #a8b5a0;
+    --sage-light: #e3ead9;
+    --plum: #4a1e2e;
+    --text-primary: #3a2820;
+    --text-secondary: #8e6b60;
+    --text-muted: #bb9a8e;
+    --border: #f0d8d0;
     --white: #ffffff;
   }
 
   [data-theme="dark"] {
-    --cream: #1a0f11;
-    --blush: #2e1519;
-    --petal: #261217;
-    --rose: #7a3d47;
-    --rose-gold: #d4919a;
-    --gold: #c9a07a;
+    --cream: #14100e;
+    --blush: #2a1816;
+    --petal: #241210;
+    --rose: #8a4a4a;
+    --rose-gold: #d89a85;
+    --gold: #d4a872;
     --gold-light: #2a1e14;
-    --deep-rose: #e88090;
-    --text-primary: #f0dce0;
-    --text-secondary: #c4979e;
-    --text-muted: #8a5a63;
-    --border: #3d2028;
-    --white: #21151a;
-    --footer-bg: #14090b;
-    --footer-text: #f0dce0;
+    --deep-rose: #e88080;
+    --sage: #8a9a82;
+    --sage-light: #1e241a;
+    --plum: #e8a0b0;
+    --text-primary: #f0dcd0;
+    --text-secondary: #c4a898;
+    --text-muted: #80625a;
+    --border: #3a2820;
+    --white: #1c1410;
+    --footer-bg: #0e0806;
+    --footer-text: #f0dcd0;
   }
 
   :root {
-    --footer-bg: #4a2830;
-    --footer-text: #fef0f3;
+    --footer-bg: #3a2820;
+    --footer-text: #faf4f0;
   }
 
   *, *::before, *::after {
@@ -230,14 +251,27 @@ const canonicalUrl = Astro.url.href;
     border-radius: 3px;
   }
 
-  /* Back to top button */
+  /* Scroll progress bar */
+  .scroll-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 2px;
+    background: linear-gradient(90deg, var(--rose-gold), var(--plum));
+    z-index: 300;
+    transition: width 0.1s linear;
+    pointer-events: none;
+  }
+
+  /* Back to top button with progress ring */
   .back-to-top {
     position: fixed;
     bottom: 2rem;
     right: 2rem;
     z-index: 200;
-    width: 44px;
-    height: 44px;
+    width: 48px;
+    height: 48px;
     border-radius: 50%;
     background: var(--text-primary);
     color: var(--cream);
@@ -246,35 +280,176 @@ const canonicalUrl = Astro.url.href;
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 4px 16px rgba(74, 40, 48, 0.25);
+    box-shadow: 0 4px 20px rgba(58, 40, 32, 0.3);
     opacity: 0;
-    transform: translateY(12px);
-    transition: opacity 0.25s, transform 0.25s;
+    transform: translateY(12px) scale(0.9);
+    transition: opacity 0.3s, transform 0.3s, background 0.3s;
     pointer-events: none;
   }
 
   .back-to-top.visible {
     opacity: 1;
-    transform: translateY(0);
+    transform: translateY(0) scale(1);
     pointer-events: auto;
   }
 
   .back-to-top:hover {
-    background: var(--rose-gold);
-    transform: translateY(-2px);
+    background: var(--plum);
+    transform: translateY(-3px) scale(1.05);
+  }
+
+  .btt-ring {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+  }
+
+  .btt-ring-fill {
+    transition: stroke-dashoffset 0.1s linear;
+  }
+
+  .btt-arrow {
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ─────────── Scroll Reveal Utilities ─────────── */
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1), transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+    will-change: opacity, transform;
+  }
+
+  .reveal-left {
+    opacity: 0;
+    transform: translateX(-32px);
+    transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1), transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .reveal-right {
+    opacity: 0;
+    transform: translateX(32px);
+    transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1), transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .reveal-scale {
+    opacity: 0;
+    transform: scale(0.94);
+    transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1), transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .reveal.is-visible,
+  .reveal-left.is-visible,
+  .reveal-right.is-visible,
+  .reveal-scale.is-visible {
+    opacity: 1;
+    transform: translate(0) scale(1);
+  }
+
+  /* Stagger children — delay each successive element */
+  .stagger > * {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1), transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .stagger.is-visible > *:nth-child(1) { opacity: 1; transform: translateY(0); transition-delay: 0.05s; }
+  .stagger.is-visible > *:nth-child(2) { opacity: 1; transform: translateY(0); transition-delay: 0.15s; }
+  .stagger.is-visible > *:nth-child(3) { opacity: 1; transform: translateY(0); transition-delay: 0.25s; }
+  .stagger.is-visible > *:nth-child(4) { opacity: 1; transform: translateY(0); transition-delay: 0.35s; }
+  .stagger.is-visible > *:nth-child(5) { opacity: 1; transform: translateY(0); transition-delay: 0.45s; }
+  .stagger.is-visible > *:nth-child(6) { opacity: 1; transform: translateY(0); transition-delay: 0.55s; }
+  .stagger.is-visible > *:nth-child(7) { opacity: 1; transform: translateY(0); transition-delay: 0.65s; }
+
+  /* Respect users who prefer reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+
+    .reveal,
+    .reveal-left,
+    .reveal-right,
+    .reveal-scale,
+    .stagger > * {
+      opacity: 1 !important;
+      transform: none !important;
+    }
+
+    body::before,
+    body::after {
+      animation: none !important;
+    }
   }
 </style>
 
 <script>
-  // Back to top
+  // Scroll progress bar + back-to-top progress ring
   const backToTop = document.getElementById('backToTop');
-  window.addEventListener('scroll', () => {
-    backToTop?.classList.toggle('visible', window.scrollY > 400);
-  }, { passive: true });
+  const progressBar = document.getElementById('scrollProgress');
+  const ringFill = document.querySelector('.btt-ring-fill') as SVGCircleElement | null;
+  const ringCircumference = 2 * Math.PI * 21; // r=21
+
+  function updateScrollProgress() {
+    const scrolled = window.scrollY;
+    const max = document.documentElement.scrollHeight - window.innerHeight;
+    const pct = max > 0 ? (scrolled / max) : 0;
+    const clamped = Math.max(0, Math.min(1, pct));
+    if (progressBar) progressBar.style.width = (clamped * 100) + '%';
+    if (ringFill) ringFill.style.strokeDashoffset = String(ringCircumference * (1 - clamped));
+    backToTop?.classList.toggle('visible', scrolled > 400);
+  }
+
+  window.addEventListener('scroll', updateScrollProgress, { passive: true });
+  window.addEventListener('resize', updateScrollProgress, { passive: true });
+  updateScrollProgress();
+
   backToTop?.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
+  // ─────────── IntersectionObserver scroll reveal ───────────
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  if (!prefersReducedMotion && 'IntersectionObserver' in window) {
+    const revealObserver = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('is-visible');
+            revealObserver.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.12, rootMargin: '0px 0px -40px 0px' }
+    );
+
+    const observeTargets = () => {
+      document
+        .querySelectorAll('.reveal, .reveal-left, .reveal-right, .reveal-scale, .stagger')
+        .forEach((el) => revealObserver.observe(el));
+    };
+
+    // Run on load, and also when Astro view transitions trigger
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', observeTargets);
+    } else {
+      observeTargets();
+    }
+  } else {
+    // If motion is reduced, make everything visible immediately
+    document
+      .querySelectorAll('.reveal, .reveal-left, .reveal-right, .reveal-scale, .stagger')
+      .forEach((el) => el.classList.add('is-visible'));
+  }
+
   // Dark mode toggle — triggered by header button
-  window.__toggleTheme = function () {
+  (window as any).__toggleTheme = function () {
     const html = document.documentElement;
     const isDark = html.getAttribute('data-theme') === 'dark';
     html.setAttribute('data-theme', isDark ? 'light' : 'dark');
