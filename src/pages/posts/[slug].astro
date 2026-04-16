@@ -226,6 +226,10 @@ const breadcrumbSchema = {
             <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.747l7.73-8.835L1.254 2.25H8.08l4.261 5.628L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z"/></svg>
             Twitter / X
           </a>
+          <button class="share-btn share-ig" id="shareIgStory" type="button">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="5"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>
+            IG Story
+          </button>
         </div>
       </div>
     </article>
@@ -283,7 +287,13 @@ const breadcrumbSchema = {
 </Layout>
 )}
 
-<script define:vars={{ slug: post.id }}>
+<script define:vars={{
+  slug: post.id,
+  storyTitle: post.data.title,
+  storyCategory: post.data.category,
+  storyImage: post.data.image || '',
+  storyUrl: `https://imanabdulrahim.com/posts/${post.id}/`,
+}}>
   // Reading progress bar
   const bar = document.getElementById('readingBar');
   const article = document.getElementById('postArticle');
@@ -357,6 +367,193 @@ const breadcrumbSchema = {
       }
     } catch {
       // Network error — keep the optimistic +1, localStorage remembers the like
+    }
+  });
+
+  // ─────────── Instagram Story Card Generator ───────────
+  const igBtn = document.getElementById('shareIgStory');
+
+  function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
+    const words = text.split(' ');
+    let line = '';
+    const lines = [];
+    for (const word of words) {
+      const test = line + word + ' ';
+      if (ctx.measureText(test).width > maxWidth && line) {
+        lines.push(line.trim());
+        line = word + ' ';
+      } else {
+        line = test;
+      }
+    }
+    lines.push(line.trim());
+    // Center the block vertically around y
+    const startY = y - ((lines.length - 1) * lineHeight) / 2;
+    lines.forEach((l, i) => ctx.fillText(l, x, startY + i * lineHeight));
+    return lines.length;
+  }
+
+  function generateStoryCard(bgImage) {
+    const W = 1080, H = 1920;
+    const canvas = document.createElement('canvas');
+    canvas.width = W; canvas.height = H;
+    const ctx = canvas.getContext('2d');
+    if (!ctx) return;
+
+    // ── Background ──
+    if (bgImage) {
+      // Draw cover image filling the canvas (cover fit)
+      const imgRatio = bgImage.naturalWidth / bgImage.naturalHeight;
+      const canvasRatio = W / H;
+      let sw, sh, sx, sy;
+      if (imgRatio > canvasRatio) {
+        sh = bgImage.naturalHeight;
+        sw = sh * canvasRatio;
+        sx = (bgImage.naturalWidth - sw) / 2;
+        sy = 0;
+      } else {
+        sw = bgImage.naturalWidth;
+        sh = sw / canvasRatio;
+        sx = 0;
+        sy = (bgImage.naturalHeight - sh) / 2;
+      }
+      ctx.drawImage(bgImage, sx, sy, sw, sh, 0, 0, W, H);
+
+      // Darken overlay — heavier at top and bottom for text readability
+      const topGrad = ctx.createLinearGradient(0, 0, 0, H * 0.45);
+      topGrad.addColorStop(0, 'rgba(30, 16, 12, 0.85)');
+      topGrad.addColorStop(1, 'rgba(30, 16, 12, 0.15)');
+      ctx.fillStyle = topGrad;
+      ctx.fillRect(0, 0, W, H * 0.45);
+
+      const botGrad = ctx.createLinearGradient(0, H * 0.5, 0, H);
+      botGrad.addColorStop(0, 'rgba(30, 16, 12, 0.1)');
+      botGrad.addColorStop(1, 'rgba(30, 16, 12, 0.92)');
+      ctx.fillStyle = botGrad;
+      ctx.fillRect(0, H * 0.5, W, H * 0.5);
+    } else {
+      // Solid gradient fallback if no image
+      const grad = ctx.createLinearGradient(0, 0, W, H);
+      grad.addColorStop(0, '#3a2820');
+      grad.addColorStop(0.5, '#4a1e2e');
+      grad.addColorStop(1, '#1c1410');
+      ctx.fillStyle = grad;
+      ctx.fillRect(0, 0, W, H);
+    }
+
+    // ── Top: Blog logo ──
+    ctx.textAlign = 'center';
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.55)';
+    ctx.font = 'italic 42px "Cormorant Garamond", Georgia, serif';
+    ctx.fillText('iman · blog', W / 2, 120);
+
+    // ── Top: Category pill ──
+    const catText = storyCategory.toUpperCase();
+    ctx.font = '500 28px "DM Sans", sans-serif';
+    const catWidth = ctx.measureText(catText).width + 56;
+    const catX = (W - catWidth) / 2;
+    const catY = 170;
+
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.15)';
+    const pillRadius = 24;
+    ctx.beginPath();
+    ctx.roundRect(catX, catY, catWidth, 48, pillRadius);
+    ctx.fill();
+
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.7)';
+    ctx.font = '500 24px "DM Sans", sans-serif';
+    ctx.letterSpacing = '4px';
+    ctx.fillText(catText, W / 2, catY + 33);
+    ctx.letterSpacing = '0px';
+
+    // ── Center: Post title ──
+    ctx.fillStyle = '#fff';
+    ctx.font = '500 72px "Cormorant Garamond", Georgia, serif';
+    const titleY = bgImage ? H * 0.42 : H * 0.44;
+    wrapText(ctx, storyTitle, W / 2, titleY, W - 160, 92);
+
+    // ── Decorative line ──
+    ctx.strokeStyle = 'rgba(192, 136, 120, 0.6)';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(W / 2 - 60, H - 320);
+    ctx.lineTo(W / 2 + 60, H - 320);
+    ctx.stroke();
+
+    // ── Bottom: URL ──
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
+    ctx.font = '300 30px "DM Sans", sans-serif';
+    ctx.fillText('Read more at', W / 2, H - 240);
+
+    ctx.fillStyle = '#fff';
+    ctx.font = '500 38px "DM Sans", sans-serif';
+    ctx.fillText('imanabdulrahim.com', W / 2, H - 185);
+
+    // ── Bottom: Swipe up hint ──
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.35)';
+    ctx.font = '300 26px "DM Sans", sans-serif';
+    ctx.letterSpacing = '6px';
+    ctx.fillText('SWIPE UP', W / 2, H - 80);
+    ctx.letterSpacing = '0px';
+
+    // ── Decorative corner dots ──
+    ctx.fillStyle = 'rgba(192, 136, 120, 0.3)';
+    ctx.beginPath(); ctx.arc(80, 80, 6, 0, Math.PI * 2); ctx.fill();
+    ctx.beginPath(); ctx.arc(W - 80, 80, 6, 0, Math.PI * 2); ctx.fill();
+    ctx.beginPath(); ctx.arc(80, H - 80, 6, 0, Math.PI * 2); ctx.fill();
+    ctx.beginPath(); ctx.arc(W - 80, H - 80, 6, 0, Math.PI * 2); ctx.fill();
+
+    return canvas;
+  }
+
+  igBtn?.addEventListener('click', () => {
+    const btn = igBtn;
+    const origHTML = btn.innerHTML;
+    btn.innerHTML = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v4m0 12v4M4.93 4.93l2.83 2.83m8.48 8.48l2.83 2.83M2 12h4m12 0h4M4.93 19.07l2.83-2.83m8.48-8.48l2.83-2.83"><animateTransform attributeName="transform" type="rotate" from="0 12 12" to="360 12 12" dur="1s" repeatCount="indefinite"/></path></svg> Creating...`;
+    btn.disabled = true;
+
+    function downloadCard(canvas) {
+      canvas.toBlob((blob) => {
+        if (!blob) return;
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `iman-story-${slug.slice(0, 40)}.png`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+
+        btn.innerHTML = origHTML;
+        btn.disabled = false;
+
+        // On mobile, try opening Instagram after a brief delay
+        const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+        if (isMobile) {
+          setTimeout(() => {
+            window.location.href = 'instagram://story-camera';
+          }, 800);
+        }
+      }, 'image/png');
+    }
+
+    // Try loading the cover image for the background
+    if (storyImage) {
+      const img = new Image();
+      img.crossOrigin = 'anonymous';
+      img.onload = () => {
+        const canvas = generateStoryCard(img);
+        if (canvas) downloadCard(canvas);
+      };
+      img.onerror = () => {
+        // CORS blocked or image failed — generate without background
+        const canvas = generateStoryCard(null);
+        if (canvas) downloadCard(canvas);
+      };
+      img.src = storyImage;
+    } else {
+      const canvas = generateStoryCard(null);
+      if (canvas) downloadCard(canvas);
     }
   });
 </script>
@@ -782,6 +979,13 @@ const breadcrumbSchema = {
   .share-wa { background: #25D366; color: #fff; }
   .share-fb { background: #1877F2; color: #fff; }
   .share-tw { background: #000; color: #fff; }
+  .share-ig {
+    background: linear-gradient(135deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+  }
 
   /* Related posts */
   .related-posts {
