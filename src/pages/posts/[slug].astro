@@ -400,108 +400,143 @@ const breadcrumbSchema = {
     const ctx = canvas.getContext('2d');
     if (!ctx) return;
 
-    // ── Background ──
+    // ── Palette (light mode — matches blog cream/rose palette) ──
+    const cream     = '#faf4f0';
+    const ink       = '#3a2820';
+    const roseGold  = '#c08878';
+    const muted     = '#bb9a8e';
+    const blush     = '#f5d5d0';
+    const sage      = '#a8b5a0';
+
+    // ── Background: warm cream base ──
+    ctx.fillStyle = cream;
+    ctx.fillRect(0, 0, W, H);
+
+    // ── Cover image in a rounded frame (middle section) ──
     if (bgImage) {
-      // Draw cover image filling the canvas (cover fit)
+      const imgY = 280;
+      const imgH = 820;
+      const imgW = W - 140;
+      const imgX = 70;
+      const radius = 36;
+
+      ctx.save();
+      ctx.beginPath();
+      ctx.roundRect(imgX, imgY, imgW, imgH, radius);
+      ctx.clip();
+
+      // Cover-fit the image inside the frame
       const imgRatio = bgImage.naturalWidth / bgImage.naturalHeight;
-      const canvasRatio = W / H;
+      const frameRatio = imgW / imgH;
       let sw, sh, sx, sy;
-      if (imgRatio > canvasRatio) {
+      if (imgRatio > frameRatio) {
         sh = bgImage.naturalHeight;
-        sw = sh * canvasRatio;
+        sw = sh * frameRatio;
         sx = (bgImage.naturalWidth - sw) / 2;
         sy = 0;
       } else {
         sw = bgImage.naturalWidth;
-        sh = sw / canvasRatio;
+        sh = sw / frameRatio;
         sx = 0;
-        sy = (bgImage.naturalHeight - sh) / 2;
+        sy = 0;
       }
-      ctx.drawImage(bgImage, sx, sy, sw, sh, 0, 0, W, H);
+      ctx.drawImage(bgImage, sx, sy, sw, sh, imgX, imgY, imgW, imgH);
+      ctx.restore();
 
-      // Darken overlay — heavier at top and bottom for text readability
-      const topGrad = ctx.createLinearGradient(0, 0, 0, H * 0.45);
-      topGrad.addColorStop(0, 'rgba(30, 16, 12, 0.85)');
-      topGrad.addColorStop(1, 'rgba(30, 16, 12, 0.15)');
-      ctx.fillStyle = topGrad;
-      ctx.fillRect(0, 0, W, H * 0.45);
-
-      const botGrad = ctx.createLinearGradient(0, H * 0.5, 0, H);
-      botGrad.addColorStop(0, 'rgba(30, 16, 12, 0.1)');
-      botGrad.addColorStop(1, 'rgba(30, 16, 12, 0.92)');
-      ctx.fillStyle = botGrad;
-      ctx.fillRect(0, H * 0.5, W, H * 0.5);
-    } else {
-      // Solid gradient fallback if no image
-      const grad = ctx.createLinearGradient(0, 0, W, H);
-      grad.addColorStop(0, '#3a2820');
-      grad.addColorStop(0.5, '#4a1e2e');
-      grad.addColorStop(1, '#1c1410');
-      ctx.fillStyle = grad;
-      ctx.fillRect(0, 0, W, H);
+      // Subtle shadow under frame
+      ctx.save();
+      ctx.shadowColor = 'rgba(58, 40, 32, 0.12)';
+      ctx.shadowBlur = 40;
+      ctx.shadowOffsetY = 16;
+      ctx.strokeStyle = 'rgba(240, 216, 208, 0.5)';
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.roundRect(imgX, imgY, imgW, imgH, radius);
+      ctx.stroke();
+      ctx.restore();
     }
+
+    // ── Decorative blush circle (top-right) ──
+    const circGrad = ctx.createRadialGradient(W - 100, 160, 0, W - 100, 160, 260);
+    circGrad.addColorStop(0, 'rgba(245, 213, 208, 0.5)');
+    circGrad.addColorStop(1, 'rgba(245, 213, 208, 0)');
+    ctx.fillStyle = circGrad;
+    ctx.beginPath(); ctx.arc(W - 100, 160, 260, 0, Math.PI * 2); ctx.fill();
+
+    // ── Decorative sage circle (bottom-left) ──
+    const sageGrad = ctx.createRadialGradient(120, H - 300, 0, 120, H - 300, 200);
+    sageGrad.addColorStop(0, 'rgba(168, 181, 160, 0.25)');
+    sageGrad.addColorStop(1, 'rgba(168, 181, 160, 0)');
+    ctx.fillStyle = sageGrad;
+    ctx.beginPath(); ctx.arc(120, H - 300, 200, 0, Math.PI * 2); ctx.fill();
 
     // ── Top: Blog logo ──
     ctx.textAlign = 'center';
-    ctx.fillStyle = 'rgba(255, 255, 255, 0.55)';
-    ctx.font = 'italic 42px "Cormorant Garamond", Georgia, serif';
-    ctx.fillText('iman · blog', W / 2, 120);
+    ctx.fillStyle = roseGold;
+    ctx.font = 'italic 44px "Cormorant Garamond", Georgia, serif';
+    ctx.fillText('iman · blog', W / 2, 140);
 
-    // ── Top: Category pill ──
+    // ── Category pill ──
     const catText = storyCategory.toUpperCase();
     ctx.font = '500 28px "DM Sans", sans-serif';
     const catWidth = ctx.measureText(catText).width + 56;
     const catX = (W - catWidth) / 2;
-    const catY = 170;
+    const catY = 188;
 
-    ctx.fillStyle = 'rgba(255, 255, 255, 0.15)';
-    const pillRadius = 24;
+    ctx.fillStyle = blush;
     ctx.beginPath();
-    ctx.roundRect(catX, catY, catWidth, 48, pillRadius);
+    ctx.roundRect(catX, catY, catWidth, 48, 24);
     ctx.fill();
 
-    ctx.fillStyle = 'rgba(255, 255, 255, 0.7)';
-    ctx.font = '500 24px "DM Sans", sans-serif';
+    ctx.fillStyle = ink;
+    ctx.font = '500 22px "DM Sans", sans-serif';
     ctx.letterSpacing = '4px';
-    ctx.fillText(catText, W / 2, catY + 33);
+    ctx.fillText(catText, W / 2, catY + 32);
     ctx.letterSpacing = '0px';
 
-    // ── Center: Post title ──
-    ctx.fillStyle = '#fff';
-    ctx.font = '500 72px "Cormorant Garamond", Georgia, serif';
-    const titleY = bgImage ? H * 0.42 : H * 0.44;
-    wrapText(ctx, storyTitle, W / 2, titleY, W - 160, 92);
+    // ── Post title — below image ──
+    const titleStartY = bgImage ? 1200 : H * 0.42;
+    ctx.fillStyle = ink;
+    ctx.font = '500 68px "Cormorant Garamond", Georgia, serif';
+    wrapText(ctx, storyTitle, W / 2, titleStartY, W - 160, 88);
 
-    // ── Decorative line ──
-    ctx.strokeStyle = 'rgba(192, 136, 120, 0.6)';
+    // ── Decorative rose-gold line ──
+    ctx.strokeStyle = roseGold;
     ctx.lineWidth = 2;
     ctx.beginPath();
-    ctx.moveTo(W / 2 - 60, H - 320);
-    ctx.lineTo(W / 2 + 60, H - 320);
+    ctx.moveTo(W / 2 - 50, H - 340);
+    ctx.lineTo(W / 2 + 50, H - 340);
     ctx.stroke();
 
-    // ── Bottom: URL ──
-    ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
-    ctx.font = '300 30px "DM Sans", sans-serif';
-    ctx.fillText('Read more at', W / 2, H - 240);
+    // ── Bottom: "Read more at" ──
+    ctx.fillStyle = muted;
+    ctx.font = '300 28px "DM Sans", sans-serif';
+    ctx.fillText('Read more at', W / 2, H - 260);
 
-    ctx.fillStyle = '#fff';
-    ctx.font = '500 38px "DM Sans", sans-serif';
-    ctx.fillText('imanabdulrahim.com', W / 2, H - 185);
+    ctx.fillStyle = ink;
+    ctx.font = '500 36px "DM Sans", sans-serif';
+    ctx.fillText('imanabdulrahim.com', W / 2, H - 205);
 
-    // ── Bottom: Swipe up hint ──
-    ctx.fillStyle = 'rgba(255, 255, 255, 0.35)';
-    ctx.font = '300 26px "DM Sans", sans-serif';
+    // ── Swipe up hint ──
+    ctx.fillStyle = muted;
+    ctx.font = '300 24px "DM Sans", sans-serif';
     ctx.letterSpacing = '6px';
     ctx.fillText('SWIPE UP', W / 2, H - 80);
     ctx.letterSpacing = '0px';
 
-    // ── Decorative corner dots ──
-    ctx.fillStyle = 'rgba(192, 136, 120, 0.3)';
-    ctx.beginPath(); ctx.arc(80, 80, 6, 0, Math.PI * 2); ctx.fill();
-    ctx.beginPath(); ctx.arc(W - 80, 80, 6, 0, Math.PI * 2); ctx.fill();
-    ctx.beginPath(); ctx.arc(80, H - 80, 6, 0, Math.PI * 2); ctx.fill();
-    ctx.beginPath(); ctx.arc(W - 80, H - 80, 6, 0, Math.PI * 2); ctx.fill();
+    // ── Decorative corner dots — rose-gold ──
+    ctx.fillStyle = 'rgba(192, 136, 120, 0.35)';
+    ctx.beginPath(); ctx.arc(70, 70, 5, 0, Math.PI * 2); ctx.fill();
+    ctx.beginPath(); ctx.arc(W - 70, 70, 5, 0, Math.PI * 2); ctx.fill();
+    ctx.beginPath(); ctx.arc(70, H - 60, 5, 0, Math.PI * 2); ctx.fill();
+    ctx.beginPath(); ctx.arc(W - 70, H - 60, 5, 0, Math.PI * 2); ctx.fill();
+
+    // ── Thin border frame ──
+    ctx.strokeStyle = 'rgba(240, 216, 208, 0.6)';
+    ctx.lineWidth = 1.5;
+    ctx.beginPath();
+    ctx.roundRect(40, 40, W - 80, H - 80, 24);
+    ctx.stroke();
 
     return canvas;
   }
