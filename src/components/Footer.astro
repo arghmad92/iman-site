@@ -79,15 +79,15 @@ const year = new Date().getFullYear();
 </footer>
 
 <script>
-  // CounterAPI — free, no signup, persists visits globally
-  const API = 'https://api.counterapi.dev/v1/imanabdulrahim-blog/visitors/up';
+  // Visitor counter — abacus.jasoncameron.dev (free, no auth, reliable)
+  const VISITOR_API = 'https://abacus.jasoncameron.dev/hit/imanabdulrahim/visitors';
   const el = document.getElementById('visitorCount');
 
-  fetch(API)
+  fetch(VISITOR_API)
     .then((r) => r.json())
     .then((data) => {
-      if (el && typeof data.count === 'number') {
-        el.textContent = data.count.toLocaleString('en-MY');
+      if (el && typeof data.value === 'number') {
+        el.textContent = data.value.toLocaleString('en-MY');
       }
     })
     .catch(() => {

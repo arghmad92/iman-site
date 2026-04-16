@@ -297,24 +297,38 @@ const breadcrumbSchema = {
     }, { passive: true });
   }
 
-  // Like button
+  // Like button — uses abacus.jasoncameron.dev (free, no auth, reliable)
   const LIKE_KEY = `like-post-${slug}`;
-  const LIKE_API = `https://api.counterapi.dev/v1/imanabdulrahim-blog/like-${slug}`;
+  const NAMESPACE = 'imanabdulrahim';
+  // Abacus requires keys: 3-64 chars, alphanumeric/underscore/hyphen only
+  const counterKey = `like-${slug}`.slice(0, 64).replace(/[^a-zA-Z0-9_-]/g, '-');
+  const LIKE_GET = `https://abacus.jasoncameron.dev/get/${NAMESPACE}/${counterKey}`;
+  const LIKE_HIT = `https://abacus.jasoncameron.dev/hit/${NAMESPACE}/${counterKey}`;
+
   const likeBtn = document.getElementById('likeBtn');
   const likeCount = document.getElementById('likeCount');
   const likeHeart = document.getElementById('likeHeart');
   let liked = localStorage.getItem(LIKE_KEY) === '1';
 
-  // Load current count
-  fetch(LIKE_API.replace('/up', '/get'))
-    .then((r) => r.json())
-    .then((data) => {
-      if (likeCount && typeof data.count === 'number') {
-        likeCount.textContent = data.count.toLocaleString('en-MY');
-      }
-    })
-    .catch(() => {});
+  // Helper: parse abacus response (shape: { value: number })
+  function readCount(data) {
+    if (data && typeof data.value === 'number') return data.value;
+    return null;
+  }
 
+  // Load current count — if the counter doesn't exist yet, abacus 404s.
+  // Fall back to 0 so the UI is always populated.
+  fetch(LIKE_GET)
+    .then((r) => (r.ok ? r.json() : { value: 0 }))
+    .then((data) => {
+      const n = readCount(data);
+      if (likeCount) likeCount.textContent = (n ?? 0).toLocaleString('en-MY');
+    })
+    .catch(() => {
+      if (likeCount) likeCount.textContent = '0';
+    });
+
+  // Restore "already liked" state from localStorage
   if (liked && likeBtn && likeHeart) {
     likeBtn.classList.add('liked');
     likeHeart.textContent = '♥';
@@ -327,13 +341,23 @@ const breadcrumbSchema = {
     likeBtn.classList.add('liked');
     if (likeHeart) likeHeart.textContent = '♥';
 
+    // Optimistic: bump the displayed count immediately so the UI feels responsive
+    if (likeCount) {
+      const current = parseInt((likeCount.textContent || '0').replace(/\D/g, ''), 10) || 0;
+      likeCount.textContent = (current + 1).toLocaleString('en-MY');
+    }
+
+    // Fire-and-forget increment — /hit both creates (if missing) and increments
     try {
-      const res = await fetch(LIKE_API);
-      const data = await res.json();
-      if (likeCount && typeof data.count === 'number') {
-        likeCount.textContent = data.count.toLocaleString('en-MY');
+      const res = await fetch(LIKE_HIT);
+      if (res.ok) {
+        const data = await res.json();
+        const n = readCount(data);
+        if (likeCount && n != null) likeCount.textContent = n.toLocaleString('en-MY');
       }
-    } catch {}
+    } catch {
+      // Network error — keep the optimistic +1, localStorage remembers the like
+    }
   });
 </script>
 
@@ -354,14 +378,14 @@ const breadcrumbSchema = {
     position: fixed;
     top: 0; left: 0; right: 0;
     z-index: 100;
-    background: rgba(254, 240, 243, 0.9);
+    background: rgba(250, 244, 240, 0.85);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--border);
   }
 
   :global([data-theme="dark"]) .site-header {
-    background: rgba(26, 15, 17, 0.95);
+    background: rgba(20, 16, 14, 0.9);
   }
 
   :global([data-theme="dark"]) .logo-text {
