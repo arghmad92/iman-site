@@ -1,0 +1,90 @@
+---
+import { getCollection } from 'astro:content';
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const totalPosts = allPosts.length;
+---
+
+<section class="stats-strip reveal">
+  <div class="stats-grid stagger">
+    <div class="stat-block">
+      <span class="stat-block-label">Volume</span>
+      <span class="stat-block-num">{totalPosts}<em>+</em></span>
+      <span class="stat-block-sub">published chapters</span>
+    </div>
+    <div class="stat-block">
+      <span class="stat-block-label">Since</span>
+      <span class="stat-block-num">2015</span>
+      <span class="stat-block-sub">eleven years writing</span>
+    </div>
+    <div class="stat-block">
+      <span class="stat-block-label">Pillars</span>
+      <span class="stat-block-num">03</span>
+      <span class="stat-block-sub">beauty · motherhood · life</span>
+    </div>
+    <div class="stat-block">
+      <span class="stat-block-label">From</span>
+      <span class="stat-block-num">KL</span>
+      <span class="stat-block-sub">Kuala Lumpur, Malaysia</span>
+    </div>
+  </div>
+</section>
+
+<style>
+  .stats-strip {
+    padding: 3rem 2.5rem;
+    border-top: 1px solid var(--border-soft);
+    border-bottom: 1px solid var(--border-soft);
+  }
+  .stats-grid {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+  }
+  .stat-block {
+    padding: 1.5rem 2rem;
+    border-right: 1px solid var(--border-soft);
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+  .stat-block:last-child { border-right: none; }
+  .stat-block-label {
+    font-size: 0.62rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+    margin-bottom: 0.4rem;
+  }
+  .stat-block-num {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-size: 3rem;
+    color: var(--ink);
+    line-height: 1;
+    letter-spacing: -0.02em;
+  }
+  .stat-block-num em {
+    font-style: italic;
+    color: var(--rose-gold);
+    font-size: 1.4rem;
+    font-weight: 300;
+    margin-left: 0.2rem;
+  }
+  .stat-block-sub {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.95rem;
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+
+  @media (max-width: 720px) {
+    .stats-grid { grid-template-columns: repeat(2, 1fr); }
+    .stat-block { padding: 1.2rem 1.2rem; }
+    .stat-block:nth-child(2n) { border-right: none; }
+    .stat-block:nth-child(1), .stat-block:nth-child(2) { border-bottom: 1px solid var(--border-soft); }
+    .stat-block-num { font-size: 2.4rem; }
+  }
+</style>

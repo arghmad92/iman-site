@@ -1,0 +1,48 @@
+---
+---
+
+<div class="side-label left" aria-hidden="true">Volume XI · MMXXVI</div>
+<div class="side-label right" aria-hidden="true">Kuala Lumpur · Malaysia</div>
+
+<style>
+  .side-label {
+    position: fixed;
+    top: 50%;
+    z-index: 50;
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+    font-size: 0.6rem;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+    pointer-events: none;
+    mix-blend-mode: multiply;
+  }
+  :global([data-theme="dark"]) .side-label {
+    mix-blend-mode: normal;
+  }
+  .side-label.left {
+    left: 1.8rem;
+    transform: translateY(-50%) rotate(-90deg);
+    transform-origin: left center;
+  }
+  .side-label.right {
+    right: 1.8rem;
+    transform: translateY(-50%) rotate(90deg);
+    transform-origin: right center;
+  }
+  .side-label::before,
+  .side-label::after {
+    content: '';
+    width: 24px;
+    height: 1px;
+    background: var(--muted);
+    opacity: 0.4;
+  }
+
+  @media (max-width: 1280px) {
+    .side-label { display: none; }
+  }
+</style>

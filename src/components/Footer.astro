@@ -2,87 +2,74 @@
 const year = new Date().getFullYear();
 ---
 
-<footer class="footer">
-  <!-- Newsletter -->
-  <div class="newsletter-band">
-    <div class="newsletter-inner">
-      <div class="newsletter-text">
-        <p class="newsletter-label">Stay in the loop</p>
-        <h2 class="newsletter-heading">Get new posts delivered<br /><em>straight to your inbox.</em></h2>
-        <p class="newsletter-sub">Beauty tips, motherhood stories & lifestyle finds — no spam, ever.</p>
-      </div>
-      <form class="newsletter-form" action="https://formspree.io/f/mojyjrra" method="POST">
-        <input type="hidden" name="_subject" value="New newsletter subscriber" />
-        <div class="form-row">
-          <input
-            type="email"
-            name="email"
-            placeholder="your@email.com"
-            required
-            class="newsletter-input"
-          />
-          <button type="submit" class="newsletter-btn">Subscribe</button>
-        </div>
-        <p class="newsletter-privacy">No spam. Unsubscribe anytime.</p>
-      </form>
-    </div>
+<!-- Editorial newsletter -->
+<section class="newsletter-section">
+  <div class="newsletter-inner reveal">
+    <p class="newsletter-label">— Correspondence</p>
+    <h2 class="newsletter-title">Letters from <em>Kuala Lumpur.</em></h2>
+    <p class="newsletter-sub">New chapters in your inbox. No noise, no spam — just the writing.</p>
+    <form class="newsletter-form" action="https://formspree.io/f/mojyjrra" method="POST">
+      <input type="hidden" name="_subject" value="New newsletter subscriber" />
+      <input type="email" name="email" placeholder="your@email.com" required />
+      <button type="submit">Subscribe →</button>
+    </form>
+    <p class="newsletter-privacy">No spam. Unsubscribe anytime.</p>
   </div>
+</section>
 
+<!-- Footer -->
+<footer class="footer">
   <div class="footer-inner">
     <div class="footer-brand">
-      <a href="#home" class="footer-logo">
-        <span class="logo-text">iman</span>
-        <span class="logo-dot">·</span>
-        <span class="logo-sub">blog</span>
-      </a>
-      <p class="footer-tagline">Beauty · Parenting · Lifestyle<br />— honest stories from Malaysia.</p>
+      <h3>iman<em>·</em>blog</h3>
+      <p>A journal on beauty, motherhood, and the quiet moments in between. Written from Kuala Lumpur since 2015.</p>
 
       <!-- Visitor counter -->
       <div class="visitor-wrap">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
           <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
           <circle cx="9" cy="7" r="4"/>
-          <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
-          <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
         </svg>
-        <span class="visitor-label">Total visitors</span>
+        <span class="visitor-label">Readers</span>
         <span class="visitor-count" id="visitorCount">—</span>
       </div>
     </div>
-
-    <div class="footer-links">
-      <div class="footer-col">
-        <span class="footer-col-title">Explore</span>
-        <a href="#about">About</a>
-        <a href="#topics">Topics</a>
-        <a href="/categories/">Categories</a>
-        <a href="/posts/">All Posts</a>
-        <a href="/rss.xml">RSS Feed</a>
-        <a href="/privacy/">Privacy Policy</a>
-      </div>
-      <div class="footer-col">
-        <span class="footer-col-title">Connect</span>
-        <a href="https://www.instagram.com/imanabdulrahim" target="_blank" rel="noopener">Instagram</a>
-        <a href="https://www.facebook.com/imanabdulrahimblog" target="_blank" rel="noopener">Facebook</a>
-        <a href="https://twitter.com/imanabdulrahim" target="_blank" rel="noopener">Twitter</a>
-        <a href="https://www.tiktok.com/@imanabdulrahim_" target="_blank" rel="noopener">TikTok</a>
-        <a href="mailto:iman.abdrahim@yahoo.com">Email</a>
-        <a href="/contact/">Collaborate</a>
-        <a href="/media-kit/">Media Kit</a>
-      </div>
+    <div class="footer-col">
+      <h4>Index</h4>
+      <a href="#topics">Beauty</a>
+      <a href="#topics">Motherhood</a>
+      <a href="#topics">Lifestyle</a>
+      <a href="/posts/">Archive</a>
+      <a href="/categories/">Categories</a>
+      <a href="/rss.xml">RSS Feed</a>
+    </div>
+    <div class="footer-col">
+      <h4>Correspondence</h4>
+      <a href="https://www.instagram.com/imanabdulrahim" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.facebook.com/imanabdulrahimblog" target="_blank" rel="noopener">Facebook</a>
+      <a href="https://www.tiktok.com/@imanabdulrahim_" target="_blank" rel="noopener">TikTok</a>
+      <a href="https://twitter.com/imanabdulrahim" target="_blank" rel="noopener">Twitter / X</a>
+      <a href="mailto:iman.abdrahim@yahoo.com">Email</a>
+    </div>
+    <div class="footer-col">
+      <h4>Pages</h4>
+      <a href="#topics">About</a>
+      <a href="/contact/">Contact</a>
+      <a href="/media-kit/">Media Kit</a>
+      <a href="/find-your-glow/">Find Your Glow</a>
+      <a href="/privacy/">Privacy</a>
     </div>
   </div>
   <div class="footer-bottom">
-    <p>&copy; {year} Iman Abdul Rahim. All rights reserved.</p>
-    <p class="footer-made">Made with care &amp; soft colours.</p>
+    <span>© {year} · Iman Abdul Rahim</span>
+    <span>Kuala Lumpur · Malaysia</span>
   </div>
 </footer>
 
 <script>
-  // Visitor counter — abacus.jasoncameron.dev (free, no auth, reliable)
+  // Visitor counter (abacus)
   const VISITOR_API = 'https://abacus.jasoncameron.dev/hit/imanabdulrahim/visitors';
   const el = document.getElementById('visitorCount');
-
   fetch(VISITOR_API)
     .then((r) => r.json())
     .then((data) => {
@@ -90,19 +77,16 @@ const year = new Date().getFullYear();
         el.textContent = data.value.toLocaleString('en-MY');
       }
     })
-    .catch(() => {
-      // Silently fail — counter shows "—"
-    });
+    .catch(() => {});
 
-  // Newsletter form feedback
+  // Newsletter form
   const form = document.querySelector('.newsletter-form') as HTMLFormElement | null;
   form?.addEventListener('submit', async (e) => {
     e.preventDefault();
-    const btn = form.querySelector('.newsletter-btn') as HTMLButtonElement;
+    const btn = form.querySelector('button') as HTMLButtonElement;
     const originalText = btn.textContent;
     btn.textContent = 'Subscribing…';
     btn.disabled = true;
-
     try {
       const res = await fetch(form.action, {
         method: 'POST',
@@ -110,234 +94,214 @@ const year = new Date().getFullYear();
         headers: { Accept: 'application/json' },
       });
       if (res.ok) {
-        btn.textContent = 'Subscribed!';
+        btn.textContent = 'Subscribed ✓';
         form.reset();
       } else {
         btn.textContent = 'Try again';
         btn.disabled = false;
       }
     } catch {
-      btn.textContent = originalText ?? 'Subscribe';
+      btn.textContent = originalText ?? 'Subscribe →';
       btn.disabled = false;
     }
   });
 </script>
 
 <style>
-  /* Newsletter band */
-  .newsletter-band {
-    background: rgba(250, 212, 220, 0.7);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    padding: 4rem 2rem;
-    border-bottom: 1px solid var(--border);
+  /* ═══════════ NEWSLETTER ═══════════ */
+  .newsletter-section {
+    padding: 7rem 2.5rem;
+    background: linear-gradient(180deg, var(--cream) 0%, var(--petal) 100%);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
   }
-
+  :global([data-theme="dark"]) .newsletter-section {
+    background: linear-gradient(180deg, var(--cream) 0%, var(--blush) 100%);
+  }
+  .newsletter-section::before {
+    content: '';
+    position: absolute;
+    width: 600px; height: 600px;
+    background: radial-gradient(circle, var(--rose) 0%, transparent 70%);
+    top: -300px; left: 50%;
+    transform: translateX(-50%);
+    filter: blur(80px);
+    opacity: 0.25;
+  }
   .newsletter-inner {
-    max-width: 1100px;
+    max-width: 720px;
     margin: 0 auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 4rem;
-    align-items: center;
+    position: relative;
+    z-index: 1;
   }
-
   .newsletter-label {
-    font-size: 0.72rem;
-    letter-spacing: 0.2em;
+    font-size: 0.62rem;
+    letter-spacing: 0.35em;
     text-transform: uppercase;
     color: var(--rose-gold);
-    margin-bottom: 0.8rem;
     font-weight: 500;
+    margin-bottom: 1.5rem;
   }
-
-  .newsletter-heading {
+  .newsletter-title {
     font-family: 'Cormorant Garamond', serif;
-    font-size: clamp(1.6rem, 3vw, 2.2rem);
-    color: var(--text-primary);
-    line-height: 1.25;
-    margin-bottom: 0.8rem;
-  }
-
-  .newsletter-heading em {
-    font-style: italic;
-    color: var(--rose-gold);
-  }
-
-  .newsletter-sub {
-    font-size: 0.88rem;
-    color: var(--text-secondary);
     font-weight: 300;
+    font-size: clamp(2.4rem, 5vw, 4rem);
+    line-height: 0.98;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    margin-bottom: 1.2rem;
   }
-
-  .form-row {
+  .newsletter-title em { font-style: italic; color: var(--rose-gold); }
+  .newsletter-sub {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1.1rem;
+    color: var(--ink-soft);
+    margin-bottom: 3rem;
+  }
+  .newsletter-form {
     display: flex;
-    gap: 0.5rem;
-    margin-bottom: 0.6rem;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid var(--ink);
+    max-width: 480px;
+    margin: 0 auto;
+    padding-bottom: 0.8rem;
   }
-
-  .newsletter-input {
+  .newsletter-form input {
     flex: 1;
-    padding: 0.85rem 1.2rem;
-    border: 1.5px solid rgba(245, 213, 218, 0.4);
-    border-radius: 100px;
-    background: rgba(255, 255, 255, 0.55);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    font-family: 'DM Sans', sans-serif;
-    font-size: 0.88rem;
-    color: var(--text-primary);
-    outline: none;
-    transition: border-color 0.2s;
-  }
-
-  .newsletter-input:focus {
-    border-color: var(--rose-gold);
-  }
-
-  .newsletter-input::placeholder {
-    color: var(--text-muted);
-  }
-
-  .newsletter-btn {
-    padding: 0.85rem 1.8rem;
-    border-radius: 100px;
-    background: var(--text-primary);
-    color: var(--cream);
+    background: transparent;
     border: none;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 0.82rem;
+    padding: 0.6rem 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--ink);
+    outline: none;
+  }
+  .newsletter-form input::placeholder { color: var(--muted); }
+  .newsletter-form button {
+    background: transparent;
+    border: none;
+    font-size: 0.65rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    font-family: 'Inter', sans-serif;
+    color: var(--ink);
     font-weight: 500;
-    letter-spacing: 0.06em;
     cursor: pointer;
-    white-space: nowrap;
-    transition: background 0.2s, transform 0.15s;
+    transition: color 0.3s;
+    padding: 0.6rem 0;
   }
-
-  .newsletter-btn:hover:not(:disabled) {
-    background: var(--rose-gold);
-    transform: translateY(-1px);
-  }
-
-  .newsletter-btn:disabled {
-    opacity: 0.7;
-    cursor: not-allowed;
-  }
-
+  .newsletter-form button:hover { color: var(--deep-rose); }
+  .newsletter-form button:disabled { opacity: 0.6; cursor: not-allowed; }
   .newsletter-privacy {
-    font-size: 0.72rem;
-    color: var(--text-muted);
+    margin-top: 1rem;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
   }
 
-  /* Main footer */
+  /* ═══════════ FOOTER ═══════════ */
   .footer {
-    background: var(--footer-bg);
-    color: var(--footer-text);
+    background: var(--cream);
+    padding: 4rem 2.5rem 2rem;
+    border-top: 1px solid var(--border-soft);
   }
-
   .footer-inner {
-    max-width: 1100px;
+    max-width: 1400px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1.4fr 1fr;
-    gap: 4rem;
-    padding: 4rem 2rem 3rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    margin-bottom: 0;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 3rem;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid var(--border-soft);
   }
-
-  .footer-logo {
-    display: flex;
-    align-items: baseline;
-    gap: 2px;
+  .footer-brand h3 {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1.6rem;
-    margin-bottom: 1rem;
-  }
-
-  .logo-text { font-style: italic; font-weight: 500; color: var(--footer-text); }
-  .logo-dot { color: var(--rose-gold); font-size: 1.8rem; line-height: 1; margin: 0 1px; }
-  .logo-sub { color: rgba(255, 255, 255, 0.4); font-weight: 300; font-size: 1rem; letter-spacing: 0.08em; }
-
-  .footer-tagline {
-    font-size: 0.88rem;
-    color: rgba(255, 255, 255, 0.45);
-    line-height: 1.8;
     font-weight: 300;
+    font-size: 2.4rem;
+    color: var(--ink);
+    letter-spacing: -0.02em;
+    margin-bottom: 1rem;
+    line-height: 1;
+  }
+  .footer-brand h3 em { font-style: italic; color: var(--rose-gold); }
+  .footer-brand p {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 1rem;
+    color: var(--ink-soft);
+    max-width: 300px;
     margin-bottom: 1.4rem;
   }
-
-  /* Visitor counter */
   .visitor-wrap {
     display: inline-flex;
     align-items: center;
     gap: 0.55rem;
-    background: rgba(255, 255, 255, 0.06);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: var(--ivory);
+    border: 1px solid var(--border-soft);
     border-radius: 100px;
     padding: 0.45rem 1rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: var(--ink-soft);
   }
-
   .visitor-label {
-    font-size: 0.72rem;
-    letter-spacing: 0.06em;
-    color: rgba(255, 255, 255, 0.4);
+    font-size: 0.62rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
   }
-
   .visitor-count {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1.05rem;
+    font-size: 1rem;
     color: var(--rose-gold);
     font-weight: 500;
-    min-width: 2ch;
-    transition: opacity 0.3s;
+    font-style: italic;
   }
 
-  .footer-links { display: flex; gap: 3rem; }
-
-  .footer-col { display: flex; flex-direction: column; gap: 0.7rem; }
-
-  .footer-col-title {
-    font-size: 0.68rem;
-    letter-spacing: 0.18em;
+  .footer-col h4 {
+    font-size: 0.62rem;
+    letter-spacing: 0.28em;
     text-transform: uppercase;
-    color: var(--rose-gold);
-    margin-bottom: 0.3rem;
+    color: var(--muted);
     font-weight: 500;
+    margin-bottom: 1.4rem;
+    font-family: 'Inter', sans-serif;
   }
-
   .footer-col a {
-    font-size: 0.88rem;
-    color: rgba(255, 255, 255, 0.5);
-    font-weight: 300;
-    transition: color 0.2s;
+    display: block;
+    font-size: 0.85rem;
+    color: var(--ink);
+    font-weight: 400;
+    padding: 0.35rem 0;
+    transition: color 0.25s;
   }
-
-  .footer-col a:hover { color: var(--cream); }
+  .footer-col a:hover { color: var(--deep-rose); }
 
   .footer-bottom {
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 2rem;
+    max-width: 1400px;
+    margin: 2rem auto 0;
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    font-size: 0.78rem;
-    color: rgba(255, 255, 255, 0.3);
-    font-weight: 300;
+    font-size: 0.62rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
   }
 
-  .footer-made { font-style: italic; }
-
-  @media (max-width: 860px) {
-    .newsletter-inner { grid-template-columns: 1fr; gap: 2rem; }
+  @media (max-width: 960px) {
+    .newsletter-section { padding: 5rem 1.5rem; }
+    .footer { padding: 3rem 1.5rem 2rem; }
+    .footer-inner { grid-template-columns: 1fr 1fr; gap: 2.5rem; padding-bottom: 2.5rem; }
   }
-
-  @media (max-width: 680px) {
-    .footer-inner { grid-template-columns: 1fr; gap: 2.5rem; }
+  @media (max-width: 560px) {
+    .footer-inner { grid-template-columns: 1fr; }
     .footer-bottom { flex-direction: column; gap: 0.5rem; text-align: center; }
-    .form-row { flex-direction: column; }
-    .newsletter-btn { border-radius: 12px; }
   }
 </style>

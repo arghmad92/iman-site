@@ -57,7 +57,7 @@ const canonicalUrl = Astro.url.href;
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Inter:wght@300;400;500;600&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap"
       rel="stylesheet"
     />
     <title>{title}</title>
@@ -114,48 +114,55 @@ const canonicalUrl = Astro.url.href;
 
 <style is:global>
   :root {
-    --cream: #faf4f0;
-    --blush: #f5d5d0;
-    --petal: #fae4e4;
-    --rose: #e39a9f;
+    --cream: #fdf6f0;
+    --ivory: #faf0e8;
+    --petal: #fae0e4;
+    --blush: #f5c8ce;
+    --blush-soft: #fae4df;
+    --rose: #eaa4ae;
+    --peach: #f5c8b0;
     --rose-gold: #c08878;
-    --gold: #b8935a;
-    --gold-light: #efdcc4;
-    --deep-rose: #a8525c;
+    --deep-rose: #9e4c56;
+    --plum: #5a2030;
     --sage: #a8b5a0;
     --sage-light: #e3ead9;
-    --plum: #4a1e2e;
-    --text-primary: #3a2820;
-    --text-secondary: #8e6b60;
-    --text-muted: #bb9a8e;
-    --border: #f0d8d0;
+    --ink: #2a1a18;
+    --ink-soft: #5a4038;
+    --muted: #a08478;
+    --border: rgba(42, 26, 24, 0.12);
+    --border-soft: rgba(42, 26, 24, 0.06);
+    --text-primary: #2a1a18;
+    --text-secondary: #5a4038;
+    --text-muted: #a08478;
     --white: #ffffff;
+    --footer-bg: #1a0e0b;
+    --footer-text: #fdf6f0;
   }
 
   [data-theme="dark"] {
     --cream: #14100e;
-    --blush: #2a1816;
-    --petal: #241210;
+    --ivory: #1a1412;
+    --petal: #2a1816;
+    --blush: #3a1f22;
+    --blush-soft: #28181a;
     --rose: #8a4a4a;
+    --peach: #8a5040;
     --rose-gold: #d89a85;
-    --gold: #d4a872;
-    --gold-light: #2a1e14;
     --deep-rose: #e88080;
+    --plum: #e8a0b0;
     --sage: #8a9a82;
     --sage-light: #1e241a;
-    --plum: #e8a0b0;
+    --ink: #f0dcd0;
+    --ink-soft: #c4a898;
+    --muted: #80625a;
+    --border: rgba(240, 220, 208, 0.14);
+    --border-soft: rgba(240, 220, 208, 0.06);
     --text-primary: #f0dcd0;
     --text-secondary: #c4a898;
     --text-muted: #80625a;
-    --border: #3a2820;
     --white: #1c1410;
     --footer-bg: #0e0806;
     --footer-text: #f0dcd0;
-  }
-
-  :root {
-    --footer-bg: #3a2820;
-    --footer-text: #faf4f0;
   }
 
   *, *::before, *::after {
@@ -169,7 +176,7 @@ const canonicalUrl = Astro.url.href;
   }
 
   body {
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Inter', 'DM Sans', sans-serif;
     background-color: var(--cream);
     color: var(--text-primary);
     line-height: 1.7;
@@ -179,42 +186,7 @@ const canonicalUrl = Astro.url.href;
     position: relative;
   }
 
-  body::before,
-  body::after {
-    content: '';
-    position: fixed;
-    border-radius: 50%;
-    pointer-events: none;
-    z-index: 0;
-  }
-
-  body::before {
-    width: 500px;
-    height: 500px;
-    background: radial-gradient(circle, rgba(250, 212, 220, 0.35) 0%, transparent 70%);
-    top: 10%;
-    left: -150px;
-    animation: floatOrb1 18s ease-in-out infinite;
-  }
-
-  body::after {
-    width: 400px;
-    height: 400px;
-    background: radial-gradient(circle, rgba(201, 160, 122, 0.2) 0%, transparent 70%);
-    bottom: 15%;
-    right: -120px;
-    animation: floatOrb2 22s ease-in-out infinite;
-  }
-
-  @keyframes floatOrb1 {
-    0%, 100% { transform: translate(0, 0); }
-    50% { transform: translate(40px, 30px); }
-  }
-
-  @keyframes floatOrb2 {
-    0%, 100% { transform: translate(0, 0); }
-    50% { transform: translate(-30px, -40px); }
-  }
+  /* Aurora orbs removed — aurora is now scoped to the hero card */
 
   .glass {
     background: rgba(255, 255, 255, 0.55);
@@ -226,8 +198,9 @@ const canonicalUrl = Astro.url.href;
 
   h1, h2, h3, h4 {
     font-family: 'Cormorant Garamond', serif;
-    font-weight: 400;
-    line-height: 1.2;
+    font-weight: 300;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
   }
 
   a {

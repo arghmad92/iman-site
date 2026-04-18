@@ -1,457 +1,371 @@
 ---
-const rotatingWords = ['Beauty', 'Parenting', 'Lifestyle', 'Skincare', 'Motherhood'];
 ---
 
-<section id="home" class="hero">
-  <!-- Editorial sidebar -->
-  <aside class="hero-sidebar" aria-hidden="true">
-    <span class="hero-sidebar-text">EST. 2015 · KUALA LUMPUR · MY</span>
-  </aside>
+<section id="home" class="hero-wrap">
+  <div class="aurora-card" id="auroraCard">
+    <div class="aurora">
+      <div class="a1"></div>
+      <div class="a2"></div>
+      <div class="a3"></div>
+    </div>
+    <div class="aurora-cursor" id="auroraCursor"></div>
+    <div class="aurora-grain"></div>
 
-  <div class="hero-inner">
-    <div class="hero-content">
-      <div class="hero-badge reveal">
-        <span class="badge-static">I write about</span>
-        <span class="badge-rotator" id="heroRotator" aria-live="polite">
-          <span class="rotator-word">Beauty</span>
-        </span>
-      </div>
-      <h1 class="hero-name reveal">
-        <span class="hero-name-row">Iman</span>
-        <em class="hero-name-row">Abdul Rahim</em>
-      </h1>
-      <p class="hero-tagline reveal">
-        Hello, welcome! I'm a content creator from Malaysia sharing honest stories
-        about beauty, skincare, motherhood, and the everyday moments in between.
-      </p>
-      <div class="hero-actions reveal">
-        <a href="#posts" class="btn-primary magnetic" data-magnetic>
-          <span class="btn-label">Read My Posts</span>
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-        </a>
-        <a href="#about" class="btn-ghost">About Me</a>
-      </div>
+    <!-- Corner bracket accents -->
+    <div class="corner-accent corner-tl"></div>
+    <div class="corner-accent corner-tr"></div>
+    <div class="corner-accent corner-bl"></div>
+    <div class="corner-accent corner-br"></div>
+
+    <!-- Folio mark (top-right) -->
+    <div class="folio-mark">
+      <span class="folio-num">I</span>
+      <span>·</span>
+      <span>Cover</span>
     </div>
 
-    <div class="hero-photo reveal-scale">
-      <div class="hero-photo-frame">
-        <img src="/raya-34.jpeg" alt="Iman Abdul Rahim" loading="eager" class="hero-photo-img" />
-        <div class="hero-photo-tag">✦ 2026</div>
+    <div class="dashboard-content">
+      <div class="dashboard-top">
+        <div class="dashboard-brand">
+          <span class="dashboard-brand-name">iman<sup>·</sup></span>
+          <span class="dashboard-brand-divider"></span>
+          <span class="dashboard-brand-label">A Journal</span>
+        </div>
+        <span class="dashboard-brand-label">Kuala Lumpur · Est. 2015</span>
       </div>
-      <div class="hero-photo-accent"></div>
-      <div class="hero-photo-ring"></div>
+
+      <div class="dashboard-body">
+        <h1 class="chapter-title"><em>Iman</em> <span class="thin">Abdul Rahim</span></h1>
+        <p class="chapter-sub">
+          A writer from Malaysia sharing honest notes on beauty, motherhood,
+          and the quiet moments in between.
+        </p>
+        <div class="chapter-actions">
+          <a href="#posts" class="btn-pill">
+            Read the journal
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </a>
+          <a href="#topics" class="btn-pill btn-ghost">
+            About
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <div class="dashboard-footer">
+        <span class="footer-meta">285 chapters · Beauty · Motherhood · Lifestyle</span>
+        <span class="footer-meta">Scroll to read ↓</span>
+      </div>
     </div>
-  </div>
-
-  <div class="hero-scroll reveal">
-    <span>scroll</span>
-    <svg width="16" height="24" viewBox="0 0 16 24" fill="none">
-      <rect x="1" y="1" width="14" height="22" rx="7" stroke="currentColor" stroke-width="1.5"/>
-      <circle cx="8" cy="7" r="2" fill="currentColor">
-        <animate attributeName="cy" values="7;15;7" dur="2s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
-      </circle>
-    </svg>
-  </div>
-
-  <div class="hero-deco" aria-hidden="true">
-    <div class="deco-circle deco-1"></div>
-    <div class="deco-circle deco-2"></div>
   </div>
 </section>
 
 <style>
-  .hero {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+  .hero-wrap {
+    padding: 6rem 2.5rem 4rem;
     position: relative;
-    overflow: hidden;
-    padding: 7rem 2rem 3rem;
   }
 
-  /* Rotated sidebar text */
-  .hero-sidebar {
+  .aurora-card {
+    max-width: 1400px;
+    margin: 0 auto;
+    height: 82vh;
+    min-height: 640px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 40px 80px rgba(42, 26, 24, 0.12), 0 0 0 1px rgba(42, 26, 24, 0.04);
+    background: var(--ivory);
+  }
+
+  :global([data-theme="dark"]) .aurora-card {
+    background: var(--ivory);
+    box-shadow: 0 40px 80px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 255, 255, 0.04);
+  }
+
+  /* Aurora gradients */
+  .aurora {
     position: absolute;
-    left: 2rem;
-    top: 50%;
-    transform: translateY(-50%) rotate(-90deg);
-    transform-origin: left center;
-    z-index: 1;
+    inset: 0;
+    overflow: hidden;
+    filter: saturate(1.05);
+  }
+
+  .aurora::before,
+  .aurora::after,
+  .aurora .a1,
+  .aurora .a2,
+  .aurora .a3 {
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(80px);
+    will-change: transform;
+  }
+
+  .aurora::before {
+    width: 90%; height: 80%;
+    background: radial-gradient(circle at 50% 50%, var(--blush) 0%, transparent 60%);
+    top: -10%; left: -5%;
+    animation: auroraFloat1 20s ease-in-out infinite;
+  }
+
+  .aurora::after {
+    width: 70%; height: 70%;
+    background: radial-gradient(circle at 50% 50%, var(--peach) 0%, transparent 60%);
+    bottom: -15%; right: -10%;
+    animation: auroraFloat2 24s ease-in-out infinite;
+  }
+
+  .aurora .a1 {
+    width: 60%; height: 60%;
+    background: radial-gradient(circle at 50% 50%, var(--petal) 0%, transparent 60%);
+    top: 20%; right: 10%;
+    animation: auroraFloat3 26s ease-in-out infinite;
+  }
+
+  .aurora .a2 {
+    width: 55%; height: 55%;
+    background: radial-gradient(circle at 50% 50%, var(--rose) 0%, transparent 55%);
+    bottom: 10%; left: 20%;
+    animation: auroraFloat1 22s ease-in-out infinite reverse;
+    opacity: 0.7;
+  }
+
+  .aurora .a3 {
+    width: 45%; height: 45%;
+    background: radial-gradient(circle at 50% 50%, var(--blush-soft) 0%, transparent 60%);
+    top: 40%; left: 45%;
+    animation: auroraFloat2 18s ease-in-out infinite reverse;
+  }
+
+  @keyframes auroraFloat1 {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    50% { transform: translate(60px, 40px) scale(1.15); }
+  }
+  @keyframes auroraFloat2 {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    50% { transform: translate(-50px, 60px) scale(1.1); }
+  }
+  @keyframes auroraFloat3 {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    50% { transform: translate(40px, -50px) scale(1.2); }
+  }
+
+  /* Film grain */
+  .aurora-grain {
+    position: absolute;
+    inset: 0;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/><feColorMatrix values='0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 0.12 0'/></filter><rect width='200' height='200' filter='url(%23n)'/></svg>");
+    mix-blend-mode: multiply;
+    opacity: 0.6;
     pointer-events: none;
   }
 
-  .hero-sidebar-text {
-    font-size: 0.65rem;
-    letter-spacing: 0.35em;
+  /* Cursor-follow aurora */
+  .aurora-cursor {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(234, 164, 174, 0.5) 0%, transparent 60%);
+    filter: blur(40px);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.6s;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    mix-blend-mode: soft-light;
+  }
+  .aurora-card:hover .aurora-cursor { opacity: 1; }
+
+  /* Corner bracket accents */
+  .corner-accent {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    z-index: 3;
+    opacity: 0.5;
+  }
+  .corner-accent::before, .corner-accent::after {
+    content: '';
+    position: absolute;
+    background: var(--ink);
+  }
+  .corner-accent::before { width: 100%; height: 1px; }
+  .corner-accent::after { width: 1px; height: 100%; }
+  .corner-tl { top: 1.2rem; left: 1.2rem; }
+  .corner-tl::before, .corner-tl::after { top: 0; left: 0; }
+  .corner-tr { top: 1.2rem; right: 1.2rem; }
+  .corner-tr::before, .corner-tr::after { top: 0; right: 0; }
+  .corner-bl { bottom: 1.2rem; left: 1.2rem; }
+  .corner-bl::before, .corner-bl::after { bottom: 0; left: 0; }
+  .corner-br { bottom: 1.2rem; right: 1.2rem; }
+  .corner-br::before, .corner-br::after { bottom: 0; right: 0; }
+
+  /* Folio mark */
+  .folio-mark {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    z-index: 3;
+    opacity: 0.7;
+  }
+  .folio-num { color: var(--rose-gold); }
+
+  /* Dashboard content */
+  .dashboard-content {
+    position: relative;
+    z-index: 2;
+    height: 100%;
+    padding: 2.5rem 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .dashboard-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding-top: 1rem;
+  }
+  .dashboard-brand {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .dashboard-brand-name {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 1.15rem;
+    color: var(--ink);
+  }
+  .dashboard-brand-name sup {
+    font-size: 0.5rem;
+    color: var(--rose-gold);
+  }
+  .dashboard-brand-divider {
+    width: 1px;
+    height: 11px;
+    background: rgba(42, 26, 24, 0.25);
+  }
+  .dashboard-brand-label {
+    font-size: 0.62rem;
+    letter-spacing: 0.28em;
     text-transform: uppercase;
-    color: var(--text-muted);
-    white-space: nowrap;
+    color: rgba(42, 26, 24, 0.6);
     font-weight: 500;
   }
 
-  .hero-inner {
-    max-width: 1100px;
-    margin: 0 auto;
-    width: 100%;
-    position: relative;
-    z-index: 1;
-    display: grid;
-    grid-template-columns: 1.15fr 0.85fr;
-    gap: 4rem;
-    align-items: center;
-  }
+  .dashboard-body { padding-bottom: 1.5rem; }
 
-  /* Typewriter / rotator badge */
-  .hero-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-size: 0.72rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--text-secondary);
-    background: var(--blush);
-    padding: 0.5rem 1.2rem;
-    border-radius: 100px;
-    margin-bottom: 2rem;
-    border: 1px solid rgba(224, 154, 159, 0.25);
-  }
-
-  .badge-static {
-    color: var(--text-secondary);
-  }
-
-  .badge-rotator {
-    display: inline-block;
-    min-width: 88px;
-    text-align: left;
-    color: var(--deep-rose);
-    font-weight: 600;
-    position: relative;
-  }
-
-  .rotator-word {
-    display: inline-block;
-    animation: rotatorFade 0.5s cubic-bezier(0.22, 1, 0.36, 1);
-  }
-
-  @keyframes rotatorFade {
-    from { opacity: 0; transform: translateY(8px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-
-  .hero-name {
-    font-size: clamp(3.5rem, 8vw, 6.2rem);
-    line-height: 1.0;
-    color: var(--text-primary);
-    letter-spacing: -0.03em;
+  .chapter-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-size: clamp(4rem, 12vw, 10rem);
+    line-height: 0.92;
+    letter-spacing: -0.02em;
+    color: var(--ink);
     margin-bottom: 1.8rem;
-    display: flex;
-    flex-direction: column;
-    gap: 0.15em;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
   }
+  .chapter-title .thin { font-weight: 300; color: rgba(42, 26, 24, 0.55); }
+  .chapter-title em { font-style: italic; }
 
-  .hero-name-row {
-    display: block;
-  }
-
-  .hero-name em {
+  .chapter-sub {
+    font-family: 'Cormorant Garamond', serif;
     font-style: italic;
-    color: var(--rose-gold);
     font-weight: 300;
-    margin-left: 0.6em;
+    font-size: 1.1rem;
+    color: var(--ink);
+    margin-bottom: 2rem;
+    max-width: 560px;
+    line-height: 1.5;
   }
 
-  .hero-tagline {
-    max-width: 460px;
-    font-size: 1rem;
-    color: var(--text-secondary);
-    line-height: 1.85;
-    margin-bottom: 2.5rem;
-    font-weight: 300;
-  }
-
-  .hero-actions {
+  .chapter-actions {
     display: flex;
+    align-items: center;
     gap: 1rem;
     flex-wrap: wrap;
   }
 
-  .btn-primary {
+  .btn-pill {
     display: inline-flex;
     align-items: center;
-    gap: 0.6rem;
-    background: var(--text-primary);
-    color: var(--cream);
-    padding: 0.85rem 2rem;
+    gap: 0.8rem;
+    padding: 0.75rem 1.6rem;
+    border: 1px solid rgba(42, 26, 24, 0.4);
     border-radius: 100px;
-    font-size: 0.85rem;
-    font-weight: 400;
-    letter-spacing: 0.05em;
-    transition: background 0.3s, color 0.3s, transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s;
-    box-shadow: 0 6px 18px rgba(58, 40, 32, 0.12);
-    position: relative;
-    will-change: transform;
-  }
-
-  .btn-primary svg {
-    transition: transform 0.3s;
-  }
-
-  .btn-primary:hover {
-    background: var(--plum);
-    color: var(--cream);
-    box-shadow: 0 10px 28px rgba(74, 30, 46, 0.25);
-  }
-
-  .btn-primary:hover svg {
-    transform: translateX(4px);
-  }
-
-  .btn-ghost {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.85rem 2rem;
-    border-radius: 100px;
-    border: 1.5px solid var(--border);
-    font-size: 0.85rem;
-    font-weight: 400;
-    letter-spacing: 0.05em;
-    color: var(--text-secondary);
-    transition: border-color 0.3s, color 0.3s, transform 0.3s;
-  }
-
-  .btn-ghost:hover {
-    border-color: var(--sage);
-    color: var(--text-primary);
-    transform: translateY(-2px);
-  }
-
-  /* Photo */
-  .hero-photo {
-    position: relative;
-    display: flex;
-    justify-content: center;
-  }
-
-  .hero-photo-frame {
-    position: relative;
-    z-index: 2;
-    border-radius: 200px 200px 24px 24px;
-    overflow: hidden;
-    box-shadow: 0 24px 64px rgba(180, 90, 110, 0.15);
-    max-width: 380px;
-    width: 100%;
-  }
-
-  .hero-photo-img {
-    width: 100%;
-    height: 520px;
-    object-fit: cover;
-    object-position: center top;
-    display: block;
-    animation: kenBurns 22s ease-in-out infinite alternate;
-  }
-
-  @keyframes kenBurns {
-    0%   { transform: scale(1) translate(0, 0); }
-    100% { transform: scale(1.08) translate(-1%, -2%); }
-  }
-
-  .hero-photo-tag {
-    position: absolute;
-    top: 1.2rem;
-    right: 1.2rem;
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 0.8rem;
-    letter-spacing: 0.1em;
-    color: var(--cream);
-    background: rgba(58, 40, 32, 0.4);
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
-    padding: 0.3rem 0.7rem;
-    border-radius: 100px;
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    z-index: 3;
-  }
-
-  .hero-photo-accent {
-    position: absolute;
-    bottom: -16px;
-    right: -16px;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    background: var(--sage-light);
-    opacity: 0.6;
-    z-index: 1;
-    animation: heroFloat2 18s ease-in-out infinite;
-  }
-
-  .hero-photo-ring {
-    position: absolute;
-    top: -20px;
-    left: -20px;
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    border: 1px solid var(--rose-gold);
-    opacity: 0.35;
-    z-index: 1;
-    animation: heroFloat1 14s ease-in-out infinite;
-  }
-
-  /* Scroll indicator */
-  .hero-scroll {
-    display: flex;
-    align-items: center;
-    gap: 0.6rem;
-    margin-top: 3rem;
-    color: var(--text-muted);
-    font-size: 0.72rem;
-    letter-spacing: 0.15em;
+    font-size: 0.65rem;
+    letter-spacing: 0.28em;
     text-transform: uppercase;
-    position: relative;
-    z-index: 1;
-    max-width: 1100px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
+    color: var(--ink);
+    font-weight: 500;
+    background: transparent;
+    transition: all 0.4s cubic-bezier(.22,1,.36,1);
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .btn-pill:hover {
+    background: var(--ink);
+    color: var(--cream);
+    border-color: var(--ink);
+  }
+  .btn-pill svg { transition: transform 0.3s; }
+  .btn-pill:hover svg { transform: translateX(3px); }
+
+  .btn-ghost { border-color: transparent; }
+
+  .dashboard-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid rgba(42, 26, 24, 0.08);
+    padding-top: 1.5rem;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+  }
+  .footer-meta {
+    font-size: 0.62rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: rgba(42, 26, 24, 0.6);
+    font-weight: 500;
   }
 
-  /* Decorative background shapes */
-  .hero-deco {
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-  }
-
-  .deco-circle {
-    position: absolute;
-    border-radius: 50%;
-  }
-
-  .deco-1 {
-    width: 350px;
-    height: 350px;
-    background: radial-gradient(circle, var(--blush) 0%, transparent 70%);
-    top: -60px;
-    right: -80px;
-    opacity: 0.4;
-    animation: heroFloat1 14s ease-in-out infinite;
-  }
-
-  .deco-2 {
-    width: 220px;
-    height: 220px;
-    background: radial-gradient(circle, var(--sage-light) 0%, transparent 70%);
-    top: 50%;
-    left: 20%;
-    opacity: 0.35;
-    animation: heroFloat3 16s ease-in-out infinite;
-  }
-
-  @keyframes heroFloat1 {
-    0%, 100% { transform: translate(0, 0); }
-    50% { transform: translate(-20px, 25px); }
-  }
-
-  @keyframes heroFloat2 {
-    0%, 100% { transform: translate(0, 0); }
-    50% { transform: translate(12px, -12px); }
-  }
-
-  @keyframes heroFloat3 {
-    0%, 100% { transform: translate(0, 0); }
-    50% { transform: translate(15px, -15px); }
-  }
-
-  @media (max-width: 1024px) {
-    .hero-sidebar { display: none; }
-  }
-
-  @media (max-width: 800px) {
-    .hero-inner {
-      grid-template-columns: 1fr;
-      text-align: center;
-      gap: 3rem;
-    }
-
-    .hero-content {
-      order: 2;
-    }
-
-    .hero-photo {
-      order: 1;
-    }
-
-    .hero-photo-frame {
-      max-width: 280px;
-    }
-
-    .hero-photo-img {
-      height: 380px;
-    }
-
-    .hero-tagline {
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .hero-actions {
-      justify-content: center;
-    }
-
-    .hero-scroll {
-      justify-content: center;
-    }
-
-    .hero-name {
-      font-size: clamp(3rem, 14vw, 4.5rem);
-      align-items: center;
-    }
-
-    .hero-name em {
-      margin-left: 0;
-    }
-
-    .deco-1 {
-      width: 220px;
-      height: 220px;
-      right: -60px;
-    }
+  @media (max-width: 720px) {
+    .hero-wrap { padding: 5rem 1rem 3rem; }
+    .aurora-card { min-height: 580px; }
+    .dashboard-content { padding: 1.8rem; }
+    .corner-accent { width: 16px; height: 16px; }
+    .folio-mark { top: 1rem; right: 1rem; font-size: 0.7rem; }
+    .chapter-actions { gap: 0.6rem; }
+    .dashboard-footer { flex-direction: column; align-items: flex-start; }
   }
 </style>
 
 <script>
-  // ─────── Rotating badge words ───────
-  const words = ['Beauty', 'Parenting', 'Lifestyle', 'Skincare', 'Motherhood'];
-  const rotator = document.getElementById('heroRotator');
-  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-
-  if (rotator && !prefersReducedMotion) {
-    let i = 0;
-    setInterval(() => {
-      i = (i + 1) % words.length;
-      rotator.innerHTML = `<span class="rotator-word">${words[i]}</span>`;
-    }, 2600);
-  }
-
-  // ─────── Magnetic button effect ───────
-  const magneticButtons = document.querySelectorAll<HTMLElement>('[data-magnetic]');
-  if (!prefersReducedMotion) {
-    magneticButtons.forEach((btn) => {
-      btn.addEventListener('mousemove', (e) => {
-        const rect = btn.getBoundingClientRect();
-        const x = e.clientX - rect.left - rect.width / 2;
-        const y = e.clientY - rect.top - rect.height / 2;
-        btn.style.transform = `translate(${x * 0.15}px, ${y * 0.15}px) translateY(-2px)`;
-      });
-      btn.addEventListener('mouseleave', () => {
-        btn.style.transform = '';
-      });
+  // Cursor-follow aurora in hero
+  const auroraCard = document.getElementById('auroraCard');
+  const auroraCursor = document.getElementById('auroraCursor');
+  if (auroraCard && auroraCursor) {
+    auroraCard.addEventListener('mousemove', (e) => {
+      const rect = auroraCard.getBoundingClientRect();
+      (auroraCursor as HTMLElement).style.left = (e.clientX - rect.left) + 'px';
+      (auroraCursor as HTMLElement).style.top = (e.clientY - rect.top) + 'px';
     });
   }
 </script>

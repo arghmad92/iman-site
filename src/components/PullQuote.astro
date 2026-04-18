@@ -1,0 +1,91 @@
+---
+---
+
+<section class="pullquote-section reveal">
+  <div class="pullquote-inner">
+    <div class="pullquote-mark">&ldquo;</div>
+    <p class="pullquote-text">
+      I write about the small things — the sunscreen I trust, the quiet feedings at 3am, the morning I finally understood my skin. <em>Because the small things are rarely small.</em>
+    </p>
+    <p class="pullquote-attr">Iman · From the Editor</p>
+  </div>
+</section>
+
+<style>
+  .pullquote-section {
+    padding: 8rem 2.5rem;
+    background: var(--cream);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .pullquote-section::before,
+  .pullquote-section::after {
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(80px);
+    pointer-events: none;
+    opacity: 0.4;
+  }
+  .pullquote-section::before {
+    width: 500px; height: 500px;
+    background: var(--blush);
+    top: -200px; left: -150px;
+  }
+  .pullquote-section::after {
+    width: 400px; height: 400px;
+    background: var(--peach);
+    bottom: -150px; right: -100px;
+  }
+  .pullquote-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+  }
+  .pullquote-mark {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 8rem;
+    color: var(--rose-gold);
+    line-height: 0.5;
+    margin-bottom: 1rem;
+    opacity: 0.6;
+  }
+  .pullquote-text {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: clamp(1.8rem, 3.5vw, 2.8rem);
+    line-height: 1.3;
+    color: var(--ink);
+    letter-spacing: -0.01em;
+    margin-bottom: 2rem;
+  }
+  .pullquote-text em { font-style: normal; color: var(--rose-gold); }
+  .pullquote-attr {
+    font-size: 0.65rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.2rem;
+  }
+  .pullquote-attr::before,
+  .pullquote-attr::after {
+    content: '';
+    width: 30px; height: 1px;
+    background: var(--muted);
+    opacity: 0.5;
+  }
+
+  @media (max-width: 720px) {
+    .pullquote-section { padding: 5rem 1.5rem; }
+    .pullquote-mark { font-size: 5rem; }
+  }
+</style>

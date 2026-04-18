@@ -1,22 +1,28 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
+import SideLabel from '../components/SideLabel.astro';
 import Hero from '../components/Hero.astro';
-import About from '../components/About.astro';
+import Stats from '../components/Stats.astro';
+import OrnamentDivider from '../components/OrnamentDivider.astro';
 import Topics from '../components/Topics.astro';
 import Posts from '../components/Posts.astro';
-import Connect from '../components/Connect.astro';
+import PullQuote from '../components/PullQuote.astro';
 import Footer from '../components/Footer.astro';
 ---
 
-<Layout title="Iman Abdul Rahim — Beauty, Parenting & Lifestyle Blog">
+<Layout title="Iman Abdul Rahim — A Journal on Beauty, Motherhood & Lifestyle">
   <Header />
+  <SideLabel />
   <main>
     <Hero />
-    <About />
+    <Stats />
+    <OrnamentDivider label="The Index" />
     <Topics />
+    <OrnamentDivider label="Recent Writing" background="var(--ivory)" />
     <Posts />
-    <Connect />
+    <PullQuote />
+    <OrnamentDivider label="Correspondence" background="var(--cream)" />
   </main>
   <Footer />
 </Layout>

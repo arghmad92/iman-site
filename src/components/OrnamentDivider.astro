@@ -1,0 +1,54 @@
+---
+interface Props {
+  label: string;
+  background?: string;
+}
+const { label, background = 'transparent' } = Astro.props;
+---
+
+<div class="ornament-divider" style={`background: ${background};`}>
+  <span class="ornament-line"></span>
+  <span class="ornament-mark">{label}</span>
+  <span class="ornament-line"></span>
+</div>
+
+<style>
+  .ornament-divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 2rem 2.5rem;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  .ornament-line {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(to right, transparent, var(--border) 30%, var(--border) 70%, transparent);
+  }
+  .ornament-mark {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: 300;
+    color: var(--rose-gold);
+    font-size: 1.2rem;
+    letter-spacing: 0.3em;
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    white-space: nowrap;
+  }
+  .ornament-mark::before,
+  .ornament-mark::after {
+    content: '✦';
+    font-size: 0.7em;
+    color: var(--rose-gold);
+    opacity: 0.5;
+  }
+
+  @media (max-width: 720px) {
+    .ornament-divider { padding: 1.5rem 1rem; gap: 0.8rem; }
+    .ornament-mark { font-size: 1rem; letter-spacing: 0.22em; }
+  }
+</style>

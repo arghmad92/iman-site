@@ -1,35 +1,34 @@
 ---
 const navLinks = [
-  { label: 'Home', href: '#home' },
+  { label: 'Index', href: '#topics' },
+  { label: 'Beauty', href: '/categories/' },
+  { label: 'Motherhood', href: '/categories/' },
+  { label: 'Lifestyle', href: '/categories/' },
+  { label: 'Journal', href: '/posts/' },
   { label: 'About', href: '#about' },
-  { label: 'Topics', href: '#topics' },
-  { label: 'Categories', href: '/categories/' },
-  { label: 'All Posts', href: '/posts/' },
-  { label: 'Find Your Glow', href: '/find-your-glow/' },
-  { label: 'Connect', href: '#connect' },
 ];
 ---
 
-<header>
-  <nav>
-    <a href="#home" class="logo">
-      <span class="logo-text">iman</span>
-      <span class="logo-dot">·</span>
-      <span class="logo-sub">blog</span>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo-mark">
+      <span class="logo-word">iman<sup>·</sup></span>
+      <span class="logo-divider"></span>
+      <span class="logo-sub">A Journal</span>
     </a>
-    <ul class="nav-links">
-      {navLinks.map(link => (
-        <li><a href={link.href}>{link.label}</a></li>
-      ))}
-    </ul>
-    <div class="nav-actions">
+    <nav>
+      <ul class="nav-links">
+        {navLinks.map((link) => (
+          <li><a href={link.href}>{link.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+    <div class="header-right">
       <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
-        <!-- Moon icon (shown in light mode) -->
-        <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
           <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
         </svg>
-        <!-- Sun icon (shown in dark mode) -->
-        <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
           <circle cx="12" cy="12" r="5"/>
           <line x1="12" y1="1" x2="12" y2="3"/>
           <line x1="12" y1="21" x2="12" y2="23"/>
@@ -41,153 +40,156 @@ const navLinks = [
           <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
         </svg>
       </button>
+      <a href="/contact/" class="greeting animated-link">
+        <span>Contact</span>
+        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
       <button class="menu-toggle" aria-label="Toggle menu" id="menuToggle">
         <span></span>
         <span></span>
       </button>
     </div>
-  </nav>
+  </div>
   <div class="mobile-menu" id="mobileMenu">
-    {navLinks.map(link => (
+    {navLinks.map((link) => (
       <a href={link.href} class="mobile-link">{link.label}</a>
     ))}
+    <a href="/contact/" class="mobile-link">Contact</a>
   </div>
 </header>
 
 <style>
-  header {
+  .site-header {
     position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
+    top: 0; left: 0; right: 0;
     z-index: 100;
-    background: rgba(250, 244, 240, 0.85);
-    backdrop-filter: blur(16px);
-    -webkit-backdrop-filter: blur(16px);
-    border-bottom: 1px solid var(--border);
-    transition: background 0.3s, border-color 0.3s;
+    padding: 1.2rem 2.5rem;
+    background: rgba(253, 246, 240, 0.72);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-bottom: 1px solid var(--border-soft);
+    transition: background 0.3s;
   }
 
-  :global([data-theme="dark"]) header {
-    background: rgba(20, 16, 14, 0.9);
+  :global([data-theme="dark"]) .site-header {
+    background: rgba(20, 16, 14, 0.78);
   }
 
-  :global([data-theme="dark"]) .logo-text {
-    color: #f0dce0;
-  }
-
-  :global([data-theme="dark"]) .logo-sub {
-    color: #8a5a63;
-  }
-
-  nav {
-    max-width: 1100px;
+  .header-inner {
+    max-width: 1400px;
     margin: 0 auto;
-    padding: 1.1rem 2rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 2rem;
   }
 
-  .logo {
+  .logo-mark {
     display: flex;
     align-items: baseline;
-    gap: 2px;
+    gap: 0.7rem;
+    flex-shrink: 0;
+  }
+
+  .logo-word {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1.4rem;
-    letter-spacing: 0.02em;
-  }
-
-  .logo-text {
-    color: var(--text-primary);
     font-style: italic;
-    font-weight: 500;
+    font-weight: 400;
+    font-size: 1.25rem;
+    color: var(--ink);
+    letter-spacing: 0.01em;
   }
+  .logo-word sup { font-size: 0.45rem; color: var(--rose-gold); letter-spacing: 0.15em; vertical-align: super; }
 
-  .logo-dot {
-    color: var(--rose-gold);
-    font-size: 1.6rem;
-    line-height: 1;
-    margin: 0 1px;
+  .logo-divider {
+    width: 1px;
+    height: 13px;
+    background: var(--border);
   }
 
   .logo-sub {
-    color: var(--text-muted);
-    font-weight: 300;
-    font-size: 1rem;
-    letter-spacing: 0.08em;
+    font-size: 0.66rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    font-weight: 500;
   }
 
-  .nav-links {
+  nav ul {
     list-style: none;
     display: flex;
-    gap: 2.2rem;
+    gap: 2rem;
     align-items: center;
   }
 
   .nav-links a {
-    font-size: 0.82rem;
-    font-weight: 400;
-    letter-spacing: 0.1em;
+    font-size: 0.65rem;
+    letter-spacing: 0.22em;
     text-transform: uppercase;
-    color: var(--text-secondary);
-    transition: color 0.2s;
+    color: var(--ink-soft);
+    font-weight: 500;
+    transition: color 0.3s;
     position: relative;
   }
 
-  .nav-links a::after {
-    content: '';
-    position: absolute;
-    bottom: -3px;
-    left: 0;
-    right: 0;
-    height: 1.5px;
-    background: var(--rose-gold);
-    transform: scaleX(0);
-    transition: transform 0.25s ease;
-    transform-origin: left;
-  }
+  .nav-links a:hover { color: var(--deep-rose); }
 
-  .nav-links a:hover {
-    color: var(--text-primary);
-  }
-
-  .nav-links a:hover::after {
-    transform: scaleX(1);
-  }
-
-  .nav-actions {
+  .header-right {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 1.2rem;
+    flex-shrink: 0;
   }
 
   .theme-toggle {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--ink-soft);
+    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    background: none;
-    border: 1.5px solid var(--border);
-    color: var(--text-secondary);
-    cursor: pointer;
-    transition: background 0.2s, border-color 0.2s, color 0.2s;
+    transition: all 0.3s;
+    padding: 0;
   }
 
   .theme-toggle:hover {
-    background: var(--blush);
-    border-color: var(--rose);
-    color: var(--text-primary);
+    background: var(--petal);
+    border-color: var(--rose-gold);
+    color: var(--ink);
   }
 
-  /* Show correct icon based on theme */
   .icon-sun { display: none; }
   .icon-moon { display: block; }
+  :global([data-theme="dark"]) .icon-sun { display: block; }
+  :global([data-theme="dark"]) .icon-moon { display: none; }
 
-  [data-theme="dark"] .icon-sun { display: block; }
-  [data-theme="dark"] .icon-moon { display: none; }
+  .greeting {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.65rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink);
+    font-weight: 500;
+    position: relative;
+    padding-bottom: 2px;
+  }
+
+  .greeting::after {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0;
+    height: 1px; width: 0;
+    background: var(--deep-rose);
+    transition: width 0.4s cubic-bezier(.22,1,.36,1);
+  }
+  .greeting:hover { color: var(--deep-rose); }
+  .greeting:hover::after { width: 100%; }
 
   .menu-toggle {
     display: none;
@@ -198,67 +200,54 @@ const navLinks = [
     cursor: pointer;
     padding: 4px;
   }
-
   .menu-toggle span {
     display: block;
     width: 22px;
-    height: 1.5px;
-    background: var(--text-secondary);
-    transition: all 0.2s;
+    height: 1px;
+    background: var(--ink);
+    transition: all 0.3s;
   }
 
   .mobile-menu {
     display: none;
     flex-direction: column;
-    gap: 0;
     background: var(--cream);
-    border-top: 1px solid var(--border);
+    border-top: 1px solid var(--border-soft);
     padding: 0.5rem 0;
+    margin-top: 1rem;
   }
 
   .mobile-link {
     padding: 0.9rem 2rem;
-    font-size: 0.82rem;
-    letter-spacing: 0.1em;
+    font-size: 0.72rem;
+    letter-spacing: 0.22em;
     text-transform: uppercase;
-    color: var(--text-secondary);
-    border-bottom: 1px solid var(--border);
-    transition: background 0.2s, color 0.2s;
+    color: var(--ink-soft);
+    border-bottom: 1px solid var(--border-soft);
+    font-weight: 500;
   }
+  .mobile-link:hover { background: var(--petal); color: var(--ink); }
+  .mobile-menu.open { display: flex; }
 
-  .mobile-link:hover {
-    background: var(--blush);
-    color: var(--text-primary);
+  @media (max-width: 1000px) {
+    .nav-links { display: none; }
   }
-
-  .mobile-menu.open {
-    display: flex;
-  }
-
-  @media (max-width: 680px) {
-    .nav-links {
-      display: none;
-    }
-
-    .menu-toggle {
-      display: flex;
-    }
+  @media (max-width: 720px) {
+    .site-header { padding: 1rem 1.2rem; }
+    .greeting { display: none; }
+    .menu-toggle { display: flex; }
+    .logo-sub { display: none; }
+    .logo-divider { display: none; }
   }
 </style>
 
 <script>
   const toggle = document.getElementById('menuToggle');
   const menu = document.getElementById('mobileMenu');
-
-  toggle?.addEventListener('click', () => {
-    menu?.classList.toggle('open');
-  });
-
-  menu?.querySelectorAll('a').forEach(link => {
+  toggle?.addEventListener('click', () => menu?.classList.toggle('open'));
+  menu?.querySelectorAll('a').forEach((link) => {
     link.addEventListener('click', () => menu.classList.remove('open'));
   });
-
-  // Dark mode toggle
   document.getElementById('themeToggle')?.addEventListener('click', () => {
     (window as any).__toggleTheme?.();
   });

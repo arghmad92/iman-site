@@ -1,312 +1,230 @@
 ---
 const topics = [
   {
-    title: 'Beauty & Skincare',
-    color: 'blush',
-    size: 'large',
-    description:
-      'From everyday makeup looks to targeted skincare routines — exfoliation, sunscreen picks, acne scar reduction, and pregnancy-safe beauty tips.',
-    tags: ['Makeup', 'Sunscreen', 'Exfoliation', 'Acne Scars'],
+    num: 'i.',
+    name: 'Beauty',
+    sub: '& Skincare',
+    desc: 'Everyday makeup, targeted skincare, ingredient deep-dives, sunscreen reviews, and pregnancy-safe picks.',
+    count: '142',
+    href: '/categories/',
   },
   {
-    title: 'Parenting & Motherhood',
-    color: 'petal',
-    size: 'medium',
-    description:
-      'Honest stories about pregnancy, the newborn phase, baby product reviews, and everything a first-time mum wishes she had known sooner.',
-    tags: ['Pregnancy', 'Newborn', 'Baby Products'],
+    num: 'ii.',
+    name: 'Motherhood',
+    sub: '& Parenting',
+    desc: 'Pregnancy, newborn rhythms, baby product reviews, and the quiet truths of first-time motherhood.',
+    count: '68',
+    href: '/categories/',
   },
   {
-    title: 'Lifestyle',
-    color: 'sage',
-    size: 'small',
-    description:
-      'Study tips, food discoveries, and the quiet everyday moments that make life beautiful.',
-    tags: ['Study Tips', 'Food', 'Daily Life'],
+    num: 'iii.',
+    name: 'Quiet',
+    sub: 'Lifestyle',
+    desc: 'Slow mornings, study notes, food discoveries, and the everyday moments worth writing down.',
+    count: '75',
+    href: '/categories/',
   },
 ];
-
-const colorMap: Record<string, string> = {
-  blush: 'var(--blush)',
-  petal: 'var(--petal)',
-  sage: 'var(--sage-light)',
-};
 ---
 
-<section id="topics" class="topics">
-  <div class="topics-inner">
-    <div class="topics-header reveal">
-      <p class="section-label">What I Write About</p>
-      <h2 class="topics-heading">Three pillars,<br /><em>one honest voice.</em></h2>
+<section id="topics" class="section">
+  <div class="section-inner">
+    <div class="section-head reveal">
+      <span class="section-num">01 · Index</span>
+      <h2 class="section-title">Three pillars,<br /><em>one honest voice.</em></h2>
+      <div class="section-meta">
+        Edited by Iman<br />
+        Est. 2015
+      </div>
     </div>
 
-    <div class="topics-bento stagger">
-      <!-- Card 1 — Large -->
-      <article class="topic-card topic-large" style={`--card-accent: ${colorMap[topics[0].color]}`}>
-        <div class="topic-illustration">
-          <!-- Line-art lipstick icon -->
-          <svg width="58" height="58" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M22 8 L38 8 L34 20 L26 20 Z" fill="var(--deep-rose)" fill-opacity="0.12"/>
-            <rect x="22" y="20" width="20" height="6" rx="1"/>
-            <rect x="24" y="26" width="16" height="30" rx="2"/>
-            <line x1="28" y1="34" x2="36" y2="34"/>
-            <line x1="28" y1="40" x2="36" y2="40"/>
-            <circle cx="50" cy="16" r="2.5" fill="var(--rose-gold)" fill-opacity="0.3"/>
-            <circle cx="14" cy="46" r="2" fill="var(--rose-gold)" fill-opacity="0.3"/>
-          </svg>
-        </div>
-        <div class="topic-number">01</div>
-        <h3 class="topic-title">{topics[0].title}</h3>
-        <p class="topic-desc">{topics[0].description}</p>
-        <div class="topic-tags">
-          {topics[0].tags.map(tag => <span class="topic-tag">{tag}</span>)}
-        </div>
-      </article>
-
-      <!-- Card 2 — Medium -->
-      <article class="topic-card topic-medium" style={`--card-accent: ${colorMap[topics[1].color]}`}>
-        <div class="topic-illustration">
-          <!-- Line-art baby bottle icon -->
-          <svg width="52" height="52" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M24 10 L40 10 L40 16 L24 16 Z" fill="var(--rose-gold)" fill-opacity="0.15"/>
-            <path d="M22 16 L42 16 L42 52 Q42 58 36 58 L28 58 Q22 58 22 52 Z"/>
-            <line x1="26" y1="28" x2="38" y2="28"/>
-            <line x1="26" y1="34" x2="38" y2="34"/>
-            <line x1="26" y1="40" x2="38" y2="40"/>
-            <path d="M28 10 L28 6 Q28 4 30 4 L34 4 Q36 4 36 6 L36 10" fill="none"/>
-          </svg>
-        </div>
-        <div class="topic-number">02</div>
-        <h3 class="topic-title">{topics[1].title}</h3>
-        <p class="topic-desc">{topics[1].description}</p>
-        <div class="topic-tags">
-          {topics[1].tags.map(tag => <span class="topic-tag">{tag}</span>)}
-        </div>
-      </article>
-
-      <!-- Card 3 — Small -->
-      <article class="topic-card topic-small" style={`--card-accent: ${colorMap[topics[2].color]}`}>
-        <div class="topic-illustration">
-          <!-- Line-art coffee cup icon -->
-          <svg width="46" height="46" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M14 24 L14 46 Q14 52 20 52 L38 52 Q44 52 44 46 L44 24 Z" fill="var(--sage)" fill-opacity="0.15"/>
-            <path d="M44 28 L50 28 Q54 28 54 34 L54 38 Q54 44 50 44 L44 44"/>
-            <path d="M22 14 Q24 10 22 6" stroke-opacity="0.6"/>
-            <path d="M28 14 Q30 10 28 6" stroke-opacity="0.6"/>
-            <path d="M34 14 Q36 10 34 6" stroke-opacity="0.6"/>
-          </svg>
-        </div>
-        <div class="topic-number">03</div>
-        <h3 class="topic-title">{topics[2].title}</h3>
-        <p class="topic-desc">{topics[2].description}</p>
-        <div class="topic-tags">
-          {topics[2].tags.map(tag => <span class="topic-tag">{tag}</span>)}
-        </div>
-      </article>
+    <div class="topics-grid stagger">
+      {topics.map((t) => (
+        <a href={t.href} class="topic-card">
+          <span class="topic-line"></span>
+          <span class="topic-num">{t.num}</span>
+          <h3 class="topic-title">
+            <em>{t.name}</em><br />{t.sub}
+          </h3>
+          <p class="topic-desc">{t.desc}</p>
+          <div class="topic-meta">
+            <span class="topic-count">{t.count} chapters</span>
+            <span class="topic-arrow">→</span>
+          </div>
+        </a>
+      ))}
     </div>
   </div>
 </section>
 
 <style>
-  .topics {
-    padding: 6rem 2rem;
-    background: var(--cream);
-    position: relative;
-    overflow: hidden;
-  }
+  .section { padding: 6rem 2.5rem; position: relative; }
+  .section-inner { max-width: 1400px; margin: 0 auto; }
 
-  .topics-inner {
-    max-width: 1100px;
-    margin: 0 auto;
+  .section-head {
+    display: grid;
+    grid-template-columns: 200px 1fr 200px;
+    gap: 3rem;
+    align-items: end;
+    margin-bottom: 5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--border-soft);
   }
-
-  .topics-header {
-    margin-bottom: 3.5rem;
-  }
-
-  .section-label {
-    font-size: 0.72rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
+  .section-num {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1rem;
     color: var(--rose-gold);
-    margin-bottom: 1rem;
-    font-weight: 500;
   }
+  .section-num::before { content: '— '; color: var(--muted); }
 
-  .topics-heading {
-    font-size: clamp(2rem, 4vw, 2.8rem);
-    color: var(--text-primary);
+  .section-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-size: clamp(2.8rem, 6vw, 5rem);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    color: var(--ink);
   }
-
-  .topics-heading em {
+  .section-title em {
     font-style: italic;
     color: var(--rose-gold);
+    font-weight: 300;
   }
 
-  /* ─────────── Bento Grid ─────────── */
-  .topics-bento {
+  .section-meta {
+    text-align: right;
+    font-size: 0.62rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--muted);
+    line-height: 2;
+  }
+
+  /* Topic cards */
+  .topics-grid {
     display: grid;
-    grid-template-columns: 1.3fr 1fr 1fr;
-    grid-template-rows: auto;
-    gap: 1.2rem;
-    align-items: stretch;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
   }
-
   .topic-card {
-    background: var(--white);
-    border: 1px solid var(--border);
-    border-radius: 24px;
-    padding: 2.2rem;
     position: relative;
-    overflow: hidden;
-    transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s, border-color 0.35s, background 0.35s;
+    padding: 2.5rem 2rem 2rem;
+    border-top: 1px solid var(--border);
+    min-height: 340px;
     display: flex;
     flex-direction: column;
+    transition: all 0.5s cubic-bezier(.22,1,.36,1);
+    cursor: pointer;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
   }
-
-  /* Subtle background shape */
-  .topic-card::after {
-    content: '';
-    position: absolute;
-    top: -40%;
-    right: -30%;
-    width: 60%;
-    height: 120%;
-    background: radial-gradient(circle, var(--card-accent) 0%, transparent 60%);
-    opacity: 0.45;
-    pointer-events: none;
-    transition: opacity 0.4s, transform 0.6s ease;
-  }
+  .topic-card:hover { padding-top: 3rem; }
+  .topic-card:hover .topic-line { width: 100%; background: var(--deep-rose); }
 
   .topic-card::before {
     content: '';
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 4px;
-    background: var(--card-accent);
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(245, 200, 176, 0.3) 0%, transparent 60%);
+    filter: blur(30px);
+    pointer-events: none;
     opacity: 0;
-    transition: opacity 0.3s;
+    transition: opacity 0.5s;
+    transform: translate(-50%, -50%);
+    top: var(--my, 50%);
+    left: var(--mx, 50%);
   }
+  .topic-card:hover::before { opacity: 1; }
 
-  .topic-card:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 24px 56px rgba(58, 40, 32, 0.08);
-    border-color: var(--rose-gold);
-  }
-
-  .topic-card:hover::before {
-    opacity: 1;
-  }
-
-  .topic-card:hover::after {
-    opacity: 0.7;
-    transform: scale(1.15) rotate(12deg);
-  }
-
-  /* Size variants — small margins to create asymmetry */
-  .topic-large {
-    margin-top: 0;
-  }
-
-  .topic-medium {
-    margin-top: 2rem;
-  }
-
-  .topic-small {
-    margin-top: 4rem;
-  }
-
-  .topic-illustration {
-    color: var(--text-primary);
-    margin-bottom: 1.4rem;
-    opacity: 0.9;
-    position: relative;
-    z-index: 1;
-  }
-
-  .topic-number {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 4.2rem;
-    font-weight: 300;
-    color: var(--card-accent);
-    line-height: 1;
+  .topic-line {
     position: absolute;
-    top: 1.6rem;
-    right: 1.8rem;
-    opacity: 0.55;
-    z-index: 0;
+    top: -1px; left: 0;
+    width: 24px;
+    height: 1px;
+    background: var(--rose-gold);
+    transition: all 0.5s cubic-bezier(.22,1,.36,1);
   }
-
-  .topic-title {
-    font-size: 1.3rem;
-    color: var(--text-primary);
-    margin-bottom: 0.9rem;
+  .topic-num {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 0.95rem;
+    color: var(--muted);
+    margin-bottom: 1.5rem;
     position: relative;
     z-index: 1;
   }
-
+  .topic-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-size: 2.6rem;
+    color: var(--ink);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    margin-bottom: 1.5rem;
+    position: relative;
+    z-index: 1;
+  }
+  .topic-title em {
+    font-style: italic;
+    color: var(--rose-gold);
+  }
   .topic-desc {
-    font-size: 0.9rem;
-    color: var(--text-secondary);
+    font-size: 0.88rem;
+    color: var(--ink-soft);
     line-height: 1.8;
     font-weight: 300;
-    margin-bottom: 1.4rem;
+    margin-bottom: auto;
+    max-width: 320px;
     position: relative;
     z-index: 1;
-    flex-grow: 1;
   }
-
-  .topic-tags {
+  .topic-meta {
+    margin-top: 2rem;
     display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-soft);
     position: relative;
     z-index: 1;
   }
-
-  .topic-tag {
-    font-size: 0.68rem;
-    letter-spacing: 0.06em;
-    color: var(--text-secondary);
-    background: var(--cream);
-    padding: 0.3rem 0.75rem;
-    border-radius: 100px;
-    border: 1px solid var(--border);
-    transition: background 0.2s, border-color 0.2s;
+  .topic-count {
+    font-size: 0.62rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
   }
-
-  .topic-card:hover .topic-tag {
-    background: var(--white);
-    border-color: var(--rose-gold);
+  .topic-arrow {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.6rem;
+    color: var(--ink);
+    transition: transform 0.3s;
   }
+  .topic-card:hover .topic-arrow { transform: translateX(8px); color: var(--deep-rose); }
 
   @media (max-width: 960px) {
-    .topics-bento {
-      grid-template-columns: 1fr 1fr;
-    }
-
-    .topic-large {
-      grid-column: 1 / -1;
-    }
-
-    .topic-medium, .topic-small {
-      margin-top: 0;
-    }
-  }
-
-  @media (max-width: 620px) {
-    .topics-bento {
-      grid-template-columns: 1fr;
-    }
-
-    .topic-large {
-      grid-column: auto;
-    }
-
-    .topic-number {
-      font-size: 3.2rem;
-    }
+    .section { padding: 4rem 1.5rem; }
+    .section-head { grid-template-columns: 1fr; gap: 1.5rem; margin-bottom: 3rem; }
+    .section-meta { text-align: left; }
+    .topics-grid { grid-template-columns: 1fr; gap: 0; }
+    .topic-card { min-height: auto; }
   }
 </style>
+
+<script>
+  // Topic card hover spotlight
+  document.querySelectorAll('.topic-card').forEach((card) => {
+    card.addEventListener('mousemove', (e) => {
+      const rect = (card as HTMLElement).getBoundingClientRect();
+      (card as HTMLElement).style.setProperty('--mx', ((e as MouseEvent).clientX - rect.left) + 'px');
+      (card as HTMLElement).style.setProperty('--my', ((e as MouseEvent).clientY - rect.top) + 'px');
+    });
+  });
+</script>
