@@ -3,9 +3,8 @@ const navLinks = [
   { label: 'Index', href: '#topics' },
   { label: 'Beauty', href: '/categories/' },
   { label: 'Motherhood', href: '/categories/' },
-  { label: 'Lifestyle', href: '/categories/' },
   { label: 'Journal', href: '/posts/' },
-  { label: 'About', href: '#about' },
+  { label: 'Find Your Glow', href: '/find-your-glow/', highlight: true },
 ];
 ---
 
@@ -19,7 +18,12 @@ const navLinks = [
     <nav>
       <ul class="nav-links">
         {navLinks.map((link) => (
-          <li><a href={link.href}>{link.label}</a></li>
+          <li>
+            <a href={link.href} class={link.highlight ? 'nav-highlight' : ''}>
+              {link.highlight && <span class="nav-dot" aria-hidden="true"></span>}
+              {link.label}
+            </a>
+          </li>
         ))}
       </ul>
     </nav>
@@ -130,9 +134,32 @@ const navLinks = [
     font-weight: 500;
     transition: color 0.3s;
     position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
   }
 
   .nav-links a:hover { color: var(--deep-rose); }
+
+  /* Highlighted "Find Your Glow" nav item */
+  .nav-highlight {
+    color: var(--ink) !important;
+    font-weight: 600 !important;
+  }
+  .nav-highlight:hover { color: var(--deep-rose) !important; }
+
+  .nav-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--rose-gold);
+    flex-shrink: 0;
+    animation: navDotPulse 2.5s ease-in-out infinite;
+  }
+  @keyframes navDotPulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(0.8); }
+  }
 
   .header-right {
     display: flex;
