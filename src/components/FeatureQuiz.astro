@@ -1,0 +1,355 @@
+---
+---
+
+<section class="feature-quiz-section reveal">
+  <div class="feature-quiz-card">
+    <!-- Aurora background -->
+    <div class="fq-aurora">
+      <div class="fq-a1"></div>
+      <div class="fq-a2"></div>
+      <div class="fq-a3"></div>
+    </div>
+    <div class="fq-grain"></div>
+
+    <!-- Corner accents -->
+    <div class="corner-accent corner-tl"></div>
+    <div class="corner-accent corner-tr"></div>
+    <div class="corner-accent corner-bl"></div>
+    <div class="corner-accent corner-br"></div>
+
+    <!-- Folio mark -->
+    <div class="fq-folio">
+      <span class="fq-folio-num">III</span>
+      <span>·</span>
+      <span>Quiz</span>
+    </div>
+
+    <div class="fq-content">
+      <div class="fq-header">
+        <span class="fq-label">— A special feature</span>
+      </div>
+
+      <div class="fq-body">
+        <h2 class="fq-title">Find <em>Your Glow.</em></h2>
+        <p class="fq-sub">
+          A two-minute skincare quiz. Tell me about your skin, your concerns,
+          and a little about your life — and I'll write a routine that's
+          actually <em>yours</em>.
+        </p>
+
+        <div class="fq-meta">
+          <div class="fq-meta-item">
+            <span class="fq-meta-num">2</span>
+            <span class="fq-meta-label">Minutes</span>
+          </div>
+          <div class="fq-meta-divider"></div>
+          <div class="fq-meta-item">
+            <span class="fq-meta-num">12</span>
+            <span class="fq-meta-label">Questions</span>
+          </div>
+          <div class="fq-meta-divider"></div>
+          <div class="fq-meta-item">
+            <span class="fq-meta-num">∞</span>
+            <span class="fq-meta-label">Outcomes</span>
+          </div>
+          <div class="fq-meta-divider"></div>
+          <div class="fq-meta-item">
+            <span class="fq-meta-num">0</span>
+            <span class="fq-meta-label">Cost</span>
+          </div>
+        </div>
+
+        <div class="fq-actions">
+          <a href="/find-your-glow/" class="fq-btn">
+            Take the quiz
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </a>
+          <span class="fq-side-note">Free · Personalised · No sign-up</span>
+        </div>
+      </div>
+
+      <div class="fq-footer">
+        <span class="fq-footer-meta">Served from Kuala Lumpur · Since 2024</span>
+        <span class="fq-footer-meta">Pregnancy-safe routines included</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .feature-quiz-section {
+    padding: 6rem 2.5rem;
+    background: var(--ivory);
+    position: relative;
+  }
+
+  .feature-quiz-card {
+    max-width: 1400px;
+    margin: 0 auto;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+    min-height: 480px;
+    box-shadow: 0 30px 60px rgba(42, 26, 24, 0.1), 0 0 0 1px rgba(42, 26, 24, 0.04);
+    background: var(--cream);
+  }
+
+  /* Aurora (different palette from hero — more peach/sage/warm) */
+  .fq-aurora {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    filter: saturate(1.05);
+  }
+  .fq-a1, .fq-a2, .fq-a3 {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(80px);
+    will-change: transform;
+  }
+  .fq-a1 {
+    width: 70%; height: 100%;
+    background: radial-gradient(circle, var(--peach) 0%, transparent 60%);
+    top: -20%; left: -10%;
+    animation: fqFloat1 22s ease-in-out infinite;
+    opacity: 0.8;
+  }
+  .fq-a2 {
+    width: 65%; height: 80%;
+    background: radial-gradient(circle, var(--blush) 0%, transparent 60%);
+    bottom: -20%; right: -15%;
+    animation: fqFloat2 26s ease-in-out infinite;
+  }
+  .fq-a3 {
+    width: 50%; height: 60%;
+    background: radial-gradient(circle, var(--sage-light) 0%, transparent 60%);
+    top: 30%; left: 40%;
+    animation: fqFloat1 20s ease-in-out infinite reverse;
+    opacity: 0.55;
+  }
+  @keyframes fqFloat1 {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    50% { transform: translate(40px, -30px) scale(1.1); }
+  }
+  @keyframes fqFloat2 {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    50% { transform: translate(-40px, 40px) scale(1.15); }
+  }
+
+  /* Grain */
+  .fq-grain {
+    position: absolute; inset: 0;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/><feColorMatrix values='0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 0.12 0'/></filter><rect width='200' height='200' filter='url(%23n)'/></svg>");
+    mix-blend-mode: multiply;
+    opacity: 0.55;
+    pointer-events: none;
+  }
+
+  /* Corner brackets */
+  .corner-accent {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    z-index: 3;
+    opacity: 0.5;
+  }
+  .corner-accent::before, .corner-accent::after {
+    content: '';
+    position: absolute;
+    background: var(--ink);
+  }
+  .corner-accent::before { width: 100%; height: 1px; }
+  .corner-accent::after { width: 1px; height: 100%; }
+  .corner-tl { top: 1rem; left: 1rem; }
+  .corner-tl::before, .corner-tl::after { top: 0; left: 0; }
+  .corner-tr { top: 1rem; right: 1rem; }
+  .corner-tr::before, .corner-tr::after { top: 0; right: 0; }
+  .corner-bl { bottom: 1rem; left: 1rem; }
+  .corner-bl::before, .corner-bl::after { bottom: 0; left: 0; }
+  .corner-br { bottom: 1rem; right: 1rem; }
+  .corner-br::before, .corner-br::after { bottom: 0; right: 0; }
+
+  /* Folio */
+  .fq-folio {
+    position: absolute;
+    top: 1.8rem;
+    right: 2rem;
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    z-index: 3;
+    opacity: 0.7;
+  }
+  .fq-folio-num { color: var(--rose-gold); }
+
+  /* Content */
+  .fq-content {
+    position: relative;
+    z-index: 2;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 480px;
+  }
+
+  .fq-header {
+    padding-top: 0.5rem;
+  }
+  .fq-label {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1rem;
+    color: var(--rose-gold);
+    letter-spacing: 0;
+  }
+
+  .fq-body {
+    padding: 2rem 0;
+    max-width: 900px;
+  }
+
+  .fq-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-size: clamp(3.5rem, 8vw, 6.5rem);
+    line-height: 0.92;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    margin-bottom: 1.5rem;
+  }
+  .fq-title em {
+    font-style: italic;
+    color: var(--rose-gold);
+  }
+
+  .fq-sub {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: clamp(1.1rem, 1.6vw, 1.35rem);
+    color: var(--ink);
+    margin-bottom: 2.5rem;
+    max-width: 640px;
+    line-height: 1.5;
+  }
+  .fq-sub em {
+    font-style: normal;
+    color: var(--rose-gold);
+  }
+
+  /* Meta strip */
+  .fq-meta {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+    flex-wrap: wrap;
+  }
+  .fq-meta-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .fq-meta-num {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-size: 2rem;
+    color: var(--ink);
+    line-height: 1;
+    letter-spacing: -0.02em;
+  }
+  .fq-meta-label {
+    font-size: 0.6rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .fq-meta-divider {
+    width: 1px;
+    height: 30px;
+    background: rgba(42, 26, 24, 0.2);
+  }
+
+  /* Actions */
+  .fq-actions {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  .fq-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.8rem;
+    padding: 0.95rem 2rem;
+    background: var(--ink);
+    border: 1px solid var(--ink);
+    color: var(--cream);
+    border-radius: 100px;
+    font-size: 0.7rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    font-weight: 500;
+    transition: all 0.4s cubic-bezier(.22,1,.36,1);
+    font-family: inherit;
+    cursor: pointer;
+  }
+  .fq-btn:hover {
+    background: var(--plum);
+    border-color: var(--plum);
+    transform: translateY(-2px);
+    box-shadow: 0 14px 28px rgba(90, 32, 48, 0.25);
+  }
+  .fq-btn svg { transition: transform 0.3s; }
+  .fq-btn:hover svg { transform: translateX(4px); }
+
+  .fq-side-note {
+    font-size: 0.62rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 500;
+  }
+
+  /* Footer */
+  .fq-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid rgba(42, 26, 24, 0.08);
+    padding-top: 1.4rem;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+  }
+  .fq-footer-meta {
+    font-size: 0.6rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: rgba(42, 26, 24, 0.55);
+    font-weight: 500;
+  }
+
+  @media (max-width: 960px) {
+    .feature-quiz-section { padding: 4rem 1.5rem; }
+    .fq-content { padding: 2rem 1.5rem; min-height: 420px; }
+    .fq-folio { top: 1.2rem; right: 1.2rem; font-size: 0.7rem; }
+    .fq-meta { gap: 1rem; }
+    .fq-meta-num { font-size: 1.6rem; }
+    .fq-meta-divider { height: 24px; }
+    .fq-actions { gap: 1rem; }
+    .fq-footer { flex-direction: column; align-items: flex-start; }
+    .corner-accent { width: 14px; height: 14px; }
+  }
+  @media (max-width: 560px) {
+    .fq-meta-divider { display: none; }
+  }
+</style>
