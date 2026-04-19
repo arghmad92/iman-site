@@ -276,7 +276,7 @@
   .fq-meta-divider {
     width: 1px;
     height: 30px;
-    background: rgba(42, 26, 24, 0.2);
+    background: var(--border);
   }
 
   /* Actions */
@@ -325,7 +325,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-top: 1px solid rgba(42, 26, 24, 0.08);
+    border-top: 1px solid var(--border-soft);
     padding-top: 1.4rem;
     flex-wrap: wrap;
     gap: 0.8rem;
@@ -334,8 +334,30 @@
     font-size: 0.6rem;
     letter-spacing: 0.28em;
     text-transform: uppercase;
-    color: rgba(42, 26, 24, 0.55);
+    color: var(--muted);
     font-weight: 500;
+  }
+
+  /* ─── Dark mode: visible aurora ─── */
+  :global([data-theme="dark"]) .feature-quiz-card {
+    background: #1f1814;
+  }
+  :global([data-theme="dark"]) .fq-a1 {
+    background: radial-gradient(circle, rgba(224, 168, 144, 0.32) 0%, transparent 60%);
+  }
+  :global([data-theme="dark"]) .fq-a2 {
+    background: radial-gradient(circle, rgba(240, 168, 184, 0.28) 0%, transparent 60%);
+  }
+  :global([data-theme="dark"]) .fq-a3 {
+    background: radial-gradient(circle, rgba(154, 171, 146, 0.25) 0%, transparent 60%);
+  }
+  :global([data-theme="dark"]) .fq-grain {
+    mix-blend-mode: overlay;
+    opacity: 0.35;
+  }
+  :global([data-theme="dark"]) .corner-accent::before,
+  :global([data-theme="dark"]) .corner-accent::after {
+    background: var(--ink);
   }
 
   @media (max-width: 960px) {

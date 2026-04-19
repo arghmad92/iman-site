@@ -67,8 +67,8 @@ const navLinks = [
     position: fixed;
     top: 0; left: 0; right: 0;
     z-index: 100;
-    padding: 1.2rem 2.5rem;
-    background: rgba(253, 246, 240, 0.72);
+    padding: 1rem 2.5rem;
+    background: rgba(253, 246, 240, 0.78);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     border-bottom: 1px solid var(--border-soft);
@@ -256,15 +256,21 @@ const navLinks = [
   .mobile-link:hover { background: var(--petal); color: var(--ink); }
   .mobile-menu.open { display: flex; }
 
-  @media (max-width: 1000px) {
-    .nav-links { display: none; }
-  }
-  @media (max-width: 720px) {
-    .site-header { padding: 1rem 1.2rem; }
+  /* Unified mobile breakpoint — hamburger, no nav-links, no contact link */
+  @media (max-width: 900px) {
+    .site-header { padding: 0.8rem 1.2rem; }
+    nav ul.nav-links { display: none; }
     .greeting { display: none; }
     .menu-toggle { display: flex; }
+    .header-right { gap: 0.7rem; }
+  }
+  @media (max-width: 480px) {
+    .site-header { padding: 0.7rem 1rem; }
+    .logo-word { font-size: 1.1rem; }
     .logo-sub { display: none; }
     .logo-divider { display: none; }
+    .theme-toggle { width: 28px; height: 28px; }
+    .theme-toggle svg { width: 14px; height: 14px; }
   }
 </style>
 
