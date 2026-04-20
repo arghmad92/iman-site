@@ -361,17 +361,29 @@
   }
 
   @media (max-width: 960px) {
-    .feature-quiz-section { padding: 4rem 1.5rem; }
-    .fq-content { padding: 2rem 1.5rem; min-height: 420px; }
-    .fq-folio { top: 1.2rem; right: 1.2rem; font-size: 0.7rem; }
-    .fq-meta { gap: 1rem; }
+    .feature-quiz-section { padding: 4rem 1rem; }
+    .feature-quiz-card { border-radius: 16px; }
+    .fq-content { padding: 1.8rem 1.3rem; min-height: 420px; }
+    .fq-folio { top: 0.9rem; right: 0.9rem; font-size: 0.65rem; }
+    .fq-title { font-size: clamp(2.6rem, 10vw, 5rem); }
+    .fq-sub { font-size: 1rem; margin-bottom: 1.8rem; }
+    .fq-meta { gap: 1rem; margin-bottom: 1.8rem; }
     .fq-meta-num { font-size: 1.6rem; }
     .fq-meta-divider { height: 24px; }
     .fq-actions { gap: 1rem; }
-    .fq-footer { flex-direction: column; align-items: flex-start; }
-    .corner-accent { width: 14px; height: 14px; }
+    .fq-btn { padding: 0.8rem 1.4rem; font-size: 0.6rem; letter-spacing: 0.22em; }
+    .fq-footer { flex-direction: column; align-items: flex-start; gap: 0.4rem; padding-top: 1.1rem; }
+    .fq-footer-meta { font-size: 0.54rem; letter-spacing: 0.22em; }
+    .corner-accent { width: 12px; height: 12px; }
+    .corner-tl { top: 0.7rem; left: 0.7rem; }
+    .corner-tr { top: 0.7rem; right: 0.7rem; }
+    .corner-bl { bottom: 0.7rem; left: 0.7rem; }
+    .corner-br { bottom: 0.7rem; right: 0.7rem; }
   }
   @media (max-width: 560px) {
     .fq-meta-divider { display: none; }
+    .fq-meta { gap: 1.5rem 1.2rem; }
+    .fq-title { font-size: 2.6rem; }
+    .fq-content { padding: 1.3rem 1rem; }
   }
 </style>
