@@ -10,13 +10,13 @@ const profile = {
 };
 
 // ─── Socials ───
+const email = 'iman.abdrahim@yahoo.com';
 const socials = [
-  { label: 'Email',     href: 'mailto:iman.abdrahim@yahoo.com', icon: 'mail' },
   { label: 'Instagram', href: 'https://instagram.com/imanabdulrahim', icon: 'instagram' },
   { label: 'TikTok',    href: 'https://tiktok.com/@imanabdulrahim_', icon: 'tiktok' },
-  { label: 'YouTube',   href: 'https://youtube.com/@imanabdulrahim', icon: 'youtube' },
+  { label: 'YouTube',   href: 'https://www.youtube.com/channel/UClA-ICSNw8EmCAXZ5cUtO3w/about', icon: 'youtube' },
   { label: 'X',         href: 'https://x.com/imanabdulrahim', icon: 'x' },
-  { label: 'Facebook',  href: 'https://facebook.com/imanabdulrahim', icon: 'facebook' },
+  { label: 'Facebook',  href: 'https://www.facebook.com/imanabdulrahimblog/', icon: 'facebook' },
 ];
 
 // ─── Link rows ───
@@ -69,15 +69,11 @@ const links = [
         <p class="location">{profile.location}</p>
         <p class="bio">{profile.bio}</p>
 
+        <a class="email" href={`mailto:${email}`}>{email}</a>
+
         <div class="socials">
           {socials.map((s) => (
             <a href={s.href} class="social" aria-label={s.label} target="_blank" rel="noopener">
-              {s.icon === 'mail' && (
-                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-                  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-                  <polyline points="22,6 12,13 2,6"/>
-                </svg>
-              )}
               {s.icon === 'instagram' && (
                 <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
                   <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
@@ -202,6 +198,23 @@ const links = [
     line-height: 1.5;
     margin: 0 auto 1.8rem;
     max-width: 300px;
+  }
+
+  /* ── Email ── */
+  .email {
+    display: inline-block;
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    color: var(--ink);
+    text-decoration: none;
+    margin-bottom: 1.4rem;
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--border);
+    transition: color 0.3s, border-color 0.3s;
+  }
+  .email:hover {
+    color: var(--rose-gold);
+    border-color: var(--rose-gold);
   }
 
   /* ── Socials ── */
